@@ -1,0 +1,10 @@
+{
+ "slug": "sms-gateway",
+ "name": "Sms Gateway",
+ "description": "",
+ "icon": "",
+ "color": "",
+ "default_workdir": null,
+ "created_at": 1787323325,
+ "archived": false
+}

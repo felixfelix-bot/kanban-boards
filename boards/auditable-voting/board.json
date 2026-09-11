@@ -1,0 +1,10 @@
+{
+ "slug": "auditable-voting",
+ "name": "Auditable Voting Issue 12",
+ "description": "5 parallel features: multi-language, follow-up questions, paper ballots, OTP admission, bright UI merge",
+ "icon": "",
+ "color": "",
+ "default_workdir": null,
+ "created_at": 1782251197,
+ "archived": false
+}

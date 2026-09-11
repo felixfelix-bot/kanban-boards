@@ -1,0 +1,26 @@
+[
+ {
+  "id": "t_a19c83f0",
+  "title": "PR #14: fix(portal-2): remove 900ms auto-redirect, add persistent View Balance link",
+  "status": "done",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1783595349,
+  "started_at": 1783595421,
+  "completed_at": 1783597719,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_d710d530",
+  "title": "PR #15: fix(qr): hide camera scanner when mediaDevices API unavailable (HTTP captive portals)",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1783595380,
+  "started_at": 1783967716,
+  "completed_at": 1783967820,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ }
+]

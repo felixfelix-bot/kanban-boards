@@ -1,0 +1,62 @@
+[
+ {
+  "id": "t_857835c5",
+  "title": "BUZZ-01: Install Flutter + Android SDK on testserver2",
+  "status": "done",
+  "priority": 1,
+  "assignee": "worker-admin",
+  "created_at": 1786522017,
+  "started_at": 1786522032,
+  "completed_at": 1786522928,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a1a4a27c",
+  "title": "BUZZ-02: Clone Buzz repo + fetch Flutter dependencies",
+  "status": "done",
+  "priority": 2,
+  "assignee": "worker-admin",
+  "created_at": 1786522032,
+  "started_at": 1786522939,
+  "completed_at": 1786523527,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9476a649",
+  "title": "BUZZ-03: Build release APK",
+  "status": "done",
+  "priority": 3,
+  "assignee": "worker-admin",
+  "created_at": 1786522047,
+  "started_at": 1786523533,
+  "completed_at": 1786528713,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0b2f4200",
+  "title": "BUZZ-04: Transfer APK + verify",
+  "status": "done",
+  "priority": 4,
+  "assignee": "worker-admin",
+  "created_at": 1786522062,
+  "started_at": 1786528747,
+  "completed_at": 1786529287,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3c48b50c",
+  "title": "BUZZ-05: Inspector review \u2014 APK + integration verification",
+  "status": "done",
+  "priority": 5,
+  "assignee": "worker-inspector",
+  "created_at": 1786522075,
+  "started_at": 1786529319,
+  "completed_at": 1786530203,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ }
+]

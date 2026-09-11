@@ -1,0 +1,110 @@
+[
+ {
+  "id": "t_cd16beb6",
+  "title": "ISSUE 1: wallet.LoadWallet() blocks forever when called twice in the same process",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1783551067,
+  "started_at": 1783551112,
+  "completed_at": 1783555993,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_456a36d",
+  "title": "Bug: wallet.LoadWallet() blocks forever when called twice in same process",
+  "status": "todo",
+  "priority": 5,
+  "assignee": "manager",
+  "created_at": 1783557956,
+  "started_at": 1783818198,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "default"
+ },
+ {
+  "id": "t_b3b7e05e",
+  "title": "Issue #1: wallet.LoadWallet() blocks forever when called twice in the same process",
+  "status": "done",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1783595191,
+  "started_at": 1783595227,
+  "completed_at": 1783602495,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "gh-gonuts-tollgate-1",
+  "title": "wallet.LoadWallet() blocks forever when called twice in the same process",
+  "status": "done",
+  "priority": 2,
+  "assignee": "worker-tollgate",
+  "created_at": 1783622794,
+  "started_at": 1783902799,
+  "completed_at": 1783903070,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_gsync_gonuts19",
+  "title": "OUR PR #19: Melt serialize race fix \u2014 Amperstrand APPROVED, ready upstream",
+  "status": "done",
+  "priority": 2,
+  "assignee": "worker-base",
+  "created_at": "2026-08-18T13:35:28Z",
+  "started_at": 1787060158,
+  "completed_at": 1788965629,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0117cf9b",
+  "title": "Reproduce LoadWallet deadlock with a failing regression test",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789135677,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "default"
+ },
+ {
+  "id": "t_390025cd",
+  "title": "Audit wallet package for re-entrant lock misuse",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789135677,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "default"
+ },
+ {
+  "id": "t_1d74c7bb",
+  "title": "Fix LoadWallet deadlock on second in-process call",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789135677,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "default"
+ },
+ {
+  "id": "t_2ddcb879",
+  "title": "Verify fix under -race and close gonuts-tollgate issue #1",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789135677,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "default"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "slug": "ngit-ci-dashboard",
+ "name": "Ngit Ci Dashboard",
+ "description": "Static Nostr-native CI dashboard for ngit-ci, gitworkshop-inspired, Playwright-tested",
+ "icon": "",
+ "color": "",
+ "default_workdir": null,
+ "project_id": null,
+ "created_at": 1788973306,
+ "archived": false
+}

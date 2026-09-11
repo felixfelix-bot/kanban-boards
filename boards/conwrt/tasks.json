@@ -1,0 +1,50 @@
+[
+ {
+  "id": "t_071aacd3",
+  "title": "PR 28: add CF-WR632AX net4sats+tollgate recipes, pinned to 25.12.4",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1783550737,
+  "started_at": 1783550747,
+  "completed_at": 1783555751,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fabdb617",
+  "title": "PR 1: fix(flows): use BusyBox 'passwd root' instead of unavailable 'chpasswd'",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1783550764,
+  "started_at": 1783550808,
+  "completed_at": 1783552461,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_30908bd9",
+  "title": "PR #28: feat(wizard): add CF-WR632AX net4sats+tollgate recipes, pinned to 25.12.4",
+  "status": "done",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1783594124,
+  "started_at": 1783594160,
+  "completed_at": 1783602147,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_67cb8640",
+  "title": "PR #1: fix(flows): use BusyBox 'passwd root' instead of unavailable 'chpasswd'",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1783594197,
+  "started_at": 1783594221,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ }
+]

@@ -1,0 +1,10 @@
+{
+ "slug": "microfips",
+ "name": "Microfips",
+ "description": "microFIPS: Hardened standalone MCU FIPS implementation (ESP32 + STM32). Plan: ~/plans/microfips-master-plan.md",
+ "icon": "",
+ "color": "",
+ "default_workdir": null,
+ "created_at": 1783180834,
+ "archived": false
+}

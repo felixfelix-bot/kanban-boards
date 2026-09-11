@@ -1,0 +1,62 @@
+[
+ {
+  "id": "github:pr:net4sats-wizard-go:6",
+  "title": "\ud83d\ude80 OUR PR: net4sats/net4sats-wizard-go#6 - fix: v0.3.6 field bugs \u2014 empty-pw auth, opkg/apk, scan radios, dual-STA guard, laptop-side download",
+  "status": "backlog",
+  "priority": 0,
+  "assignee": null,
+  "created_at": 1787261748,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_23d4f2b4",
+  "title": "restriction-test",
+  "status": "archived",
+  "priority": 0,
+  "assignee": "worker-wizard",
+  "created_at": 1788949154,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7981b61b",
+  "title": "Phase 1: Wizard auto-detect router arch (detectArch + selectPkgURL)",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-wizard",
+  "created_at": 1788949193,
+  "started_at": 1788949196,
+  "completed_at": 1788952679,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_c79a222f",
+  "title": "Phase 2: Feed publish per-arch tollgate-wrt (aarch64_cortex-a53 + stable URLs)",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-wizard",
+  "created_at": 1788949207,
+  "started_at": 1788952709,
+  "completed_at": 1788963021,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_bd9c6266",
+  "title": "Phase 3: Wire wizard to feed per-arch URL + E2E on bench GL-MT6000",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-wizard",
+  "created_at": 1788949222,
+  "started_at": 1788963030,
+  "completed_at": 1788975927,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ }
+]

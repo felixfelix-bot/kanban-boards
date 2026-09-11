@@ -1,0 +1,11 @@
+{
+ "slug": "ngit-ci",
+ "name": "ngit-ci tollgate CI",
+ "description": "Run tollgate-module-basic-go test CI on Nostr CI (ngit-ci) self-hosted on DQ05, without breaking GitHub CI",
+ "icon": "\ud83d\udd01",
+ "color": "#4a9",
+ "default_workdir": null,
+ "project_id": null,
+ "created_at": 1788956498,
+ "archived": false
+}
