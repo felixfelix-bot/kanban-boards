@@ -914,7 +914,7 @@
  {
   "id": "t_bb1dec71",
   "title": "Review PR #1300: ci(ngit): run CI on Nostr via .ngit/act/workflows",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789133215,
@@ -926,7 +926,7 @@
  {
   "id": "t_e1b0e374",
   "title": "Review PR #1294: fix(orders): remaining review items for #1226 (production-valid auction fixture, claim authority, griefed phase)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789133216,
