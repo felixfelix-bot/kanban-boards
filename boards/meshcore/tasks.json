@@ -614,7 +614,7 @@
  {
   "id": "t_87ecb512",
   "title": "Search kanban records for human-gate board decision outcome",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339850,
@@ -626,7 +626,7 @@
  {
   "id": "t_9e8ab2db",
   "title": "Search git history and design notes for human-gate board outcome",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339850,

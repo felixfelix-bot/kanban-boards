@@ -1670,7 +1670,7 @@
  {
   "id": "t_5a9faa3d",
   "title": "Draft review of PlebeianApp/market PR #1290 (NIP-46 signer)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789335847,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_31772cd3",
   "title": "Review PR #1252 diff and draft findings (applesauce-signers)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789335892,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_30c97be8",
   "title": "Fetch PR #1312 diff + metadata bundle for review",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_4a585063",
   "title": "Fetch PR #1313 diff and draft the review comment",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789336098,
