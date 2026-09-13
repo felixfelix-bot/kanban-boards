@@ -331,6 +331,14 @@
   "repo": "balloon",
   "run_id": "dq05-1789333090"
  },
+ "e80-bench:t_282d1768": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789333682.3623807,
+  "ts": 1789333549.0407088,
+  "repo": "e80-bench",
+  "run_id": "dq05-1789333616"
+ },
  "tollgate:t_fdd603ef": {
   "node": "cobrador",
   "status": "claimed",
@@ -484,12 +492,5 @@
   "ts": 1789333324.988604,
   "repo": "e80-bench",
   "run_id": "dq05-1789333397"
- },
- "e80-bench:t_282d1768": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789333549.0407088,
-  "ts": 1789333549.0407088,
-  "repo": "e80-bench"
  }
 }
