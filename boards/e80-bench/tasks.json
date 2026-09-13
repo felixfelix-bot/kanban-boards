@@ -1202,7 +1202,7 @@
  {
   "id": "t_6eb32c6d",
   "title": "GO mode: source session_id from ARMED, name logs s<sid>-go<epoch>",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789333099,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_1e462ff7",
   "title": "range_check: join sessions on s<sid>-go<epoch> log dirs",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789333099,
