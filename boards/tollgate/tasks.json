@@ -1010,7 +1010,7 @@
  {
   "id": "t_fdd603ef",
   "title": "Make p1b_ab_test.py survive USB CDC re-enumeration across FLRC bitrate sweeps",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "nutband-main",
   "created_at": 1782681178,
