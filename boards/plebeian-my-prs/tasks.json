@@ -1346,7 +1346,7 @@
  {
   "id": "t_4206b9fa",
   "title": "Force-with-lease push rebased market branch and verify remote SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "worker-base",
   "created_at": 1789334644,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_eba6a809",
   "title": "Consultant pass: vet PR #1271 readiness-predicate finding",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_7f98385d",
   "title": "Fix PR #1271: fail-closed Cloudflare preflight (TDD)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_5759ef16",
   "title": "Cold cross-family review of PR #1271 fix diff",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
