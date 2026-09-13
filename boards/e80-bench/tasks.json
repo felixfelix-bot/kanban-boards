@@ -1226,7 +1226,7 @@
  {
   "id": "t_3c09f212",
   "title": "Verify GO vs legacy modes, add docs, land atomic commit",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789333099,
@@ -1250,7 +1250,7 @@
  {
   "id": "t_401a08f3",
   "title": "Create atomic conventional commit: phase-1 code + ADR docs together",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,

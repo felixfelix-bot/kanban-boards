@@ -217,8 +217,8 @@
  },
  {
   "id": "t_79e987a1",
-  "title": "DASH-RB: render repo+branch per run and failure errors in ngit-ci-dashboard",
-  "status": "triage",
+  "title": "ngit-ci-dashboard: show repo+branch per run and error for failed runs",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-wizard",
   "created_at": 1789203103,
