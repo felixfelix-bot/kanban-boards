@@ -1238,7 +1238,7 @@
  {
   "id": "t_282d1768",
   "title": "Run Gate2 verification suite and confirm Gate2.5 verdict is APPROVE",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,

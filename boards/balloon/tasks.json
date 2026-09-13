@@ -1382,7 +1382,7 @@
  {
   "id": "t_c360db44",
   "title": "Recon tollgate PAY/ACK proto contract and existing specs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789332922,
