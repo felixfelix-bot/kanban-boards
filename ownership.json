@@ -492,5 +492,20 @@
   "ts": 1789333324.988604,
   "repo": "e80-bench",
   "run_id": "dq05-1789333397"
+ },
+ "meshcore:t_0ce45dbf": {
+  "node": "dq05",
+  "status": "running",
+  "updated": 1789334166.0184772,
+  "ts": 1789334097.0867743,
+  "repo": "meshcore",
+  "run_id": "dq05-1789334166"
+ },
+ "meshcore:t_f719b612": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789334098.7410653,
+  "ts": 1789334098.7410653,
+  "repo": "meshcore"
  }
 }

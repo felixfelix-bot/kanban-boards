@@ -1370,7 +1370,7 @@
  {
   "id": "t_5a2e928c",
   "title": "Verify C3+S3 builds, cold-review diff, update plan, push",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_8921818e",
   "title": "Create tollgate_payment_proto.h with TDD encode/decode tests",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332922,
