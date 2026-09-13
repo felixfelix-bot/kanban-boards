@@ -62,7 +62,7 @@
  {
   "id": "t_f08a9590",
   "title": "Preflight CF-WR632AX access and prove recovery path (serial/uci/failsafe)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789332951,
@@ -74,7 +74,7 @@
  {
   "id": "t_9d08b6c0",
   "title": "Off-device audit: lan_ip derivation, guard check, defects D1-D5, run checklist",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789332951,
@@ -86,7 +86,7 @@
  {
   "id": "t_0549107f",
   "title": "Run net4sats wizard recipe manually on live CF-WR632AX and capture evidence",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-community-networks-main",
   "created_at": 1789332951,

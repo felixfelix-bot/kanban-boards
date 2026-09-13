@@ -1322,7 +1322,7 @@
  {
   "id": "t_a0449076",
   "title": "Fix atomics: use portable-atomic in microfips-esp-common",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_f5986a6e",
   "title": "Add ESP32-C3 cfg variants to esp-transport config.rs",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_8f3856aa",
   "title": "Add esp-println logger init for ESP32-C3 build",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_ae917903",
   "title": "Add riscv32imc target runner/rustflags to .cargo/config.toml",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_5a2e928c",
   "title": "Verify C3+S3 builds, cold-review diff, update plan, push",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_c360db44",
   "title": "Recon tollgate PAY/ACK proto contract and existing specs",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789332922,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_8921818e",
   "title": "Create tollgate_payment_proto.h with TDD encode/decode tests",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332922,
