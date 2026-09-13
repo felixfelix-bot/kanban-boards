@@ -122,7 +122,7 @@
  {
   "id": "t_bff496fe",
   "title": "Derive deterministic lan_ip for the CF-WR632AX under test",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339296,
@@ -134,7 +134,7 @@
  {
   "id": "t_ceb48a91",
   "title": "Extract LAN-move + read-back blocks from wizard-bundle recipes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789339296,
