@@ -1345,8 +1345,8 @@
  },
  {
   "id": "t_4206b9fa",
-  "title": "Force-with-lease push rebased market branch and verify remote SHA",
-  "status": "triage",
+  "title": "Force-with-lease push rebased market branch to fork remote and verify remote SHA",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-base",
   "created_at": 1789334644,
@@ -1382,9 +1382,9 @@
  {
   "id": "t_eba6a809",
   "title": "Consultant pass: vet PR #1271 readiness-predicate finding",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789334836,
   "started_at": null,
   "completed_at": null,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_38f3dbd8",
   "title": "Re-request review on PR #1271 and update fix state",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1430,7 +1430,7 @@
  {
   "id": "t_6f57722a",
   "title": "Draft PR #1283 review: NDK\u2192applesauce signer seam + publish lanes",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789334871,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_21ab2862",
   "title": "Verify and classify PR #1232 findings 1-3 (server relay + OG cleanup)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789334929,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_13e33dca",
   "title": "Verify and classify PR #1232 CI/E2E findings 4, 5, 7, 9",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789334929,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_9737ef5b",
   "title": "Verify PR #1232 findings 6 and 8 (nostr boundary gate, PR description)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789334929,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_99000fdc",
   "title": "Collect PR #1232 reply evidence: comment IDs, SHAs, test names",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789335146,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_3dd86d27",
   "title": "Review PR #1306 diff at c20765e and draft the review comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335202,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_0d996e80",
   "title": "Review PR #1310 diff and produce draft comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335506,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_799f0cf3",
   "title": "Review PR #1311 diff and draft the review comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -1818,6 +1818,42 @@
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789336098,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a111a86d",
+  "title": "Extract readiness predicate + secrets at preview-deploy.yml:~126",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-pr-reviewer",
+  "created_at": 1789341394,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e36f50a5",
+  "title": "Trace downstream deploy/provision steps and required Cloudflare values",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-master",
+  "created_at": 1789341394,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_073cc318",
+  "title": "Decide finding validity and commit decision note to PR branch",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-pr-reviewer",
+  "created_at": 1789341394,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
