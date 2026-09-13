@@ -1670,7 +1670,7 @@
  {
   "id": "t_5a9faa3d",
   "title": "Draft review of PlebeianApp/market PR #1290 (NIP-46 signer)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789335847,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_31772cd3",
   "title": "Review PR #1252 diff and draft findings (applesauce-signers)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789335892,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_30c97be8",
   "title": "Fetch PR #1312 diff + metadata bundle for review",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_4a585063",
   "title": "Fetch PR #1313 diff and draft the review comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789336098,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_073cc318",
   "title": "Decide finding validity and commit decision note to PR branch",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_cd2385ac",
   "title": "Pin PR #1283 head SHA and capture full diff + file/line index",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_1c42dfe9",
   "title": "Finding 6: analyze io.ts vs new server relay path boundary",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341805,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_eadae14c",
   "title": "Finding 8: diff PR #1232 description against actual SSR implementation",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341805,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_6f8f95b1",
   "title": "Inventory PR #1232 inline comments and map the 5 known targets",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_95bb4aeb",
   "title": "Verify e2e.yml:148 revert and close out the 3 PR gates",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0240be0f",
   "title": "Collect PR #1232 top-level reviews and triage pushback/tension list",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
