@@ -1286,7 +1286,7 @@
  {
   "id": "t_b165236c",
   "title": "Implement GO-mode session_id from ARMED and log dir naming",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789339366,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_b6e39589",
   "title": "Pin frozen s<sid>-go<epoch> format for range_check join",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789339366,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_f623b10c",
   "title": "Add RED tests + fixtures for GO-mode and legacy range_check session dirs",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789339377,

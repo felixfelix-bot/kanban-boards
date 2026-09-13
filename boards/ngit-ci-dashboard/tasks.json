@@ -222,7 +222,7 @@
   "priority": 8,
   "assignee": "worker-wizard",
   "created_at": 1789203103,
-  "started_at": null,
+  "started_at": 1789339624,
   "completed_at": null,
   "branch_name": "wt/dash-repo-branch",
   "workspace_kind": "worktree"

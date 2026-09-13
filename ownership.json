@@ -447,6 +447,30 @@
   "repo": "balloon",
   "run_id": "dq05-1789338335"
  },
+ "conwrt:t_ceb48a91": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789339697.1422637,
+  "ts": 1789339462.74024,
+  "repo": "conwrt",
+  "run_id": "dq05-1789339624"
+ },
+ "conwrt:t_bff496fe": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789339699.183619,
+  "ts": 1789339464.585221,
+  "repo": "conwrt",
+  "run_id": "dq05-1789339626"
+ },
+ "balloon:t_e0d36614": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789339700.9233649,
+  "ts": 1789339466.3221714,
+  "repo": "balloon",
+  "run_id": "dq05-1789339628"
+ },
  "tollgate:t_fdd603ef": {
   "node": "cobrador",
   "status": "claimed",
@@ -675,55 +699,83 @@
  },
  "e80-bench:t_f623b10c": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789339534.7379339,
+  "status": "done",
+  "updated": 1789339611.426068,
   "ts": 1789339455.4695303,
   "repo": "e80-bench",
   "run_id": "dq05-1789339534"
  },
  "e80-bench:t_b6e39589": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789339536.5672472,
+  "status": "done",
+  "updated": 1789339613.0643456,
   "ts": 1789339457.2098699,
   "repo": "e80-bench",
   "run_id": "dq05-1789339536"
  },
  "e80-bench:t_b165236c": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789339538.3092897,
+  "status": "done",
+  "updated": 1789339614.692713,
   "ts": 1789339458.9494839,
   "repo": "e80-bench",
   "run_id": "dq05-1789339538"
  },
  "conwrt:t_ea83ba0a": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789339540.35617,
+  "status": "done",
+  "updated": 1789339616.3800714,
   "ts": 1789339460.9960403,
   "repo": "conwrt",
   "run_id": "dq05-1789339540"
  },
- "conwrt:t_ceb48a91": {
+ "meshcore:t_d6f14ee2": {
   "node": "dq05",
   "status": "claimed",
-  "updated": 1789339462.74024,
-  "ts": 1789339462.74024,
-  "repo": "conwrt"
+  "updated": 1789339915.797978,
+  "ts": 1789339915.797978,
+  "repo": "meshcore"
  },
- "conwrt:t_bff496fe": {
+ "meshcore:t_6ff087c6": {
   "node": "dq05",
   "status": "claimed",
-  "updated": 1789339464.585221,
-  "ts": 1789339464.585221,
-  "repo": "conwrt"
+  "updated": 1789339917.6073487,
+  "ts": 1789339917.6073487,
+  "repo": "meshcore"
  },
- "balloon:t_e0d36614": {
+ "meshcore:t_a2175c0c": {
   "node": "dq05",
   "status": "claimed",
-  "updated": 1789339466.3221714,
-  "ts": 1789339466.3221714,
-  "repo": "balloon"
+  "updated": 1789339919.489177,
+  "ts": 1789339919.489177,
+  "repo": "meshcore"
+ },
+ "meshcore:t_90b4c72a": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789339921.1022193,
+  "ts": 1789339921.1022193,
+  "repo": "meshcore"
+ },
+ "meshcore:t_7219ed8b": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789339922.9310374,
+  "ts": 1789339922.9310374,
+  "repo": "meshcore"
+ },
+ "meshcore:t_747e7d8f": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789339924.5691009,
+  "ts": 1789339924.5691009,
+  "repo": "meshcore"
+ },
+ "meshcore:t_08f4a23e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789339926.3061368,
+  "ts": 1789339926.3061368,
+  "repo": "meshcore"
  }
 }

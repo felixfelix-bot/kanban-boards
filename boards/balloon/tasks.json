@@ -1490,7 +1490,7 @@
  {
   "id": "t_e0d36614",
   "title": "Replace core atomics with portable-atomic in microfips-esp-common",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789339218,
