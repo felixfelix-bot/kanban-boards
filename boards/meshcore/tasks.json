@@ -278,7 +278,7 @@
  {
   "id": "t_f719b612",
   "title": "Verify board/firmware/serial preconditions and record LR2021 module ID",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789333877,
@@ -290,7 +290,7 @@
  {
   "id": "t_0ce45dbf",
   "title": "Verify chamber setpoint range and external frequency reference chain",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789333877,
@@ -338,7 +338,7 @@
  {
   "id": "t_08133971",
   "title": "Collect ground-truth escalation-route facts (cron, channel, block_kind)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334035,
@@ -350,7 +350,7 @@
  {
   "id": "t_aaf1cda6",
   "title": "Resolve human-gate board decision outcome and shadow-card status",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-stackstr",
   "created_at": 1789334035,
@@ -386,7 +386,7 @@
  {
   "id": "t_d6484f25",
   "title": "Extract cal parser contract from firmware with file:line citations",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,

@@ -1322,7 +1322,7 @@
  {
   "id": "t_a0449076",
   "title": "Fix atomics: use portable-atomic in microfips-esp-common",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_f5986a6e",
   "title": "Add ESP32-C3 cfg variants to esp-transport config.rs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_8f3856aa",
   "title": "Add esp-println logger init for ESP32-C3 build",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_ae917903",
   "title": "Add riscv32imc target runner/rustflags to .cargo/config.toml",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
