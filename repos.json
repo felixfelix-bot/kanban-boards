@@ -23,5 +23,11 @@
  "tollgate-captive-portal-site": "https://github.com/OpenTollGate/tollgate-captive-portal-site.git",
  "tollgate-rs": "https://github.com/OpenTollGate/tollgate-rs.git",
  "tunnelsats-startos": "https://github.com/Tunnelsats/tunnelsats-startos.git",
- "microfips": "https://github.com/c03rad0r/microfips.git"
+ "microfips": "https://github.com/c03rad0r/microfips.git",
+ "plebeian-pr-reviews": "https://github.com/felixfelix-bot/plebeian-pr-reviews.git",
+ "net4sats-mvp-v2": "https://github.com/felixfelix-bot/net4sats-mvp-v2.git",
+ "merchant-routing": "https://github.com/felixfelix-bot/merchant-routing.git",
+ "llm-routing": "https://github.com/felixfelix-bot/llm-routing.git",
+ "router-quality": "https://github.com/felixfelix-bot/router-quality.git",
+ "house-keeping": "https://github.com/felixfelix-bot/house-keeping.git"
 }

@@ -782,7 +782,7 @@
  {
   "id": "t_614db4de",
   "title": "A.2: ADR-018 PR1 \u2014 NUT-09 restore-from-mint",
-  "status": "scheduled",
+  "status": "todo",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1787840153,
@@ -1130,7 +1130,7 @@
  {
   "id": "t_40c8a59e",
   "title": "PR#1252 CI-green T2: fix order-detail seed->fetch race",
-  "status": "blocked",
+  "status": "archived",
   "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1788950084,
@@ -1142,7 +1142,7 @@
  {
   "id": "t_dcc4b765",
   "title": "PR#1252 CI-green T3: cold review order-detail fix",
-  "status": "todo",
+  "status": "archived",
   "priority": 1,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1788950112,
@@ -1154,7 +1154,7 @@
  {
   "id": "t_34ac127c",
   "title": "PR#1252 CI-green T4: push + verify green on remote CI",
-  "status": "blocked",
+  "status": "archived",
   "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1788950232,
@@ -1178,12 +1178,12 @@
  {
   "id": "t_6e8c6f71",
   "title": "Fix PR#1200 staging-relay readiness gate",
-  "status": "review",
+  "status": "done",
   "priority": 1,
-  "assignee": "worker-dq05",
+  "assignee": "worker-reviewer-kimi",
   "created_at": 1788957636,
   "started_at": 1788957708,
-  "completed_at": null,
+  "completed_at": 1789288925,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1202,12 +1202,12 @@
  {
   "id": "t_f8257a0c",
   "title": "Fix PR#1132 shipping-options",
-  "status": "review",
+  "status": "done",
   "priority": 1,
-  "assignee": "worker-dq05",
+  "assignee": "worker-reviewer-qwen",
   "created_at": 1788957659,
   "started_at": 1788960013,
-  "completed_at": null,
+  "completed_at": 1789288756,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1442,7 +1442,7 @@
  {
   "id": "t_4145f335",
   "title": "Fix PR#1283 CI-red: 3 failure groups (mock-pollution + auction-verdict/liveChat + e2e wallet-init)",
-  "status": "blocked",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789024937,

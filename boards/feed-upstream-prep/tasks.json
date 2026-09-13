@@ -122,12 +122,12 @@
  {
   "id": "t_2454e0b9",
   "title": "Phase 8/Layer2: Feed PR \u2014 restructure ci/upstream-prep + 7/7 CI green",
-  "status": "ready",
+  "status": "done",
   "priority": 95,
   "assignee": "worker-tollgate",
   "created_at": 1788882160,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789190842,
+  "completed_at": 1789280926,
   "branch_name": null,
   "workspace_kind": "dir"
  },
@@ -178,5 +178,41 @@
   "completed_at": null,
   "branch_name": "worker-tollgate/feed-ci-robust",
   "workspace_kind": "worktree"
+ },
+ {
+  "id": "t_6460da41",
+  "title": "FEED#10 CI-RED: our upstream package PR head 145e511b fails 4/7 checks (version identity + 3 SDK builds) and has no card on any board",
+  "status": "done",
+  "priority": 8,
+  "assignee": "worker-tollgate",
+  "created_at": 1789252354,
+  "started_at": 1789257794,
+  "completed_at": 1789260584,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_8b563000",
+  "title": "Docs: fold the two FEED#10 CI-path pitfalls into the openwrt-feed-development skill",
+  "status": "done",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789260565,
+  "started_at": 1789260600,
+  "completed_at": 1789260793,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e145af22",
+  "title": "Feed CI follow-up: land the validate-feed.yml hardening (bounded curl, hash-verify before extract, retry caps)",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1789280912,
+  "started_at": 1789281005,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]

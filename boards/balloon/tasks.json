@@ -338,7 +338,7 @@
  {
   "id": "t_f55c4dd2",
   "title": "ESP32-SPEED-3: Document speed test results + commit + push",
-  "status": "scheduled",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785189514,
@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "review",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1785914728,
@@ -578,7 +578,7 @@
  {
   "id": "t_999528b6",
   "title": "P6: Create tollgate_payment_proto.h + implement tollgate_send_pay CLI command",
-  "status": "review",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1785914921,

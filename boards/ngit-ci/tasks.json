@@ -166,5 +166,29 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_ecb9aeb0",
+  "title": "NGIT-CI-MERGE: tollgate-rs#11 + tollgate-nostr-daemon#2 (both CLEAN, 0 reviews, uncarded)",
+  "status": "done",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1789252356,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3b69bd3f",
+  "title": "NGIT-CI PARITY x2: hermes-orchestration#1 + merchant-routing-engine#2 (Nostr CI workflows, own repos)",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "worker-orchestration",
+  "created_at": 1789306074,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]

@@ -46,5 +46,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0cffa049",
+  "title": "HW-VERIFY conwrt#32: CF-WR632AX wizard recipes on live hardware (OpenWrt 25.12.4) \u2014 net4sats + tollgate",
+  "status": "triage",
+  "priority": 0,
+  "assignee": null,
+  "created_at": 1789183700,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
