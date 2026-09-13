@@ -614,7 +614,7 @@
  {
   "id": "t_87ecb512",
   "title": "Search kanban records for human-gate board decision outcome",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339850,

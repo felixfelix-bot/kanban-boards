@@ -537,27 +537,35 @@
  },
  "meshcore:t_60866874": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789340184.078456,
+  "status": "done",
+  "updated": 1789340260.5513883,
   "ts": 1789339929.9011068,
   "repo": "meshcore",
   "run_id": "dq05-1789340184"
  },
  "meshcore:t_de1259b2": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789340187.727491,
+  "status": "done",
+  "updated": 1789340264.2369962,
   "ts": 1789339933.378074,
   "repo": "meshcore",
   "run_id": "dq05-1789340187"
  },
  "meshcore:t_2e467fc7": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789340185.8960843,
+  "status": "done",
+  "updated": 1789340262.287391,
   "ts": 1789339931.634061,
   "repo": "meshcore",
   "run_id": "dq05-1789340185"
+ },
+ "meshcore:t_87ecb512": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789340339.6995637,
+  "ts": 1789340101.3152056,
+  "repo": "meshcore",
+  "run_id": "dq05-1789340273"
  },
  "tollgate:t_fdd603ef": {
   "node": "cobrador",
@@ -723,17 +731,10 @@
  },
  "meshcore:t_9e8ab2db": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789340189.7755864,
+  "status": "done",
+  "updated": 1789340266.0777402,
   "ts": 1789340099.4678206,
   "repo": "meshcore",
   "run_id": "dq05-1789340189"
- },
- "meshcore:t_87ecb512": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789340101.3152056,
-  "ts": 1789340101.3152056,
-  "repo": "meshcore"
  }
 }

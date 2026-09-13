@@ -1442,7 +1442,7 @@
  {
   "id": "t_4886e59b",
   "title": "Search repos and filesystem for existing tollgate PAY/ACK proto spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789337947,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_e417a54d",
   "title": "Enumerate app_task.cpp tollgate symbol call sites and sdkconfig guards",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789337947,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_a65f6c54",
   "title": "Document test_relay_pipeline.c mock proto and relay_types.h framing",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789337947,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_83f489ba",
   "title": "Write TOLLGATE_PROTO_CONTRACT.md from recon findings",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789337947,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_e0d36614",
   "title": "Replace core atomics with portable-atomic in microfips-esp-common",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789339218,
