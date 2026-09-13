@@ -1489,7 +1489,7 @@
  },
  {
   "id": "t_e0d36614",
-  "title": "Replace core atomics with portable-atomic in microfips-esp-common",
+  "title": "Swap core atomics for portable-atomic in microfips-esp-common",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-fips",
@@ -1562,7 +1562,7 @@
  {
   "id": "t_4196ae95",
   "title": "Write tollgate PAY/ACK spec findings report (normative vs stub)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,

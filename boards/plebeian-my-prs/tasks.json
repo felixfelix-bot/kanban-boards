@@ -2150,7 +2150,7 @@
  {
   "id": "t_72202176",
   "title": "Fetch PR #1313 diff and verify head SHA",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789343174,

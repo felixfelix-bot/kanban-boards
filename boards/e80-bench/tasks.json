@@ -998,7 +998,7 @@
  {
   "id": "t_aabd1170",
   "title": "Port 92cf11f range-split acceptance suite onto main and capture RED baseline",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-balloon",
   "created_at": 1789147776,
@@ -1046,7 +1046,7 @@
  {
   "id": "t_ed3d13ff",
   "title": "Write docs/ADR-range-sync-cvm.md capturing the phase-1 range-sync redesign",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789148009,
