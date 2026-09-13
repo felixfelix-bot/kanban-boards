@@ -1526,7 +1526,7 @@
  {
   "id": "t_7ff4a4a3",
   "title": "Search balloon-fresh repos for tollgate PAY/ACK spec or wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_fc0187b4",
   "title": "Grep ~/repos for tollgate PAY/ACK symbols and account for every one",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342382,
