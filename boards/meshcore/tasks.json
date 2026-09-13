@@ -265,8 +265,8 @@
  },
  {
   "id": "t_d48d7599",
-  "title": "Synthesize lag findings into SelfCal EMA time-constant recommendation",
-  "status": "triage",
+  "title": "Recommend SelfCal EMA time constant from lag + hysteresis findings (with open-loop limit note)",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789231168,
@@ -278,7 +278,7 @@
  {
   "id": "t_f719b612",
   "title": "Verify board/firmware/serial preconditions and record LR2021 module ID",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789333877,
@@ -290,7 +290,7 @@
  {
   "id": "t_0ce45dbf",
   "title": "Verify chamber setpoint range and external frequency reference chain",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789333877,
