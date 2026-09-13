@@ -1826,7 +1826,7 @@
  {
   "id": "t_a111a86d",
   "title": "Extract readiness predicate + secrets at preview-deploy.yml:~126",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e36f50a5",
   "title": "Trace downstream deploy/provision steps and required Cloudflare values",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341394,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_cd2385ac",
   "title": "Pin PR #1283 head SHA and capture full diff + file/line index",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_88eb0032",
   "title": "Verify PR #1232 finding 1: relay URL source + 503 fallback",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_a13a2bc8",
   "title": "Verify PR #1232 finding 3: ogMeta relay lookup concurrency cap",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789341628,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_1e36fd1a",
   "title": "Verify Finding 4: .github/workflows/e2e.yml:148 'should be reverted'",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789341664,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_1ff488bb",
   "title": "Verify Finding 5: product:price:currency in og-meta-tags cleanup matrix",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_5373c212",
   "title": "Verify Finding 7: PR gate coverage and required video/trace artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789341664,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_ee0bc1f6",
   "title": "Map Finding 9 (Franchovy top-level BLOCKER) to concrete inline items",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,

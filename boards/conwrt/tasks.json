@@ -158,7 +158,7 @@
  {
   "id": "t_ea83ba0a",
   "title": "Triage open defects D1-D5 with file:line and minimal fixes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789339296,
