@@ -1790,7 +1790,7 @@
  {
   "id": "t_9776a766",
   "title": "Verify approval gate and feature branch availability for nsyte upstream PR",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_654a9881",
   "title": "Enumerate LR2021 command parameter layouts from headers",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337368,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_2c4bfe64",
   "title": "Research LR2021 auto-TX vs TXContinuous semantics and errata",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337368,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_c6e51067",
   "title": "Add useBalancePolling hook for GET /balance (10s interval)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_dc077841",
   "title": "Write BalanceWidget Sass partial reusing existing design tokens",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
