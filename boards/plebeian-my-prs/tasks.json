@@ -1346,7 +1346,7 @@
  {
   "id": "t_4206b9fa",
   "title": "Force-with-lease push rebased market branch to fork remote and verify remote SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "worker-base",
   "created_at": 1789334644,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_7f98385d",
   "title": "Fix PR #1271 readiness predicate: fail-closed Cloudflare preflight (TDD)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_5759ef16",
   "title": "Cold cross-family review (glm-5.3) of PR #1271 readiness-predicate fix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_38f3dbd8",
   "title": "Re-request cross-family review on PlebeianApp/market PR #1271 and update fix state",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334836,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_3dd86d27",
   "title": "Review PR #1306 diff at c20765e and draft Felix-style comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335202,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_0d996e80",
   "title": "Draft review comment for PlebeianApp/market PR #1310 @ 5aecaea8",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335506,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_799f0cf3",
   "title": "Review PR #1311 diff at df1742f9 and draft the review comment (no posting)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_5a9faa3d",
   "title": "Draft review comment for market PR #1290 (NIP-46 signer, no post)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789335847,
