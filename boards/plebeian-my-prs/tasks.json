@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Read-only trace of ogMeta saturation/fallback await path (Q3, PR #1232 @2c8b398)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,

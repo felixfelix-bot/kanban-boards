@@ -2159,10 +2159,11 @@
  },
  "meshcore:t_d601da74": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357361.8367512,
+  "status": "running",
+  "updated": 1789372705.0271013,
   "ts": 1789357361.8367512,
-  "repo": "meshcore"
+  "repo": "meshcore",
+  "run_id": "dq05-1789372705"
  },
  "e80-bench:t_bcaa6c62": {
   "node": "dq05",
@@ -2968,6 +2969,13 @@
   "status": "claimed",
   "updated": 1789369923.2803843,
   "ts": 1789369923.2803843
+ },
+ "auditable-voting:t_e8560b0a": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789372907.535543,
+  "ts": 1789372907.535543,
+  "repo": "auditable-voting"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

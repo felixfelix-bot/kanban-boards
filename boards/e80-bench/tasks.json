@@ -2017,8 +2017,8 @@
  },
  {
   "id": "t_e0b80a67",
-  "title": "Implement tools/rx_armed_publisher.py to pass the task-0 RED tests",
-  "status": "triage",
+  "title": "Implement tools/rx_armed_publisher.py to pass its RED tests",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361695,
