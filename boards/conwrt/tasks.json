@@ -314,7 +314,7 @@
  {
   "id": "t_4b875db5",
   "title": "Extract verbatim D1-Dn defect table from issue32 runbook into defects-d1-d5.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355446,
@@ -398,7 +398,7 @@
  {
   "id": "t_57592c2c",
   "title": "Triage defect D1: file:line, impact, blocking verdict, fix",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -410,7 +410,7 @@
  {
   "id": "t_011fa8da",
   "title": "Triage defect D2: file:line, impact, blocking verdict, fix",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -494,7 +494,7 @@
  {
   "id": "t_c52fd334",
   "title": "Extract verbatim LAN-move + read-back command blocks from net4sats md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
@@ -506,7 +506,7 @@
  {
   "id": "t_f2e5e4ed",
   "title": "Re-derive recipe key path and derived-ipv4 binding from wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789361675,

@@ -674,7 +674,7 @@
  {
   "id": "t_db8ffdd6",
   "title": "Capture calshow die-temp soak evidence at +25, 0, -20, -40 C",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -698,7 +698,7 @@
  {
   "id": "t_c9a96896",
   "title": "Compile per-setpoint PASS/FAIL report and issue chamber PASS/STOP verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -758,7 +758,7 @@
  {
   "id": "t_fab2c1d2",
   "title": "Compute minimum wall-clock duration for 4-soak, 2-ramp freezing qual run",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -817,8 +817,8 @@
  },
  {
   "id": "t_cc323204",
-  "title": "Assemble final cal deliverable and cross-check fit vs parser",
-  "status": "triage",
+  "title": "Assemble final cal deliverable and reconcile fit vs parser",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344770,
@@ -1405,8 +1405,8 @@
  },
  {
   "id": "t_6becdbdf",
-  "title": "Capture verbatim serial CLI evidence from SkyMapper Board A",
-  "status": "triage",
+  "title": "Capture verbatim serial CLI evidence + firmware build identity from SkyMapper Board A",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files in bench/repo tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,

@@ -1981,7 +1981,7 @@
  },
  {
   "id": "t_7fce5542",
-  "title": "Verbatim line-numbered transcript of relay_types.h relay-type enum + PASS/FAIL on 0x02 and 0x03",
+  "title": "Read-only transcript of relay_types.h enum + PASS/FAIL on 0x02 and 0x03",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Transcribe relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,

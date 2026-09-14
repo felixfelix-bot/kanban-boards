@@ -2090,7 +2090,7 @@
  {
   "id": "t_1eefa8f1",
   "title": "Verify p1b_ab_test BR sweep on real ESP32 hardware and write /tmp/p1b_ab_acceptance_report.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,

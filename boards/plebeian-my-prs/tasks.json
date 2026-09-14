@@ -1874,7 +1874,7 @@
  {
   "id": "t_9ded96bd",
   "title": "Review signer seam (ADR-0008) in PR #1283 diff",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789341600,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_b2a13038",
   "title": "Review publish lanes + retry/dup paths (ADR-0002) in PR #1283",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-applesauce-foundation",
   "created_at": 1789341600,

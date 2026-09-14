@@ -1826,7 +1826,7 @@
  {
   "id": "t_123c4431",
   "title": "Recon boundary-mode test harness, fixtures, and test command (e80-stm32-bench)",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_e0b80a67",
   "title": "Implement rx_armed_publisher session_id, ARMED payload, env keys",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361695,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_88b2e58f",
   "title": "Implement NIP-59 gift-wrap envelope builder with plaintext-leak guard",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361711,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_120db4f6",
   "title": "Implement relay failover publisher with exact relay set and idempotency",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361711,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_9db98e6d",
   "title": "Load signer key material from env with client!=server assertion",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789361711,
