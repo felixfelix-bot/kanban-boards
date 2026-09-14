@@ -626,7 +626,7 @@
  {
   "id": "t_cc35ecdf",
   "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json and report any in-bundle binding",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,
@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move ipv4 binding in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
