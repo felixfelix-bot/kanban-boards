@@ -2257,8 +2257,8 @@
  },
  {
   "id": "t_d3af1dad",
-  "title": "Inventory candidate ramp log files in bench/repo tree",
-  "status": "triage",
+  "title": "Inventory candidate ramp log files in repo tree (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Locate design-review-notes worktree and publish scope manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_564700f5",
   "title": "Recon tollgate-rs non-design-review-notes branches and tollgate-* repos",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_f812962d",
   "title": "Recon esp-miner, esp32-*, fips, sx1280 repos for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_0e3f50d9",
   "title": "Recon market, nutband, nostr-glasses docs for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_ae563d14",
   "title": "Recon all remaining workspace repos for gate/shadow-card mentions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
