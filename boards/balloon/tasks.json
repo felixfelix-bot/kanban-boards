@@ -1778,7 +1778,7 @@
  {
   "id": "t_982aa0e1",
   "title": "Recon: document test_relay_pipeline.c mock proto contract into docs/recon/tollgate_proto_test_mock.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
