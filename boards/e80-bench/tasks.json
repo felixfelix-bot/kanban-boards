@@ -1418,7 +1418,7 @@
  {
   "id": "t_0e74bbf4",
   "title": "Add RED tests pinning GO-mode ARMED session_id and s<id>-go<epoch> log dir naming",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_b38213a4",
   "title": "Write failing Gate1 RED tests for RX ARMED gift-wrap publisher",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
