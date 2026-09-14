@@ -1526,7 +1526,7 @@
  {
   "id": "t_7708c05b",
   "title": "Scaffold TX listener package, ADR constants, and test harness",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789344375,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_bd09660b",
   "title": "Reproduce 23 RED failures and build bucketed inventory",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789348639,

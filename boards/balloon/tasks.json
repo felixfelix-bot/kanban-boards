@@ -1645,7 +1645,7 @@
  },
  {
   "id": "t_c9ef5c05",
-  "title": "Grep ~/repos for tollgate_msg_hdr_t and tollgate_ack_payload_t",
+  "title": "Recon: grep ~/repos for tollgate_msg_hdr_t and tollgate_ack_payload_t",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
@@ -1657,7 +1657,7 @@
  },
  {
   "id": "t_d8fef369",
-  "title": "Grep ~/repos for TG_MSG_PAY and TG_MSG_ACK opcodes/macros",
+  "title": "Recon ~/repos for TG_MSG_PAY and TG_MSG_ACK (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
@@ -1669,7 +1669,7 @@
  },
  {
   "id": "t_f3a74423",
-  "title": "Grep ~/repos for tollgate_proto_encode and tollgate_proto_decode",
+  "title": "Recon: grep ~/repos for tollgate_proto_encode and tollgate_proto_decode",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
@@ -1693,7 +1693,7 @@
  },
  {
   "id": "t_3e8ba189",
-  "title": "Audit esp32-tollgate for normative PAY/ACK spec",
+  "title": "Audit esp32-tollgate repo for normative PAY/ACK wire spec (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
@@ -1705,7 +1705,7 @@
  },
  {
   "id": "t_f9df944a",
-  "title": "Audit tollgate-module-basic-go for normative PAY/ACK spec",
+  "title": "Read-only audit of tollgate-module-basic-go for a normative PAY/ACK wire spec",
   "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
@@ -1717,7 +1717,7 @@
  },
  {
   "id": "t_b4101308",
-  "title": "Audit awesome-tollgate for normative PAY/ACK spec",
+  "title": "Read-only audit of awesome-tollgate for normative PAY/ACK spec",
   "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
@@ -1729,7 +1729,7 @@
  },
  {
   "id": "t_dfc1d880",
-  "title": "Audit tollgate-rs for normative PAY/ACK spec",
+  "title": "Audit tollgate-rs for normative PAY/ACK wire spec (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
@@ -1754,7 +1754,7 @@
  {
   "id": "t_13b5d123",
   "title": "Search repo + filesystem for existing tollgate PAY/ACK spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789348587,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_fda79044",
   "title": "Enumerate all PAY/ACK call sites in main/app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_982aa0e1",
   "title": "Document test_relay_pipeline.c mock proto structs and signatures",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_96ea4fcf",
   "title": "Confirm relay_types.h framing and CONFIG_ENABLE_TOLLGATE guards",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,

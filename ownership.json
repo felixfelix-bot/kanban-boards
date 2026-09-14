@@ -723,8 +723,8 @@
  },
  "e80-bench:t_7708c05b": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789351230.2646854,
+  "status": "done",
+  "updated": 1789353275.494898,
   "ts": 1789345634.4840033,
   "repo": "e80-bench",
   "run_id": "dq05-1789351230"
