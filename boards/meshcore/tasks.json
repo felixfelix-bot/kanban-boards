@@ -1669,8 +1669,8 @@
  },
  {
   "id": "t_3a34bea7",
-  "title": "Capture die-temp soak evidence at +25 C",
-  "status": "triage",
+  "title": "Capture +25 C die-temp soak evidence via calshow",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1681,8 +1681,8 @@
  },
  {
   "id": "t_b0a5312a",
-  "title": "Capture die-temp soak evidence at 0 C",
-  "status": "triage",
+  "title": "Capture 0 C die-temp soak evidence (>15 min in 0.5 C band)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1693,8 +1693,8 @@
  },
  {
   "id": "t_35c19845",
-  "title": "Capture die-temp soak evidence at -20 C",
-  "status": "triage",
+  "title": "Capture -20 C die-temp soak evidence via calshow",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1705,8 +1705,8 @@
  },
  {
   "id": "t_e3bb0dba",
-  "title": "Capture die-temp soak evidence at -40 C",
-  "status": "triage",
+  "title": "Run -40 C die-temp soak and capture calshow evidence",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1729,8 +1729,8 @@
  },
  {
   "id": "t_d601da74",
-  "title": "Identify the bench owner/custodian with named source and confidence",
-  "status": "triage",
+  "title": "Identify test bench custodian with cited source and confidence",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1add22bc",
   "title": "Characterize warm-side ambient and compute dew points for both setpoints",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789360123,
