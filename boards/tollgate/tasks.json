@@ -2018,7 +2018,7 @@
  {
   "id": "t_84477ffe",
   "title": "Answer: does SET_AUTO_RX_TX (0x0211) support auto-TX FIFO trigger?",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
