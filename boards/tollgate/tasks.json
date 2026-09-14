@@ -2390,7 +2390,7 @@
  {
   "id": "t_eef8589b",
   "title": "Fetch LR1120 datasheet with provenance",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,

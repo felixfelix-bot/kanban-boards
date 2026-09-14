@@ -1681,8 +1681,8 @@
  },
  {
   "id": "t_63b8f6b0",
-  "title": "Recon range-sync ADR + cvm_board_server.py, write /tmp/tx_listener_recon.md",
-  "status": "triage",
+  "title": "Recon range-sync ADR + cvm_board_server.py; write /tmp/tx_listener_recon.md",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon docs/ADR-range-sync-cvm.md: verdict schema + ARMED session linkage (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1765,8 +1765,8 @@
  },
  {
   "id": "t_524c145c",
-  "title": "Recon test conventions in firmware/e80-stm32-bench",
-  "status": "triage",
+  "title": "Recon test conventions in firmware/e80-stm32-bench (read-only, notes only)",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,

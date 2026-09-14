@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call-site citations against live main/app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,
@@ -3674,7 +3674,7 @@
  {
   "id": "t_84588e4a",
   "title": "Search Kconfig/Kconfig.projbuild for ENABLE_* declarations in balloon firmware",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3be12518",
   "title": "Probe vendored and submodule copies for duplicated artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_d4a62f89",
   "title": "Enumerate all tollgate Rust repo paths and linked worktrees",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
