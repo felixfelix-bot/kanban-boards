@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity, SkyMapper Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Capture and publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,

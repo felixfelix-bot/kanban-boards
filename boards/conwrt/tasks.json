@@ -362,7 +362,7 @@
  {
   "id": "t_a27f30d9",
   "title": "Audit LAN-move provenance verdicts for net4sats and tollgate flows",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789356091,
