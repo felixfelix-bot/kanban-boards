@@ -1153,7 +1153,7 @@
  },
  {
   "id": "t_da4ac984",
-  "title": "Read-only recon: human-gate decision notes and shadow-card paths",
+  "title": "Read-only recon: human-gate decision notes + shadow-card paths (report-only)",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",

@@ -761,8 +761,8 @@
  },
  "meshcore:t_0d0fe29c": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789363387.1972296,
+  "status": "done",
+  "updated": 1789364685.4241078,
   "ts": 1789345649.0262432,
   "repo": "meshcore",
   "run_id": "dq05-1789363387"
@@ -953,19 +953,19 @@
  },
  "balloon:t_f3a74423": {
   "node": "dq05",
-  "status": "done",
-  "updated": 1789355913.7836254,
+  "status": "running",
+  "updated": 1789364694.0482183,
   "ts": 1789348990.0865216,
   "repo": "balloon",
-  "run_id": "dq05-1789355837"
+  "run_id": "dq05-1789364694"
  },
  "balloon:t_d8fef369": {
   "node": "dq05",
-  "status": "done",
-  "updated": 1789355915.5484252,
+  "status": "running",
+  "updated": 1789364840.1743279,
   "ts": 1789348991.829754,
   "repo": "balloon",
-  "run_id": "dq05-1789355839"
+  "run_id": "dq05-1789364840"
  },
  "balloon:t_c9ef5c05": {
   "node": "dq05",
@@ -2094,8 +2094,8 @@
  },
  "meshcore:t_da84afb3": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789364476.6584542,
+  "status": "done",
+  "updated": 1789364831.8496912,
   "ts": 1789357260.8416903,
   "repo": "meshcore",
   "run_id": "dq05-1789364476"
