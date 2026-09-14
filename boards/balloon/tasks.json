@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Extract relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2581,8 +2581,8 @@
  },
  {
   "id": "t_846739cd",
-  "title": "Inventory CONFIG_ENABLE_TOLLGATE occurrences in balloon firmware tree (read-only)",
-  "status": "triage",
+  "title": "Inventory every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,

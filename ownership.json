@@ -4799,8 +4799,8 @@
  },
  "conwrt:t_c3a46b44": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789407518.6548457,
+  "status": "failed",
+  "updated": 1789407593.427301,
   "ts": 1789407518.6548457,
   "repo": "conwrt",
   "run_id": "cobrador-1789407518"
