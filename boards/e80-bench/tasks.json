@@ -2342,7 +2342,7 @@
  {
   "id": "t_412ffb5a",
   "title": "Write determinism/idempotence unit tests for NIP-59 gift-wrap (kind 1059)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378526,

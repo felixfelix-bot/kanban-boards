@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
@@ -758,7 +758,7 @@
  {
   "id": "t_c3a46b44",
   "title": "Audit tollgate read-back provenance against wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789380019,
@@ -878,7 +878,7 @@
  {
   "id": "t_a8d3a821",
   "title": "Review PR #55 VPN proposal and PIA OpenVPN",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789398071,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
