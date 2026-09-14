@@ -5036,6 +5036,13 @@
   "ts": 1789356203.119193,
   "repo": "tollgate"
  },
+ "conwrt:t_3f3235be": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789375592.7819605,
+  "ts": 1789375592.7819605,
+  "repo": "conwrt"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
@@ -5550,13 +5557,6 @@
   "updated": 1789375563.3031347,
   "ts": 1789375563.3031347,
   "repo": "auditable-voting"
- },
- "conwrt:t_3f3235be": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789375592.7819605,
-  "ts": 1789375592.7819605,
-  "repo": "conwrt"
  },
  "conwrt:t_cc35ecdf": {
   "node": "dq05",

@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -830,7 +830,7 @@
  {
   "id": "t_43c83f64",
   "title": "Locate conwrt repo and record git root, branch, HEAD, and status",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

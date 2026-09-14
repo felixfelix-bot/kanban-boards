@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
