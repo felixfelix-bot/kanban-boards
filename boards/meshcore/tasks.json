@@ -962,7 +962,7 @@
  {
   "id": "t_ffc911f6",
   "title": "Physically inspect thermal chamber and record verbatim nameplate data",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
