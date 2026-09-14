@@ -3158,7 +3158,7 @@
  {
   "id": "t_c55fe432",
   "title": "Trigger CI for fork PR market#4 and capture all run outcomes",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_2ac35bf1",
   "title": "Grep PR #1232 head for ownership + 4 nav scenario tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789363946,
@@ -3433,8 +3433,8 @@
  },
  {
   "id": "t_54b679cf",
-  "title": "List OG-meta test titles in e2e/tests/og-meta-tags.spec.ts at PR #1232 head",
-  "status": "triage",
+  "title": "Enumerate og-meta-tags.spec.ts test titles at PR #1232 headRefOid",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_9a72d81c",
   "title": "Preflight: pin reviewed SHA and map NIP-46 diff hunks",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789364167,
