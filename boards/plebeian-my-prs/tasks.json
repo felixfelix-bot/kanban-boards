@@ -3698,7 +3698,7 @@
  {
   "id": "t_c83bb9da",
   "title": "Analyze relay union semantics: ordering, dedup keys, empty relays",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789366403,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_b04a11f7",
   "title": "Analyze relay failure propagation and silent drop/double-count",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789366403,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_4bf69e81",
   "title": "Audit secret handling in market PR#4 deploy workflows",
-  "status": "ready",
+  "status": "blocked",
   "priority": 8,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789393662,

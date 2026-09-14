@@ -398,7 +398,7 @@
  {
   "id": "t_57592c2c",
   "title": "Triage defect D1: cite current file:line, impact, blocks-live-run verdict, minimal fix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,

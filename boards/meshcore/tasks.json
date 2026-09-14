@@ -3446,7 +3446,7 @@
  {
   "id": "t_423a3c4d",
   "title": "Grep infra + Hermes config dirs for digest job definition and transport string",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_756fe5cc",
   "title": "Enumerate cron artifacts and record raw schedule lines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_d576cc34",
   "title": "Enumerate systemd timers and matching service units",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_1cd3175b",
   "title": "Run global find/grep discovery sweep for scheduler artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Narrow, date, and merge tollgate-rs gating findings into tables",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,

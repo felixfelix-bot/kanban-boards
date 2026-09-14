@@ -2318,7 +2318,7 @@
  {
   "id": "t_2294dea3",
   "title": "Audit gift-wrap choke-point and spec canonical session serialization",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378526,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_c7b5d7d9",
   "title": "Audit failover tests for live network and plaintext choke-point",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789380049,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Extract verbatim recon specs (target file, command, fixtures, clock-freeze)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_7b98e49c",
   "title": "Verify --sync=cvm / derive_t0 core is merged and record its paths",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
