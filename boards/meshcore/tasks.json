@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_f0ed35a0",
   "title": "Map workspace topology: repos, worktrees, plain dirs (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_6a9d342c",
   "title": "Scan doc roots, .md files, ADR/RFC/design-review-notes files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_6f1e68d9",
   "title": "Inventory all chamber door/wall feedthroughs with measured diameters",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_963aba26",
   "title": "Measure module envelope and RF cable swept-envelope requirement",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ffc791d3",
   "title": "Extract documented chamber ramp rates from datasheet/manual",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_cf19d907",
   "title": "Measure chamber ramp rate from controller history/ramp log",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Raw gating-term sweep: first half of tollgate-rs revs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,

@@ -2426,9 +2426,9 @@
  {
   "id": "t_c30be532",
   "title": "Locate P1/P2/P3 recon reports in kanban store and record retrieval paths",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789366959,
   "started_at": null,
   "completed_at": null,
@@ -2485,8 +2485,8 @@
  },
  {
   "id": "t_8aa23d17",
-  "title": "Sweep balloon-fresh docs/spec artifacts for PAY/ACK protocol (read-only)",
-  "status": "triage",
+  "title": "Sweep balloon-fresh docs for PAY/ACK protocol spec artifacts (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_2c433ef7",
   "title": "Sweep balloon-fresh firmware code for PAY/ACK wire-format declarations (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_f238b099",
   "title": "Sweep tollgate clients, infra and docs for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789367012,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_19adaa00",
   "title": "Issue single authoritative PAY/ACK spec verdict from reconciled classifications",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789384358,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_4b2ba0b5",
   "title": "Compile raw six-symbol grep evidence table from upstream sweeps",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Verify every verbatim quote and path/line cited in the verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2726,7 +2726,7 @@
  {
   "id": "t_0e70f526",
   "title": "Re-run the git commands the verdict relies on",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bdf2e0b9",
   "title": "Cross-check both parent sweep lists against the deduplicated list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Audit TOLLGATE_PROTO_CONTRACT.md claims (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_b2534cf7",
   "title": "Inventory tollgate-rs repos: paths, branch, HEAD, remotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Sweep tollgate-rs files and content for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Deep-dive design-review-notes / RFC / ADR refs for PAY/ACK spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_e13a9e97",
   "title": "Inventory all CONFIG_ENABLE_* symbols and their declaration sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Enumerate sibling tollgate repos with branch and HEAD sha",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3006,6 +3006,54 @@
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_4ef6b3c4",
+  "title": "Locate P1 recon report in kanban store",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789395423,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7b1da30d",
+  "title": "Locate P2 recon report in kanban store",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789395423,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_760a566e",
+  "title": "Locate P3 recon report in kanban store",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789395423,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_8991e7a0",
+  "title": "Aggregate recon report coordinates into lookup manifest",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789395423,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

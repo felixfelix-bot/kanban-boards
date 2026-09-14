@@ -398,7 +398,7 @@
  {
   "id": "t_57592c2c",
   "title": "Triage defect D1: cite current file:line, impact, blocks-live-run verdict, minimal fix",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -410,7 +410,7 @@
  {
   "id": "t_011fa8da",
   "title": "Triage defect D2: file:line, impact, blocking verdict, minimal fix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build ground-truth D-ID inventory from the Issue-32 runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -842,7 +842,7 @@
  {
   "id": "t_70771824",
   "title": "Extract verbatim D3, D4, D5 definitions and hints from defects-d1-d5.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
