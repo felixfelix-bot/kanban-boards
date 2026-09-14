@@ -1010,7 +1010,7 @@
  {
   "id": "t_46584c79",
   "title": "Write single-file 10-min chamber logging protocol + blank capture template",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
