@@ -1850,7 +1850,7 @@
  {
   "id": "t_073cc318",
   "title": "Adjudicate PR #1271 readiness predicate and commit decision note",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,

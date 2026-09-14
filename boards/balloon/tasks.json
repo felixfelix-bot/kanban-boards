@@ -2221,8 +2221,8 @@
  },
  {
   "id": "t_62c396a3",
-  "title": "Write TOLLGATE_PROTO_API.md: authoritative tollgate payment wire-format contract",
-  "status": "triage",
+  "title": "Write TOLLGATE_PROTO_API.md tollgate payment wire-format contract",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360704,
