@@ -1262,7 +1262,7 @@
  {
   "id": "t_2ad3a088",
   "title": "Secret-scan the new diff, then push the branch",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,

@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture -20 C die-temp soak evidence via calshow",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_f0ed35a0",
   "title": "Map workspace topology: repos, worktrees, plain dirs (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_6a9d342c",
   "title": "Scan doc roots, .md files, ADR/RFC/design-review-notes files",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_4a323fdc",
   "title": "Write attributed per-repo doc-surface inventory report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_2c7b7d95",
   "title": "Inventory git worktrees and sibling checkout directories (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Probe candidate note stores and readable mounts (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_6f1e68d9",
   "title": "Inventory all chamber door/wall feedthroughs with measured diameters",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_963aba26",
   "title": "Measure module envelope and RF cable swept-envelope requirement",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ffc791d3",
   "title": "Extract documented chamber ramp rates from datasheet/manual",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_cf19d907",
   "title": "Measure chamber ramp rate from controller history/ramp log",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Raw gating-term sweep: first half of tollgate-rs revs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,

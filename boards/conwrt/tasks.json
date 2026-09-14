@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build ground-truth D-ID inventory from the Issue-32 runbook",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -842,7 +842,7 @@
  {
   "id": "t_70771824",
   "title": "Extract verbatim D3, D4, D5 definitions and hints from defects-d1-d5.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
@@ -858,6 +858,18 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_77f25b09",
+  "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "worker-pr-reviewer",
+  "created_at": 1789393446,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
