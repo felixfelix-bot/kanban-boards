@@ -1250,7 +1250,7 @@
  {
   "id": "t_401a08f3",
   "title": "Land phase-1 code + ADR docs as one atomic conventional commit",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
