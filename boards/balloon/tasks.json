@@ -2162,7 +2162,7 @@
  {
   "id": "t_b3e92fd9",
   "title": "Recon relay_types.h enum + relay packet framing; write docs/recon/.tollgate_framing_notes.md",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE status and CONFIG_ENABLE_* guard conventions (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
