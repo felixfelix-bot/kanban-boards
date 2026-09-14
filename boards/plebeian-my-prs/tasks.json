@@ -1609,8 +1609,8 @@
  },
  {
   "id": "t_2bffe9e8",
-  "title": "Cold cross-family (glm) review verdict on PR #1310 draft comment",
-  "status": "triage",
+  "title": "Cold glm cross-family verdict on PR #1310 draft review comment",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335506,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold-verify the PR #1311 draft review comment; return APPROVED or REJECTED",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_087284d3",
   "title": "Draft PR #1312 review findings (dedup, terse Felix style)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_f35aaa99",
   "title": "Run gh_cli_healthcheck.sh on dq05, prove real PR mutation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "Collect PR #1232 top-level reviews and build per-review reply table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Triage PR #1232 design-pass artifact: pushbacks vs tension findings",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta key derivation, cache TTL, and caller reachability on market PR #1232 (Q4)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
