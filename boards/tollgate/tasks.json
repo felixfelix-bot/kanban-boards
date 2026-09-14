@@ -2246,7 +2246,7 @@
  {
   "id": "t_cb70e471",
   "title": "Compile docs/lr2021-research/fetch-manifest.md from all provenance files",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789357567,

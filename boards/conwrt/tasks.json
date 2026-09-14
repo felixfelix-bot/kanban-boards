@@ -625,8 +625,8 @@
  },
  {
   "id": "t_cc35ecdf",
-  "title": "Locate ipv4 token in net4sats LAN-move block of wizard bundle",
-  "status": "triage",
+  "title": "Find net4sats LAN-move IPv4 token and any in-bundle binding",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,
@@ -697,8 +697,8 @@
  },
  {
   "id": "t_f60e0a02",
-  "title": "Write provenance-verification.md report and confirm repo unmodified",
-  "status": "triage",
+  "title": "Write provenance-verification.md and verify repo unmodified",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
