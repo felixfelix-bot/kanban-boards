@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_1eefa8f1",
   "title": "Run BR sweep acceptance and capture evidence logs",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
