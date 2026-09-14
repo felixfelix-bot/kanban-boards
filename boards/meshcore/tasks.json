@@ -398,7 +398,7 @@
  {
   "id": "t_2656f57c",
   "title": "Convert fitted k/T0 into parser representation; quantify rounding ppm",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -410,7 +410,7 @@
  {
   "id": "t_2e041ab8",
   "title": "Verify literal cal string character-by-character against parser",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Validate calshow sampling harness at ambient (dry run)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture die-temp soak evidence at +25 C",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture die-temp soak evidence at 0 C",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture die-temp soak evidence at -20 C",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Capture die-temp soak evidence at -40 C",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_d601da74",
   "title": "Identify the bench owner/custodian with named source and confidence",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_c1c07af9",
   "title": "Identify the thermal chamber owner/custodian with named source and confidence",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_9782fb4c",
   "title": "Establish current occupancy and locate/reconcile the booking system of record",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_23dc3d2f",
   "title": "Identify module under test: radio chip, band, carrier freq, RF port",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_83756ac0",
   "title": "Inventory every bench instrument that can read or reference frequency",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789357656,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_0fc2adec",
   "title": "Gather calibration evidence for each bench frequency instrument",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789357656,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Pre-flight chamber comms, record ambient baseline, set up raw logging",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Inventory chamber penetrations and measure port geometry",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_2a16c491",
   "title": "Characterize RF coax bundle dimensions and minimum bend radius",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_b1049504",
   "title": "Identify DUT-side RF port connector type(s) and count",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_da54b09f",
   "title": "Identify instrument/test-equipment RF connector types",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Assess chamber feedthrough: type, population, existing cabling",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_0d86117f",
   "title": "Compile connector/adapter BOM with procurement and RF loss analysis",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1add22bc",
   "title": "Characterize warm-side ambient and compute dew points for both setpoints",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789360123,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_b6467a63",
   "title": "Enumerate damage and measurement-reliability failure modes on cables and feedthrough",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_67f3b03e",
   "title": "Establish chamber max ramp rates and RF feedthrough thermal penalty",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_5199dede",
   "title": "Determine DUT thermal shock and rate-of-change limits",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_a706051c",
   "title": "Grep structured/data formats for nine board term variants",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_cc4b9c62",
   "title": "Grep config & log text formats for nine board term variants",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_33f30b4f",
   "title": "Grep all remaining non-markdown files for nine term variants",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360361,

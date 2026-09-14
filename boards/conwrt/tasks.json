@@ -541,8 +541,8 @@
  },
  {
   "id": "t_7045c59a",
-  "title": "Extract verbatim LAN-move + read-back command blocks",
-  "status": "triage",
+  "title": "Extract verbatim LAN-move + read-back blocks to tollgate-blocks.txt",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
