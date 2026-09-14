@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path + verbatim commands from docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build ground-truth D-ID inventory from the Issue-32 runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -830,7 +830,7 @@
  {
   "id": "t_43c83f64",
   "title": "Locate conwrt repo and record git root, branch, HEAD, and status",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
@@ -842,7 +842,7 @@
  {
   "id": "t_70771824",
   "title": "Extract verbatim D3, D4, D5 definitions and hints from defects-d1-d5.md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
