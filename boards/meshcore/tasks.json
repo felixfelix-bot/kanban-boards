@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Inventory all bench frequency reference sources (physical, on-bench)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,

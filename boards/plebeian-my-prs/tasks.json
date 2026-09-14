@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate all CI checks for PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
