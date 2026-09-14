@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Read-only `block_kind` inventory + scanner-module verdict report",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_ec8e8685",
   "title": "Locate kanban_block definition; document reason param signature verbatim",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Physically inspect and classify thermal chamber controller, record labels, photograph interface",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Physical on-bench inventory of all frequency reference sources",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep of app source tree for escalation-digest identifiers; report raw hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,

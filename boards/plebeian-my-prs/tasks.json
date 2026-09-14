@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Verify e2e.yml:148 revert status on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Read-only: enumerate complete CI check set for PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory SSR OG/Twitter metadata code at PR #1232 head (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232 (reviews + triage)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_2438849c",
   "title": "Pin PR #1232 head OID and report per-path commit SHAs (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_7433d93e",
   "title": "Pin ground truth: PR #1306 diff and head SHA c20765e7",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_018476f0",
   "title": "Build dedup baseline from PR #1306 existing comments",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_1611cd86",
   "title": "Fetch verbatim .github/workflows YAML at ref 2c8b3981",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_c268d7f4",
   "title": "Verify e2e og-meta-tags spec exists at ref 2c8b3981",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789398497,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_0d114af5",
   "title": "Fetch PR #1232 head and confirm commit SHA (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,

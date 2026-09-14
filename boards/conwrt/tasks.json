@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move + read-back evidence for net4sats and tollgate from docs/wizard-bundle.json (read-only, no writes)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write state/conwrt-issue32-evidence/drafts/provenance-verification.md and verify repo unmodified",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -722,7 +722,7 @@
  {
   "id": "t_db7a6ca1",
   "title": "Audit net4sats read-back source in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on Amperstrand/conwrt PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
@@ -902,7 +902,7 @@
  {
   "id": "t_bf9878fa",
   "title": "Verify PR #55 branch name complies with D-135 'pr/' prefix rule",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,

@@ -3014,7 +3014,7 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report in kanban store",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789396021,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Transcribe parent sweep list B into a structured table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe deduplicated candidate list into structured table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
