@@ -1429,7 +1429,7 @@
  },
  {
   "id": "t_4b3c740b",
-  "title": "GO-mode session_id sourced verbatim from ARMED payload, T0/legacy untouched",
+  "title": "GO-mode session_id sourced verbatim from ARMED payload (legacy/derive_t0 untouched)",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",

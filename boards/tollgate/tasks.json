@@ -1958,7 +1958,7 @@
  {
   "id": "t_e00b32dc",
   "title": "Enumerate SET_AUTO_RX_TX and SET_TX_PARAMS layouts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
