@@ -3349,7 +3349,7 @@
  },
  {
   "id": "t_ba9d5dae",
-  "title": "Prep env: read FIPS-FIX-PLAN.md, verify riscv32imc target installed",
+  "title": "Prep env: read FIPS-FIX-PLAN.md, verify riscv32imc target (READ-ONLY, no source changes)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -3397,7 +3397,7 @@
  },
  {
   "id": "t_ad1fc0fc",
-  "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep",
+  "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_c3acbf3f",
   "title": "Re-verify CONFIG_ENABLE_* guard-style census with commands and quoted examples",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Trace which include or build flag provides CONFIG_ENABLE_* in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3673,8 +3673,8 @@
  },
  {
   "id": "t_84588e4a",
-  "title": "Search Kconfig/Kconfig.projbuild for ENABLE_* declarations in balloon firmware",
-  "status": "triage",
+  "title": "Audit Kconfig/Kconfig.projbuild for ENABLE_* declarations in balloon firmware",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3697,8 +3697,8 @@
  },
  {
   "id": "t_4a9f4330",
-  "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp",
-  "status": "triage",
+  "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,
@@ -3709,8 +3709,8 @@
  },
  {
   "id": "t_f6afccee",
-  "title": "Map tollgate_msg_hdr_t / tollgate_ack_payload_t struct usage in app_task.cpp",
-  "status": "triage",
+  "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t usage in app_task.cpp",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
