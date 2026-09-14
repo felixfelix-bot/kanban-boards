@@ -1610,7 +1610,7 @@
  {
   "id": "t_8799d4bb",
   "title": "Document MOCK protocol in test_relay_pipeline.c",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_13799503",
   "title": "Document relay_types.h enum and relay packet framing",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_290bb39f",
   "title": "Merge mock + framing docs and pin the implied header layout",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,

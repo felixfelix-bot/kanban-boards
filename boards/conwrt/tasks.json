@@ -206,7 +206,7 @@
  {
   "id": "t_8f991291",
   "title": "Merge flow notes into checklist.md and verify provenance verdicts",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343688,
