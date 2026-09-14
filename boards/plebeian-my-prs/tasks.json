@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Verify required-check merge gates on PlebeianApp/market PR #1232 (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,
