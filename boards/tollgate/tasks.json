@@ -2174,7 +2174,7 @@
  {
   "id": "t_b8d10591",
   "title": "Inventory local LR2021 PDFs, specs, errata and register defines",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
