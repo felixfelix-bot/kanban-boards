@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
