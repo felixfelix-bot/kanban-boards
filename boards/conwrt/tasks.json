@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write state/conwrt-issue32-evidence/drafts/provenance-verification.md and verify repo unmodified",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
