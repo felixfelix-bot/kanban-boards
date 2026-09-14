@@ -2365,8 +2365,8 @@
  },
  {
   "id": "t_8c548d96",
-  "title": "Build check microfips-esp-common for riscv32imc + host",
-  "status": "triage",
+  "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789363358,
@@ -2389,8 +2389,8 @@
  },
  {
   "id": "t_41e82450",
-  "title": "Inventory encode/TX tollgate call sites in main/app_task.cpp",
-  "status": "triage",
+  "title": "Inventory encode/TX tollgate call sites in main/app_task.cpp (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2401,8 +2401,8 @@
  },
  {
   "id": "t_6d751797",
-  "title": "Inventory decode/RX/ack tollgate call sites and struct layout",
-  "status": "triage",
+  "title": "Inventory decode/RX/ack tollgate call sites and structs in app_task.cpp",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
