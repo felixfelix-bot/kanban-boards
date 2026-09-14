@@ -758,7 +758,7 @@
  {
   "id": "t_c3a46b44",
   "title": "Audit tollgate read-back provenance against wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789380019,

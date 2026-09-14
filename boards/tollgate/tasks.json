@@ -2342,7 +2342,7 @@
  {
   "id": "t_9d30947b",
   "title": "Fetch and archive Semtech LR2021 product page (raw HTML)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_185f7ee7",
   "title": "Fetch LR1121 datasheet with provenance",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_b0dc7c5a",
   "title": "Extract and hash-verify errata provenance entries",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

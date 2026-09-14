@@ -2222,7 +2222,7 @@
  {
   "id": "t_4c98fbe7",
   "title": "Make env-only key accessor sole key source in e80-stm32-bench tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366099,

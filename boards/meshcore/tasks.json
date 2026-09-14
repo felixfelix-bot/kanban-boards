@@ -1010,7 +1010,7 @@
  {
   "id": "t_46584c79",
   "title": "Write 10-min chamber logging protocol + blank capture template (one file)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1106,7 +1106,7 @@
  {
   "id": "t_9d139605",
   "title": "Post single verdict comment: can the module + RF cabling run in-chamber",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
