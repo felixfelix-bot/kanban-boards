@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "PR #1232: collect all top-level reviews and build per-review reply table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
