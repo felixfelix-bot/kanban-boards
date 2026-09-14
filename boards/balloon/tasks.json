@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_d7b46e33",
-  "title": "Write final tollgate PAY/ACK upstream audit report (synthesis only)",
+  "title": "Write final tollgate PAY/ACK upstream audit synthesis report",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Classify all PAY/ACK candidates from sibling-tollgate sweep (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -3265,8 +3265,8 @@
  },
  {
   "id": "t_05ff9310",
-  "title": "Transcribe parent sweep list A into a structured table",
-  "status": "triage",
+  "title": "Transcribe first parent sweep list (parent A) from reconciliation result into a structured table",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3277,8 +3277,8 @@
  },
  {
   "id": "t_a8b3350b",
-  "title": "Transcribe parent sweep list B into a structured table",
-  "status": "triage",
+  "title": "Transcribe parent sweep list B into a structured, verbatim table",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,

@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Extract PR #1232 top-level reviews + verbatim digests (read-only artifact)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
