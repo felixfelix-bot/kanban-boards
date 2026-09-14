@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Pre-flight chamber comms, record ambient baseline, set up raw logging",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_da54b09f",
   "title": "Identify instrument/test-equipment RF connector types",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_b6467a63",
   "title": "Enumerate damage and measurement-reliability failure modes on cables and feedthrough",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,

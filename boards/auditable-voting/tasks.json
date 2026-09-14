@@ -218,7 +218,7 @@
  {
   "id": "t_e8560b0a",
   "title": "F3-T5: Nsec printing with security warnings",
-  "status": "running",
+  "status": "ready",
   "priority": 7,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162116,

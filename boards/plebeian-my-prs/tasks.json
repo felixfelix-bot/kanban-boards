@@ -1645,8 +1645,8 @@
  },
  {
   "id": "t_e3d9ac17",
-  "title": "Cold-verify the PR #1311 draft review comment; return APPROVED or REJECTED",
-  "status": "triage",
+  "title": "Cold-verify PR #1311 draft review comment; return APPROVED or REJECTED",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,

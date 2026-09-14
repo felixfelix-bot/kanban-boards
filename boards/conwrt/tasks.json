@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Locate net4sats LAN-move recipe key path; capture verbatim commands",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
