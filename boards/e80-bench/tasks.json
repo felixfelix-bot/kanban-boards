@@ -1681,7 +1681,7 @@
  },
  {
   "id": "t_63b8f6b0",
-  "title": "Recon range-sync ADR + cvm_board_server.py, publish shared pattern/constant notes",
+  "title": "Recon range-sync ADR + cvm_board_server.py and publish shared pattern/constant notes",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon ADR-range-sync-cvm: verdict schema + ARMED session linkage (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_524c145c",
   "title": "Recon repo test layout, pytest invocation, env-var + fake conventions (firmware/e80-stm32-bench)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1837,7 +1837,7 @@
  },
  {
   "id": "t_dadbd9ca",
-  "title": "RED test: GO session_id equals ARMED session_id exactly",
+  "title": "RED test: GO session_id exactly equals ARMED session_id",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
@@ -1849,7 +1849,7 @@
  },
  {
   "id": "t_1b922c52",
-  "title": "RED test: GO run log dir basename is exactly s<session_id>-go<epoch>",
+  "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
@@ -1862,7 +1862,7 @@
  {
   "id": "t_c155a13b",
   "title": "Legacy regression guard: boundary-mode dir names byte-for-byte unchanged",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,

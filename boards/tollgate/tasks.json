@@ -2150,7 +2150,7 @@
  {
   "id": "t_cdde8172",
   "title": "Inventory LR2021 artifacts in esp32-balloon-integration worktree",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_b8d10591",
   "title": "Inventory local LR2021 PDFs, specs, errata and register defines",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,

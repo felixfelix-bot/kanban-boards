@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Preflight CF-WR632AX: verify SSH reachability + OpenWrt 25.12.4, log evidence",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Verify defect table quotes verbatim against runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,
@@ -433,7 +433,7 @@
  },
  {
   "id": "t_111fb200",
-  "title": "Establish conwrt repo root, branch and canonical D3-D5 specs",
+  "title": "Establish conwrt repo root, branch, and canonical D3-D5 spec context file",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -518,7 +518,7 @@
  {
   "id": "t_a8fc813c",
   "title": "Compose state/conwrt-issue32-evidence/drafts/net4sats-subsection.md",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
@@ -530,7 +530,7 @@
  {
   "id": "t_bbd9df94",
   "title": "Verify net4sats-subsection.md against source md and wizard-bundle.json",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789361675,
@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back command blocks",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace whether LAN-move block consumes derived ipv4 or a literal",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,

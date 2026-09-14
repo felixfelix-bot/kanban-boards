@@ -2630,7 +2630,7 @@
  {
   "id": "t_a5e877bb",
   "title": "Write <=40-line draft review comment for market PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff, confirm head SHA, inventory touched workflow files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_65651fd0",
   "title": "Review infra/preview-vps provisioning + systemd units at PR #1271 head (report only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_f9ab1afc",
   "title": "Audit PR #1271 subdomain DNS/TLS/proxy dispatch for new defects",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_3f91385f",
   "title": "Review lazy-start preview spin-up failure/timeout paths at PR #1271 head",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
