@@ -1394,9 +1394,9 @@
  {
   "id": "t_8921818e",
   "title": "Create tollgate_payment_proto.h with TDD encode/decode tests",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-heavy",
+  "assignee": "manager",
   "created_at": 1789332922,
   "started_at": null,
   "completed_at": null,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_c07dd247",
   "title": "Enumerate every tollgate symbol usage in main/app_task.cpp",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_55d4acb7",
   "title": "Document CONFIG_ENABLE_TOLLGATE and CONFIG_ENABLE_* guard pattern",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e8282529",
   "title": "Synthesize tollgate_payment_proto.h API-shape markdown deliverable",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_b3e60bd1",
   "title": "Grep ~/repos for six tollgate PAY/ACK symbols and record hits in docs/recon/raw_symbol_grep.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353577,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_fe39b9f0",
   "title": "Inventory tollgate protocol declaration sites in balloon-fresh tracker firmware (read-only)",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_f1c0b2bc",
   "title": "Inventory tollgate symbol call sites in main/app_task.cpp (read-only)",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_821463b2",
   "title": "Derive tollgate prototypes and struct-field summary from the call-site inventory",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_f920e2b6",
   "title": "Pin and quote relay packet framing convention in tracker firmware (read-only)",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789354127,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_0e77b291",
   "title": "Extract mock protocol doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789359172,
@@ -2214,6 +2214,54 @@
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789359172,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_62c396a3",
+  "title": "Extract tollgate payment proto contract from recon doc and call sites",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789360704,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_6c780575",
+  "title": "Write host-runnable TDD tests for tollgate payment proto",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-heavy",
+  "created_at": 1789360704,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_1f556d12",
+  "title": "Implement tollgate_payment_proto.h per frozen contract",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789360704,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7c7939a0",
+  "title": "Host-verify proto tests and full existing suite pass",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-heavy",
+  "created_at": 1789360704,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

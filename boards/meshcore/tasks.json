@@ -2210,7 +2210,7 @@
  {
   "id": "t_5c478508",
   "title": "Extract inventory of named artifacts from upstream walk summaries",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
