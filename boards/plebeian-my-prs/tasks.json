@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Security/robustness review of NIP-46 signer diff in PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_65651fd0",
   "title": "Audit infra/preview-vps provisioning + systemd units at market PR #1271 head 8046da0 (report only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Trace ogMeta saturation/fallback await path on PR #1232 (read-only, Q3-saturation)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,

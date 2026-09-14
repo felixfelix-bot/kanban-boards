@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/TX tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_6d751797",
   "title": "Inventory decode/RX/ack tollgate call sites and structs in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report in kanban store",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,

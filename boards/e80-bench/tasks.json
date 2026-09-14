@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon docs/ADR-range-sync-cvm.md: verdict schema + ARMED session linkage (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_524c145c",
   "title": "Recon test conventions in firmware/e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Implement concurrent relay failover publisher with per-relay timeout",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,

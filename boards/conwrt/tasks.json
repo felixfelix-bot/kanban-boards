@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
