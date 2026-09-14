@@ -1790,7 +1790,7 @@
  {
   "id": "t_1c17093f",
   "title": "Recon range_check session_id join + writer key format",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,

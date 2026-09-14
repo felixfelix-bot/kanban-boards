@@ -1574,7 +1574,7 @@
  {
   "id": "t_71f487f7",
   "title": "Cross-family cold review of the PR #1306 draft comment",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335202,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_2bffe9e8",
   "title": "Cross-family cold review of PR #1310 draft",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335506,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold cross-family review of the PR #1311 draft comment",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_087284d3",
   "title": "Draft PR #1312 review findings (dedup, terse Felix style)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_fe35286d",
   "title": "Resolve PR #1232 head and record fixing-commit SHAs for 5 target paths",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "Collect and tabulate PR #1232 top-level reviews with per-review reply targets",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Triage PR #1232 design-pass artifact: pushbacks vs tension findings",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_16a4561c",
   "title": "Verify PR #1306 head SHA c20765e7 and pin the diff artifact",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 diff at head SHA",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5f4947f2",
   "title": "Review NIP-46 signer protocol flow in PR #1290 diff",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Review NIP-46 signer security and robustness in PR #1290 diff",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_a5e877bb",
   "title": "Compose <=40-line draft review comment for PR #1290",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff and confirm head SHA + workflow inventory",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_65651fd0",
   "title": "Review infra/preview-vps provisioning + systemd at PR #1271 head",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_f9ab1afc",
   "title": "Review subdomain routing, DNS, TLS dispatch at PR #1271 head",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_3f91385f",
   "title": "Review lazy-start spin-up failure/timeout paths at PR #1271 head",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,

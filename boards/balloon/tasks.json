@@ -1394,7 +1394,7 @@
  {
   "id": "t_8921818e",
   "title": "Create tollgate_payment_proto.h with TDD encode/decode tests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332922,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_c07dd247",
   "title": "Enumerate every tollgate symbol usage in main/app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_55d4acb7",
   "title": "Document CONFIG_ENABLE_TOLLGATE and CONFIG_ENABLE_* guard pattern",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e8282529",
   "title": "Synthesize tollgate_payment_proto.h API-shape markdown deliverable",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1850,9 +1850,9 @@
  {
   "id": "t_77f5b39d",
   "title": "Reconcile the three recon reports into an evidence + conflict matrix",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "esp32-balloon-integration-master",
+  "assignee": "manager",
   "created_at": 1789352050,
   "started_at": null,
   "completed_at": null,
@@ -1909,7 +1909,7 @@
  },
  {
   "id": "t_b3e60bd1",
-  "title": "Grep ~/repos for exact tollgate PAY/ACK symbols and record all hits",
+  "title": "Grep ~/repos for six tollgate PAY/ACK symbols and record hits in docs/recon/raw_symbol_grep.md",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -1922,7 +1922,7 @@
  {
   "id": "t_0c4ab650",
   "title": "Scan balloon-fresh and tollgate repos for existing PAY/ACK protocol docs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789353577,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_fe39b9f0",
   "title": "Inventory tollgate declarations in repo headers (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_f1c0b2bc",
   "title": "Enumerate every tollgate call site in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_821463b2",
   "title": "Derive tollgate prototypes and struct-field summary from the inventory",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353884,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_7fce5542",
   "title": "Transcribe relay_types.h relay type enum verbatim with line numbers",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_f920e2b6",
   "title": "Locate and quote the relay packet framing code and helpers",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789354127,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_3b3bac1b",
   "title": "Extract mock protocol doc section verbatim (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Extract relay_types.h framing doc section verbatim (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2058,6 +2058,54 @@
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7676d001",
+  "title": "Retrieve and verify the three parent recon reports",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789358768,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_99f0e462",
+  "title": "Extract spec references and app_task.cpp call sites (matrix A+B)",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789358768,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_f7f4b0bc",
+  "title": "Extract mock usage and relay framing (matrix C+D)",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-tollgate-master",
+  "created_at": 1789358768,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_efc912d5",
+  "title": "Build conflict list and assemble final evidence matrix",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-heavy",
+  "created_at": 1789358768,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
