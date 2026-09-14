@@ -2257,8 +2257,8 @@
  },
  {
   "id": "t_9622baef",
-  "title": "Capture verbatim RED baseline output from relay-failover tests",
-  "status": "triage",
+  "title": "Capture verbatim RED baseline pytest output for relay-failover tests",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2425,8 +2425,8 @@
  },
  {
   "id": "t_cec3b30d",
-  "title": "Extract verbatim recon specs (target file, command, fixtures, clock-freeze)",
-  "status": "triage",
+  "title": "Extract verbatim recon test specs (path, command, fixtures, clock-freeze)",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_7b98e49c",
   "title": "Verify --sync=cvm / derive_t0 core is merged and record its paths",
-  "status": "triage",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,

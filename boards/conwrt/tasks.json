@@ -709,7 +709,7 @@
  },
  {
   "id": "t_7128d4b0",
-  "title": "Audit net4sats LAN-move binding in docs/wizard-bundle.json",
+  "title": "Audit net4sats LAN-move ipv4 binding in docs/wizard-bundle.json (read-only)",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
@@ -757,8 +757,8 @@
  },
  {
   "id": "t_c3a46b44",
-  "title": "Audit tollgate read-back provenance against wizard bundle",
-  "status": "triage",
+  "title": "Audit tollgate read-back provenance in docs/wizard-bundle.json (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789380019,
