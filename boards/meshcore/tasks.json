@@ -2209,8 +2209,8 @@
  },
  {
   "id": "t_5c478508",
-  "title": "Extract inventory of named artifacts from upstream walk summaries",
-  "status": "triage",
+  "title": "Inventory named artifacts from upstream walk summaries (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files in bench/repo tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
