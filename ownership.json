@@ -3983,10 +3983,11 @@
  },
  "conwrt:t_c3a46b44": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789380731.3916245,
+  "status": "failed",
+  "updated": 1789386958.6369321,
   "ts": 1789380731.3916245,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789386881"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

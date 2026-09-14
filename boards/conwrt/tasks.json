@@ -661,8 +661,8 @@
  },
  {
   "id": "t_d12347f6",
-  "title": "Extract verbatim LAN-move and read-back evidence from docs/wizard-bundle.json (no writes)",
-  "status": "triage",
+  "title": "Extract verbatim LAN-move + read-back evidence for net4sats and tollgate from docs/wizard-bundle.json (read-only, no writes)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move binding in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -721,8 +721,8 @@
  },
  {
   "id": "t_db7a6ca1",
-  "title": "Audit net4sats read-back source in docs/wizard-bundle.json",
-  "status": "triage",
+  "title": "Audit net4sats read-back source in docs/wizard-bundle.json (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -745,8 +745,8 @@
  },
  {
   "id": "t_960feef0",
-  "title": "Audit tollgate LAN-move IP provenance against wizard bundle",
-  "status": "triage",
+  "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
@@ -758,7 +758,7 @@
  {
   "id": "t_c3a46b44",
   "title": "Audit tollgate read-back provenance against wizard bundle",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789380019,
