@@ -2102,7 +2102,7 @@
  {
   "id": "t_be30543a",
   "title": "Recon PR #1252 (PlebeianApp/market): save diff, pin head SHA, inventory files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789343033,

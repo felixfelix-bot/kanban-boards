@@ -854,7 +854,7 @@
  {
   "id": "t_348c2173",
   "title": "Trace task t_aaf1cda6 and relatives for board decision record",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344793,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_0e98e408",
   "title": "Run chamber 10-min holds at +25/0/-20/-40 C and capture logs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1058,7 +1058,7 @@
  {
   "id": "t_48e048a1",
   "title": "Survey chamber feedthrough port and mechanical fit of DUT + RF cable",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_2f5adb53",
   "title": "Inventory required RF connectors, adapters, and feedthrough hardware",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_de0a0fa5",
   "title": "Assess condensation and frost risk on cables at -20 C and -40 C",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1094,7 +1094,7 @@
  {
   "id": "t_2d4f1f6e",
   "title": "Determine chamber ramp-rate limits and ramp-count feasibility",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1106,7 +1106,7 @@
  {
   "id": "t_9d139605",
   "title": "Compile feedthrough + RF feasibility comment with PASS/FAIL verdict",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1118,7 +1118,7 @@
  {
   "id": "t_2eb80aef",
   "title": "Inventory bench frequency-reference candidates and signal paths",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789350825,
@@ -1130,7 +1130,7 @@
  {
   "id": "t_71af23c2",
   "title": "Audit calibration evidence for every bench instrument",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350825,
