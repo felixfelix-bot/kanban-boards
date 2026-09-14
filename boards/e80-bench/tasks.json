@@ -1429,8 +1429,8 @@
  },
  {
   "id": "t_4b3c740b",
-  "title": "GO-mode session_id sourced from ARMED payload, never derived from T0",
-  "status": "triage",
+  "title": "GO-mode session_id sourced verbatim from ARMED payload, T0/legacy untouched",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,

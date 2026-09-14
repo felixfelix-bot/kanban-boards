@@ -385,8 +385,8 @@
  },
  {
   "id": "t_f51dfe6f",
-  "title": "Recon conwrt repo root/branch/HEAD and extract verbatim D1/D2 specs into recon.md",
-  "status": "triage",
+  "title": "Recon conwrt repo identity and write verbatim D1/D2 into recon.md",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -434,7 +434,7 @@
  {
   "id": "t_111fb200",
   "title": "Establish conwrt repo root, branch, and canonical D3-D5 spec context file",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
