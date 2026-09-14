@@ -1934,7 +1934,7 @@
  {
   "id": "t_2a16c491",
   "title": "Characterize RF coax bundle dimensions and minimum bend radius",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files in repo tree (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2305,8 +2305,8 @@
  },
  {
   "id": "t_6b680174",
-  "title": "Recon tollgate-rs design-review-notes scope and publish candidate/zero-doc manifest",
-  "status": "triage",
+  "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_69e0e0d0",
   "title": "Sweep literal spelling variants of block_kind (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362587,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_62e4735a",
   "title": "Find schema/enum/validator/migration definitions of block_kind",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362587,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_bc042fa5",
   "title": "Locate scanner prefix/regex constants for blocked-card escalation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789362655,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_cd52472e",
   "title": "Trace block_kind/status classification and missing-reason fallback",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789362655,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_27ebeba6",
   "title": "Locate all request-human-action skill artifacts (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362675,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_d2280496",
   "title": "Assess three parent finding sets: cron, block_kind, reason-format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362675,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_a2f7f281",
   "title": "Physically identify thermal chamber: make, model, serial, controller",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362704,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Inspect and classify thermal chamber controller; photograph labels",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_b076f6d6",
   "title": "Inspect chamber door feedthroughs for module + RF cable routing",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363430,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_deaaa866",
   "title": "Establish chamber ramp rate (C/min) from datasheet or controller log",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363430,
