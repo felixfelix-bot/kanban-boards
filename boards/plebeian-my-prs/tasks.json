@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict for e2e.yml:148 and draft rebuttal comment body",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_f31d86c0",
   "title": "Review PR #1306: pinned-OpenSSH grep test + preview-deploy docs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_9a72d81c",
   "title": "Preflight: pin reviewed SHA and map NIP-46 diff hunks",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789364167,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_b9c10a9c",
   "title": "Fetch PR metadata to meta.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,

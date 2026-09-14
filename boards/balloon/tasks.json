@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789363358,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_69f3c883",
   "title": "Analyze app_task.cpp tollgate proto call sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_6ed74644",
   "title": "Grep firmware tree for tollgate symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report in kanban store",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report in kanban store",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Sweep esp32-tollgate repo for PAY/ACK wire-format evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Sweep esp-miner feature branch for PAY/ACK wire-format evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_864d9cb6",
   "title": "Sweep other ESP32 repos for tollgate PAY/ACK wire-format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Sweep tollgate-bash-client for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Sweep tollgate-infrastructure-kit for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Sweep tollgate-community-calls for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_644f0cc7",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789396021,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71c04a28",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789396021,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep awesome-tollgate for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789396021,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate and sweep additional tollgate repos",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396021,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_0f8b506c",
   "title": "Extract citations from reconciliation verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract git commands and claims from verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396379,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe deduplicated candidate list",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
