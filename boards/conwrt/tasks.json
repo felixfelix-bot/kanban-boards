@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Adversarially verify defects-d1-d5.md against the Issue-32 runbook",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,

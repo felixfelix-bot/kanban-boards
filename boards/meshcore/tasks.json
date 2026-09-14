@@ -1730,7 +1730,7 @@
  {
   "id": "t_d601da74",
   "title": "Identify test bench custodian with cited source and confidence",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,

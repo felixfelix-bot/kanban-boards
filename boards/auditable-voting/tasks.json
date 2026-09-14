@@ -314,7 +314,7 @@
  {
   "id": "t_10090c13",
   "title": "P2-T1: Integration merge all features",
-  "status": "blocked",
+  "status": "ready",
   "priority": 10,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162150,
