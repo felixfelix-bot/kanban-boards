@@ -2617,8 +2617,8 @@
  },
  {
   "id": "t_99d44349",
-  "title": "Grep $HOME/repos for six tollgate PAY/ACK symbols; write raw_symbol_grep.md",
-  "status": "triage",
+  "title": "Grep $HOME/repos for six tollgate PAY/ACK symbols into docs/recon/raw_symbol_grep.md",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
