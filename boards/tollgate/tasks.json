@@ -2510,7 +2510,7 @@
  {
   "id": "t_563518e2",
   "title": "Extract and hash-verify LR11x0 datasheet provenance entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_b0dc7c5a",
   "title": "Extract and hash-verify errata provenance entries",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

@@ -2990,9 +2990,9 @@
  {
   "id": "t_6ed74644",
   "title": "Grep firmware tree for tollgate symbols and produce symbol table",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "esp32-tollgate-master",
+  "assignee": "manager",
   "created_at": 1789395070,
   "started_at": null,
   "completed_at": null,
@@ -3013,8 +3013,8 @@
  },
  {
   "id": "t_4ef6b3c4",
-  "title": "Locate P1 recon report in kanban store",
-  "status": "triage",
+  "title": "Locate P1 recon report for t_77f5b39d and write /tmp/p1_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3025,8 +3025,8 @@
  },
  {
   "id": "t_7b1da30d",
-  "title": "Locate P2 recon report in kanban store",
-  "status": "triage",
+  "title": "Locate P2 recon report in kanban store and emit /tmp/p2_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3037,8 +3037,8 @@
  },
  {
   "id": "t_760a566e",
-  "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "triage",
+  "title": "Locate P3 recon report in kanban store; write /tmp/p3_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3061,8 +3061,8 @@
  },
  {
   "id": "t_b2d0ef24",
-  "title": "Read-only sweep of esp32-tollgate for PAY/ACK wire-format evidence",
-  "status": "triage",
+  "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (quoted report, no disk writes)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "Prep env: read FIPS-FIX-PLAN.md, ensure riscv32imc target installed",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Extract and freeze balloon in-repo PAY/ACK candidate list from parent sweep",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract `## Mock protocol` section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Verify CONFIG_ENABLE_* symbol inventory and declarations",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_c3acbf3f",
   "title": "Verify guard-style census counts and quoted examples",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Verify which include brings CONFIG_ENABLE_* into scope",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify precedent flags' declaration and guard quotes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Inspect build system and Kconfig for sdkconfig export and ENABLE_ symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_c7567c99",
   "title": "Inspect sdkconfig and sdkconfig.defaults for CONFIG_ENABLE_* assignments",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Pin balloon-firmware revision and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Determine whether generated sdkconfig exists and list its CONFIG_ENABLE_* entries",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware sources",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_f6afccee",
   "title": "Map tollgate_msg_hdr_t / tollgate_ack_payload_t struct usage in app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
@@ -4002,6 +4002,54 @@
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789407847,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_1f64cc5d",
+  "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789408198,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7c39ab21",
+  "title": "Enumerate price_sats and msg_type consumers with type assumptions",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-tollgate-master",
+  "created_at": 1789408198,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_d7f958f8",
+  "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789408198,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9d4a25a7",
+  "title": "Merge findings into symbol table and verify tree is clean",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789408198,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
