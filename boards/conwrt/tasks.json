@@ -830,7 +830,7 @@
  {
   "id": "t_43c83f64",
   "title": "Locate conwrt repo and record git root, branch, HEAD, and status",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

@@ -4250,7 +4250,7 @@
  {
   "id": "t_32dc9b2b",
   "title": "Recon contextvm-anker-solix for approval/gating mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "contextvm-anker-solix-master",
   "created_at": 1789388786,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_3287821a",
   "title": "Recon gitworkshop: scan branches for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789388847,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_b7ee98a0",
   "title": "Recon opencode-setup: scan branches for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "opencode-setup-master",
   "created_at": 1789388847,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_efd504d0",
   "title": "Recon openrouter-automation: scan for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "openrouter-automation-master",
   "created_at": 1789388847,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_7edce00e",
   "title": "Recon configurationwizzard: every worktree/rev for shadow-card + human-gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_d3c60dcb",
   "title": "Recon direwolf-setup (master) for shadow-card + human-gate mentions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
