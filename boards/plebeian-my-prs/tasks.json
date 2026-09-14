@@ -2630,7 +2630,7 @@
  {
   "id": "t_a5e877bb",
   "title": "Draft <=40-line review comment for market PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff/meta, verify SHA, inventory workflow files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta caller reachability (unbounded random IDs) on market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,

@@ -902,7 +902,7 @@
  {
   "id": "t_bf9878fa",
   "title": "Verify PR #55 branch naming against D-135",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
