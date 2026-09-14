@@ -962,7 +962,7 @@
  {
   "id": "t_569854ff",
   "title": "Open upstream PR: non-interactive init \u2192 sandwichfarm/nsyte",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1782671030,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open upstream nsyte PR (c03rad0r:feature/non-interactive-init \u2192 sandwichfarm:main) and report URL",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_572c0058",
   "title": "Run three p1b_ab_test.py BR-sweep variants on the real ESP32, tee raw logs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "esp-miner-master",
   "created_at": 1789375989,
