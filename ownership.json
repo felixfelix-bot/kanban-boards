@@ -2973,9 +2973,8 @@
  "auditable-voting:t_e8560b0a": {
   "node": "cobrador",
   "status": "claimed",
-  "updated": 1789372907.535543,
-  "ts": 1789372907.535543,
-  "repo": "auditable-voting"
+  "updated": 1789373016.1916993,
+  "ts": 1789373016.1916993
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
