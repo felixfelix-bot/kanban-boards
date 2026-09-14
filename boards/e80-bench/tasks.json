@@ -1418,7 +1418,7 @@
  {
   "id": "t_0e74bbf4",
   "title": "Add RED tests pinning GO-mode ARMED session_id and s<id>-go<epoch> log dir naming",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_c589f7e6",
   "title": "Extract range_check, ADR, and cvm_board_server contract for verdicts",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789344432,

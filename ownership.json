@@ -371,10 +371,11 @@
  },
  "tollgate:t_9776a766": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789337942.5093277,
+  "status": "failed",
+  "updated": 1789352012.152901,
   "ts": 1789337942.5093277,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1789351946"
  },
  "plebeian-my-prs:t_c2d12aee": {
   "node": "dq05",
@@ -714,8 +715,8 @@
  },
  "e80-bench:t_c589f7e6": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789351088.9322288,
+  "status": "done",
+  "updated": 1789351951.5685685,
   "ts": 1789345632.6456497,
   "repo": "e80-bench",
   "run_id": "dq05-1789351088"
@@ -738,8 +739,8 @@
  },
  "e80-bench:t_0e74bbf4": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789351451.6732209,
+  "status": "failed",
+  "updated": 1789351807.2583864,
   "ts": 1789345638.1710372,
   "repo": "e80-bench",
   "run_id": "dq05-1789351451"

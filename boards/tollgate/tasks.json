@@ -1790,7 +1790,7 @@
  {
   "id": "t_9776a766",
   "title": "Verify approval gate + remote branch for nsyte upstream PR (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
