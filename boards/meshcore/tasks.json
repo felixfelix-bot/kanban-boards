@@ -266,7 +266,7 @@
  {
   "id": "t_d48d7599",
   "title": "Author SelfCal EMA time-constant decision memo from lag + hysteresis findings",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789231168,
@@ -650,7 +650,7 @@
  {
   "id": "t_b09424f1",
   "title": "Identify thermal chamber and document rated range, accuracy, ramp specs",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -662,7 +662,7 @@
  {
   "id": "t_5f6eb893",
   "title": "Command and log 10-min stability at +25/0/-20/-40 C setpoints",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -674,7 +674,7 @@
  {
   "id": "t_db8ffdd6",
   "title": "Capture calshow die-temp soak evidence at +25, 0, -20, -40 C",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -686,7 +686,7 @@
  {
   "id": "t_908e995b",
   "title": "Verify cable feedthrough and RF module routing feasibility",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -698,7 +698,7 @@
  {
   "id": "t_c9a96896",
   "title": "Compile per-setpoint PASS/FAIL/UNVERIFIED evidence report and issue chamber-range PASS/STOP verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -710,7 +710,7 @@
  {
   "id": "t_6a719e4f",
   "title": "Identify external frequency reference: model, calibration, method",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344604,
@@ -758,7 +758,7 @@
  {
   "id": "t_fab2c1d2",
   "title": "Compute minimum wall-clock duration for 4-soak, 2-ramp freezing qualification run",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -770,7 +770,7 @@
  {
   "id": "t_0d0fe29c",
   "title": "Identify bench/chamber owner and secure a named, attributable reservation for the session",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -878,7 +878,7 @@
  {
   "id": "t_00609f61",
   "title": "Ingest and QC die-temp and frequency-error ramp logs",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344843,
@@ -926,7 +926,7 @@
  {
   "id": "t_7164ced6",
   "title": "Search all git refs for human-gate board and shadow-card evidence",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344857,
@@ -938,7 +938,7 @@
  {
   "id": "t_48edcb2c",
   "title": "Scan docs, notes, and ADRs for human-gate and shadow-card text",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344857,

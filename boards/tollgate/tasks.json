@@ -1922,7 +1922,7 @@
  {
   "id": "t_f270c27a",
   "title": "Add PTY-based pytest suite for serial resilience (retry, re-detect, timeout recovery)",
-  "status": "triage",
+  "status": "done",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_32ca6d45",
   "title": "Inventory LR2021 driver, LR2021_commands.h, and bench_main.cpp paths + git HEAD",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,

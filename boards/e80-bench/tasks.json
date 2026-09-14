@@ -1526,7 +1526,7 @@
  {
   "id": "t_7708c05b",
   "title": "Scaffold TX listener package, ADR constants, and test harness",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789344375,

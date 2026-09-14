@@ -1166,7 +1166,7 @@
  {
   "id": "t_f7465501",
   "title": "Review PR #1271 (ci/preview) \u2014 draft, cross-family gate, publish",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789229569,
@@ -1837,8 +1837,8 @@
  },
  {
   "id": "t_e36f50a5",
-  "title": "Trace post-gate deploy/provision steps and enumerate required Cloudflare values in preview-deploy.yml",
-  "status": "triage",
+  "title": "Trace post-gate Cloudflare steps in preview-deploy.yml (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341394,
@@ -1861,8 +1861,8 @@
  },
  {
   "id": "t_cd2385ac",
-  "title": "Pin PR #1283 head SHA, dump full diff, and build file/hunk index",
-  "status": "triage",
+  "title": "Pin PlebeianApp/market PR #1283 head SHA, dump the full diff, and build a sensitive-path file/hunk index",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -1909,8 +1909,8 @@
  },
  {
   "id": "t_88eb0032",
-  "title": "Verify PR #1232 finding 1: outbound URL origin + 503 on fetch failure",
-  "status": "triage",
+  "title": "Verify PR #1232 finding 1 (untrusted outbound URL origin + 503-on-fetch-failure) and post one evidence comment",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_6c06cae6",
   "title": "Analyze PR #1271 workflow defects (new only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789345253,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_eed4516c",
   "title": "Analyze PR #1271 infra + routing defects (new only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789345253,

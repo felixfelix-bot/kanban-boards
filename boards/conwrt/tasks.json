@@ -181,7 +181,7 @@
  },
  {
   "id": "t_21231fd4",
-  "title": "Extract net4sats LAN-move + read-back block into evidence md",
+  "title": "Extract net4sats LAN-move + read-back evidence into one md",
   "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
@@ -193,8 +193,8 @@
  },
  {
   "id": "t_9cf057cf",
-  "title": "Extract tollgate LAN-move + read-back block from wizard-bundle (read-only)",
-  "status": "ready",
+  "title": "Extract tollgate LAN-move + read-back block from docs/wizard-bundle.json (read-only, one evidence file)",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789343688,

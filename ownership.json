@@ -283,9 +283,11 @@
  },
  "meshcore:t_d48d7599": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789241133.3579524,
-  "ts": 1789241133.3579524
+  "status": "done",
+  "updated": 1789355224.9134672,
+  "ts": 1789355158.988802,
+  "repo": "meshcore",
+  "run_id": "dq05-1789355158"
  },
  "e80-bench:t_8cb98792": {
   "node": "dq05",
@@ -879,16 +881,16 @@
  },
  "plebeian-my-prs:t_6c06cae6": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789355079.0633526,
+  "status": "done",
+  "updated": 1789355148.7403343,
   "ts": 1789345670.6373377,
   "repo": "plebeian-my-prs",
   "run_id": "dq05-1789355079"
  },
  "plebeian-my-prs:t_eed4516c": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789355080.720051,
+  "status": "done",
+  "updated": 1789355150.6130412,
   "ts": 1789345672.1639152,
   "repo": "plebeian-my-prs",
   "run_id": "dq05-1789355080"
@@ -1759,6 +1761,14 @@
   "ts": 1789354724.6813796,
   "repo": "balloon"
  },
+ "conwrt:t_9cf057cf": {
+  "node": "dq05",
+  "status": "done",
+  "updated": 1789344704.985954,
+  "ts": 1789344050.5381446,
+  "repo": "conwrt",
+  "run_id": "dq05-1789344195"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
@@ -1940,14 +1950,6 @@
   "ts": 1789344048.6923995,
   "repo": "ngit-ci-dashboard",
   "run_id": "dq05-1789344048"
- },
- "conwrt:t_9cf057cf": {
-  "node": "dq05",
-  "status": "done",
-  "updated": 1789344704.985954,
-  "ts": 1789344050.5381446,
-  "repo": "conwrt",
-  "run_id": "dq05-1789344195"
  },
  "conwrt:t_21231fd4": {
   "node": "dq05",
