@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Adversarially verify defects-d1-d5.md against the Issue-32 runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,
@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back blocks to tollgate-blocks.txt",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -553,8 +553,8 @@
  },
  {
   "id": "t_bf9f349a",
-  "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json (consumes derived value vs literal/placeholder)",
-  "status": "triage",
+  "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
