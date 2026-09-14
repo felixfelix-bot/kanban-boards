@@ -434,7 +434,7 @@
  {
   "id": "t_111fb200",
   "title": "Establish conwrt repo root, branch, and canonical D3-D5 spec context file",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Locate net4sats LAN-move recipe key path; capture verbatim commands",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
