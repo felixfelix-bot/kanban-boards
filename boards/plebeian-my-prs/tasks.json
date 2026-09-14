@@ -2546,7 +2546,7 @@
  {
   "id": "t_16a4561c",
   "title": "Verify PR #1306 head SHA c20765e7 and pin the diff artifact",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
