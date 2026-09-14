@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Read-only inventory of all `block_kind` hits + scanner-module verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1525,8 +1525,8 @@
  },
  {
   "id": "t_ec8e8685",
-  "title": "Locate kanban_block definition; document reason parameter signature verbatim",
-  "status": "triage",
+  "title": "Locate kanban_block definition; document reason param signature verbatim",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -3085,8 +3085,8 @@
  },
  {
   "id": "t_9f57a551",
-  "title": "Inventory all bench frequency reference sources (physical, on-bench)",
-  "status": "triage",
+  "title": "Physical on-bench inventory of all frequency reference sources",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3313,8 +3313,8 @@
  },
  {
   "id": "t_08f0587e",
-  "title": "Compute added RF insertion loss and recalibration decision",
-  "status": "triage",
+  "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_7a16e421",
   "title": "Measure coax cable, connector, and bundle OD plus routing slack with calipers",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373958,
@@ -3529,8 +3529,8 @@
  },
  {
   "id": "t_f0ed35a0",
-  "title": "Map workspace topology: repos, worktrees, plain dirs (read-only)",
-  "status": "triage",
+  "title": "Read-only recon: map workspace repos, worktrees, and plain dirs",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3541,8 +3541,8 @@
  },
  {
   "id": "t_6a9d342c",
-  "title": "Scan doc roots, .md files, ADR/RFC/design-review-notes files",
-  "status": "triage",
+  "title": "Recon: enumerate doc roots, .md files, and ADR/RFC/design-review-notes paths (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3553,8 +3553,8 @@
  },
  {
   "id": "t_4a323fdc",
-  "title": "Write attributed per-repo doc-surface inventory report",
-  "status": "triage",
+  "title": "Produce attributed per-repo doc-surface inventory report (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3565,8 +3565,8 @@
  },
  {
   "id": "t_2c7b7d95",
-  "title": "Inventory git worktrees and sibling checkout directories (read-only)",
-  "status": "triage",
+  "title": "Read-only inventory: git worktrees + sibling checkout dirs, with reachability table",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,

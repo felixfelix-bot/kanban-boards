@@ -541,8 +541,8 @@
  },
  {
   "id": "t_7045c59a",
-  "title": "Extract verbatim LAN-move + read-back blocks into tollgate-blocks.txt",
-  "status": "triage",
+  "title": "Extract verbatim LAN-move + read-back command blocks into tollgate-blocks.txt",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -553,8 +553,8 @@
  },
  {
   "id": "t_bf9f349a",
-  "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json and write cited findings",
-  "status": "triage",
+  "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move + read-back evidence for net4sats and tollgate from docs/wizard-bundle.json (read-only, no writes)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write provenance-verification.md and verify repo unmodified",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
