@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_d7b46e33",
-  "title": "Synthesize final tollgate PAY/ACK upstream audit report",
+  "title": "Write final tollgate PAY/ACK upstream audit report (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -1765,8 +1765,8 @@
  },
  {
   "id": "t_fda79044",
-  "title": "Recon Tollgate PAY/ACK call sites in main/app_task.cpp and write API contract doc",
-  "status": "triage",
+  "title": "Recon Tollgate PAY/ACK sites in app_task.cpp; write proto API contract doc",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1777,8 +1777,8 @@
  },
  {
   "id": "t_982aa0e1",
-  "title": "Recon: document test_relay_pipeline.c mock proto contract into docs/recon/tollgate_proto_test_mock.md",
-  "status": "triage",
+  "title": "Document test_relay_pipeline.c mock proto contract into docs/recon/tollgate_proto_test_mock.md",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1825,8 +1825,8 @@
  },
  {
   "id": "t_55d4acb7",
-  "title": "Document CONFIG_ENABLE_* guard convention and CONFIG_ENABLE_TOLLGATE declaration vs consumption",
-  "status": "triage",
+  "title": "Document CONFIG_ENABLE_* guard convention and TOLLGATE flag usage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Deep-read and classify sibling tollgate repo PAY/ACK candidates",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
