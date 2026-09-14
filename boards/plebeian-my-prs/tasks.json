@@ -1358,7 +1358,7 @@
  {
   "id": "t_8929cbe1",
   "title": "Trigger and observe CI for fork PR market #4, iterate plumbing only",
-  "status": "blocked",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-heavy",
   "created_at": 1789334644,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_3dd86d27",
   "title": "Review PR #1306 diff at c20765e and draft Felix-style comment",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335202,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_6f8f95b1",
   "title": "Inventory PR #1232 inline comments and map the 5 known targets",
-  "status": "ready",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341817,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_0061c823",
   "title": "Synthesize findings and draft PR #1271 review comment",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789345253,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict and draft rebuttal comment body",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_fc7f7463",
   "title": "Diff PR #1232 body against reality and draft corrected wording",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789348503,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate every CI check on PR #1232 (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Trace ogMeta saturation/fallback await path (Q3)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta lookup key, cache format/TTL, and caller reachability (Q4)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3102,6 +3102,54 @@
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2438849c",
+  "title": "Pin PR #1232 head and record per-target fixing commit SHAs",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-master",
+  "created_at": 1789357713,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_68160ca9",
+  "title": "Inventory all inline review comments on PR #1232",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-chore-pr1003-review-plan",
+  "created_at": 1789357713,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9677a57e",
+  "title": "Extract proving test names from PR #1232 head tree",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-ci-e2e-grep-input",
+  "created_at": 1789357713,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_6b53fe32",
+  "title": "Assemble PR #1232 dossier: inline comments + target evidence tables",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "market-master",
+  "created_at": 1789357713,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

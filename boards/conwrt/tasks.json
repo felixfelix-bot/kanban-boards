@@ -314,7 +314,7 @@
  {
   "id": "t_4b875db5",
   "title": "Extract D1-Dn defect table from issue32 verification runbook",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355446,
