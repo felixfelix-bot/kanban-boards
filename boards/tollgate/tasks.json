@@ -2066,7 +2066,7 @@
  {
   "id": "t_e70380ca",
   "title": "Add rescan/retry serial helpers to tests/p1b_ab_test.py",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_5a6297cf",
   "title": "Inventory LR2021 sources already present in the local repos",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789348145,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_72f4873c",
   "title": "Fetch LR2021 datasheet, errata, and RadioLib driver from upstream",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348145,
