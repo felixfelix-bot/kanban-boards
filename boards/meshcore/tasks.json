@@ -4742,7 +4742,7 @@
  {
   "id": "t_3681035e",
   "title": "Catalogue ice-bridging electrical failure modes at the coax SMA interface",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389928,
@@ -4886,7 +4886,7 @@
  {
   "id": "t_55295a78",
   "title": "Catalogue instrument-side electronics failure modes",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390331,
@@ -4910,7 +4910,7 @@
  {
   "id": "t_c1e285bd",
   "title": "Identify all RF coax cables in the bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390387,
@@ -4934,7 +4934,7 @@
  {
   "id": "t_0d8d2173",
   "title": "Record radio chip part number from physical module markings",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789390934,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_381a8893",
   "title": "Capture band and nominal carrier frequency with all source citations",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789390934,
@@ -4958,7 +4958,7 @@
  {
   "id": "t_1ffd6d01",
   "title": "Identify RF port connector and antenna configuration",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-layout",
   "created_at": 1789390934,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_4d87333a",
   "title": "Inventory all candidate booking systems for bench and thermal chamber",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789391104,
@@ -4994,7 +4994,7 @@
  {
   "id": "t_63338b20",
   "title": "Observe and document current physical occupancy of bench and thermal chamber",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789391104,
@@ -5030,7 +5030,7 @@
  {
   "id": "t_09c431c2",
   "title": "Compute Magnus dew/frost point table for warm-side ambient grid",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392207,
@@ -5042,7 +5042,7 @@
  {
   "id": "t_5812724a",
   "title": "Establish measurement status and assumption register for warm-side air",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392207,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_f57dd8e9",
   "title": "Search lab wiki and docs for test-bench ownership records",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392498,
@@ -5090,7 +5090,7 @@
  {
   "id": "t_a867fd64",
   "title": "Mine calendars and booking sheets for bench owner/approver",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392498,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_c086a169",
   "title": "Inspect physical bench logbook for recurring custodian signature",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392498,
@@ -5114,7 +5114,7 @@
  {
   "id": "t_88006d69",
   "title": "Search Slack/Matrix history for test-bench ownership claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392498,
@@ -5138,7 +5138,7 @@
  {
   "id": "t_89c25664",
   "title": "Harvest off-board pointers from anchored-walk row summaries (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392516,
@@ -5150,7 +5150,7 @@
  {
   "id": "t_70df2401",
   "title": "Harvest off-board pointers from keyword-sweep task summary (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392516,
@@ -5174,7 +5174,7 @@
  {
   "id": "t_b23c606a",
   "title": "Locate conversion work item and all cal-emission sites (provenance map)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394312,
@@ -5222,7 +5222,7 @@
  {
   "id": "t_f5f3fe8a",
   "title": "Capture photos and caliper data for every DUT RF port",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394399,
@@ -5234,7 +5234,7 @@
  {
   "id": "t_4a205f41",
   "title": "Build connector-family reference sheet (diameter, thread, polarity)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394399,
@@ -5270,7 +5270,7 @@
  {
   "id": "t_e5d5eaae",
   "title": "Freeze routing and record caliper/tape tool resolutions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397399,
@@ -5318,7 +5318,7 @@
  {
   "id": "t_03954030",
   "title": "Define feedthrough ID scheme, measurement protocol, and photo log",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397467,
@@ -5366,7 +5366,7 @@
  {
   "id": "t_69bc5ef5",
   "title": "Measure module rigid envelope and protrusions with photo evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397484,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_9693c9bb",
   "title": "Identify RF connector type, cable OD and min bend radius",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397484,

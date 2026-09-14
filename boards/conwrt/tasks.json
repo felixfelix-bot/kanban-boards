@@ -422,7 +422,7 @@
  {
   "id": "t_ec3046f3",
   "title": "Assemble triage-d1-d2.md table + interactions note",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move ipv4 binding in docs/wizard-bundle.json (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,

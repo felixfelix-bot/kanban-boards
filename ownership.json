@@ -4783,8 +4783,8 @@
  },
  "conwrt:t_7128d4b0": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789413600.1600943,
+  "status": "failed",
+  "updated": 1789413667.823873,
   "ts": 1789406944.3020258,
   "repo": "conwrt",
   "run_id": "cobrador-1789413600"
@@ -4808,10 +4808,10 @@
  "conwrt:t_960feef0": {
   "node": "cobrador",
   "status": "failed",
-  "updated": 1789407972.5810606,
+  "updated": 1789413879.6864247,
   "ts": 1789407892.7011538,
   "repo": "conwrt",
-  "run_id": "cobrador-1789407892"
+  "run_id": "cobrador-1789413813"
  },
  "conwrt:t_70771824": {
   "node": "cobrador",

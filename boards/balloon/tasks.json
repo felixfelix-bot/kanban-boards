@@ -3842,7 +3842,7 @@
  {
   "id": "t_9451989d",
   "title": "Build tollgate Go repo inventory + filename/proto/schema sweep",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789404862,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_03b6c934",
   "title": "Grep wire-format keywords across HEAD and CLI/JSON worktrees",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789404862,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_6b085e89",
   "title": "Deep dive autopay / payment-gate / portal PAY-ACK paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789404862,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_d18ff846",
   "title": "Enumerate candidate repos and capture branch/HEAD/remote table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_d5a1daec",
   "title": "Inventory tollgate_proto_encode/decode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_16ae7427",
   "title": "Map TG_MSG_* constants and tollgate struct field accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_09201955",
   "title": "Extract tollgate_payment_proto.h symbol table with verbatim signatures",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_5f83c272",
   "title": "Survey other consumers of tollgate_payment_proto.h for convention drift",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789407847,
