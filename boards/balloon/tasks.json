@@ -2894,7 +2894,7 @@
  {
   "id": "t_50b1fea0",
   "title": "Determine empirically how CONFIG_ENABLE_* becomes visible to sources",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_646214a6",
   "title": "Deep-dive 2-3 precedent CONFIG_ENABLE_* flags: declaration + guard",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
