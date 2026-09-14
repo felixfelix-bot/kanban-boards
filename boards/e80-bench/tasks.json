@@ -1538,7 +1538,7 @@
  {
   "id": "t_809ac8ea",
   "title": "TDD: broad subscribe, npub allowlist, relay failover, env keys",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_11cf44fe",
   "title": "TDD: ARMED schema validation and 60s/30s freshness watchdog",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_c589f7e6",
   "title": "Extract range_check, ADR, and cvm_board_server contract for verdicts",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789344432,
@@ -1633,8 +1633,8 @@
  },
  {
   "id": "t_bd09660b",
-  "title": "Reproduce 23 RED failures and build bucketed inventory",
-  "status": "triage",
+  "title": "Reproduce e80 range-split RED suite and write bucketed failure inventory",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789348639,

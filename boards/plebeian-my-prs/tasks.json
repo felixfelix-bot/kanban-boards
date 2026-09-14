@@ -1826,7 +1826,7 @@
  {
   "id": "t_a111a86d",
   "title": "Extract readiness predicate, secrets, and fail-mode evidence from preview-deploy.yml at e690a826 (market PR #1271)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e36f50a5",
   "title": "Trace post-gate deploy/provision steps and enumerate required Cloudflare values in preview-deploy.yml",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341394,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_cd2385ac",
   "title": "Pin PR #1283 head SHA, dump full diff, and build file/hunk index",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_88eb0032",
   "title": "Verify PR #1232 finding 1: outbound URL origin + 503 on fetch failure",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_1ff488bb",
   "title": "Verify PR #1232 Finding 5: product:price:currency cleanup-matrix gap",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_ee0bc1f6",
   "title": "Map Finding 9 (Franchovy BLOCKER) to its concrete inline item(s) on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_1c42dfe9",
   "title": "Finding 6: io.ts relay-boundary analysis vs PR #1232 server relay path",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341805,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_95bb4aeb",
   "title": "Gather PR #1232 gate evidence + e2e.yml:148 revert proof (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,

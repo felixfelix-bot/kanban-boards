@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open nsyte upstream PR and report URL to operator",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget React component consuming hook + Sass",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
