@@ -962,7 +962,7 @@
  {
   "id": "t_569854ff",
   "title": "Open upstream PR: non-interactive init \u2192 sandwichfarm/nsyte",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1782671030,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_40f54881",
   "title": "Search Semtech support KB for LR2021 known-issue articles",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,

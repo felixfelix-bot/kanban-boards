@@ -3916,10 +3916,11 @@
  },
  "tollgate:t_40f54881": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789380444.078643,
+  "status": "failed",
+  "updated": 1789383066.053797,
   "ts": 1789380444.078643,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1789382984"
  },
  "tollgate:t_128a5671": {
   "node": "cobrador",
