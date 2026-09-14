@@ -2726,7 +2726,7 @@
  {
   "id": "t_10fa9973",
   "title": "Locate gift-wrap kind-1059 choke-point and prove single construction path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_982c341b",
   "title": "Inventory randomness sources in the key-derivation path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_cfa1c67e",
   "title": "Record exact test invocation, conftest and env for the tools subproject",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e59cdfe9",
   "title": "Audit failover/publisher tests for real network primitives",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_f0b5592d",
   "title": "Audit gift-wrap event construction for a single choke-point",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,
