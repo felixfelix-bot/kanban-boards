@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict for e2e.yml:148 and draft rebuttal comment body",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_23639d98",
   "title": "Fetch and normalize PR #1252 diff at head 4737cfb",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_f3012fde",
   "title": "Recon PR #1313 diff: map relay-related hunks to head file:line",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789366403,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_2d713ce5",
   "title": "Audit PR #1312 ingestion-path coverage of bound + envelope",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_39ae50b2",
   "title": "Audit PR #1312 backpressure and bound integrity under load",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_1126cdd1",
   "title": "Synthesize <=40-line Felix-style draft review for PR #1312",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_870dd583",
   "title": "Extract Cloudflare provisioning requirements for PR #1271",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_43642e30",
   "title": "Fetch PR #1252 diff, pin head SHA, inventory changed files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_93a1b518",
   "title": "Review signer construction and API-semantics changes in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_7a51c964",
   "title": "Review key-material and NIP-04/44 crypto paths in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_5437949e",
   "title": "Review type casts and error propagation in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_99a7a93c",
   "title": "Synthesize lens-1 findings for PR #1252 and verify acceptance",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_17c0ee6e",
   "title": "Audit handler-id chain derivation in PR #1313 for NEW issues",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373237,

@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360361,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_fbce1ad2",
   "title": "Recon tollgate-rs branches for gating mechanisms (skip design-review-notes)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366626,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_818dd692",
   "title": "Recon tollgate-module-basic-go all branches for gating mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789366626,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_522d72c3",
   "title": "Recon awesome-tollgate, bash-client, community-calls for gating",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789366626,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_dc2d1a4c",
   "title": "Recon infrastructure-kit, quaterly-reports, release-explorer-site",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366626,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_cef03fd2",
   "title": "Recon esp-miner (master + tollgate feature) for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789366684,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_51b4e2d9",
   "title": "Recon esp32-tollgate master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789366684,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_573b1688",
   "title": "Recon esp32-mesh for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789366684,
@@ -2774,7 +2774,7 @@
  {
   "id": "t_eb262eda",
   "title": "Recon esp32-balloon-integration branches for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366684,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_a537662d",
   "title": "Recon fips feature branch for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789366684,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Recon sx1280-testing master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_1ede17ad",
   "title": "Scan market master/chore/ci branches for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789366751,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_4f37b954",
   "title": "Scan market feat/* branches for gate/shadow-card mechanism hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789366751,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_81ff8fa8",
   "title": "Scan market fix/security branches for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789366751,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_79637390",
   "title": "Scan nutband main for gate/shadow-card mechanism hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789366751,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_1e13b4b9",
   "title": "Scan nostr-glasses master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "nostr-glasses-master",
   "created_at": 1789366751,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_e5b0a5ed",
   "title": "Recon shard B: gitworkshop, opencode-setup, openrouter-automation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789366796,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_0e2568b5",
   "title": "Recon shard C: configurationwizzard, direwolf-setup, rana",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789366796,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_c3466f00",
   "title": "Recon shard D: physical-router-test-automation, screen-sharing, vanity-npub, backups + unlisted workspace roots",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789366796,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_50fe334e",
   "title": "Implement parser-contract conversion and rounding primitives",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789369906,

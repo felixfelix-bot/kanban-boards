@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe group resets, one-shot reopen retry, and --[no-]reset-between-tests into tests/p1b_ab_test.py",
-  "status": "ready",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
