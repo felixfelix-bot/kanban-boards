@@ -1418,7 +1418,7 @@
  {
   "id": "t_0e74bbf4",
   "title": "Add RED tests pinning GO-mode ARMED session_id and s<id>-go<epoch> log dir naming",
-  "status": "todo",
+  "status": "done",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789344272,
@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "Source GO-mode session_id from the ARMED message payload",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_b38213a4",
   "title": "Write RED pytest suite for RX ARMED gift-wrap publisher",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_8b927b22",
   "title": "Implement session_id, ARMED payload schema, env key loading",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_3400f179",
   "title": "Implement NIP-59 gift-wrap publish and relay failover",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,

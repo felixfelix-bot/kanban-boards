@@ -1502,7 +1502,7 @@
  {
   "id": "t_23867add",
   "title": "Verify esp-common atomics fix builds for riscv32imc host",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789339218,
@@ -1813,8 +1813,8 @@
  },
  {
   "id": "t_c07dd247",
-  "title": "Enumerate every tollgate symbol usage in main/app_task.cpp",
-  "status": "triage",
+  "title": "Inventory every tollgate symbol usage in main/app_task.cpp (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1825,8 +1825,8 @@
  },
  {
   "id": "t_55d4acb7",
-  "title": "Document CONFIG_ENABLE_TOLLGATE and CONFIG_ENABLE_* guard pattern",
-  "status": "triage",
+  "title": "Document CONFIG_ENABLE_* guard convention and CONFIG_ENABLE_TOLLGATE declaration/consumption",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789352009,
@@ -1838,9 +1838,9 @@
  {
   "id": "t_e8282529",
   "title": "Synthesize tollgate_payment_proto.h API-shape markdown deliverable",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789352009,
   "started_at": null,
   "completed_at": null,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_67c2e1bc",
   "title": "Build worked byte-offset example and assemble final markdown section",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_7676d001",
   "title": "Retrieve and verify the three parent recon reports",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358768,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_cef4342d",
   "title": "Sweep balloon-fresh repo for existing PAY/ACK protocol artifacts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358797,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_a4d8b924",
   "title": "Sweep sibling tollgate repos for PAY/ACK wire-format definitions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358797,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_f63a77fa",
   "title": "Deep-read and classify surfaced PAY/ACK candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358797,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write docs/recon/raw_doc_scan.md PAY/ACK recon artifact",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358797,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_b3e92fd9",
   "title": "Recon relay_types.h types + relay packet framing convention",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE declaration + CONFIG_ENABLE_* guard conventions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_62c396a3",
   "title": "Extract tollgate payment proto contract from recon doc and call sites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360704,
@@ -2262,6 +2262,42 @@
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789360704,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_cfd777d1",
+  "title": "Re-verify Report A tollgate call sites in main/app_task.cpp",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-tollgate-master",
+  "created_at": 1789360966,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fc39c9bb",
+  "title": "Re-verify Report B sdkconfig CONFIG_ENABLE_TOLLGATE lines",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789360966,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_57abd93b",
+  "title": "Assemble tollgate_payment_proto.h API-shape markdown deliverable",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "esp32-tollgate-master",
+  "created_at": 1789360966,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

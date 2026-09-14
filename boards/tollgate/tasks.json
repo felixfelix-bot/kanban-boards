@@ -1742,7 +1742,7 @@
  {
   "id": "t_973c2e9d",
   "title": "Create BalanceWidget React component with /balance polling and Sass styles",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789145177,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open upstream nsyte PR (c03rad0r:feature/non-interactive-init \u2192 sandwichfarm:main) and report URL",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget.jsx consuming useBalancePolling + _balance-widget.scss",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags into tests/p1b_ab_test.py",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_cdde8172",
   "title": "Inventory LR2021 artifacts in esp32-balloon-integration worktree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_b8d10591",
   "title": "Inventory local LR2021 PDFs, specs, errata and register defines",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,

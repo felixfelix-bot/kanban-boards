@@ -2114,7 +2114,7 @@
  {
   "id": "t_c6d5f2c3",
   "title": "Review diff for signer key-handling/type/behavior regressions",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789343033,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_a72ce5c3",
   "title": "Audit diff for ADR-0002 migration gaps and parity drift",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343033,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_f7babe60",
   "title": "Review PR #1313 for NEW issues: union zap relay handling",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789343174,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_2f6096de",
   "title": "Review PR #1313 for NEW issues: handler-id chain + trimming",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789343174,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_0061c823",
   "title": "Synthesize findings and draft PR #1271 review comment",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789345253,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_f23d473c",
   "title": "Gate 2.5: cold cross-family review of #1271 draft",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789345253,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_a7d65a84",
   "title": "Write verdict + kanban_comment for finding 3, draft PR reply if wrong",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346152,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict and draft rebuttal comment body",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_4f0bf3b9",
   "title": "Fuse gate evidence into Finding 7 verdict and downstream-action list",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate every CI check on PR #1232 (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_7d49f213",
   "title": "Reconcile PR #1232 outstanding gates into final report (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
