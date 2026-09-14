@@ -1826,7 +1826,7 @@
  {
   "id": "t_123c4431",
   "title": "Recon boundary-mode test harness, fixtures, and test command (e80-stm32-bench)",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "RED test: GO session_id equals ARMED session_id exactly",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename is exactly s<session_id>-go<epoch>",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_c155a13b",
   "title": "Legacy regression guard: boundary-mode dir names byte-for-byte unchanged",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,

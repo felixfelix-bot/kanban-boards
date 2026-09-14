@@ -2222,7 +2222,7 @@
  {
   "id": "t_0061c823",
   "title": "Synthesize findings and draft PR #1271 review comment",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789345253,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_a7d65a84",
   "title": "Write verdict + kanban_comment for finding 3, draft PR reply if wrong",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346152,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict and draft rebuttal comment body",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_4f0bf3b9",
   "title": "Fuse gate evidence into Finding 7 verdict and downstream-action list",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_f35aaa99",
   "title": "Run gh_cli_healthcheck.sh on dq05, prove real PR mutation",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate every CI check on PR #1232 (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2774,7 +2774,7 @@
  {
   "id": "t_c0db8527",
   "title": "Pin PR #1232 head SHA and capture diff + changed-file list (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_ae1adb03",
   "title": "Fetch PR #1232 head and map the SSR OG-metadata test surface",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_26ea2c09",
   "title": "Inventory unit tests asserting OG-metadata output",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_0341c14e",
   "title": "Inventory E2E/Playwright tests asserting OG-metadata output",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_6736d77d",
   "title": "Compile coverage inventory and prove missing OG-metadata tests",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_60f0df9f",
   "title": "Grep PR #1232 head for trusted-origin / hostile-Host 503 tests",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_52dbfca0",
   "title": "Grep PR #1232 head for product ownership + navigation tests",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_f3e2f94d",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_2f4d0525",
   "title": "Grep PR #1232 head e2e OG-meta-tags spec for four test titles",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_054a542f",
   "title": "Assemble bucket evidence table for PR #1232 test names",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_a32dae8e",
   "title": "Verify Top-level reviews table completeness for PR #1232",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_2045be89",
   "title": "Verify Triage section integrity for PR #1232",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Collect PR #1232 top-level reviews with verbatim digests",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Locate design-pass triage artifact for PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_2438849c",
   "title": "Pin PR #1232 head and record per-target fixing commit SHAs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_9677a57e",
   "title": "Extract proving test names from PR #1232 head tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357713,

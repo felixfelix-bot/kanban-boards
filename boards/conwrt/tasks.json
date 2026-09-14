@@ -386,7 +386,7 @@
  {
   "id": "t_f51dfe6f",
   "title": "Recon conwrt repo root/branch and extract D1/D2 specs",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,

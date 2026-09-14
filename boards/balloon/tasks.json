@@ -1681,7 +1681,7 @@
  },
  {
   "id": "t_ca11448d",
-  "title": "Assemble symbol-by-symbol accounting report and chase zero-hit symbols",
+  "title": "Assemble six-symbol grep accounting report with re-verified zero-hit pass",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_d7b46e33",
-  "title": "Synthesize upstream PAY/ACK spec audit report",
+  "title": "Synthesize upstream tollgate PAY/ACK spec audit report",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -1982,7 +1982,7 @@
  {
   "id": "t_7fce5542",
   "title": "Verbatim line-numbered transcript of relay_types.h relay-type enum + PASS/FAIL on 0x02 and 0x03",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_3b3bac1b",
   "title": "Extract mock protocol doc section verbatim (read-only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789354162,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Transcribe relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,

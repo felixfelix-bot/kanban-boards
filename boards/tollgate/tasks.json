@@ -1202,7 +1202,7 @@
  {
   "id": "t_ae9c871c",
   "title": "Portal UI: Balance widget + rounded corners (feedback items 2+3)",
-  "status": "todo",
+  "status": "ready",
   "priority": 2,
   "assignee": "manager",
   "created_at": 1782760598,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_973c2e9d",
   "title": "Create BalanceWidget React component with /balance polling and Sass styles",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789145177,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_b89f6ae2",
   "title": "Inventory vendored/submoduled RadioLib LR2021 & LR11x0 sources",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_859cce41",
   "title": "Write docs/lr2021-research/local-inventory.md handoff file",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
