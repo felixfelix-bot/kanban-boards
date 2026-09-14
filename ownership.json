@@ -5050,6 +5050,13 @@
   "repo": "conwrt",
   "run_id": "cobrador-1789414234"
  },
+ "conwrt:t_2606a296": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789356485.9862561,
+  "ts": 1789356203.1339087,
+  "repo": "conwrt"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
@@ -5354,13 +5361,6 @@
   "status": "claimed",
   "updated": 1789356484.233025,
   "ts": 1789356203.1303027,
-  "repo": "conwrt"
- },
- "conwrt:t_2606a296": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789356485.9862561,
-  "ts": 1789356203.1339087,
   "repo": "conwrt"
  },
  "conwrt:t_a27f30d9": {
