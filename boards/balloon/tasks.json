@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Inventory CONFIG_ENABLE_TOLLGATE occurrences in balloon firmware tree (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_69f3c883",
   "title": "Audit tollgate proto call sites in balloon firmware app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_6ed74644",
   "title": "Grep firmware tree for tollgate symbols and produce symbol table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report in kanban store",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Read-only sweep of esp32-tollgate for PAY/ACK wire-format evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Sweep esp-miner feature/tollgate-component-integration for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Read-only sweep of tollgate-bash-client for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Sweep tollgate-infrastructure-kit for PAY/ACK wire format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Read-only sweep of tollgate-community-calls for PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,

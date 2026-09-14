@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Verify required-check merge gates on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Extract PR #1232 top-level reviews + verbatim digests (read-only artifact)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,

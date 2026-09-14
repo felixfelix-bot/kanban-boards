@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_8f776e31",
   "title": "Re-derive cal <k> <T0> parser contract from firmware source with file:line citations",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Enumerate all bench frequency-referencing instruments into INST-nn roster",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
