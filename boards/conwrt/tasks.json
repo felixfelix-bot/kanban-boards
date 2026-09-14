@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Verify defect table quotes verbatim against runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,

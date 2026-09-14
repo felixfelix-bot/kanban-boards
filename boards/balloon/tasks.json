@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE declaration and CONFIG_ENABLE_* guard conventions",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2197,8 +2197,8 @@
  },
  {
   "id": "t_0e77b291",
-  "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim from tracker/firmware to /tmp, with evidence-backed flags",
-  "status": "triage",
+  "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789359172,
