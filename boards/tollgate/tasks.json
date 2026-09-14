@@ -2198,7 +2198,7 @@
  {
   "id": "t_c6dd8d63",
   "title": "Fetch RadioLib LR2021 driver sources pinned to a commit SHA",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_1c68efc3",
   "title": "Fetch Semtech LR2021 product page and official datasheet",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_28e7ee80",
   "title": "Fetch Semtech LR11x0-family datasheets (LR1110/LR1120/LR1121)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_b7a77949",
   "title": "Locate LR2021 errata, application notes, and known-limitations docs",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
