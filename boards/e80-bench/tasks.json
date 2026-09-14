@@ -1297,7 +1297,7 @@
  },
  {
   "id": "t_b6e39589",
-  "title": "Pin frozen s<sid>-go<epoch> session_id contract for range_check join",
+  "title": "Document frozen s<sid>-go<epoch> session_id contract for range_check join",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
@@ -1334,7 +1334,7 @@
  {
   "id": "t_f623b10c",
   "title": "Add RED tests + fixtures pinning frozen session-dir naming contract in range_check",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789339377,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_b38213a4",
   "title": "Write failing Gate1 RED tests for RX ARMED gift-wrap publisher",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_8b927b22",
   "title": "Implement session_id, ARMED payload schema, env key loading",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_3400f179",
   "title": "Implement NIP-59 gift-wrap publish and relay failover",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
