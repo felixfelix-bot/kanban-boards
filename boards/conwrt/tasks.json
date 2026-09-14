@@ -398,7 +398,7 @@
  {
   "id": "t_57592c2c",
   "title": "Triage defect D1: cite current file:line, impact, blocks-live-run verdict, minimal fix",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -422,7 +422,7 @@
  {
   "id": "t_ec3046f3",
   "title": "Assemble triage-d1-d2.md table + interactions note",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -902,7 +902,7 @@
  {
   "id": "t_bf9878fa",
   "title": "Verify PR #55 branch name complies with D-135 'pr/' prefix rule",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,

@@ -2354,7 +2354,7 @@
  {
   "id": "t_6b0e3c09",
   "title": "Download Semtech LR2021 datasheet PDF or record exact failure",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
