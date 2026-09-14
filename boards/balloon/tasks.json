@@ -1574,7 +1574,7 @@
  {
   "id": "t_acee3bc0",
   "title": "Inventory all tollgate symbol usages in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342392,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_7fce5542",
   "title": "Verbatim line-numbered transcript of relay_types.h relay-type enum + PASS/FAIL on 0x02 and 0x03",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_3b3bac1b",
   "title": "Extract mock protocol doc section verbatim (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789354162,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Transcribe relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,

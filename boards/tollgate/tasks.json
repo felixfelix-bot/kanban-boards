@@ -1958,7 +1958,7 @@
  {
   "id": "t_e00b32dc",
   "title": "Enumerate SET_AUTO_RX_TX and SET_TX_PARAMS layouts",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_f8586797",
   "title": "Enumerate CONFIG_FIFO_IRQ, GET_TX_FIFO_LEVEL, CLEAR_TX_FIFO layouts",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags into tests/p1b_ab_test.py",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_cdde8172",
   "title": "Inventory LR2021 artifacts in esp32-balloon-integration worktree",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_b89f6ae2",
   "title": "Inventory vendored/submoduled RadioLib LR2021 & LR11x0 sources",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_b8d10591",
   "title": "Inventory local LR2021 PDFs, specs, errata and register defines",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_859cce41",
   "title": "Write docs/lr2021-research/local-inventory.md handoff file",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_c6dd8d63",
   "title": "Fetch RadioLib LR2021 driver sources pinned to a commit SHA",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_1c68efc3",
   "title": "Fetch Semtech LR2021 product page and official datasheet",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_28e7ee80",
   "title": "Fetch Semtech LR11x0-family datasheets (LR1110/LR1120/LR1121)",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_b7a77949",
   "title": "Locate LR2021 errata, application notes, and known-limitations docs",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,

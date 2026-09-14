@@ -398,7 +398,7 @@
  {
   "id": "t_2656f57c",
   "title": "Convert fitted k/T0 into parser representation; quantify rounding ppm",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -410,7 +410,7 @@
  {
   "id": "t_2e041ab8",
   "title": "Verify literal cal string character-by-character against parser",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -818,7 +818,7 @@
  {
   "id": "t_cc323204",
   "title": "Assemble final cal deliverable and cross-check fit vs parser",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344770,
@@ -1166,9 +1166,9 @@
  {
   "id": "t_8578e5a2",
   "title": "Broad-format catch-all grep for all nine term variants",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789351028,
   "started_at": null,
   "completed_at": null,
@@ -1178,9 +1178,9 @@
  {
   "id": "t_cf3b6c77",
   "title": "Scan sibling worktrees and adjacent note stores for gate artifacts",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789351028,
   "started_at": null,
   "completed_at": null,
@@ -1189,8 +1189,8 @@
  },
  {
   "id": "t_7c2b677e",
-  "title": "Compile evidence report to recon/human-gate-board-decision-notes.md",
-  "status": "triage",
+  "title": "Merge three search shards into recon/human-gate-board-decision-notes.md",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1201,8 +1201,8 @@
  },
  {
   "id": "t_83fa11ee",
-  "title": "Fetch t_aaf1cda6 fully and walk parents, children, siblings (read-only)",
-  "status": "triage",
+  "title": "Read-only trace of task graph anchored at t_aaf1cda6 (BFS, depth<=3/40 rows)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Keyword-sweep all board task rows for human-gate / shadow-card terms",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1226,9 +1226,9 @@
  {
   "id": "t_19a7d613",
   "title": "Follow artifacts, PRs, branches and files named by walked rows (read-only)",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789351050,
   "started_at": null,
   "completed_at": null,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_fad4e74b",
   "title": "Identify thermal chamber and prove commandable setpoints + accuracy",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_bb70a747",
   "title": "Inspect module/cable feedthrough, ramp rate and ramp-count feasibility",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Validate calshow sampling harness at ambient (dry run)",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture die-temp soak evidence at +25 C",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture die-temp soak evidence at 0 C",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture die-temp soak evidence at -20 C",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Capture die-temp soak evidence at -40 C",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_d601da74",
   "title": "Identify the bench owner/custodian with named source and confidence",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_c1c07af9",
   "title": "Identify the thermal chamber owner/custodian with named source and confidence",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_9782fb4c",
   "title": "Establish current occupancy and locate/reconcile the booking system of record",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_23dc3d2f",
   "title": "Identify module under test: radio chip, band, carrier freq, RF port",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_83756ac0",
   "title": "Inventory every bench instrument that can read or reference frequency",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789357656,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_0fc2adec",
   "title": "Gather calibration evidence for each bench frequency instrument",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789357656,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Pre-flight chamber comms, record ambient baseline, set up raw logging",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Inventory chamber penetrations and measure port geometry",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_2a16c491",
   "title": "Characterize RF coax bundle dimensions and minimum bend radius",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_b1049504",
   "title": "Identify DUT-side RF port connector type(s) and count",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_da54b09f",
   "title": "Identify instrument/test-equipment RF connector types",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Assess chamber feedthrough: type, population, existing cabling",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_0d86117f",
   "title": "Compile connector/adapter BOM with procurement and RF loss analysis",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1add22bc",
   "title": "Characterize warm-side ambient and compute dew points for both setpoints",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789360123,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_b6467a63",
   "title": "Enumerate damage and measurement-reliability failure modes on cables and feedthrough",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_67f3b03e",
   "title": "Establish chamber max ramp rates and RF feedthrough thermal penalty",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_5199dede",
   "title": "Determine DUT thermal shock and rate-of-change limits",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2106,6 +2106,150 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a706051c",
+  "title": "Grep structured/data formats for nine board term variants",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360344,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_cc4b9c62",
+  "title": "Grep config & log text formats for nine board term variants",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360344,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_33f30b4f",
+  "title": "Grep all remaining non-markdown files for nine term variants",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360344,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_4c98b31f",
+  "title": "Merge shard hits, verify dir coverage, emit unified report",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360344,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9977680d",
+  "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360361,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_38c8c52f",
+  "title": "Grep sibling git worktrees and checkouts for gate/shadow artifacts",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360361,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_8e472077",
+  "title": "Search local note stores (~/notes, ~/.hermes, /workspace, /srv) for terms",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360361,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_21c3fbf9",
+  "title": "Consolidate recon findings: per-term counts, quotes, dates, inventory",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360361,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_5c478508",
+  "title": "Extract inventory of named artifacts from upstream walk summaries",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360430,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fb7705a3",
+  "title": "Search repo-local skill files, docs and notes for gate/shadow-card terms",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360430,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_02f28573",
+  "title": "Search PRs, branches and commit history for gate/shadow-card mentions (read-only)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360430,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9e8a2349",
+  "title": "Synthesize trace report: artifacts examined, hits, cap and nothing-found statement",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789360430,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

@@ -1789,7 +1789,7 @@
  },
  {
   "id": "t_1c17093f",
-  "title": "Recon e80 range_check session_id join and writer key format",
+  "title": "Recon: e80 range_check session_id join, GO-dir parse, writer key format",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
@@ -1825,7 +1825,7 @@
  },
  {
   "id": "t_123c4431",
-  "title": "Recon existing boundary-mode test harness, fixtures, and test command",
+  "title": "Recon boundary-mode test harness, fixtures, and test command (e80-stm32-bench)",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
