@@ -2426,7 +2426,7 @@
  {
   "id": "t_2e7e4877",
   "title": "Inventory validation tests covering the SSR OG-metadata path",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348503,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_716b96ab",
   "title": "Grep PR #1232 head tree for proving test names per target",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348528,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e20d3b8d",
   "title": "Map SSR server entry and route table at PR #1232 head",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory OG-metadata injection code at PR #1232 head",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,

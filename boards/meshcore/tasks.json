@@ -961,8 +961,8 @@
  },
  {
   "id": "t_ffc911f6",
-  "title": "Physically inspect thermal chamber and record nameplate data",
-  "status": "triage",
+  "title": "Physically inspect thermal chamber and record verbatim nameplate data",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -974,9 +974,9 @@
  {
   "id": "t_4e41856d",
   "title": "Inspect thermal chamber controller and document setpoint commanding method",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789350658,
   "started_at": null,
   "completed_at": null,
@@ -1009,8 +1009,8 @@
  },
  {
   "id": "t_46584c79",
-  "title": "Define 10-min chamber logging protocol and blank capture template",
-  "status": "triage",
+  "title": "Define 10-min chamber logging protocol + blank capture template",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1105,8 +1105,8 @@
  },
  {
   "id": "t_9d139605",
-  "title": "Compile feedthrough + RF in-chamber feasibility comment with one PASS/FAIL verdict",
-  "status": "triage",
+  "title": "Write one in-chamber RF feedthrough feasibility comment with a single verdict",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1153,8 +1153,8 @@
  },
  {
   "id": "t_da4ac984",
-  "title": "Recon workspace for human-gate decision notes and shadow-card paths",
-  "status": "triage",
+  "title": "Read-only recon: human-gate decision notes and shadow-card paths",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_7c2b677e",
   "title": "Merge three search shards into recon/human-gate-board-decision-notes.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1405,7 +1405,7 @@
  },
  {
   "id": "t_6becdbdf",
-  "title": "Capture verbatim serial CLI evidence + firmware build identity from SkyMapper Board A",
+  "title": "Capture verbatim serial CLI + firmware build identity, SkyMapper Board A",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
@@ -1417,7 +1417,7 @@
  },
  {
   "id": "t_0810e888",
-  "title": "Capture remote ground truth for felixfelix-bot/MeshCore feat/passive-mapper tip SHA",
+  "title": "Capture and publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
   "status": "ready",
   "priority": 0,
   "assignee": "gitworkshop-main",
@@ -1441,7 +1441,7 @@
  },
  {
   "id": "t_e90e207f",
-  "title": "Locate scheduler registration; cite job name, schedule, entrypoint",
+  "title": "Locate digest-job scheduler registration; cite name, schedule, entrypoint",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1453,7 +1453,7 @@
  },
  {
   "id": "t_100f5324",
-  "title": "Grep source/infra for escalation-digest identifiers and pin the literal delivery transport",
+  "title": "Grep source/infra for escalation-digest code path and pin the literal delivery transport",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1634,7 +1634,7 @@
  {
   "id": "t_e80e80cb",
   "title": "Run and log soak evidence at +25, 0, -20, -40 C",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_5c478508",
   "title": "Extract inventory of named artifacts from upstream walk summaries",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Locate design-review-notes worktree and publish scope manifest",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_564700f5",
   "title": "Recon tollgate-rs non-design-review-notes branches and tollgate-* repos",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_f812962d",
   "title": "Recon esp-miner, esp32-*, fips, sx1280 repos for gate/shadow-card hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_0e3f50d9",
   "title": "Recon market, nutband, nostr-glasses docs for gate/shadow-card hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_ae563d14",
   "title": "Recon all remaining workspace repos for gate/shadow-card mentions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2574,6 +2574,54 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362704,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fbfead68",
+  "title": "Inspect and classify thermal chamber controller; photograph labels",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789362928,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a8b9d449",
+  "title": "Find chamber manual and cite setpoint range and ramp procedure by page",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789362928,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_5a61e979",
+  "title": "Document step-by-step setpoint commanding sequence with interface photos",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789362928,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e63d5bda",
+  "title": "Verify +25/0/-20/-40 C selectability and publish sourced report",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789362928,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
