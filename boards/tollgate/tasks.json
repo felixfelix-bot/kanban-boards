@@ -2402,7 +2402,7 @@
  {
   "id": "t_185f7ee7",
   "title": "Fetch LR1121 datasheet with provenance",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_128a5671",
   "title": "Fetch LR2021 errata/app notes from Semtech doc library",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_40f54881",
   "title": "Search Semtech support KB for LR2021 known-issue articles",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_ae05a6a2",
   "title": "Search RadioLib GitHub repo for LR2021 limitation notes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,

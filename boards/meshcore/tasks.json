@@ -1154,7 +1154,7 @@
  {
   "id": "t_da4ac984",
   "title": "Read-only recon: human-gate decision notes + shadow-card paths (report-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_7c2b677e",
   "title": "Merge three search shards into recon/human-gate-board-decision-notes.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1201,8 +1201,8 @@
  },
  {
   "id": "t_83fa11ee",
-  "title": "Read-only BFS trace of task graph anchored at t_aaf1cda6 (depth<=3, <=40 rows)",
-  "status": "triage",
+  "title": "Read-only BFS trace of kanban graph anchored at t_aaf1cda6 (depth<=3, <=40 rows)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Read-only sweep of all board rows for human-gate/shadow-card terms",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,

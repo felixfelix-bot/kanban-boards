@@ -2690,7 +2690,7 @@
  {
   "id": "t_65651fd0",
   "title": "Audit infra/preview-vps provisioning + systemd units at market PR #1271 head 8046da0 (report only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
