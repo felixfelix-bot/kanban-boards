@@ -385,7 +385,7 @@
  },
  {
   "id": "t_f51dfe6f",
-  "title": "Recon conwrt repo identity and write verbatim D1/D2 into recon.md",
+  "title": "Recon conwrt repo identity and copy verbatim D1/D2 into recon.md",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",

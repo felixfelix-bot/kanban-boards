@@ -4099,10 +4099,11 @@
  },
  "conwrt:t_43c83f64": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789391008.1517992,
+  "status": "failed",
+  "updated": 1789392039.6067786,
   "ts": 1789391008.1517992,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789391968"
  },
  "e80-bench:t_2ad3a088": {
   "node": "dq05",
