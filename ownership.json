@@ -4912,6 +4912,48 @@
   "updated": 1789410009.89661,
   "ts": 1789410009.89661
  },
+ "balloon:t_a1d2fecd": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.8513427,
+  "ts": 1789427753.8513427
+ },
+ "balloon:t_38a71328": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.8590631,
+  "ts": 1789427753.8590631
+ },
+ "balloon:t_d7f958f8": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.866662,
+  "ts": 1789427753.866662
+ },
+ "balloon:t_7c39ab21": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.8747778,
+  "ts": 1789427753.8747778
+ },
+ "balloon:t_1f64cc5d": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.8821554,
+  "ts": 1789427753.8821554
+ },
+ "plebeian-my-prs:t_6f207379": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.889848,
+  "ts": 1789427753.889848
+ },
+ "meshcore:t_d9670579": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789427753.897342,
+  "ts": 1789427753.897342
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",

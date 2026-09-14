@@ -986,7 +986,7 @@
  {
   "id": "t_d9670579",
   "title": "Extract manufacturer-rated range, accuracy, ramp, stability from datasheet",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
