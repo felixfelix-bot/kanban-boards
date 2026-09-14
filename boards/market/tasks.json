@@ -1226,7 +1226,7 @@
  {
   "id": "t_c9b109fb",
   "title": "Fix PR#1226 auction order-details v2",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1788957692,

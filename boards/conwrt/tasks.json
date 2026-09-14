@@ -314,7 +314,7 @@
  {
   "id": "t_4b875db5",
   "title": "Extract D1-Dn defect table from issue32 verification runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355446,
@@ -338,7 +338,7 @@
  {
   "id": "t_bda1cec1",
   "title": "Draft net4sats LAN-move evidence subsection",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,
@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,
@@ -362,7 +362,7 @@
  {
   "id": "t_a27f30d9",
   "title": "Independently verify LAN-move provenance verdicts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789356091,

@@ -1334,7 +1334,7 @@
  {
   "id": "t_f5986a6e",
   "title": "Add esp32c3 cfg variant to microfips-esp-transport config.rs",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_8f3856aa",
   "title": "Init esp-println log backend for ESP32-C3 build",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_ae917903",
   "title": "Add riscv32imc-unknown-none-elf target config to .cargo/config.toml",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789332901,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_c360db44",
   "title": "Recon tollgate PAY/ACK proto contract and existing specs",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789332922,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_3e8ba189",
   "title": "Audit esp32-tollgate repo for normative PAY/ACK wire spec (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789348266,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_f9df944a",
   "title": "Read-only audit of tollgate-module-basic-go for a normative PAY/ACK wire spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789348266,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_b4101308",
   "title": "Read-only audit of awesome-tollgate for normative PAY/ACK spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789348266,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_dfc1d880",
   "title": "Audit tollgate-rs for normative PAY/ACK wire spec (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789348266,
