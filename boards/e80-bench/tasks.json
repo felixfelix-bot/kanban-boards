@@ -1789,8 +1789,8 @@
  },
  {
   "id": "t_1c17093f",
-  "title": "Recon: e80 range_check session_id join, GO-dir parse, writer key format",
-  "status": "triage",
+  "title": "Recon: e80 range_check session_id join contract, GO-dir parse, writer key format",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -1885,8 +1885,8 @@
  },
  {
   "id": "t_5b90f450",
-  "title": "Reproduce e80 range-split RED suite and capture full pytest log",
-  "status": "triage",
+  "title": "Reproduce e80 range-split RED suite and record actual failure count + log",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -1945,8 +1945,8 @@
  },
  {
   "id": "t_a0752149",
-  "title": "Recon tools/range_check.py verdict contract: status literals + counter fields",
-  "status": "triage",
+  "title": "Recon tools/range_check.py verdict contract: status literals + counters",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1957,8 +1957,8 @@
  },
  {
   "id": "t_5f9c18f9",
-  "title": "Recon resend-<stop>.json artifact: filename, keys, write semantics",
-  "status": "triage",
+  "title": "Recon resend-<stop>.json artifact in tools/range_check.py (read-only)",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Recon cvm_board_server relay failover list and prove relay.contextvm.org absence",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,

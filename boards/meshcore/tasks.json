@@ -398,7 +398,7 @@
  {
   "id": "t_2656f57c",
   "title": "Convert fitted k/T0 into parser representation; quantify rounding ppm",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -410,7 +410,7 @@
  {
   "id": "t_2e041ab8",
   "title": "Verify literal cal string character-by-character against parser",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Validate calshow sampling harness at ambient (dry run)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture die-temp soak evidence at +25 C",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture die-temp soak evidence at 0 C",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Capture die-temp soak evidence at -40 C",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_9782fb4c",
   "title": "Establish current occupancy and locate/reconcile the booking system of record",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_23dc3d2f",
   "title": "Identify module under test: radio chip, band, carrier freq, RF port",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Inventory chamber penetrations and measure port geometry",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_b1049504",
   "title": "Identify DUT-side RF port connector type(s) and count",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Assess chamber feedthrough: type, population, existing cabling",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_0d86117f",
   "title": "Compile connector/adapter BOM with procurement and RF loss analysis",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,

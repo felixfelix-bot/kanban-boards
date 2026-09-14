@@ -1910,7 +1910,7 @@
  {
   "id": "t_b3e60bd1",
   "title": "Grep ~/repos for six tollgate PAY/ACK symbols and record hits in docs/recon/raw_symbol_grep.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353577,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_7fce5542",
   "title": "Read-only transcript of relay_types.h enum + PASS/FAIL on 0x02 and 0x03",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
