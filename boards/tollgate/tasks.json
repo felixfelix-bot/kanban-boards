@@ -2366,7 +2366,7 @@
  {
   "id": "t_6036a2f7",
   "title": "Write LR2021 datasheets provenance ledger with hashes and URLs",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,

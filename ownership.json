@@ -3857,8 +3857,8 @@
  },
  "tollgate:t_6036a2f7": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789398234.6963778,
+  "status": "failed",
+  "updated": 1789398310.9401493,
   "ts": 1789379805.810121,
   "repo": "tollgate",
   "run_id": "cobrador-1789398234"
@@ -4379,10 +4379,11 @@
  },
  "tollgate:t_6b0e3c09": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789397931.863391,
+  "status": "running",
+  "updated": 1789398536.8764112,
   "ts": 1789397931.863391,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1789398536"
  },
  "meshcore:t_88a32933": {
   "node": "dq05",
@@ -4611,6 +4612,93 @@
   "status": "claimed",
   "updated": 1789398234.6879697,
   "ts": 1789398234.6879697
+ },
+ "e80-bench:t_7a8979a2": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7500646,
+  "ts": 1789398536.7500646
+ },
+ "e80-bench:t_a5c84ae6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.759434,
+  "ts": 1789398536.759434
+ },
+ "e80-bench:t_ad1690e0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7661264,
+  "ts": 1789398536.7661264
+ },
+ "e80-bench:t_0288d9c8": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7736187,
+  "ts": 1789398536.7736187
+ },
+ "e80-bench:t_9d170792": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7814465,
+  "ts": 1789398536.7814465
+ },
+ "e80-bench:t_80de2076": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7889607,
+  "ts": 1789398536.7889607
+ },
+ "e80-bench:t_7d228a58": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.7958014,
+  "ts": 1789398536.7958014
+ },
+ "e80-bench:t_de89bfda": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.803393,
+  "ts": 1789398536.803393
+ },
+ "e80-bench:t_448cfe39": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.8113668,
+  "ts": 1789398536.8113668
+ },
+ "balloon:t_a8b3350b": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.818344,
+  "ts": 1789398536.818344
+ },
+ "balloon:t_05ff9310": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789398536.8259084,
+  "ts": 1789398536.8259084
+ },
+ "conwrt:t_bf9878fa": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789398542.436786,
+  "ts": 1789398542.436786,
+  "repo": "conwrt"
+ },
+ "conwrt:t_4bf8bdf2": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789398545.3268278,
+  "ts": 1789398545.3268278,
+  "repo": "conwrt"
+ },
+ "conwrt:t_a8d3a821": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789398551.4399476,
+  "ts": 1789398551.4399476,
+  "repo": "conwrt"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

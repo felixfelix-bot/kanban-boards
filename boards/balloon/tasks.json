@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_cb852ca9",
   "title": "Census in-tree CONFIG_* guard styles with counts and quotes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_3b85be21",
   "title": "Synthesize precedent-backed CONFIG_ENABLE_* survey report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Sweep balloon-fresh firmware for PAY/ACK candidates (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe parent sweep list A",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Transcribe parent sweep list B",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
