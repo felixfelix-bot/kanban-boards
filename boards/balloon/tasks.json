@@ -2426,7 +2426,7 @@
  {
   "id": "t_c30be532",
   "title": "Locate P1/P2/P3 recon reports in kanban store and record retrieval paths",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366959,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_f238b099",
   "title": "Sweep tollgate clients, infra and docs for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789367012,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_19adaa00",
   "title": "Issue single authoritative PAY/ACK spec verdict from reconciled classifications",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789384358,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_4b2ba0b5",
   "title": "Compile raw six-symbol grep evidence table from upstream sweeps",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Verify every verbatim quote and path/line cited in the verdict",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2726,7 +2726,7 @@
  {
   "id": "t_0e70f526",
   "title": "Re-run the git commands the verdict relies on",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bdf2e0b9",
   "title": "Cross-check both parent sweep lists against the deduplicated list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789384505,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_b2534cf7",
   "title": "Inventory tollgate-rs repos: paths, branch, HEAD, remotes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Sweep tollgate-rs files and content for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Deep-dive design-review-notes / RFC / ADR refs for PAY/ACK spec",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_e13a9e97",
   "title": "Inventory all CONFIG_ENABLE_* symbols and their declaration sites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Enumerate sibling tollgate repos with branch and HEAD sha",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
