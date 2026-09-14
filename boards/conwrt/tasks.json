@@ -422,7 +422,7 @@
  {
   "id": "t_ec3046f3",
   "title": "Assemble triage-d1-d2.md table + interactions note",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -722,7 +722,7 @@
  {
   "id": "t_db7a6ca1",
   "title": "Audit net4sats read-back source in docs/wizard-bundle.json (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
