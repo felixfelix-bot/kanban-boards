@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files in bench/repo tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,

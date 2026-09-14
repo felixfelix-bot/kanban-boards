@@ -1681,7 +1681,7 @@
  },
  {
   "id": "t_ca11448d",
-  "title": "Assemble six-symbol grep accounting report with re-verified zero-hit pass",
+  "title": "Assemble six-symbol tollgate grep accounting report (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_d7b46e33",
-  "title": "Synthesize upstream tollgate PAY/ACK spec audit report",
+  "title": "Synthesize final tollgate PAY/ACK upstream audit report",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",

@@ -265,8 +265,8 @@
  },
  {
   "id": "t_515a58b0",
-  "title": "Bring up CF-WR632AX, verify SSH + OpenWrt 25.12.4, log verbatim evidence",
-  "status": "triage",
+  "title": "Preflight CF-WR632AX: verify SSH reachability + OpenWrt 25.12.4, log evidence",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Verify defect table quotes verbatim against runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,
@@ -506,7 +506,7 @@
  {
   "id": "t_f2e5e4ed",
   "title": "Re-derive recipe key path and derived-ipv4 binding from wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789361675,
@@ -518,7 +518,7 @@
  {
   "id": "t_a8fc813c",
   "title": "Compose state/conwrt-issue32-evidence/drafts/net4sats-subsection.md",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back command blocks",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace whether LAN-move block consumes derived ipv4 or a literal",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,

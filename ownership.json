@@ -913,8 +913,8 @@
  },
  "plebeian-my-prs:t_bb0db053": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789363090.944244,
+  "status": "done",
+  "updated": 1789364028.2854657,
   "ts": 1789348979.64263,
   "repo": "plebeian-my-prs",
   "run_id": "dq05-1789363090"
@@ -937,8 +937,8 @@
  },
  "plebeian-my-prs:t_4243838e": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789362415.199684,
+  "status": "done",
+  "updated": 1789364104.3707306,
   "ts": 1789348986.770824,
   "repo": "plebeian-my-prs",
   "run_id": "dq05-1789362415"
@@ -2078,17 +2078,19 @@
  },
  "meshcore:t_b0a5312a": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357257.0710824,
+  "status": "running",
+  "updated": 1789364037.237534,
   "ts": 1789357257.0710824,
-  "repo": "meshcore"
+  "repo": "meshcore",
+  "run_id": "dq05-1789364037"
  },
  "meshcore:t_3a34bea7": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357259.0179398,
+  "status": "running",
+  "updated": 1789364113.4633722,
   "ts": 1789357259.0179398,
-  "repo": "meshcore"
+  "repo": "meshcore",
+  "run_id": "dq05-1789364113"
  },
  "meshcore:t_da84afb3": {
   "node": "dq05",
