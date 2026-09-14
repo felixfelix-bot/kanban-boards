@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Security/robustness review of NIP-46 signer diff in market PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,

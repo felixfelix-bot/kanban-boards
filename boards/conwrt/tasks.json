@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Preflight CF-WR632AX: verify SSH reachability + OpenWrt 25.12.4, log evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Adversarially verify defects-d1-d5.md against the Issue-32 runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,
@@ -386,7 +386,7 @@
  {
   "id": "t_f51dfe6f",
   "title": "Recon conwrt repo identity and write verbatim D1/D2 into recon.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -434,7 +434,7 @@
  {
   "id": "t_111fb200",
   "title": "Establish conwrt repo root, branch, and canonical D3-D5 spec context file",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back blocks to tollgate-blocks.txt",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of net4sats LAN-move ipv4 in wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move and read-back evidence from docs/wizard-bundle.json (no writes)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,

@@ -1682,7 +1682,7 @@
  {
   "id": "t_63b8f6b0",
   "title": "Recon range-sync ADR + cvm_board_server.py and publish shared pattern/constant notes",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon ADR-range-sync-cvm: verdict schema + ARMED session linkage (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,

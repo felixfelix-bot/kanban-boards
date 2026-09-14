@@ -1297,8 +1297,8 @@
  },
  {
   "id": "t_d9354cfc",
-  "title": "Enumerate all local git repos with metadata and split into 3 contiguous buckets",
-  "status": "triage",
+  "title": "Read-only recon: enumerate all local git repos with metadata, split into 3 contiguous buckets",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,

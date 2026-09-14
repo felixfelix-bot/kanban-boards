@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Deep-read and classify sibling tollgate repo PAY/ACK candidates",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_8e8296e7",
   "title": "Reconcile classifications and issue authoritative PAY/ACK spec verdict",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_9f3eacbf",
   "title": "Adversarially verify cited evidence and the verdict",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Static + hygiene verify: portable-atomic swap in microfips-esp-common",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Build check microfips-esp-common for riscv32imc + host",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789363358,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/TX tollgate call sites in main/app_task.cpp",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_6d751797",
   "title": "Inventory decode/RX/ack tollgate call sites and struct layout",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_c30be532",
   "title": "Locate P1/P2/P3 recon reports in kanban store and record retrieval paths",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366959,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_8aa23d17",
   "title": "Sweep balloon-fresh docs/spec artifacts for PAY/ACK protocol (read-only)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_2c433ef7",
   "title": "Sweep balloon-fresh firmware code for PAY/ACK wire-format declarations (read-only)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_b9fa3bae",
   "title": "Sweep tollgate-rs for authoritative PAY/ACK wire-format spec",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789367012,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_1359baab",
   "title": "Sweep tollgate-module-basic-go for PAY/ACK wire-format spec",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789367012,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_766aa3db",
   "title": "Sweep ESP32 tollgate firmware for PAY/ACK wire-format evidence",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789367012,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_f238b099",
   "title": "Sweep tollgate clients, infra and docs for PAY/ACK wire format",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789367012,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Inventory every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_45fa47cc",
   "title": "Survey CONFIG_ENABLE_* declaration+guard convention with precedents",
-  "status": "scheduled",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_99d44349",
   "title": "Grep $HOME/repos for six tollgate PAY/ACK symbols; write raw_symbol_grep.md",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_fca77cff",
   "title": "Extract `## Mock protocol` section verbatim to /tmp with evidence flags",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379315,
