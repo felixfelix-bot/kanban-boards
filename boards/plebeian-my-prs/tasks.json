@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Extract PR #1232 triage artifact into pushbacks vs tension tables",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,

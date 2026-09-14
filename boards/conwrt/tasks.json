@@ -541,8 +541,8 @@
  },
  {
   "id": "t_7045c59a",
-  "title": "Extract verbatim LAN-move + read-back blocks to tollgate-blocks.txt",
-  "status": "triage",
+  "title": "Extract verbatim LAN-move + read-back blocks into tollgate-blocks.txt",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -553,8 +553,8 @@
  },
  {
   "id": "t_bf9f349a",
-  "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json",
-  "status": "triage",
+  "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json and write cited findings",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -589,8 +589,8 @@
  },
  {
   "id": "t_43986c9f",
-  "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "triage",
+  "title": "Extract net4sats LAN-move recipe key path + verbatim commands from docs/wizard-bundle.json",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
