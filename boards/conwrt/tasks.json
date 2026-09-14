@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
