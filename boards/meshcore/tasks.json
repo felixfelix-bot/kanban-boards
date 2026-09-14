@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Narrow, date, and merge tollgate-rs gating findings into tables",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,

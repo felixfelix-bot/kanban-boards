@@ -2258,7 +2258,7 @@
  {
   "id": "t_9622baef",
   "title": "Capture verbatim RED baseline output from relay-failover tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_7c9268b7",
   "title": "Add FAILOVER_RELAYS constant as single source of truth in e80-stm32-bench tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_69c76243",
   "title": "Implement fake relay transport double (ACCEPT/TIMEOUT/HARD_ERROR) for e80-stm32-bench relay tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_2294dea3",
   "title": "Audit gift-wrap choke-point and spec canonical session serialization",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378526,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_c7b5d7d9",
   "title": "Audit failover tests for live network and plaintext choke-point",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789380049,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Extract verbatim recon specs (target file, command, fixtures, clock-freeze)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_7b98e49c",
   "title": "Verify --sync=cvm / derive_t0 core is merged and record its paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_7a8979a2",
   "title": "Derive NIP-59 gift-wrap ephemeral key deterministically via HKDF",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789396722,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q and report summary",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness in choke-point file",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_de89bfda",
   "title": "Verify single construction path for kind 1059",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run determinism smoke test across process restart",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_0288d9c8",
   "title": "Check documentation for determinism and privacy trade-off",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_9d170792",
   "title": "Pin exact failover test command and inventory tests covering subset-accept and dead-relay paths",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Boundary-grep proof: bare relay.contextvm.org absent from tools tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Assert runtime relay set equals the five allowed hosts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,

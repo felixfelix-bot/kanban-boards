@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit report (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Deep-read sibling tollgate repo candidates and classify PAY/ACK artifacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2366,9 +2366,9 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-fips",
+  "assignee": "manager",
   "created_at": 1789363358,
   "started_at": null,
   "completed_at": null,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_cb852ca9",
   "title": "Census in-tree CONFIG_* guard styles with counts and quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_3b85be21",
   "title": "Synthesize precedent-backed CONFIG_ENABLE_* survey report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Sweep balloon-fresh firmware for PAY/ACK candidates (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe parent sweep list A",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Transcribe parent sweep list B",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3342,6 +3342,54 @@
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789396496,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_ba9d5dae",
+  "title": "Prep env: read FIPS-FIX-PLAN.md, ensure riscv32imc target installed",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789400471,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e46964bf",
+  "title": "Verify riscv32imc-unknown-none-elf cargo check for microfips-esp-common",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789400471,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_24ccf7d1",
+  "title": "Verify host cargo check for microfips-esp-common",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789400471,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e240f2e4",
+  "title": "Consolidate independent build verification report (PASS/FAIL)",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789400471,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
