@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Deep-read and classify sibling tollgate repo PAY/ACK candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
