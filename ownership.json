@@ -4750,14 +4750,6 @@
   "repo": "conwrt",
   "run_id": "cobrador-1789413598"
  },
- "conwrt:t_960feef0": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1789413879.6864247,
-  "ts": 1789407892.7011538,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789413813"
- },
  "meshcore:t_55295a78": {
   "node": "dq05",
   "status": "claimed",
