@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe group resets, one-shot reopen retry, and --[no-]reset-between-tests into tests/p1b_ab_test.py",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_c6dd8d63",
   "title": "Vendor RadioLib LR2021 driver sources at a pinned commit SHA into docs/lr2021-research/drivers/",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,

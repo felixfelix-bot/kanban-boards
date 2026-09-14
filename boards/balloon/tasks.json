@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Build check microfips-esp-common for riscv32imc + host",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-fips",
   "created_at": 1789363358,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/TX tollgate call sites in main/app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_6d751797",
   "title": "Inventory decode/RX/ack tollgate call sites and struct layout",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_b9fa3bae",
   "title": "Sweep tollgate-rs for authoritative PAY/ACK wire-format spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789367012,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Inventory every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_45fa47cc",
   "title": "Survey CONFIG_ENABLE_* declaration+guard convention with precedents",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
