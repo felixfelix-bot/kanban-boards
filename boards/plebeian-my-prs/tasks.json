@@ -3037,8 +3037,8 @@
  },
  {
   "id": "t_2e186463",
-  "title": "Enumerate all checks that ran on PlebeianApp/market PR #1232",
-  "status": "triage",
+  "title": "Inventory all checks that ran on PlebeianApp/market PR #1232 (head 2c8b3981)",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,

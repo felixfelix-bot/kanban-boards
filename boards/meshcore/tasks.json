@@ -1202,7 +1202,7 @@
  {
   "id": "t_83fa11ee",
   "title": "Read-only trace of task graph anchored at t_aaf1cda6 (BFS, depth<=3/40 rows)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_5c478508",
   "title": "Extract inventory of named artifacts from upstream walk summaries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,

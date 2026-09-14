@@ -2221,7 +2221,7 @@
  },
  {
   "id": "t_62c396a3",
-  "title": "Extract tollgate payment proto contract from recon doc and call sites",
+  "title": "Write TOLLGATE_PROTO_API.md: authoritative tollgate payment wire-format contract",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
