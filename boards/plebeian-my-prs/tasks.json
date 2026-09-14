@@ -2390,7 +2390,7 @@
  {
   "id": "t_f35aaa99",
   "title": "Run gh_cli_healthcheck.sh on dq05 and prove real PR label mutation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
