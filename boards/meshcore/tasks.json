@@ -482,7 +482,7 @@
  {
   "id": "t_60866874",
   "title": "Audit thermal chamber setpoint range, accuracy and soak evidence",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339695,
@@ -722,7 +722,7 @@
  {
   "id": "t_4b9d0448",
   "title": "Compute achievable ppm resolution at module carrier frequency",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344604,
@@ -734,7 +734,7 @@
  {
   "id": "t_0a5ea7e6",
   "title": "Define ppm averaging plan, stability metric, and sample count",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344604,
@@ -782,7 +782,7 @@
  {
   "id": "t_58f83d13",
   "title": "Reconcile duration vs booking and post PASS/FAIL access report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -890,7 +890,7 @@
  {
   "id": "t_36a8d8ce",
   "title": "Estimate die-vs-crystal thermal lag via cross-correlation",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344843,
@@ -902,7 +902,7 @@
  {
   "id": "t_0ace94c6",
   "title": "Measure cooling/warming hysteresis in die-temp vs frequency error",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344843,
@@ -950,7 +950,7 @@
  {
   "id": "t_f197999e",
   "title": "Consolidate human-gate board / shadow-card evidence report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344857,
