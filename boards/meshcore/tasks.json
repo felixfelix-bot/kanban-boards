@@ -398,7 +398,7 @@
  {
   "id": "t_2656f57c",
   "title": "Convert fitted k/T0 into parser representation; quantify rounding ppm",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -410,7 +410,7 @@
  {
   "id": "t_2e041ab8",
   "title": "Verify literal cal string character-by-character against parser",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces for gate/shadow-card recon",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_f5f926b5",
   "title": "Extract gate/shadow-card hits from tollgate-rs design-review-notes",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789351146,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_61e69c85",
   "title": "Scan remaining repos and docs for gate/shadow-card mentions",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_23dc3d2f",
   "title": "Identify module under test: radio chip, band, carrier freq, RF port",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_83756ac0",
   "title": "Inventory every bench instrument that can read or reference frequency",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789357656,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_0fc2adec",
   "title": "Gather calibration evidence for each bench frequency instrument",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789357656,

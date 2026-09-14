@@ -1778,7 +1778,7 @@
  {
   "id": "t_4fa0a18a",
   "title": "Write docs/verdict-publisher-contract.md and commit locally",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789350104,

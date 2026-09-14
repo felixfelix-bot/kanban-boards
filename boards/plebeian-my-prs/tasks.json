@@ -1358,7 +1358,7 @@
  {
   "id": "t_8929cbe1",
   "title": "Trigger and observe CI for fork PR market #4, iterate plumbing only",
-  "status": "ready",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-heavy",
   "created_at": 1789334644,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_0d996e80",
   "title": "Draft (do not post) review comment for PlebeianApp/market PR #1310 @ 5aecaea8",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335506,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_799f0cf3",
   "title": "Review PR #1311 diff at df1742f9 and draft the review comment (no posting)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_30c97be8",
   "title": "Fetch PR #1312 diff + metadata and write bundle.md (no review)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_279158cc",
   "title": "Enumerate every upload-artifact step in market workflows at 2c8b398",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357346,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_2e186463",
   "title": "Enumerate all checks that ran on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Determine required-check status for PR #1232 (branch protection/rulesets)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Collect PR #1232 top-level reviews with verbatim digests",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Locate design-pass triage artifact for PR #1232",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_2438849c",
   "title": "Pin PR #1232 head and record per-target fixing commit SHAs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PR #1232",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_9677a57e",
   "title": "Extract proving test names from PR #1232 head tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357713,

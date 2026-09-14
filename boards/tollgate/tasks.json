@@ -1801,7 +1801,7 @@
  },
  {
   "id": "t_7ae740af",
-  "title": "Open nsyte upstream PR and report URL to operator",
+  "title": "Open upstream nsyte PR (c03rad0r:feature/non-interactive-init \u2192 sandwichfarm:main) and report URL",
   "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
@@ -1897,7 +1897,7 @@
  },
  {
   "id": "t_d22a93b7",
-  "title": "Build BalanceWidget React component consuming hook + Sass",
+  "title": "Build BalanceWidget.jsx consuming useBalancePolling + _balance-widget.scss",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -2150,7 +2150,7 @@
  {
   "id": "t_cdde8172",
   "title": "Inventory LR2021 artifacts in esp32-balloon-integration worktree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_b89f6ae2",
   "title": "Inventory vendored/submoduled RadioLib LR2021 & LR11x0 sources",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_b8d10591",
   "title": "Inventory local LR2021 PDFs, specs, errata and register defines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_859cce41",
   "title": "Write docs/lr2021-research/local-inventory.md handoff file",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357549,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_c6dd8d63",
   "title": "Fetch RadioLib LR2021 driver sources pinned to a commit SHA",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_1c68efc3",
   "title": "Fetch Semtech LR2021 product page and official datasheet",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_28e7ee80",
   "title": "Fetch Semtech LR11x0-family datasheets (LR1110/LR1120/LR1121)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_b7a77949",
   "title": "Locate LR2021 errata, application notes, and known-limitations docs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,
@@ -2246,7 +2246,7 @@
  {
   "id": "t_cb70e471",
   "title": "Compile docs/lr2021-research/fetch-manifest.md from all provenance files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,

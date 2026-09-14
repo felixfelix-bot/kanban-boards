@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -313,7 +313,7 @@
  },
  {
   "id": "t_4b875db5",
-  "title": "Extract D1-Dn defect table from issue32 verification runbook",
+  "title": "Extract verbatim D1-Dn defect table from issue32 verification runbook",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -338,7 +338,7 @@
  {
   "id": "t_bda1cec1",
   "title": "Draft net4sats LAN-move evidence subsection",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,
