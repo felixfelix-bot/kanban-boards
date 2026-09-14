@@ -1154,7 +1154,7 @@
  {
   "id": "t_da4ac984",
   "title": "Read-only recon: human-gate decision notes + shadow-card paths (report-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,

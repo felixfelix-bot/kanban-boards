@@ -2342,7 +2342,7 @@
  {
   "id": "t_9f3eacbf",
   "title": "Adversarially verify cited evidence and the verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789363198,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Static + hygiene verify: portable-atomic swap in microfips-esp-common",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
