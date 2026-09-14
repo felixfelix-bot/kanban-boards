@@ -2378,7 +2378,7 @@
  {
   "id": "t_d06e4cd7",
   "title": "Fetch LR1110 datasheet with provenance",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_9c3e3b22",
   "title": "Extract and hash-verify datasheets provenance entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,
