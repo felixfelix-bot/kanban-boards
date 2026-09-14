@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Verify required-check status for PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,
@@ -3085,8 +3085,8 @@
  },
  {
   "id": "t_a83fa41d",
-  "title": "Recover design-pass triage artifact for PR #1232 (read-only)",
-  "status": "triage",
+  "title": "Recover design-pass triage artifact for PR #1232 and report pushbacks vs tension findings (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3121,8 +3121,8 @@
  },
  {
   "id": "t_68160ca9",
-  "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "triage",
+  "title": "Inventory inline review comments on PlebeianApp/market PR #1232",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
