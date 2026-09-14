@@ -218,7 +218,7 @@
  {
   "id": "t_ca5c4982",
   "title": "Extract canonical D1-D5 defect list from issue32 verification runbook",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344248,
