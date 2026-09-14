@@ -410,7 +410,7 @@
  {
   "id": "t_011fa8da",
   "title": "Triage defect D2: file:line, impact, blocking verdict, minimal fix",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,

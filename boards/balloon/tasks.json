@@ -2749,7 +2749,7 @@
  },
  {
   "id": "t_51949cc4",
-  "title": "Probe for a plausible missed location that contradicts the verdict",
+  "title": "Probe for contradicting artifact in plausible missed location",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -2774,7 +2774,7 @@
  {
   "id": "t_b977384a",
   "title": "Inventory tollgate proto call sites and consumers (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789384864,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Audit TOLLGATE_PROTO_CONTRACT.md claims (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
