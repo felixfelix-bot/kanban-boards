@@ -4379,8 +4379,8 @@
  },
  "tollgate:t_6b0e3c09": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789398536.8764112,
+  "status": "failed",
+  "updated": 1789398627.3399093,
   "ts": 1789397931.863391,
   "repo": "tollgate",
   "run_id": "cobrador-1789398536"
@@ -4681,10 +4681,11 @@
  },
  "conwrt:t_bf9878fa": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789398542.436786,
+  "status": "running",
+  "updated": 1789398846.4268205,
   "ts": 1789398542.436786,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789398846"
  },
  "conwrt:t_4bf8bdf2": {
   "node": "cobrador",

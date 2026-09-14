@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory SSR OG/Twitter metadata code at PR #1232 head (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232 (reviews + triage)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -3337,8 +3337,8 @@
  },
  {
   "id": "t_b5457016",
-  "title": "Resolve PR #1232 head ref and fetch it locally (read-only)",
-  "status": "triage",
+  "title": "Resolve and fetch PR #1232 head ref into artifacts/pr1232/head.json (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_9c4bd99c",
   "title": "Grep PR #1232 head for trusted-origin/503/hostile-Host regression test",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,

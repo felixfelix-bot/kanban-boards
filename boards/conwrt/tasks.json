@@ -878,7 +878,7 @@
  {
   "id": "t_a8d3a821",
   "title": "Review PR #55 VPN proposal and PIA OpenVPN",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789398071,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
@@ -902,7 +902,7 @@
  {
   "id": "t_bf9878fa",
   "title": "Verify PR #55 branch naming against D-135",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
