@@ -1981,8 +1981,8 @@
  },
  {
   "id": "t_7fce5542",
-  "title": "Transcribe relay_types.h relay-type enum with line numbers; PASS/FAIL on 0x02 and 0x03",
-  "status": "triage",
+  "title": "Transcribe relay_types.h enum with line numbers; verify 0x02/0x03",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,

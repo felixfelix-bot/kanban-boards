@@ -1993,8 +1993,8 @@
  },
  {
   "id": "t_4fb74c0f",
-  "title": "Recon: capture cvm_board_server relay failover list verbatim and prove relay.contextvm.org absence",
-  "status": "triage",
+  "title": "Capture cvm_board_server relay failover list verbatim and prove relay.contextvm.org absence",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
