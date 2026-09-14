@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back command blocks",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace whether LAN-move block consumes derived ipv4 or a literal",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -566,7 +566,7 @@
  {
   "id": "t_a31dce33",
   "title": "Compose drafts/tollgate-subsection.md from extraction + provenance",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362852,
@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
