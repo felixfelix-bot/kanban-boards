@@ -1550,7 +1550,7 @@
  {
   "id": "t_11cf44fe",
   "title": "TDD: ARMED schema validation and 60s/30s freshness watchdog",
-  "status": "done",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_1c17093f",
   "title": "Recon e80 range_check session_id join and writer key format",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,

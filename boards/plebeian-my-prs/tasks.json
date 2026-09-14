@@ -2546,7 +2546,7 @@
  {
   "id": "t_16a4561c",
   "title": "Verify PR #1306 head SHA c20765e7 and pin the diff artifact",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 diff at head SHA",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
