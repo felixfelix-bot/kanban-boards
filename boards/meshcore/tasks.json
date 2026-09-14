@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
