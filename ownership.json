@@ -1126,6 +1126,12 @@
   "ts": 1789349029.8210056,
   "repo": "e80-bench"
  },
+ "meshcore:t_d6484f25": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789350314.7881844,
+  "ts": 1789350314.7881844
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
