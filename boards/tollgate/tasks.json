@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open nsyte upstream PR and report URL to operator",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget React component consuming hook + Sass",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_e70380ca",
   "title": "Add rescan/retry serial helpers to tests/p1b_ab_test.py",
-  "status": "triage",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2077,8 +2077,8 @@
  },
  {
   "id": "t_0b631b35",
-  "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags",
-  "status": "triage",
+  "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags in tests/p1b_ab_test.py",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2089,8 +2089,8 @@
  },
  {
   "id": "t_1eefa8f1",
-  "title": "Run BR sweep acceptance and capture evidence logs",
-  "status": "triage",
+  "title": "Run p1b_ab_test BR sweep acceptance on hardware; capture evidence logs",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,

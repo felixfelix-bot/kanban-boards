@@ -731,8 +731,8 @@
  },
  "e80-bench:t_b38213a4": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789351375.9723117,
+  "status": "done",
+  "updated": 1789352093.7823672,
   "ts": 1789345636.3290124,
   "repo": "e80-bench",
   "run_id": "dq05-1789351375"
@@ -870,12 +870,6 @@
   "updated": 1789345672.1639152,
   "ts": 1789345672.1639152,
   "repo": "plebeian-my-prs"
- },
- "tollgate:t_e70380ca": {
-  "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789346911.7850807,
-  "ts": 1789346911.7850807
  },
  "balloon:t_ae917903": {
   "node": "dq05",
@@ -1483,5 +1477,11 @@
   "status": "claimed",
   "updated": 1789346911.7835727,
   "ts": 1789346911.7835727
+ },
+ "tollgate:t_e70380ca": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789346911.7850807,
+  "ts": 1789346911.7850807
  }
 }

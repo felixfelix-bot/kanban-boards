@@ -134,7 +134,7 @@
  {
   "id": "t_bef90304",
   "title": "Apply cal blob on module, verify, and record per-module values",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789117712,

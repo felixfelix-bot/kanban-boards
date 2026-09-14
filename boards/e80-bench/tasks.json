@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "Source GO-mode session_id from the ARMED message payload",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_8d9f6c1e",
   "title": "Write Gate1 failing tests for verdict payload, aggregation, wrap",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789344432,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_1689fe87",
   "title": "Implement gift-wrap kind-1059 transport with relay failover",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344432,
