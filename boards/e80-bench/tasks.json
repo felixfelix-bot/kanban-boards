@@ -1250,7 +1250,7 @@
  {
   "id": "t_401a08f3",
   "title": "Create atomic conventional commit: phase-1 code + ADR docs together",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_6b57ef82",
   "title": "Recon range_check.py result contract and resend artifact naming",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon ADR-range-sync-cvm verdict schema + session linkage",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_4fa0a18a",
   "title": "Write docs/verdict-publisher-contract.md and commit locally",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789350104,

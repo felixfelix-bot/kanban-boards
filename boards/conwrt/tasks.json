@@ -230,7 +230,7 @@
  {
   "id": "t_2606a296",
   "title": "Triage D1-D2: file:line, impact, blocking verdict, minimal fix",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -242,7 +242,7 @@
  {
   "id": "t_a9f7d91f",
   "title": "Triage D3-D5: file:line, impact, blocking verdict, minimal fix",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -265,7 +265,7 @@
  },
  {
   "id": "t_515a58b0",
-  "title": "Bring up CF-WR632AX, confirm SSH + OpenWrt 25.12.4, log verbatim evidence",
+  "title": "Bring up CF-WR632AX, verify SSH + OpenWrt 25.12.4, log verbatim evidence",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
