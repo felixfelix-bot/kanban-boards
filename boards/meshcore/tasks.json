@@ -1477,7 +1477,7 @@
  },
  {
   "id": "t_04045747",
-  "title": "Inventory all `block_kind` occurrences repo-wide (read-only, command-backed)",
+  "title": "Read-only repo-wide inventory of `block_kind` occurrences + scanner-module verdict",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1525,7 +1525,7 @@
  },
  {
   "id": "t_ec8e8685",
-  "title": "Locate kanban_block tool definition and document reason parameter signature",
+  "title": "Locate kanban_block definition; document reason signature verbatim",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",

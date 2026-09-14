@@ -1574,7 +1574,7 @@
  {
   "id": "t_71f487f7",
   "title": "Cross-family cold review of the PR #1306 draft comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335202,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_2bffe9e8",
   "title": "Cross-family cold review of PR #1310 draft",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335506,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold cross-family review of the PR #1311 draft comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_b6347df8",
   "title": "Map e2e.yml:148 in PR #1232 head vs base and explain step",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
