@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Extract verbatim recon test specs (path, command, fixtures, clock-freeze)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
