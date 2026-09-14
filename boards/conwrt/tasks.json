@@ -386,7 +386,7 @@
  {
   "id": "t_f51dfe6f",
   "title": "Recon conwrt repo identity and copy verbatim D1/D2 into recon.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,

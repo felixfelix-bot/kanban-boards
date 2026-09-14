@@ -1837,7 +1837,7 @@
  },
  {
   "id": "t_dadbd9ca",
-  "title": "RED test: GO-mode session_id exactly equals ARMED session_id",
+  "title": "Add RED test: GO-mode session_id exactly equals ARMED session_id",
   "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
@@ -2258,7 +2258,7 @@
  {
   "id": "t_9622baef",
   "title": "Capture RED baseline from existing relay-failover tests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
