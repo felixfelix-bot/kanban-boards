@@ -2210,7 +2210,7 @@
  {
   "id": "t_f5f265b8",
   "title": "Verify relay failover: paste red-then-green pytest evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,

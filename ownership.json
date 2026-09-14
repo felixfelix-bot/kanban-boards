@@ -3812,6 +3812,13 @@
   "ts": 1789375661.1002066,
   "repo": "meshcore"
  },
+ "tollgate:t_c6dd8d63": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789357888.072425,
+  "ts": 1789357888.072425,
+  "repo": "tollgate"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
@@ -4130,13 +4137,6 @@
   "status": "claimed",
   "updated": 1789357886.3399947,
   "ts": 1789357886.3399947,
-  "repo": "tollgate"
- },
- "tollgate:t_c6dd8d63": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357888.072425,
-  "ts": 1789357888.072425,
   "repo": "tollgate"
  },
  "conwrt:t_e30d9a00": {

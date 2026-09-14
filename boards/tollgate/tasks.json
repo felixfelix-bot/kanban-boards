@@ -2198,7 +2198,7 @@
  {
   "id": "t_c6dd8d63",
   "title": "Vendor RadioLib LR2021 driver sources at a pinned commit SHA into docs/lr2021-research/drivers/",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357567,

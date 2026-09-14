@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory OG-metadata injection code at PR #1232 head",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_c55fe432",
   "title": "Trigger CI for fork PR market #4 and capture all run outcomes",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_666dccb5",
   "title": "Verify PR #1306 draft findings against code at head SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_f31d86c0",
   "title": "Verify grep-test and docs focus questions for #1306",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_9a87749e",
   "title": "Fetch market branch protection, rulesets, and required status checks",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363786,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_ba830e4a",
   "title": "Fetch PR #1232 head and map the market test infrastructure",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363857,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_b5457016",
   "title": "Resolve PR #1232 head ref and fetch it locally (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_9c4bd99c",
   "title": "Grep PR #1232 head for trusted-origin/503/hostile-Host regression test",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_2ac35bf1",
   "title": "Grep PR #1232 head for ownership test + four navigation scenario tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789363946,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_a6af6a12",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363946,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_54b679cf",
   "title": "List OG-meta test titles in e2e/tests/og-meta-tags.spec.ts at PR #1232 head",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_9a72d81c",
   "title": "Preflight: pin reviewed SHA and map NIP-46 diff hunks",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789364167,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_6aba8fac",
   "title": "Audit signer lifecycle and first-publish availability in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364770,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_48777221",
   "title": "Audit signer-fed pool/relay wiring and sign-failure error propagation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364770,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_90fdb2f8",
   "title": "Audit stale NDK publish call sites in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789364789,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_36a18af6",
   "title": "Audit boolean trimming semantics in PR #1313 for NEW issues",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373237,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_f4103860",
   "title": "Enumerate .github/workflows at 2c8b398 and map PR invocation",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_70c1c12f",
   "title": "Extract every upload-artifact step at 2c8b398 verbatim",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_6f402f80",
   "title": "Resolve PR #1232 head OID, inventory test surfaces, extract CI commands",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,
