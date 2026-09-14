@@ -3146,7 +3146,7 @@
  {
   "id": "t_644f0cc7",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789396021,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71c04a28",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789396021,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396021,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_0f8b506c",
   "title": "Extract all citations and quotes from reconciliation/verdict task result",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract git commands and staleness claims from reconciliation verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396379,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe parent sweep list A into a structured table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
