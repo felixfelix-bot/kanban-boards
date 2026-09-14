@@ -626,7 +626,7 @@
  {
   "id": "t_cc35ecdf",
   "title": "Locate ipv4 token in net4sats LAN-move block of wizard bundle",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,

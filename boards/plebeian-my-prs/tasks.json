@@ -3170,7 +3170,7 @@
  {
   "id": "t_e18a92b1",
   "title": "Audit market workflow YAML for continue-on-error masking",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
