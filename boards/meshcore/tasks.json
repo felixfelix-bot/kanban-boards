@@ -1730,7 +1730,7 @@
  {
   "id": "t_d601da74",
   "title": "Identify the bench owner/custodian with named source and confidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_c1c07af9",
   "title": "Identify the thermal chamber owner/custodian with named source and confidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_9782fb4c",
   "title": "Establish current occupancy and locate/reconcile the booking system of record",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,

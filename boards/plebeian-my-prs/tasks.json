@@ -1358,7 +1358,7 @@
  {
   "id": "t_8929cbe1",
   "title": "Trigger and observe CI for fork PR market #4, iterate plumbing only",
-  "status": "blocked",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-heavy",
   "created_at": 1789334644,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_a111a86d",
   "title": "Read-only: extract readiness predicate, secrets, and fail-mode evidence from preview-deploy.yml @ e690a826 (market PR #1271)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_1ff488bb",
   "title": "Adjudicate PR #1232 review comment on product:price:currency cleanup-matrix gap",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_ee0bc1f6",
   "title": "Map Finding 9 (Franchovy BLOCKER) to inline comments on market PR #1232",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_1c42dfe9",
   "title": "Audit io.ts relay-boundary ownership vs PR #1232 server relay path (read-only report)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341805,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_fc7f7463",
   "title": "Diff PR #1232 body against reality and draft corrected wording",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789348503,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate every CI check on PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Trace ogMeta saturation/fallback await path (Q3)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta lookup key, cache format/TTL, and caller reachability (Q4)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_279158cc",
   "title": "Enumerate every upload-artifact step in market workflows at 2c8b398",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357346,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_2e186463",
   "title": "Enumerate all checks that ran on PlebeianApp/market PR #1232",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Determine required-check status for PR #1232 (branch protection/rulesets)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,

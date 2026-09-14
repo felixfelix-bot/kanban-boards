@@ -536,10 +536,10 @@
  "plebeian-my-prs:t_ee0bc1f6": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342021.54778,
+  "updated": 1789359555.3100648,
   "ts": 1789341798.9313388,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789341948"
+  "run_id": "dq05-1789359478"
  },
  "plebeian-my-prs:t_5373c212": {
   "node": "dq05",
@@ -552,10 +552,10 @@
  "plebeian-my-prs:t_1ff488bb": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342025.2361226,
+  "updated": 1789359557.224554,
   "ts": 1789341802.9221678,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789341952"
+  "run_id": "dq05-1789359480"
  },
  "plebeian-my-prs:t_1e36fd1a": {
   "node": "dq05",
@@ -576,34 +576,34 @@
  "plebeian-my-prs:t_f6cb0255": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342111.8658223,
+  "updated": 1789359558.9611592,
   "ts": 1789341808.4527688,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789342036"
+  "run_id": "dq05-1789359482"
  },
  "plebeian-my-prs:t_88eb0032": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342113.6126883,
+  "updated": 1789359643.2424822,
   "ts": 1789341810.5989954,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789342038"
+  "run_id": "dq05-1789359567"
  },
  "plebeian-my-prs:t_cd2385ac": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342187.4381309,
+  "updated": 1789359645.1865737,
   "ts": 1789341812.307434,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789342122"
+  "run_id": "dq05-1789359568"
  },
  "plebeian-my-prs:t_1c42dfe9": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789342432.79801,
+  "updated": 1789359553.740818,
   "ts": 1789342204.135034,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789342363"
+  "run_id": "dq05-1789359476"
  },
  "plebeian-my-prs:t_073cc318": {
   "node": "dq05",
@@ -1216,18 +1216,18 @@
  "plebeian-my-prs:t_e36f50a5": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789341719.366847,
+  "updated": 1789359647.0283413,
   "ts": 1789341580.3018696,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789341650"
+  "run_id": "dq05-1789359570"
  },
  "plebeian-my-prs:t_a111a86d": {
   "node": "dq05",
   "status": "done",
-  "updated": 1789341721.041393,
+  "updated": 1789359648.653681,
   "ts": 1789341581.9564383,
   "repo": "plebeian-my-prs",
-  "run_id": "dq05-1789341651"
+  "run_id": "dq05-1789359572"
  },
  "plebeian-my-prs:t_95bb4aeb": {
   "node": "dq05",
@@ -1679,49 +1679,51 @@
  },
  "meshcore:t_031bc3fa": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789359307.286591,
+  "status": "done",
+  "updated": 1789359383.0588815,
   "ts": 1789354699.7952776,
   "repo": "meshcore",
   "run_id": "dq05-1789359307"
  },
  "meshcore:t_ec8e8685": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789359308.9999583,
+  "status": "done",
+  "updated": 1789359384.7791936,
   "ts": 1789354701.4590642,
   "repo": "meshcore",
   "run_id": "dq05-1789359308"
  },
  "meshcore:t_63f12d3f": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789359310.7622313,
+  "status": "done",
+  "updated": 1789359386.4182827,
   "ts": 1789354703.2828655,
   "repo": "meshcore",
   "run_id": "dq05-1789359310"
  },
  "meshcore:t_04045747": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789359312.5824208,
+  "status": "done",
+  "updated": 1789359388.1546538,
   "ts": 1789354704.853919,
   "repo": "meshcore",
   "run_id": "dq05-1789359312"
  },
  "meshcore:t_e90e207f": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354708.600875,
+  "status": "done",
+  "updated": 1789359467.7286475,
   "ts": 1789354708.600875,
-  "repo": "meshcore"
+  "repo": "meshcore",
+  "run_id": "dq05-1789359398"
  },
  "meshcore:t_100f5324": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354706.6599422,
+  "status": "done",
+  "updated": 1789359466.1877322,
   "ts": 1789354706.6599422,
-  "repo": "meshcore"
+  "repo": "meshcore",
+  "run_id": "dq05-1789359396"
  },
  "e80-bench:t_11cf44fe": {
   "node": "dq05",
@@ -2540,6 +2542,20 @@
   "ts": 1789359134.4305503,
   "repo": "balloon"
  },
+ "tollgate:t_72f4873c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789348995.3539338,
+  "ts": 1789348995.3539338,
+  "repo": "tollgate"
+ },
+ "conwrt:t_515a58b0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789349015.902503,
+  "ts": 1789349015.902503,
+  "repo": "conwrt"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
@@ -2769,20 +2785,6 @@
   "status": "claimed",
   "updated": 1789345668.6878939,
   "ts": 1789345491.8755724,
-  "repo": "conwrt"
- },
- "tollgate:t_72f4873c": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789348995.3539338,
-  "ts": 1789348995.3539338,
-  "repo": "tollgate"
- },
- "conwrt:t_515a58b0": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1789349015.902503,
-  "ts": 1789349015.902503,
   "repo": "conwrt"
  },
  "tollgate:t_d22a93b7": {

@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Bring up CF-WR632AX, verify SSH + OpenWrt 25.12.4, log verbatim evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -338,7 +338,7 @@
  {
   "id": "t_bda1cec1",
   "title": "Draft net4sats LAN-move evidence subsection",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,
@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,
@@ -362,7 +362,7 @@
  {
   "id": "t_a27f30d9",
   "title": "Independently verify LAN-move provenance verdicts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789356091,

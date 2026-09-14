@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags into tests/p1b_ab_test.py",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_72f4873c",
   "title": "Fetch LR2021 datasheet, errata, and RadioLib driver from upstream",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348145,
