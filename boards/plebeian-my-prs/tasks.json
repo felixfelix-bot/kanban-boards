@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Recover design-pass triage artifact for PR #1232; report pushbacks vs tension findings (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_77abc183",
   "title": "Extract PR #1306 draft review findings verbatim from parent artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_463d9bfe",
   "title": "Extract fork/branch/SHA inputs and re-verify SHA against fork remote",
-  "status": "ready",
+  "status": "blocked",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_0b7fa8c5",
   "title": "Gather verbatim PR 1232 diff hunk and Franchovy comment thread",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_6161a44d",
   "title": "Map e2e.yml line 148 base vs head and trace downstream consumers",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,

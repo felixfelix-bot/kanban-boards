@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files, read-only, write candidates.json + candidates.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_bc4c6635",
   "title": "Scan ci/e2e-grep-input for gate/shadow-card hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789388644,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_0e3b9b55",
   "title": "Inventory market doc surfaces + worktree list (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789388685,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Recon shadow-card/gate hits on feat/applesauce-wave-a",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_967a7280",
   "title": "Recon shadow-card/gate hits on feat/cvm-worker-nip53-status",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-cvm-worker-nip53-status",
   "created_at": 1789388685,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_4c9b0923",
   "title": "Recon shadow-card/gate hits on feat/nip53-improvements",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789388685,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_52a4d2f3",
   "title": "Inventory doc surfaces and MARKET fix/security worktrees",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789388716,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_c376917a",
   "title": "Recon awesome-community-networks for approval/gating mechanisms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-community-networks-main",
   "created_at": 1789388786,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_59086e73",
   "title": "Recon rana: every branch/worktree for shadow-card + human-gate hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1f938710",
   "title": "Merge shard C recon rows and post consolidated table as task comment",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_947cb5c7",
   "title": "Implement documented unit conversions as pure functions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789388971,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_b8db9cb1",
   "title": "Implement firmware digit-limit and rounding rule exactly",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789388971,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_88ea1536",
   "title": "Search lab docs, calendars, and booking sheets for chamber custodian",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789389061,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_10fc09c8",
   "title": "Search Slack/Matrix history for thermal chamber custodian evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789389061,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_47c20593",
   "title": "Check physical logbook and sign-out sheets for chamber custodian",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789389061,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_cb5c983b",
   "title": "Search wiki, docs and booking admin panels for controller/software admins",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389124,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_deaadda3",
   "title": "Trace calendar and booking-tool edits to find maintenance block owners",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389124,
@@ -4490,7 +4490,7 @@
  {
   "id": "t_f089005b",
   "title": "Mine logbook and Slack/Matrix history for calibration/maintenance actors",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389124,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_3f655814",
   "title": "Identify DUT board MPN, revision, and provenance",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389304,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_89db0d9e",
   "title": "Locate and pin authoritative DUT documentation (datasheet/schematic/drawing)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389304,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_0a6e832e",
   "title": "Enumerate every instrument on the DUT RF path with make/model/serial",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389809,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_7f7ad274",
   "title": "Enumerate chamber-interior signal-path components (DUT port to bulkhead)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389826,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_244d4492",
   "title": "Enumerate chamber-exterior signal-path components (bulkhead to instrument)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389826,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_3490cfb4",
   "title": "Compile gasket, o-ring, and bulkhead sealing hardware BOM lines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389875,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_088e017a",
   "title": "Compile matched terminations, loads, and dust/shorting cap BOM lines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389875,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_0db28574",
   "title": "Compile torque wrench, spanner, connector-saver, and fixture BOM lines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389875,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_399d4e1c",
   "title": "Catalogue SMA mating-surface failure modes under frost and thermal cycling",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389928,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_965067c4",
   "title": "Analyze PTFE dielectric moisture and thermal-cycle failure modes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390247,
@@ -4790,7 +4790,7 @@
  {
   "id": "t_5c11777c",
   "title": "Analyze solder-joint and center-pin thermal-fatigue failure modes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390247,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_6d5add05",
   "title": "Analyze jacket stiffening effects at -20C/-40C",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390304,
@@ -4826,7 +4826,7 @@
  {
   "id": "t_d5ff2595",
   "title": "Analyze bend-radius violations from stiffening/ice",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390304,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_37ecd6c1",
   "title": "Quantify attenuation/phase temperature coefficient",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390304,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_f2df0629",
   "title": "Catalogue feedthrough seal elastomer failure modes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390331,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_db5286f6",
   "title": "Catalogue feedthrough mechanical mount failure modes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390331,

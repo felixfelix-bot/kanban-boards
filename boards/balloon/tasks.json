@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Extract relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_3c19702b",
   "title": "Analyze test_relay_pipeline.c mock implementation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395070,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "Prep env: read FIPS-FIX-PLAN.md, ensure riscv32imc target installed",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Extract and freeze balloon in-repo PAY/ACK candidate list from parent sweep",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract `## Mock protocol` section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Verify CONFIG_ENABLE_* symbol inventory and declarations",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_c3acbf3f",
   "title": "Verify guard-style census counts and quoted examples",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Verify which include brings CONFIG_ENABLE_* into scope",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify precedent flags' declaration and guard quotes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Inspect build system and Kconfig for sdkconfig export and ENABLE_ symbols",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_c7567c99",
   "title": "Inspect sdkconfig and sdkconfig.defaults for CONFIG_ENABLE_* assignments",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Pin balloon-firmware revision and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Determine whether generated sdkconfig exists and list its CONFIG_ENABLE_* entries",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware sources",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_f6afccee",
   "title": "Map tollgate_msg_hdr_t / tollgate_ack_payload_t struct usage in app_task.cpp",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
