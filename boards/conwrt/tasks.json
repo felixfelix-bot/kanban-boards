@@ -493,8 +493,8 @@
  },
  {
   "id": "t_c52fd334",
-  "title": "Extract verbatim LAN-move + read-back command blocks from net4sats md",
-  "status": "triage",
+  "title": "Transcribe net4sats LAN-move + read-back command blocks verbatim into drafts/net4sats-raw-commands.md",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,

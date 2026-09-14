@@ -2073,8 +2073,8 @@
  },
  "meshcore:t_35c19845": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789366236.0651543,
+  "status": "done",
+  "updated": 1789366521.0501592,
   "ts": 1789357271.4082975,
   "repo": "meshcore",
   "run_id": "dq05-1789366236"
@@ -2119,10 +2119,11 @@
  },
  "plebeian-my-prs:t_77865e0f": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357352.6225512,
+  "status": "running",
+  "updated": 1789366670.6135447,
   "ts": 1789357352.6225512,
-  "repo": "plebeian-my-prs"
+  "repo": "plebeian-my-prs",
+  "run_id": "dq05-1789366670"
  },
  "plebeian-my-prs:t_44279c11": {
   "node": "dq05",
