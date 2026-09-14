@@ -2105,8 +2105,8 @@
  },
  "plebeian-my-prs:t_0240be0f": {
   "node": "dq05",
-  "status": "running",
-  "updated": 1789366900.4721897,
+  "status": "done",
+  "updated": 1789373530.930424,
   "ts": 1789342199.0141983,
   "repo": "plebeian-my-prs",
   "run_id": "dq05-1789366900"
@@ -2167,10 +2167,11 @@
  },
  "e80-bench:t_bcaa6c62": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789357363.571603,
+  "status": "running",
+  "updated": 1789373551.4652307,
   "ts": 1789357363.571603,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789373551"
  },
  "e80-bench:t_3516b5eb": {
   "node": "dq05",
@@ -3302,5 +3303,89 @@
   "updated": 1789357888.072425,
   "ts": 1789357888.072425,
   "repo": "tollgate"
+ },
+ "meshcore:t_a2f7f281": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373558.0788922,
+  "ts": 1789373558.0788922,
+  "repo": "meshcore"
+ },
+ "meshcore:t_d2280496": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373561.55233,
+  "ts": 1789373561.55233,
+  "repo": "meshcore"
+ },
+ "meshcore:t_27ebeba6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373564.2139978,
+  "ts": 1789373564.2139978,
+  "repo": "meshcore"
+ },
+ "meshcore:t_cd52472e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373567.1816812,
+  "ts": 1789373567.1816812,
+  "repo": "meshcore"
+ },
+ "meshcore:t_bc042fa5": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373570.9701326,
+  "ts": 1789373570.9701326,
+  "repo": "meshcore"
+ },
+ "meshcore:t_62e4735a": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373574.359766,
+  "ts": 1789373574.359766,
+  "repo": "meshcore"
+ },
+ "meshcore:t_69e0e0d0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373579.9895618,
+  "ts": 1789373579.9895618,
+  "repo": "meshcore"
+ },
+ "plebeian-my-prs:t_9d7ed60f": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373582.9657457,
+  "ts": 1789373582.9657457,
+  "repo": "plebeian-my-prs"
+ },
+ "meshcore:t_fbfead68": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373601.0803888,
+  "ts": 1789373601.0803888,
+  "repo": "meshcore"
+ },
+ "balloon:t_9f3eacbf": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373603.3727522,
+  "ts": 1789373603.3727522,
+  "repo": "balloon"
+ },
+ "balloon:t_8e8296e7": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373610.7075958,
+  "ts": 1789373610.7075958,
+  "repo": "balloon"
+ },
+ "balloon:t_3e85646d": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789373612.672915,
+  "ts": 1789373612.672915,
+  "repo": "balloon"
  }
 }

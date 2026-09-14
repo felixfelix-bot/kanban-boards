@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files in repo tree (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope and publish candidate/zero-doc manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
