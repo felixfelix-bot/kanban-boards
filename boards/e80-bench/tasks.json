@@ -1885,7 +1885,7 @@
  },
  {
   "id": "t_5b90f450",
-  "title": "Reproduce e80 range-split RED suite and record actual failure count + log",
+  "title": "Reproduce e80 range-split RED suite; record actual failure count + full log",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
@@ -1945,7 +1945,7 @@
  },
  {
   "id": "t_a0752149",
-  "title": "Recon tools/range_check.py verdict contract: status literals + counters",
+  "title": "Recon tools/range_check.py per-config verdict result contract (read-only)",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
@@ -1957,7 +1957,7 @@
  },
  {
   "id": "t_5f9c18f9",
-  "title": "Recon resend-<stop>.json artifact in tools/range_check.py (read-only)",
+  "title": "Recon resend-<stop>.json writer in firmware/e80-stm32-bench (read-only)",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
