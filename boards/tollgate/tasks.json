@@ -2426,7 +2426,7 @@
  {
   "id": "t_128a5671",
   "title": "Fetch LR2021 errata/app notes from Semtech doc library",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,

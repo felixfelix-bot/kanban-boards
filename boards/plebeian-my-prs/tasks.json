@@ -2630,7 +2630,7 @@
  {
   "id": "t_a5e877bb",
   "title": "Draft <=40-line review comment for market PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff + metadata, verify head SHA, inventory touched .github/workflows/ files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta key derivation, cache TTL, and caller reachability on market PR #1232 (Q4)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_2e186463",
   "title": "Inventory all CI checks + workflow files on PlebeianApp/market PR #1232 (pinned head 2c8b3981)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,
