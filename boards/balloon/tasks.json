@@ -1646,7 +1646,7 @@
  {
   "id": "t_c9ef5c05",
   "title": "Recon: grep ~/repos for tollgate_msg_hdr_t and tollgate_ack_payload_t",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789346669,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_d8fef369",
   "title": "Recon ~/repos for TG_MSG_PAY and TG_MSG_ACK (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789346669,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_f3a74423",
   "title": "Recon: grep ~/repos for tollgate_proto_encode and tollgate_proto_decode",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789346669,

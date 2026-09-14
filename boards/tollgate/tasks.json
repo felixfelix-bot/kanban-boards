@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open nsyte upstream PR and report URL to operator",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget React component consuming hook + Sass",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_e00b32dc",
   "title": "Enumerate SET_AUTO_RX_TX and SET_TX_PARAMS layouts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_f8586797",
   "title": "Enumerate CONFIG_FIFO_IRQ, GET_TX_FIFO_LEVEL, CLEAR_TX_FIFO layouts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_cb960649",
   "title": "Trace current per-packet TX path in bench_main.cpp with line cites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
