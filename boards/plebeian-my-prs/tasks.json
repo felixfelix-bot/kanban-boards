@@ -1910,7 +1910,7 @@
  {
   "id": "t_88eb0032",
   "title": "Verify PR #1232 finding 1: relay URL source + 503 fallback",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_a13a2bc8",
   "title": "Verify PR #1232 finding 3: ogMeta relay lookup concurrency cap",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789341628,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_72202176",
   "title": "Fetch PR #1313 diff and verify head SHA",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789343174,

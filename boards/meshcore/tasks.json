@@ -265,7 +265,7 @@
  },
  {
   "id": "t_d48d7599",
-  "title": "Recommend SelfCal EMA time constant from lag + hysteresis findings (with open-loop limit note)",
+  "title": "Author SelfCal EMA time-constant decision memo from lag + hysteresis findings",
   "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",

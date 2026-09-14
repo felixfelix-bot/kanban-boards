@@ -1910,7 +1910,7 @@
  {
   "id": "t_2d6ea4f8",
   "title": "Rewrite serial layer in tests/p1b_ab_test.py for USB CDC re-enumeration",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f270c27a",
   "title": "Add PTY-based harness proving retry and timeout-recovery paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_32ca6d45",
   "title": "Locate LR2021 driver sources, LR2021_commands.h, and bench_main.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_dbcc7e9a",
   "title": "Assemble LR2021 primary sources (datasheet, RadioLib driver, errata)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_84477ffe",
   "title": "Answer: does SET_AUTO_RX_TX (0x0211) support auto-TX FIFO trigger?",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_57122640",
   "title": "Answer: TXContinuous / infinite-TX mode, underrun and timeout behaviour",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_da19111d",
   "title": "Answer: LR2021 errata and silicon revisions affecting TX / FIFO IRQ thresholds",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
