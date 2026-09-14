@@ -637,8 +637,8 @@
  },
  {
   "id": "t_3f3235be",
-  "title": "Trace provenance of net4sats LAN-move ipv4 in wizard bundle",
-  "status": "triage",
+  "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move binding in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
