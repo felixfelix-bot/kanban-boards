@@ -2197,7 +2197,7 @@
  },
  {
   "id": "t_0e77b291",
-  "title": "Extract mock protocol doc section verbatim to /tmp (read-only)",
+  "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim from tracker/firmware to /tmp, with evidence-backed flags",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",

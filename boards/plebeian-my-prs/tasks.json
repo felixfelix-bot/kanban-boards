@@ -1874,7 +1874,7 @@
  {
   "id": "t_9ded96bd",
   "title": "Review signer seam (ADR-0008) in PR #1283 diff",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789341600,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_b2a13038",
   "title": "Review publish lanes + retry/dup paths (ADR-0002) in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-applesauce-foundation",
   "created_at": 1789341600,
@@ -2701,8 +2701,8 @@
  },
  {
   "id": "t_f9ab1afc",
-  "title": "Review subdomain routing, DNS, TLS dispatch at PR #1271 head",
-  "status": "triage",
+  "title": "Audit PR #1271 subdomain DNS/TLS/proxy dispatch for new defects",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2713,8 +2713,8 @@
  },
  {
   "id": "t_3f91385f",
-  "title": "Review lazy-start spin-up failure/timeout paths at PR #1271 head",
-  "status": "triage",
+  "title": "Review lazy-start preview spin-up failure/timeout paths at PR #1271 head",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2737,8 +2737,8 @@
  },
  {
   "id": "t_bf13f824",
-  "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "triage",
+  "title": "Prove e2e.yml:148 PR #1232 revert status (read-only, SHA-cited)",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
