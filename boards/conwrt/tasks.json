@@ -230,7 +230,7 @@
  {
   "id": "t_2606a296",
   "title": "Triage D1-D2: file:line, impact, blocking verdict, minimal fix",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -242,7 +242,7 @@
  {
   "id": "t_a9f7d91f",
   "title": "Triage D3-D5: file:line, impact, blocking verdict, minimal fix",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -338,7 +338,7 @@
  {
   "id": "t_bda1cec1",
   "title": "Draft net4sats LAN-move evidence subsection",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789356091,

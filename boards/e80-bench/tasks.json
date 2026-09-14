@@ -1634,7 +1634,7 @@
  {
   "id": "t_bd09660b",
   "title": "Reproduce e80 range-split RED suite and write bucketed failure inventory",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789348639,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_63b8f6b0",
   "title": "Recon ADR + cvm_board_server.py, publish constant/relay/pattern notes",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_6b57ef82",
   "title": "Recon range_check.py result contract and resend artifact naming",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_b6ebd0b1",
   "title": "Recon ADR-range-sync-cvm verdict schema + session linkage",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_67ad0144",
   "title": "Recon cvm_board_server nostr transport API and relay failover",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_524c145c",
   "title": "Recon repo test layout, pytest invocation, and env-var conventions",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_123c4431",
   "title": "Recon existing boundary-mode test harness, fixtures, and test command",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,

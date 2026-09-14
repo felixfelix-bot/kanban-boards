@@ -1958,7 +1958,7 @@
  {
   "id": "t_e00b32dc",
   "title": "Enumerate SET_AUTO_RX_TX and SET_TX_PARAMS layouts",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_f8586797",
   "title": "Enumerate CONFIG_FIFO_IRQ, GET_TX_FIFO_LEVEL, CLEAR_TX_FIFO layouts",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_cb960649",
   "title": "Trace current per-packet TX path in bench_main.cpp with line cites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_1eefa8f1",
   "title": "Verify p1b_ab_test BR sweep on real ESP32 hardware and write /tmp/p1b_ab_acceptance_report.md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_5a6297cf",
   "title": "Inventory LR2021 sources already present in the local repos",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348145,

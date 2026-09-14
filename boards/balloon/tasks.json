@@ -1754,7 +1754,7 @@
  {
   "id": "t_13b5d123",
   "title": "Search repo + filesystem for existing tollgate PAY/ACK spec",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789348587,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_fda79044",
   "title": "Enumerate all Tollgate PAY/ACK call sites in main/app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_982aa0e1",
   "title": "Document test_relay_pipeline.c mock proto structs and signatures",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_96ea4fcf",
   "title": "Recon relay_types.h framing + CONFIG_ENABLE_TOLLGATE guard conventions",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
