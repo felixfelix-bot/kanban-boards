@@ -3577,11 +3577,11 @@
  },
  "tollgate:t_d06e4cd7": {
   "node": "cobrador",
-  "status": "done",
-  "updated": 1789405560.7917938,
+  "status": "failed",
+  "updated": 1789412851.0298991,
   "ts": 1789379801.8559954,
   "repo": "tollgate",
-  "run_id": "cobrador-1789380448"
+  "run_id": "cobrador-1789412784"
  },
  "tollgate:t_eef8589b": {
   "node": "cobrador",
@@ -3949,11 +3949,11 @@
  },
  "tollgate:t_6b0e3c09": {
   "node": "cobrador",
-  "status": "failed",
-  "updated": 1789406288.995286,
+  "status": "running",
+  "updated": 1789412987.362926,
   "ts": 1789397931.863391,
   "repo": "tollgate",
-  "run_id": "cobrador-1789406217"
+  "run_id": "cobrador-1789412987"
  },
  "meshcore:t_88a32933": {
   "node": "dq05",
