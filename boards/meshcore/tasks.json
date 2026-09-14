@@ -494,7 +494,7 @@
  {
   "id": "t_0a33a63c",
   "title": "Identify external frequency reference and plan ppm averaging",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789339695,
@@ -506,7 +506,7 @@
  {
   "id": "t_08f4a23e",
   "title": "Verify RF coupling path from module TX to reference input",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789339695,
@@ -518,7 +518,7 @@
  {
   "id": "t_747e7d8f",
   "title": "Confirm uninterrupted bench access for 4 soaks + 2 ramps",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339695,
@@ -554,7 +554,7 @@
  {
   "id": "t_7219ed8b",
   "title": "Find escalation digest cron job name, interval, and delivery channel",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,
@@ -566,7 +566,7 @@
  {
   "id": "t_90b4c72a",
   "title": "Enumerate exact allowed block_kind values from scanner source",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,
@@ -578,7 +578,7 @@
  {
   "id": "t_a2175c0c",
   "title": "Confirm kanban_block reason prefix format and whether reason is required",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,
@@ -590,7 +590,7 @@
  {
   "id": "t_6ff087c6",
   "title": "Audit request-human-action skill for stale references",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,
@@ -602,7 +602,7 @@
  {
   "id": "t_d6f14ee2",
   "title": "Compile ground-truth escalation-route reference sheet",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,

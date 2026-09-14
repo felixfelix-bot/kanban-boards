@@ -1826,7 +1826,7 @@
  {
   "id": "t_a111a86d",
   "title": "Extract readiness predicate + secrets at preview-deploy.yml:~126",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e36f50a5",
   "title": "Trace downstream deploy/provision steps and required Cloudflare values",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341394,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_073cc318",
   "title": "Decide finding validity and commit decision note to PR branch",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_cd2385ac",
   "title": "Pin PR #1283 head SHA and capture full diff + file/line index",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9ded96bd",
   "title": "Review signer seam (ADR-0008) in PR #1283 diff",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789341600,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_b2a13038",
   "title": "Review publish lanes + retry/dup paths (ADR-0002) in PR #1283",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-chore-applesauce-foundation",
   "created_at": 1789341600,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_88eb0032",
   "title": "Verify PR #1232 finding 1: relay URL source + 503 fallback",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f6cb0255",
   "title": "Verify PR #1232 finding 2: OG cleanup ownership on SPA nav",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341628,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_a13a2bc8",
   "title": "Verify PR #1232 finding 3: ogMeta relay lookup concurrency cap",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789341628,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_1e36fd1a",
   "title": "Verify Finding 4: .github/workflows/e2e.yml:148 'should be reverted'",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789341664,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_1ff488bb",
   "title": "Verify Finding 5: product:price:currency in og-meta-tags cleanup matrix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_5373c212",
   "title": "Verify Finding 7: PR gate coverage and required video/trace artifacts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789341664,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_ee0bc1f6",
   "title": "Map Finding 9 (Franchovy top-level BLOCKER) to concrete inline items",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_1c42dfe9",
   "title": "Finding 6: analyze io.ts vs new server relay path boundary",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341805,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_eadae14c",
   "title": "Finding 8: diff PR #1232 description against actual SSR implementation",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341805,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_7bddcb81",
   "title": "Consolidate findings 6 and 8 into one kanban comment with verdicts",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789341805,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_6f8f95b1",
   "title": "Inventory PR #1232 inline comments and map the 5 known targets",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_95bb4aeb",
   "title": "Verify e2e.yml:148 revert and close out the 3 PR gates",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0240be0f",
   "title": "Collect PR #1232 top-level reviews and triage pushback/tension list",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341817,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_4d776983",
   "title": "Assemble the PR #1232 evidence dossier (markdown)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341817,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_be30543a",
   "title": "Fetch PR #1252 diff and pin head SHA",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789343033,

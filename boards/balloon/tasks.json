@@ -1526,7 +1526,7 @@
  {
   "id": "t_7ff4a4a3",
   "title": "Search balloon-fresh repos for tollgate PAY/ACK spec or wire format",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_fc0187b4",
   "title": "Grep ~/repos for tollgate PAY/ACK symbols and account for every one",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342382,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_0d2ffaf2",
   "title": "Audit tollgate upstream repos for a normative PAY/ACK protocol spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_acee3bc0",
   "title": "Enumerate every tollgate symbol usage in main/app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_e2476a6e",
   "title": "Document CONFIG_ENABLE_TOLLGATE declaration and guard pattern",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_1b6fafb5",
   "title": "Merge tollgate API inventory + sdkconfig guards into final deliverable",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_8799d4bb",
   "title": "Document MOCK protocol in test_relay_pipeline.c",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_13799503",
   "title": "Document relay_types.h enum and relay packet framing",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_290bb39f",
   "title": "Merge mock + framing docs and pin the implied header layout",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,

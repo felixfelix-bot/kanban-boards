@@ -218,7 +218,7 @@
  {
   "id": "t_79e987a1",
   "title": "ngit-ci-dashboard: show repo+branch per run and error for failed runs",
-  "status": "triage",
+  "status": "done",
   "priority": 8,
   "assignee": "worker-wizard",
   "created_at": 1789203103,
