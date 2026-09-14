@@ -2354,7 +2354,7 @@
  {
   "id": "t_6b0e3c09",
   "title": "Download Semtech LR2021 datasheet PDF or record exact failure",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_eef8589b",
   "title": "Fetch LR1120 datasheet with provenance",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_563518e2",
   "title": "Extract and hash-verify LR11x0 datasheet provenance entries",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

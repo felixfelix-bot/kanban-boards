@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture -20 C die-temp soak evidence via calshow",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,

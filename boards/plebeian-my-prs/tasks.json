@@ -3110,7 +3110,7 @@
  {
   "id": "t_2438849c",
   "title": "Pin PR #1232 head OID and report per-path commit SHAs (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,

@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "Add RED test: GO-mode session_id exactly equals ARMED session_id",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_5b90f450",
   "title": "Reproduce e80 range-split RED suite; record actual failure count + full log",
-  "status": "triage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -1945,8 +1945,8 @@
  },
  {
   "id": "t_a0752149",
-  "title": "Recon tools/range_check.py per-config verdict result contract (read-only)",
-  "status": "triage",
+  "title": "Recon tools/range_check.py per-config verdict result contract (read-only, findings inline)",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_5f9c18f9",
   "title": "Recon resend-<stop>.json writer in firmware/e80-stm32-bench (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon nostr transport surface of tools/cvm_board_server.py (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1993,8 +1993,8 @@
  },
  {
   "id": "t_4fb74c0f",
-  "title": "Capture cvm_board_server relay failover list verbatim and prove relay.contextvm.org absence",
-  "status": "triage",
+  "title": "Capture relay failover list verbatim from cvm_board_server.py + grep evidence",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_dbea0ad0",
   "title": "Capture raw pre-change git baseline (status + diff --stat) in firmware/e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
