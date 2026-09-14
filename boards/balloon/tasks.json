@@ -2222,7 +2222,7 @@
  {
   "id": "t_62c396a3",
   "title": "Write TOLLGATE_PROTO_API.md tollgate payment wire-format contract",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360704,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call-site citations in main/app_task.cpp",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,

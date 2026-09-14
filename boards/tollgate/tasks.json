@@ -1970,7 +1970,7 @@
  {
   "id": "t_f8586797",
   "title": "Enumerate CONFIG_FIFO_IRQ, GET_TX_FIFO_LEVEL, CLEAR_TX_FIFO layouts",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,

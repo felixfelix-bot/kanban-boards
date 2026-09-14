@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Inventory chamber penetrations and measure port geometry",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_b1049504",
   "title": "Identify DUT-side RF port connector type(s) and count",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Assess chamber feedthrough: type, population, existing cabling",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_0d86117f",
   "title": "Compile connector/adapter BOM with procurement and RF loss analysis",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
