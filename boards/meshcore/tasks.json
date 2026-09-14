@@ -1405,8 +1405,8 @@
  },
  {
   "id": "t_6becdbdf",
-  "title": "Capture verbatim serial CLI + firmware build identity, SkyMapper Board A",
-  "status": "triage",
+  "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1417,8 +1417,8 @@
  },
  {
   "id": "t_0810e888",
-  "title": "Capture and publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "triage",
+  "title": "Publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
+  "status": "ready",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_100f5324",
   "title": "Grep source/infra for escalation-digest code path and pin the literal delivery transport",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
