@@ -182,7 +182,7 @@
  {
   "id": "t_21231fd4",
   "title": "Extract net4sats LAN-move + read-back block from wizard-bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789343688,
@@ -194,7 +194,7 @@
  {
   "id": "t_9cf057cf",
   "title": "Extract tollgate LAN-move + read-back block from wizard-bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789343688,

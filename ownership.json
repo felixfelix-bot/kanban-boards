@@ -742,10 +742,11 @@
  },
  "e80-bench:t_d4026c1d": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789344277.5583708,
+  "status": "running",
+  "updated": 1789348139.769185,
   "ts": 1789344277.5583708,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789348139"
  },
  "conwrt:t_8f991291": {
   "node": "dq05",
@@ -925,6 +926,24 @@
   "status": "claimed",
   "updated": 1789346911.7850807,
   "ts": 1789346911.7850807
+ },
+ "balloon:t_ae917903": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789348263.4154525,
+  "ts": 1789348263.4154525
+ },
+ "balloon:t_8f3856aa": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789348263.4299235,
+  "ts": 1789348263.4299235
+ },
+ "balloon:t_f5986a6e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789348263.4417589,
+  "ts": 1789348263.4417589
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
