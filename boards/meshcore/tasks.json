@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Dry-run calshow sampling harness at ambient and report hard-gate verdict",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture +25 C die-temp soak evidence via calshow",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture 0 C die-temp soak evidence (>15 min in 0.5 C band)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Run -40 C die-temp soak and capture calshow evidence",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_23dc3d2f",
   "title": "Identify module under test: radio chip, band, carrier freq, RF port",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Chamber pre-flight: verify comms + own-sensor telemetry, record ambient baseline, start raw logging",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Inventory chamber penetrations and gasket geometry with sourced dimensions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
