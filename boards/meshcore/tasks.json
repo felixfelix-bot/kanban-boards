@@ -1934,7 +1934,7 @@
  {
   "id": "t_2a16c491",
   "title": "Characterize RF coax bundle dimensions and minimum bend radius",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,

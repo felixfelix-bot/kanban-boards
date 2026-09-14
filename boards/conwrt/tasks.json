@@ -602,7 +602,7 @@
  {
   "id": "t_1ede9d45",
   "title": "Trace how ipv4 binds into the net4sats LAN-move recipe",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
