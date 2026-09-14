@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open upstream nsyte PR (c03rad0r:feature/non-interactive-init \u2192 sandwichfarm:main) and report URL",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget.jsx consuming useBalancePolling + _balance-widget.scss",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,

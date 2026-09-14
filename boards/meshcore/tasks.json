@@ -446,7 +446,7 @@
  {
   "id": "t_2e467fc7",
   "title": "Record verbatim LR2021 module ID and photo for Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789339677,
@@ -506,7 +506,7 @@
  {
   "id": "t_08f4a23e",
   "title": "Bench-verify module TX at reference input: safe level + margins",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789339695,
@@ -602,7 +602,7 @@
  {
   "id": "t_d6f14ee2",
   "title": "Compile one cited ground-truth escalation-route reference sheet from the four parent findings",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339714,
@@ -962,7 +962,7 @@
  {
   "id": "t_ffc911f6",
   "title": "Physically locate thermal chamber and record make/model/serial + nameplate",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -974,7 +974,7 @@
  {
   "id": "t_4e41856d",
   "title": "Document chamber controller type and setpoint commanding method",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -1010,7 +1010,7 @@
  {
   "id": "t_46584c79",
   "title": "Define 10-min chamber logging protocol and capture template",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_0e98e408",
   "title": "Run chamber 10-min holds at +25/0/-20/-40 C and capture logs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1058,7 +1058,7 @@
  {
   "id": "t_48e048a1",
   "title": "Survey chamber feedthrough port and mechanical fit of DUT + RF cable",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_2f5adb53",
   "title": "Inventory required RF connectors, adapters, and feedthrough hardware",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_de0a0fa5",
   "title": "Assess condensation and frost risk on cables at -20 C and -40 C",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1094,7 +1094,7 @@
  {
   "id": "t_2d4f1f6e",
   "title": "Determine chamber ramp-rate limits and ramp-count feasibility",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
@@ -1106,7 +1106,7 @@
  {
   "id": "t_9d139605",
   "title": "Compile feedthrough + RF feasibility comment with PASS/FAIL verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,

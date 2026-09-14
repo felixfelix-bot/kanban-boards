@@ -1574,7 +1574,7 @@
  {
   "id": "t_71f487f7",
   "title": "Cross-family cold review of the PR #1306 draft comment",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335202,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_2bffe9e8",
   "title": "Cross-family cold review of PR #1310 draft",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335506,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold cross-family review of the PR #1311 draft comment",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_087284d3",
   "title": "Draft PR #1312 review findings (dedup, terse Felix style)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_fe35286d",
   "title": "Resolve PR #1232 head and record fixing-commit SHAs for 5 target paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "Collect and tabulate PR #1232 top-level reviews with per-review reply targets",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Triage PR #1232 design-pass artifact: pushbacks vs tension findings",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
