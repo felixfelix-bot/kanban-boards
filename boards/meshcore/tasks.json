@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added RF insertion loss and recalibration decision",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,

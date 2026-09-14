@@ -866,7 +866,7 @@
  {
   "id": "t_77f25b09",
   "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789393446,
