@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory SSR OG/Twitter metadata code at PR #1232 head (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -3409,8 +3409,8 @@
  },
  {
   "id": "t_2ac35bf1",
-  "title": "Grep PR #1232 head for ownership test + four navigation scenario tests",
-  "status": "triage",
+  "title": "Grep PR #1232 head for ownership + 4 nav scenario tests",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789363946,
