@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Preflight CF-WR632AX: verify SSH reachability + OpenWrt 25.12.4, log evidence",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -626,7 +626,7 @@
  {
   "id": "t_cc35ecdf",
   "title": "Find net4sats LAN-move IPv4 token and any in-bundle binding",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,
@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write provenance-verification.md and verify repo unmodified",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
