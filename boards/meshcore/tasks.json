@@ -1201,8 +1201,8 @@
  },
  {
   "id": "t_83fa11ee",
-  "title": "Read-only trace of task graph anchored at t_aaf1cda6 (BFS, depth<=3/40 rows)",
-  "status": "triage",
+  "title": "Read-only BFS trace of task graph anchored at t_aaf1cda6 (depth<=3, <=40 rows)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1213,7 +1213,7 @@
  },
  {
   "id": "t_982de6da",
-  "title": "Keyword-sweep all board task rows for human-gate / shadow-card terms",
+  "title": "Read-only sweep of all board rows for human-gate/shadow-card terms",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1297,7 +1297,7 @@
  },
  {
   "id": "t_d9354cfc",
-  "title": "Enumerate all local git repos, report metadata, split into 3 buckets",
+  "title": "Enumerate all local git repos with metadata and split into 3 contiguous buckets",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1357,7 +1357,7 @@
  },
  {
   "id": "t_56718709",
-  "title": "Inventory doc surfaces (roots, .md, ADR/RFC) across repos/worktrees",
+  "title": "Inventory doc surfaces (docs roots, .md, ADR/RFC) per repo/worktree",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",

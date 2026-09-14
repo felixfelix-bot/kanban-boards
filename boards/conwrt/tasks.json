@@ -278,7 +278,7 @@
  {
   "id": "t_1d9e084b",
   "title": "Prove and document the CF-WR632AX recovery path before anything else",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection from wizard-bundle recipe",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -385,7 +385,7 @@
  },
  {
   "id": "t_f51dfe6f",
-  "title": "Recon conwrt repo root/branch and extract D1/D2 specs",
+  "title": "Recon conwrt repo root/branch/HEAD and extract verbatim D1/D2 specs into recon.md",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
@@ -530,7 +530,7 @@
  {
   "id": "t_bbd9df94",
   "title": "Verify net4sats-subsection.md against source md and wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789361675,
@@ -566,7 +566,7 @@
  {
   "id": "t_a31dce33",
   "title": "Compose drafts/tollgate-subsection.md from extraction + provenance",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362852,

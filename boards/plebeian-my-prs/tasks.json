@@ -2114,7 +2114,7 @@
  {
   "id": "t_c6d5f2c3",
   "title": "Review diff for signer key-handling/type/behavior regressions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789343033,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_a72ce5c3",
   "title": "Audit diff for ADR-0002 migration gaps and parity drift",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343033,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_f7babe60",
   "title": "Review PR #1313 for NEW issues: union zap relay handling",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789343174,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_2f6096de",
   "title": "Review PR #1313 for NEW issues: handler-id chain + trimming",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789343174,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_16a4561c",
   "title": "Verify PR #1306 head SHA c20765e7 and pin the diff artifact",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 diff at head SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Security/robustness review of NIP-46 signer changes in market PR #1290",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Read-only trace of ogMeta saturation/fallback await path (Q3, PR #1232 @2c8b398)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta key derivation, cache TTL, and caller reachability on market PR #1232 (Q4)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_279158cc",
   "title": "Inventory all upload-artifact steps in market workflows at 2c8b398",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357346,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_2e186463",
   "title": "Inventory all checks that ran on PlebeianApp/market PR #1232 (head 2c8b3981)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,
