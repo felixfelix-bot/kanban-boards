@@ -1910,7 +1910,7 @@
  {
   "id": "t_2d6ea4f8",
   "title": "Rewrite serial layer in tests/p1b_ab_test.py for USB CDC re-enumeration",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f270c27a",
   "title": "Add PTY-based harness proving retry and timeout-recovery paths",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_32ca6d45",
   "title": "Locate LR2021 driver sources, LR2021_commands.h, and bench_main.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,

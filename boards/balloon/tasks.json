@@ -1562,7 +1562,7 @@
  {
   "id": "t_4196ae95",
   "title": "Write tollgate PAY/ACK spec findings report (normative vs stub)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
