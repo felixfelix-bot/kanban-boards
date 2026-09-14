@@ -1730,7 +1730,7 @@
  {
   "id": "t_d601da74",
   "title": "Identify the bench owner/custodian with named source and confidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_83756ac0",
   "title": "Inventory every bench instrument that can read or reference frequency",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789357656,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_0fc2adec",
   "title": "Gather calibration evidence for each bench frequency instrument",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789357656,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1add22bc",
   "title": "Characterize warm-side ambient and compute dew points for both setpoints",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789360123,
