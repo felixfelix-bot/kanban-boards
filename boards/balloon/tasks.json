@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Transcribe relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_0e77b291",
   "title": "Extract mock protocol doc section verbatim to /tmp (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789359172,

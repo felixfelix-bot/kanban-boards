@@ -2354,7 +2354,7 @@
  {
   "id": "t_7a5132c9",
   "title": "Establish which checks actually ran on PR 1232 and whether the gate is required",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789346420,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Enumerate every CI check on PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2774,7 +2774,7 @@
  {
   "id": "t_c0db8527",
   "title": "Pin PR #1232 head SHA and capture diff + changed-file list (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_ae1adb03",
   "title": "Fetch PR #1232 head and map the SSR OG-metadata test surface",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_26ea2c09",
   "title": "Inventory unit tests asserting OG-metadata output",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_0341c14e",
   "title": "Inventory E2E/Playwright tests asserting OG-metadata output",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_6736d77d",
   "title": "Compile coverage inventory and prove missing OG-metadata tests",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_60f0df9f",
   "title": "Grep PR #1232 head for trusted-origin / hostile-Host 503 tests",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_52dbfca0",
   "title": "Grep PR #1232 head for product ownership + navigation tests",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_f3e2f94d",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_2f4d0525",
   "title": "Grep PR #1232 head e2e OG-meta-tags spec for four test titles",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_054a542f",
   "title": "Assemble bucket evidence table for PR #1232 test names",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_a32dae8e",
   "title": "Verify Top-level reviews table completeness for PR #1232",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_2045be89",
   "title": "Verify Triage section integrity for PR #1232",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,

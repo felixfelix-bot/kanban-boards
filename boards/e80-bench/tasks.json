@@ -1802,7 +1802,7 @@
  {
   "id": "t_23fdb6f3",
   "title": "Add fixtures + RED tests pinning frozen session-dir naming contract",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789352682,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_5b90f450",
   "title": "Reproduce e80 range-split suite and capture full pytest log",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_a0752149",
   "title": "Recon range_check.py verdict contract: status enum + counters",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_5f9c18f9",
   "title": "Recon resend-<stop>.json artifact: filename, keys, semantics",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon cvm_board_server nostr transport API (builder, signer, gift_wrap, handler)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Recon cvm_board_server relay failover set and prove relay.contextvm.org absent",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
