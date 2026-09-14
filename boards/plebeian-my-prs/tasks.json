@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 inputs at head SHA 272839a4",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,

@@ -313,8 +313,8 @@
  },
  {
   "id": "t_10090c13",
-  "title": "P2-T1: Integration merge all features",
-  "status": "triage",
+  "title": "Integrate all four feature branches into main (multi-language, follow-up-questions, paper-ballots, resident-otp-admission) and pass the gate",
+  "status": "running",
   "priority": 10,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162150,

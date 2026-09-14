@@ -2090,7 +2090,7 @@
  {
   "id": "t_9362c777",
   "title": "Recon read-only: lock recon specs + capture pre-change git baseline",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789365851,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_6b8f5399",
   "title": "Implement tools/nostr_giftwrap.py NIP-59 kind-1059 builder with hard plaintext-emission guard",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789366022,

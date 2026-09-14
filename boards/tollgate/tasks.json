@@ -2342,7 +2342,7 @@
  {
   "id": "t_9d30947b",
   "title": "Fetch and archive Semtech LR2021 product page (raw HTML)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_ae05a6a2",
   "title": "Search RadioLib GitHub repo for LR2021 limitation notes",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
