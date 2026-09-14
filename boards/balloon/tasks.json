@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -3289,8 +3289,8 @@
  },
  {
   "id": "t_cbfe53c0",
-  "title": "Transcribe deduplicated candidate list into structured table",
-  "status": "triage",
+  "title": "Transcribe deduplicated candidate list into structured table with verbatim source blocks",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
