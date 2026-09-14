@@ -2714,7 +2714,7 @@
  {
   "id": "t_3f91385f",
   "title": "Review lazy-start preview spin-up failure/timeout paths at PR #1271 head (report-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,

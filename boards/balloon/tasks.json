@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit report (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -1765,7 +1765,7 @@
  },
  {
   "id": "t_fda79044",
-  "title": "Recon Tollgate PAY/ACK sites in app_task.cpp; write proto API contract doc",
+  "title": "Recon Tollgate PAY/ACK call sites in main/app_task.cpp and write proto API contract doc",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -1777,7 +1777,7 @@
  },
  {
   "id": "t_982aa0e1",
-  "title": "Document test_relay_pipeline.c mock proto contract into docs/recon/tollgate_proto_test_mock.md",
+  "title": "Recon: document test_relay_pipeline.c mock proto contract into docs/recon/tollgate_proto_test_mock.md",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -1825,7 +1825,7 @@
  },
  {
   "id": "t_55d4acb7",
-  "title": "Document CONFIG_ENABLE_* guard convention and TOLLGATE flag usage",
+  "title": "Document CONFIG_ENABLE_* guard convention + CONFIG_ENABLE_TOLLGATE declaration/consumption in balloon firmware",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -1981,7 +1981,7 @@
  },
  {
   "id": "t_7fce5542",
-  "title": "Read-only line-numbered transcript of relay_types.h relay-type enum + PASS/FAIL on 0x02 and 0x03",
+  "title": "Transcribe relay_types.h relay-type enum with line numbers; PASS/FAIL on 0x02 and 0x03",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Transcribe relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,
@@ -2149,7 +2149,7 @@
  },
  {
   "id": "t_a574c284",
-  "title": "Persist PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
+  "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -2161,7 +2161,7 @@
  },
  {
   "id": "t_b3e92fd9",
-  "title": "Recon relay_types.h enum values + relay packet framing; write read-only notes to docs/recon/.tollgate_framing_notes.md",
+  "title": "Recon relay_types.h enum values and relay packet framing; write read-only notes",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE declaration and CONFIG_ENABLE_* guard conventions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_62c396a3",
   "title": "Author TOLLGATE_PROTO_API.md wire-format contract (firmware dir only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360704,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call-site citations in main/app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,
@@ -2342,9 +2342,9 @@
  {
   "id": "t_9f3eacbf",
   "title": "Adversarially verify cited evidence and the verdict",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789363198,
   "started_at": null,
   "completed_at": null,
@@ -2706,6 +2706,66 @@
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789384434,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a71964c3",
+  "title": "Verify every verbatim quote and path/line cited in the verdict",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789384505,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0e70f526",
+  "title": "Re-run the git commands the verdict relies on",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789384505,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_bdf2e0b9",
+  "title": "Cross-check both parent sweep lists against the deduplicated list",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789384505,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_51949cc4",
+  "title": "Probe for a plausible missed location that contradicts the verdict",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789384505,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e43862e7",
+  "title": "Synthesize audit results into the stands/changes verdict",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789384505,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

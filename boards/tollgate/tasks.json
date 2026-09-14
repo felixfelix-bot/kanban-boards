@@ -2342,7 +2342,7 @@
  {
   "id": "t_9d30947b",
   "title": "Fetch and archive Semtech LR2021 product page (raw HTML)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_6036a2f7",
   "title": "Write LR2021 datasheets provenance ledger with hashes and URLs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_eef8589b",
   "title": "Fetch LR1120 datasheet with provenance",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_185f7ee7",
   "title": "Fetch LR1121 datasheet with provenance",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_128a5671",
   "title": "Fetch LR2021 errata/app notes from Semtech doc library",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_40f54881",
   "title": "Search Semtech support KB for LR2021 known-issue articles",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_db91522f",
   "title": "Search LoRa Alliance and LoRaWAN docs for LR2021 mentions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_563518e2",
   "title": "Extract and hash-verify LR11x0 datasheet provenance entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

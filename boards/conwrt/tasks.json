@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move binding in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -722,7 +722,7 @@
  {
   "id": "t_db7a6ca1",
   "title": "Audit net4sats read-back source in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance against wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
