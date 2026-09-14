@@ -134,7 +134,7 @@
  {
   "id": "t_bef90304",
   "title": "Apply cal blob on module, verify, and record per-module values",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789117712,
@@ -650,7 +650,7 @@
  {
   "id": "t_b09424f1",
   "title": "Identify thermal chamber and document rated range, accuracy, ramp specs",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -662,7 +662,7 @@
  {
   "id": "t_5f6eb893",
   "title": "Command and log 10-min stability at +25/0/-20/-40 C setpoints",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -674,7 +674,7 @@
  {
   "id": "t_db8ffdd6",
   "title": "Capture calshow die-temp soak evidence at +25, 0, -20, -40 C",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -686,7 +686,7 @@
  {
   "id": "t_908e995b",
   "title": "Verify cable feedthrough and RF module routing feasibility",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344588,
@@ -698,7 +698,7 @@
  {
   "id": "t_c9a96896",
   "title": "Compile per-setpoint PASS/FAIL/UNVERIFIED evidence report and issue chamber-range PASS/STOP verdict",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -710,7 +710,7 @@
  {
   "id": "t_6a719e4f",
   "title": "Identify external frequency reference: model, calibration, method",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344604,
@@ -722,7 +722,7 @@
  {
   "id": "t_4b9d0448",
   "title": "Compute achievable ppm resolution at module carrier frequency",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344604,
@@ -734,7 +734,7 @@
  {
   "id": "t_0a5ea7e6",
   "title": "Define ppm averaging plan, stability metric, and sample count",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344604,
@@ -758,7 +758,7 @@
  {
   "id": "t_fab2c1d2",
   "title": "Compute minimum wall-clock duration for 4-soak, 2-ramp freezing qualification run",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -770,7 +770,7 @@
  {
   "id": "t_0d0fe29c",
   "title": "Identify bench/chamber owner and secure a named, attributable reservation for the session",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -782,7 +782,7 @@
  {
   "id": "t_58f83d13",
   "title": "Reconcile duration vs booking and post PASS/FAIL access report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -818,7 +818,7 @@
  {
   "id": "t_cc323204",
   "title": "Assemble final cal deliverable and cross-check fit vs parser",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344770,
@@ -878,7 +878,7 @@
  {
   "id": "t_00609f61",
   "title": "Ingest and QC die-temp and frequency-error ramp logs",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344843,
@@ -890,7 +890,7 @@
  {
   "id": "t_36a8d8ce",
   "title": "Estimate die-vs-crystal thermal lag via cross-correlation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344843,
@@ -902,7 +902,7 @@
  {
   "id": "t_0ace94c6",
   "title": "Measure cooling/warming hysteresis in die-temp vs frequency error",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344843,
@@ -926,7 +926,7 @@
  {
   "id": "t_7164ced6",
   "title": "Search all git refs for human-gate board and shadow-card evidence",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344857,
@@ -938,7 +938,7 @@
  {
   "id": "t_48edcb2c",
   "title": "Scan docs, notes, and ADRs for human-gate and shadow-card text",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344857,
@@ -950,7 +950,7 @@
  {
   "id": "t_f197999e",
   "title": "Consolidate human-gate board / shadow-card evidence report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344857,
@@ -962,7 +962,7 @@
  {
   "id": "t_ffc911f6",
   "title": "Physically locate thermal chamber and record make/model/serial + nameplate",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -974,7 +974,7 @@
  {
   "id": "t_4e41856d",
   "title": "Document chamber controller type and setpoint commanding method",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -1010,7 +1010,7 @@
  {
   "id": "t_46584c79",
   "title": "Define 10-min chamber logging protocol and capture template",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1154,7 +1154,7 @@
  {
   "id": "t_da4ac984",
   "title": "Enumerate and grep primary workspace for human-gate decision notes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1166,7 +1166,7 @@
  {
   "id": "t_8578e5a2",
   "title": "Broad-format catch-all grep for all nine term variants",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_cf3b6c77",
   "title": "Scan sibling worktrees and adjacent note stores for gate artifacts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_7c2b677e",
   "title": "Compile evidence report to recon/human-gate-board-decision-notes.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1202,7 +1202,7 @@
  {
   "id": "t_83fa11ee",
   "title": "Fetch t_aaf1cda6 fully and walk parents, children, siblings (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Keyword-sweep all board task rows for human-gate / shadow-card terms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_19a7d613",
   "title": "Follow artifacts, PRs, branches and files named by walked rows (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1250,7 +1250,7 @@
  {
   "id": "t_e3a39cd0",
   "title": "Locate, load, and inventory ramp logs (die-temp + freq-error)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351067,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_d9354cfc",
   "title": "Enumerate every local git repo and build a deterministic bucket list",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces for gate/shadow-card recon",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_f5f926b5",
   "title": "Extract gate/shadow-card hits from tollgate-rs design-review-notes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789351146,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_61e69c85",
   "title": "Scan remaining repos and docs for gate/shadow-card mentions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI evidence from SkyMapper Board A",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Verify MeshCore feat/passive-mapper branch + SHA remotely",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_e90e207f",
   "title": "Locate scheduler registration and cite job name, schedule, entrypoint",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_100f5324",
   "title": "Grep source/infra for digest identifiers and find delivery channel in code",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Inventory every `block_kind` occurrence across the repo (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_63f12d3f",
   "title": "Sweep alias/variant spellings and schema-level definitions of block_kind",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_ec8e8685",
   "title": "Locate kanban_block tool definition and exact reason parameter signature",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_031bc3fa",
   "title": "Locate scanner consumer: prefix/regex and block_kind handling",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_eddf9970",
   "title": "Locate request-human-action skill artifacts and parent findings",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789353032,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_fad4e74b",
   "title": "Identify thermal chamber and prove commandable setpoints + accuracy",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_bb70a747",
   "title": "Inspect module/cable feedthrough, ramp rate and ramp-count feasibility",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,

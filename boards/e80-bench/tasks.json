@@ -1238,7 +1238,7 @@
  {
   "id": "t_282d1768",
   "title": "Run Gate2 suite and confirm Gate2.5 verdict is APPROVE (read-only evidence)",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "Source GO-mode session_id from the ARMED message payload",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_8b927b22",
   "title": "Implement session_id, ARMED payload schema, env key loading",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_3400f179",
   "title": "Implement NIP-59 gift-wrap publish and relay failover",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_809ac8ea",
   "title": "TDD: broad subscribe, npub allowlist, relay failover, env keys",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_11cf44fe",
   "title": "TDD: ARMED schema validation and 60s/30s freshness watchdog",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_8d9f6c1e",
   "title": "Write Gate1 failing tests for verdict payload, aggregation, wrap",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789344432,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_1689fe87",
   "title": "Implement gift-wrap kind-1059 transport with relay failover",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344432,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_1c17093f",
   "title": "Recon range_check session_id join + writer key format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_123c4431",
   "title": "Recon existing boundary-mode test harness, fixtures, and test command",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,

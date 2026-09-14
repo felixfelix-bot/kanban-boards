@@ -2198,7 +2198,7 @@
  {
   "id": "t_6c06cae6",
   "title": "Analyze PR #1271 workflow defects (new only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789345253,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_eed4516c",
   "title": "Analyze PR #1271 infra + routing defects (new only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789345253,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_a5eb2531",
   "title": "Audit ogMeta.ts for relay concurrency cap and in-flight coalescing",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346152,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_bb0db053",
   "title": "Trace ogMeta cache keys/TTL and saturation fallback behavior",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346152,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_a7d65a84",
   "title": "Write verdict + kanban_comment for finding 3, draft PR reply if wrong",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346152,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_6a3c9422",
   "title": "Gather PR 1232 diff hunk and Franchovy comment thread verbatim",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_b6347df8",
   "title": "Map e2e.yml line 148 in base vs head and explain the step",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_4243838e",
   "title": "Audit .github/workflows triggers + whether og-meta-tags spec runs on PRs",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346420,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_40e4d624",
   "title": "Audit Playwright video/trace config and upload-artifact steps for success-path evidence",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346420,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_7a5132c9",
   "title": "Establish which checks actually ran on PR 1232 and whether the gate is required",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_4f0bf3b9",
   "title": "Fuse gate evidence into Finding 7 verdict and downstream-action list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_ca84d1a3",
   "title": "Install gh 2.100.0 deb on dq05 and verify dpkg-managed binary",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_f35aaa99",
   "title": "Run gh_cli_healthcheck.sh on dq05, prove real PR mutation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_4660dd0d",
   "title": "Inventory SSR OG-metadata implementation at PR #1232 head",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348503,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_2e7e4877",
   "title": "Inventory validation tests covering the SSR OG-metadata path",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348503,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_fe35286d",
   "title": "Resolve PR #1232 head and record fixing-commit SHAs for 5 target paths",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_716b96ab",
   "title": "Grep PR #1232 head tree for proving test names per target",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348528,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_6f3ad4f1",
   "title": "Assemble PR #1232 inline-comment + target-evidence dossier block",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "Collect and tabulate PR #1232 top-level reviews with per-review reply targets",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Triage PR #1232 design-pass artifact: pushbacks vs tension findings",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_16a4561c",
   "title": "Verify PR #1306 head SHA c20765e7 and pin the diff artifact",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 diff at head SHA",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5f4947f2",
   "title": "Review NIP-46 signer protocol flow in PR #1290 diff",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Review NIP-46 signer security and robustness in PR #1290 diff",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_a5e877bb",
   "title": "Compose <=40-line draft review comment for PR #1290",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff and confirm head SHA + workflow inventory",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_65651fd0",
   "title": "Review infra/preview-vps provisioning + systemd at PR #1271 head",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_f9ab1afc",
   "title": "Review subdomain routing, DNS, TLS dispatch at PR #1271 head",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_3f91385f",
   "title": "Review lazy-start spin-up failure/timeout paths at PR #1271 head",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789351447,
@@ -2774,7 +2774,7 @@
  {
   "id": "t_c0db8527",
   "title": "Pin PR #1232 head SHA and capture diff + changed-file list (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_ae1adb03",
   "title": "Fetch PR #1232 head and map the SSR OG-metadata test surface",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_26ea2c09",
   "title": "Inventory unit tests asserting OG-metadata output",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_0341c14e",
   "title": "Inventory E2E/Playwright tests asserting OG-metadata output",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_6736d77d",
   "title": "Compile coverage inventory and prove missing OG-metadata tests",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789355948,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_60f0df9f",
   "title": "Grep PR #1232 head for trusted-origin / hostile-Host 503 tests",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_52dbfca0",
   "title": "Grep PR #1232 head for product ownership + navigation tests",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_f3e2f94d",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_2f4d0525",
   "title": "Grep PR #1232 head e2e OG-meta-tags spec for four test titles",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_054a542f",
   "title": "Assemble bucket evidence table for PR #1232 test names",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356172,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_a32dae8e",
   "title": "Verify Top-level reviews table completeness for PR #1232",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_2045be89",
   "title": "Verify Triage section integrity for PR #1232",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
