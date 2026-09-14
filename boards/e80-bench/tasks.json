@@ -2450,7 +2450,7 @@
  {
   "id": "t_dbea0ad0",
   "title": "Capture raw pre-change git baseline (status + diff --stat)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_d8cdddb6",
   "title": "Create tools/keymaterial.py env-only key accessor",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789387619,

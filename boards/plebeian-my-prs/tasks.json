@@ -4142,7 +4142,7 @@
  {
   "id": "t_b9c10a9c",
   "title": "Fetch PR metadata to meta.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,
