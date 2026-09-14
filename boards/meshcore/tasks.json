@@ -1742,7 +1742,7 @@
  {
   "id": "t_c1c07af9",
   "title": "Identify the thermal chamber owner/custodian with named source and confidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Pre-flight chamber comms, record ambient baseline, set up raw logging",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_da54b09f",
   "title": "Identify instrument/test-equipment RF connector types",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_b6467a63",
   "title": "Enumerate damage and measurement-reliability failure modes on cables and feedthrough",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_67f3b03e",
   "title": "Establish chamber max ramp rates and RF feedthrough thermal penalty",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_5199dede",
   "title": "Determine DUT thermal shock and rate-of-change limits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_a706051c",
   "title": "Grep structured/data formats for nine board term variants",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_cc4b9c62",
   "title": "Grep config & log text formats for nine board term variants",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_33f30b4f",
   "title": "Grep all remaining non-markdown files for nine term variants",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,

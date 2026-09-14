@@ -325,8 +325,8 @@
  },
  {
   "id": "t_be4fb255",
-  "title": "Verify defect table quotes verbatim against runbook",
-  "status": "triage",
+  "title": "Adversarially verify defects-d1-d5.md against the Issue-32 runbook",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789355446,
@@ -553,8 +553,8 @@
  },
  {
   "id": "t_bf9f349a",
-  "title": "Trace whether LAN-move block consumes derived ipv4 or a literal",
-  "status": "triage",
+  "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json (consumes derived value vs literal/placeholder)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Locate net4sats LAN-move recipe key path; capture verbatim commands",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,

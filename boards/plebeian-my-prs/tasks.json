@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta key derivation, cache TTL, and caller reachability on market PR #1232 (Q4)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,

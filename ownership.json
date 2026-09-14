@@ -2944,9 +2944,8 @@
  "conwrt:t_43986c9f": {
   "node": "cobrador",
   "status": "claimed",
-  "updated": 1789367906.4766839,
-  "ts": 1789367906.4766839,
-  "repo": "conwrt"
+  "updated": 1789368441.033818,
+  "ts": 1789368441.033818
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
