@@ -722,7 +722,7 @@
  {
   "id": "t_db7a6ca1",
   "title": "Audit net4sats read-back source in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
