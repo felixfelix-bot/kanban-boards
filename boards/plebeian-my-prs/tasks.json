@@ -3254,7 +3254,7 @@
  {
   "id": "t_9a87749e",
   "title": "Enumerate required status checks on PlebeianApp/market (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363786,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_b5457016",
   "title": "Resolve and fetch PR #1232 head ref into artifacts/pr1232/head.json (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_9c4bd99c",
   "title": "Grep PR #1232 head for trusted-origin/503/hostile-Host regression test",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
