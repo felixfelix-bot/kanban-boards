@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
@@ -626,7 +626,7 @@
  {
   "id": "t_cc35ecdf",
   "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json and report any in-bundle binding",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,
@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move + read-back evidence for net4sats and tollgate from docs/wizard-bundle.json (read-only, no writes)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write state/conwrt-issue32-evidence/drafts/provenance-verification.md and verify repo unmodified",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
@@ -842,7 +842,7 @@
  {
   "id": "t_70771824",
   "title": "Extract verbatim D3/D4/D5 defect definitions into scratch quotes file",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

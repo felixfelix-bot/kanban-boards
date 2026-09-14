@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit synthesis report",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
