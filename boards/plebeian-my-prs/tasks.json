@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 PR #1232 revert status (read-only, SHA-cited)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2749,8 +2749,8 @@
  },
  {
   "id": "t_45cda997",
-  "title": "Enumerate all CI checks on PlebeianApp/market PR #1232 (read-only)",
-  "status": "triage",
+  "title": "Enumerate all CI checks for PlebeianApp/market PR #1232 (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,

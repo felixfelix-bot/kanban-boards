@@ -362,7 +362,7 @@
  {
   "id": "t_a27f30d9",
   "title": "Audit LAN-move provenance verdicts for net4sats and tollgate flows",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -542,7 +542,7 @@
  {
   "id": "t_7045c59a",
   "title": "Extract verbatim LAN-move + read-back blocks to tollgate-blocks.txt",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789362852,
@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in wizard-bundle.json (consumes derived value vs literal/placeholder)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,
