@@ -445,7 +445,7 @@
  },
  {
   "id": "t_2e467fc7",
-  "title": "Capture physical LR2021 module ID string and photo",
+  "title": "Record verbatim LR2021 module ID string and photo for Board A",
   "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
@@ -482,7 +482,7 @@
  {
   "id": "t_60866874",
   "title": "Audit thermal chamber setpoint range, accuracy and soak evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339695,

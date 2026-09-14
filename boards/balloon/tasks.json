@@ -1550,7 +1550,7 @@
  {
   "id": "t_0d2ffaf2",
   "title": "Audit tollgate upstream repos for a normative PAY/ACK protocol spec",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_acee3bc0",
   "title": "Enumerate every tollgate symbol usage in main/app_task.cpp",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_e2476a6e",
   "title": "Document CONFIG_ENABLE_TOLLGATE declaration and guard pattern",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_1b6fafb5",
   "title": "Merge tollgate API inventory + sdkconfig guards into final deliverable",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
