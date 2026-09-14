@@ -3902,7 +3902,7 @@
  {
   "id": "t_29f0dac2",
   "title": "Audit wildcard DNS record shape for per-PR preview subdomains",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373532,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_48539185",
   "title": "Audit reverse-proxy host matching, dispatch, and edge cases",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789373532,
