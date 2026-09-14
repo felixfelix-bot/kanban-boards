@@ -182,7 +182,7 @@
  {
   "id": "t_21231fd4",
   "title": "Extract net4sats LAN-move + read-back block from wizard-bundle",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789343688,
@@ -194,7 +194,7 @@
  {
   "id": "t_9cf057cf",
   "title": "Extract tollgate LAN-move + read-back block from wizard-bundle",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789343688,
@@ -218,7 +218,7 @@
  {
   "id": "t_ca5c4982",
   "title": "Extract canonical D1-D5 defect list from issue32 verification runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344248,

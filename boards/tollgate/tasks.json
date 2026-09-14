@@ -2018,7 +2018,7 @@
  {
   "id": "t_84477ffe",
   "title": "Answer: does SET_AUTO_RX_TX (0x0211) support auto-TX FIFO trigger?",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_57122640",
   "title": "Answer: TXContinuous / infinite-TX mode, underrun and timeout behaviour",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_da19111d",
   "title": "Answer: LR2021 errata and silicon revisions affecting TX / FIFO IRQ thresholds",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,
