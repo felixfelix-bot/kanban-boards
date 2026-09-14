@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789408198,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_7c39ab21",
   "title": "Enumerate price_sats and msg_type consumers with type assumptions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789408198,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789408198,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate and partition ~/repos/*tollgate* repos (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789408661,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_a1d2fecd",
   "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789409039,
