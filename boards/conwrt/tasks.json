@@ -62,7 +62,7 @@
  {
   "id": "t_f08a9590",
   "title": "Preflight CF-WR632AX access, prove recovery path, capture baselines",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789332951,
@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Bring up CF-WR632AX, confirm SSH + OpenWrt 25.12.4, log verbatim evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,

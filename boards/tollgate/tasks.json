@@ -2102,7 +2102,7 @@
  {
   "id": "t_5a6297cf",
   "title": "Inventory LR2021 sources already present in the local repos",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789348145,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_72f4873c",
   "title": "Fetch LR2021 datasheet, errata, and RadioLib driver from upstream",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348145,
