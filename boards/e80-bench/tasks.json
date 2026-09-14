@@ -1237,7 +1237,7 @@
  },
  {
   "id": "t_282d1768",
-  "title": "Run Gate2 suite and confirm Gate2.5 verdict is APPROVE",
+  "title": "Run Gate2 suite and confirm Gate2.5 verdict is APPROVE (read-only evidence)",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
