@@ -2222,7 +2222,7 @@
  {
   "id": "t_62c396a3",
   "title": "Write TOLLGATE_PROTO_API.md: authoritative tollgate payment wire-format contract",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360704,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call sites in main/app_task.cpp (read-only evidence pack)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_fc39c9bb",
   "title": "Re-verify Report B CONFIG_ENABLE_TOLLGATE sdkconfig claims against live tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789360966,

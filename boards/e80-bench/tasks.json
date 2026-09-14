@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "GO-mode session_id sourced from ARMED payload, never derived from T0",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
