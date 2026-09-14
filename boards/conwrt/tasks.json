@@ -62,7 +62,7 @@
  {
   "id": "t_f08a9590",
   "title": "Preflight CF-WR632AX access, prove recovery path, capture baselines",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789332951,
