@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Probe local note stores and mounts (read-only) and report inventory table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_cf19d907",
   "title": "Measure chamber ramp rate from controller history/ramp log (warming + cooling)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Read-only gating-term grep sweep: first half of tollgate-rs revs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
