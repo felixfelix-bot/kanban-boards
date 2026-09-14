@@ -3878,7 +3878,7 @@
  {
   "id": "t_36a18af6",
   "title": "Audit boolean trimming semantics in PR #1313 for NEW issues",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373237,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_f4103860",
   "title": "Enumerate .github/workflows at 2c8b398 and map PR invocation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_70c1c12f",
   "title": "Extract every upload-artifact step at 2c8b398 verbatim",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_6f402f80",
   "title": "Resolve PR #1232 head OID, inventory test surfaces, extract CI commands",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,

@@ -2894,7 +2894,7 @@
  {
   "id": "t_fb441024",
   "title": "Recon shard A: awesome-community-networks + contextvm-anker-solix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-community-networks-main",
   "created_at": 1789366796,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_8f776e31",
   "title": "Re-derive cal parser contract independently from firmware source",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_0017d836",
   "title": "Inventory candidate cal literals from conversion task and plan",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_e96fa5ad",
   "title": "Identify physical thermal chamber custodian with cited sources",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371231,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Enumerate every bench instrument that reads or references frequency",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_778c1e09",
   "title": "Physically inspect and measure each DUT RF port connector",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789372804,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_f3038a99",
   "title": "Extract DUT RF connector types from datasheet/schematic",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372804,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_c73e0977",
   "title": "Inventory all instruments feeding the DUT and record exact port labels",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372861,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_c0673d17",
   "title": "Build DUT-to-instrument connector, adapter, and cable BOM lines",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_b1da1876",
   "title": "Compile sealing, termination/load, and torque tooling BOM lines",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_c696f4d2",
   "title": "Catalogue bulk-cable thermal-mechanical and electrical drift modes",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373116,

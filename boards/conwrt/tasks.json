@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move and read-back evidence from wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,

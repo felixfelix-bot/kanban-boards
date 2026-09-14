@@ -2210,7 +2210,7 @@
  {
   "id": "t_f5f265b8",
   "title": "Verify relay failover: paste red-then-green pytest evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2221,8 +2221,8 @@
  },
  {
   "id": "t_4c98fbe7",
-  "title": "Add env-only key accessor with client!=server assertion in e80-stm32-bench tools",
-  "status": "triage",
+  "title": "Make env-only key accessor sole key source in e80-stm32-bench tools",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366099,
