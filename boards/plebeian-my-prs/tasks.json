@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Prove e2e.yml:148 revert status on PlebeianApp/market PR #1232 (read-only, SHA-cited)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
