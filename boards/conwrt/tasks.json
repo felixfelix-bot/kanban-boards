@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write state/conwrt-issue32-evidence/drafts/provenance-verification.md and verify repo unmodified",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -866,7 +866,7 @@
  {
   "id": "t_77f25b09",
   "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789393446,

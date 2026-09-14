@@ -4377,6 +4377,13 @@
   "updated": 1789396420.0279334,
   "ts": 1789396420.0279334
  },
+ "tollgate:t_6b0e3c09": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789397931.863391,
+  "ts": 1789397931.863391,
+  "repo": "tollgate"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
