@@ -962,7 +962,7 @@
  {
   "id": "t_569854ff",
   "title": "Open upstream PR: non-interactive init \u2192 sandwichfarm/nsyte",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1782671030,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_73c3244e",
   "title": "Extract and hash-verify drivers provenance entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

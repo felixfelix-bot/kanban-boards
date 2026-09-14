@@ -962,7 +962,7 @@
  {
   "id": "t_ffc911f6",
   "title": "Physically inspect thermal chamber and record verbatim nameplate data",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -1009,8 +1009,8 @@
  },
  {
   "id": "t_46584c79",
-  "title": "Write 10-min chamber logging protocol + blank capture template (one file)",
-  "status": "triage",
+  "title": "Write single-file 10-min chamber logging protocol + blank capture template",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1105,8 +1105,8 @@
  },
  {
   "id": "t_9d139605",
-  "title": "Post single verdict comment: can the module + RF cabling run in-chamber",
-  "status": "triage",
+  "title": "Post the single in-chamber verdict comment (module + RF cabling)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350746,
