@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on Amperstrand/conwrt PR #55",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
