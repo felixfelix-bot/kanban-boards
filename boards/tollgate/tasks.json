@@ -2006,7 +2006,7 @@
  {
   "id": "t_dbcc7e9a",
   "title": "Assemble LR2021 primary sources (datasheet, RadioLib driver, errata)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343388,

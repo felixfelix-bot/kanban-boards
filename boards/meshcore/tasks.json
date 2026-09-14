@@ -650,7 +650,7 @@
  {
   "id": "t_b09424f1",
   "title": "Identify thermal chamber and document rated range, accuracy, ramp specs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -662,7 +662,7 @@
  {
   "id": "t_5f6eb893",
   "title": "Command and log 10-min stability at +25/0/-20/-40 C setpoints",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -674,7 +674,7 @@
  {
   "id": "t_db8ffdd6",
   "title": "Capture calshow die-temperature soak evidence at each setpoint",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -686,7 +686,7 @@
  {
   "id": "t_908e995b",
   "title": "Verify cable feedthrough and RF module routing feasibility",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -698,7 +698,7 @@
  {
   "id": "t_c9a96896",
   "title": "Compile per-setpoint PASS/FAIL/UNVERIFIED report and STOP decision",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344588,
@@ -710,7 +710,7 @@
  {
   "id": "t_6a719e4f",
   "title": "Identify external frequency reference: model, calibration, method",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789344604,
@@ -758,7 +758,7 @@
  {
   "id": "t_fab2c1d2",
   "title": "Compute minimum wall-clock time for 4-soak, 2-ramp freezing session",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -770,7 +770,7 @@
  {
   "id": "t_0d0fe29c",
   "title": "Identify bench/chamber owner and secure named reservation for session",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344662,
@@ -794,7 +794,7 @@
  {
   "id": "t_c4680711",
   "title": "Fit AT-cut parabola (k, T0) from freezer-sweep CSV",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789344770,
@@ -806,7 +806,7 @@
  {
   "id": "t_c11f2cbe",
   "title": "Determine exact cal <k> <T0> CLI syntax in MeshCore passive_mapper",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789344770,
@@ -830,7 +830,7 @@
  {
   "id": "t_a0a6bfeb",
   "title": "Grep kanban store/DB for human-gate and shadow-card terms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344793,
@@ -842,7 +842,7 @@
  {
   "id": "t_d43d145b",
   "title": "Search decision-note artifacts on disk for human-gate board outcome",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344793,
@@ -854,7 +854,7 @@
  {
   "id": "t_348c2173",
   "title": "Trace task t_aaf1cda6 and relatives for board decision record",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344793,
@@ -878,7 +878,7 @@
  {
   "id": "t_00609f61",
   "title": "Ingest and QC die-temp and frequency-error ramp logs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344843,
@@ -926,7 +926,7 @@
  {
   "id": "t_7164ced6",
   "title": "Search all git refs for human-gate board and shadow-card evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344857,
@@ -938,7 +938,7 @@
  {
   "id": "t_48edcb2c",
   "title": "Scan docs, notes, and ADRs for human-gate and shadow-card text",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789344857,

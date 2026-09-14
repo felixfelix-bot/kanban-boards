@@ -2150,7 +2150,7 @@
  {
   "id": "t_72202176",
   "title": "Fetch PR #1313 diff and verify head SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789343174,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_6c06cae6",
   "title": "Analyze PR #1271 workflow defects (new only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789345253,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_eed4516c",
   "title": "Analyze PR #1271 infra + routing defects (new only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789345253,
