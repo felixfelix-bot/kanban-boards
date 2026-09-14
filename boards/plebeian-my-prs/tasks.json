@@ -2078,7 +2078,7 @@
  {
   "id": "t_0240be0f",
   "title": "Collect PR #1232 top-level reviews and triage pushback/tension list",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341817,
@@ -2257,7 +2257,7 @@
  },
  {
   "id": "t_a5eb2531",
-  "title": "Audit ogMeta.ts for relay concurrency cap and in-flight coalescing",
+  "title": "Verify relay concurrency cap + same-id in-flight coalescing in src/server/ogMeta.ts (PR 1232)",
   "status": "ready",
   "priority": 0,
   "assignee": "market-master",
@@ -2270,9 +2270,9 @@
  {
   "id": "t_bb0db053",
   "title": "Trace ogMeta cache keys/TTL and saturation fallback behavior",
-  "status": "ready",
+  "status": "todo",
   "priority": 0,
-  "assignee": "market-master",
+  "assignee": "manager",
   "created_at": 1789346152,
   "started_at": null,
   "completed_at": null,
@@ -2293,7 +2293,7 @@
  },
  {
   "id": "t_6a3c9422",
-  "title": "Gather PR 1232 diff hunk and Franchovy comment thread verbatim",
+  "title": "Capture verbatim PR #1232 e2e.yml diff hunk and Franchovy comment thread",
   "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
@@ -2306,7 +2306,7 @@
  {
   "id": "t_b6347df8",
   "title": "Map e2e.yml line 148 in base vs head and explain the step",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_4243838e",
   "title": "Audit .github/workflows triggers + whether og-meta-tags spec runs on PRs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346420,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_40e4d624",
   "title": "Audit Playwright video/trace config and upload-artifact steps for success-path evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346420,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_7a5132c9",
   "title": "Establish which checks actually ran on PR 1232 and whether the gate is required",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_ca84d1a3",
   "title": "Install gh 2.100.0 deb on dq05 and verify dpkg-managed binary",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_fc7f7463",
   "title": "Diff PR #1232 body against reality and draft corrected wording",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789348503,
@@ -2958,6 +2958,42 @@
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_44279c11",
+  "title": "Trace ogMeta saturation/fallback await path (Q3)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-master",
+  "created_at": 1789357132,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_77865e0f",
+  "title": "Trace ogMeta lookup key, cache format/TTL, and caller reachability (Q4)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "market-master",
+  "created_at": 1789357132,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7083e2b8",
+  "title": "Merge Q3+Q4 evidence and post consolidated kanban_comment on t_bb0db053",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789357132,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

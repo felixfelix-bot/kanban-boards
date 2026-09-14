@@ -1250,7 +1250,7 @@
  {
   "id": "t_401a08f3",
   "title": "Create atomic conventional commit: phase-1 code + ADR docs together",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_bd09660b",
   "title": "Reproduce e80 range-split RED suite and write bucketed failure inventory",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789348639,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_b0546331",
   "title": "Classify bucket A failures (T0-anchor / late-join)",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789348639,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_be162610",
   "title": "Classify bucket B failures (warmup / best-pass merge)",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789348639,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_63b8f6b0",
   "title": "Recon ADR + cvm_board_server.py, publish constant/relay/pattern notes",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_3516b5eb",
   "title": "Create cvm_tx_listener package skeleton and constants.py",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_bcaa6c62",
   "title": "Create typed stub modules for cvm_tx_listener",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1729,7 +1729,7 @@
  },
  {
   "id": "t_6b57ef82",
-  "title": "Recon range_check.py result shape and resend artifact naming",
+  "title": "Recon range_check.py result contract and resend artifact naming",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_b6ebd0b1",
-  "title": "Recon ADR-range-sync-cvm verdict schema and session linkage",
+  "title": "Recon ADR-range-sync-cvm verdict schema + session linkage",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
@@ -1754,7 +1754,7 @@
  {
   "id": "t_67ad0144",
   "title": "Recon cvm_board_server nostr transport API and relay failover",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_524c145c",
   "title": "Recon repo test layout, pytest invocation, and env-var conventions",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350104,

@@ -1164,15 +1164,19 @@
  },
  "meshcore:t_d6484f25": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789350314.7881844,
-  "ts": 1789350314.7881844
+  "status": "done",
+  "updated": 1789357079.5107417,
+  "ts": 1789357003.050429,
+  "repo": "meshcore",
+  "run_id": "dq05-1789357003"
  },
  "plebeian-my-prs:t_38f3dbd8": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789350855.6597896,
-  "ts": 1789350855.6597896
+  "status": "running",
+  "updated": 1789357174.3834949,
+  "ts": 1789357174.3834949,
+  "repo": "plebeian-my-prs",
+  "run_id": "dq05-1789357174"
  },
  "plebeian-my-prs:t_7f98385d": {
   "node": "dq05",
@@ -1304,38 +1308,43 @@
  },
  "e80-bench:t_63b8f6b0": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354608.5585237,
+  "status": "done",
+  "updated": 1789357081.3513086,
   "ts": 1789354608.5585237,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789357004"
  },
  "e80-bench:t_67ad0144": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354612.1407938,
+  "status": "done",
+  "updated": 1789357084.9393456,
   "ts": 1789354612.1407938,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789357008"
  },
  "e80-bench:t_524c145c": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354610.2986107,
+  "status": "done",
+  "updated": 1789357083.1995466,
   "ts": 1789354610.2986107,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789357006"
  },
  "e80-bench:t_b6ebd0b1": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354613.7947638,
+  "status": "done",
+  "updated": 1789357163.4803617,
   "ts": 1789354613.7947638,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789357094"
  },
  "e80-bench:t_6b57ef82": {
   "node": "dq05",
-  "status": "claimed",
-  "updated": 1789354615.4668674,
+  "status": "done",
+  "updated": 1789357165.4245167,
   "ts": 1789354615.4668674,
-  "repo": "e80-bench"
+  "repo": "e80-bench",
+  "run_id": "dq05-1789357095"
  },
  "meshcore:t_71af23c2": {
   "node": "dq05",
@@ -2072,6 +2081,12 @@
   "updated": 1789356698.67921,
   "ts": 1789356698.67921,
   "repo": "market"
+ },
+ "balloon:t_8921818e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789357014.6387694,
+  "ts": 1789357014.6387694
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
