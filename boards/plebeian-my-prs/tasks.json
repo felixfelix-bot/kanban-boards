@@ -1646,7 +1646,7 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold-verify PR #1311 draft review comment; emit APPROVED or REJECTED",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,

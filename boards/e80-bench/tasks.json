@@ -1682,7 +1682,7 @@
  {
   "id": "t_63b8f6b0",
   "title": "Recon range-sync ADR + cvm_board_server.py, write /tmp/tx_listener_recon.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_6b8f5399",
   "title": "Implement tools/nostr_giftwrap.py NIP-59 kind-1059 builder + guard",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789366022,
