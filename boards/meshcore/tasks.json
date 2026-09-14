@@ -3002,7 +3002,7 @@
  {
   "id": "t_0017d836",
   "title": "Inventory all candidate `cal <k> <T0>` literals from the conversion task and plan",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "Survey bench frequency-measurement and analysis instruments",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_778c1e09",
   "title": "Physically inspect and measure all DUT RF port connectors",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789372804,

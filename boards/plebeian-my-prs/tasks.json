@@ -1645,8 +1645,8 @@
  },
  {
   "id": "t_e3d9ac17",
-  "title": "Cold-verify PR #1311 draft review comment; return APPROVED or REJECTED",
-  "status": "triage",
+  "title": "Cold-verify PR #1311 draft review comment; emit APPROVED or REJECTED",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict for e2e.yml:148 and draft rebuttal comment body",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346174,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_f35aaa99",
   "title": "Run gh_cli_healthcheck.sh on dq05 and prove real PR label mutation",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2461,8 +2461,8 @@
  },
  {
   "id": "t_27c7b93f",
-  "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "triage",
+  "title": "Inventory inline review comments on PlebeianApp/market PR #1232",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2509,8 +2509,8 @@
  },
  {
   "id": "t_330e2d95",
-  "title": "PR #1232: collect all top-level reviews and build per-review reply table",
-  "status": "triage",
+  "title": "PR #1232: fetch all top-level reviews and build per-review reply table (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
