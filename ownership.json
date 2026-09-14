@@ -3849,8 +3849,8 @@
  },
  "tollgate:t_d06e4cd7": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789380448.2817166,
+  "status": "done",
+  "updated": 1789405560.7917938,
   "ts": 1789379801.8559954,
   "repo": "tollgate",
   "run_id": "cobrador-1789380448"
@@ -4702,6 +4702,108 @@
   "ts": 1789398551.4399476,
   "repo": "conwrt",
   "run_id": "cobrador-1789400201"
+ },
+ "meshcore:t_bbe48666": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.387249,
+  "ts": 1789405496.387249
+ },
+ "meshcore:t_51a99752": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.4056,
+  "ts": 1789405496.4056
+ },
+ "plebeian-my-prs:t_0a78561a": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.4284832,
+  "ts": 1789405496.4284832
+ },
+ "plebeian-my-prs:t_c4346701": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.446756,
+  "ts": 1789405496.446756
+ },
+ "plebeian-my-prs:t_ddcf6559": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.4607277,
+  "ts": 1789405496.4607277
+ },
+ "plebeian-my-prs:t_fba0acfa": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.5763328,
+  "ts": 1789405496.5763328
+ },
+ "plebeian-my-prs:t_f11fa8d2": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.5842288,
+  "ts": 1789405496.5842288
+ },
+ "plebeian-my-prs:t_ad308dc4": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.5919874,
+  "ts": 1789405496.5919874
+ },
+ "meshcore:t_baf1c421": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.5997472,
+  "ts": 1789405496.5997472
+ },
+ "meshcore:t_ce08437e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.6112773,
+  "ts": 1789405496.6112773
+ },
+ "balloon:t_9a6734cf": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.6193042,
+  "ts": 1789405496.6193042
+ },
+ "balloon:t_29d1dc58": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.627279,
+  "ts": 1789405496.627279
+ },
+ "plebeian-my-prs:t_0d114af5": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.6347861,
+  "ts": 1789405496.6347861
+ },
+ "plebeian-my-prs:t_c268d7f4": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.6459508,
+  "ts": 1789405496.6459508
+ },
+ "plebeian-my-prs:t_1611cd86": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.653334,
+  "ts": 1789405496.653334
+ },
+ "plebeian-my-prs:t_018476f0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.662546,
+  "ts": 1789405496.662546
+ },
+ "plebeian-my-prs:t_7433d93e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789405496.671182,
+  "ts": 1789405496.671182
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

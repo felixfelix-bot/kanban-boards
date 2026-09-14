@@ -3277,8 +3277,8 @@
  },
  {
   "id": "t_a8b3350b",
-  "title": "Transcribe parent sweep list B",
-  "status": "triage",
+  "title": "Transcribe parent sweep list B into a structured table",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3289,8 +3289,8 @@
  },
  {
   "id": "t_cbfe53c0",
-  "title": "Transcribe deduplicated candidate list",
-  "status": "triage",
+  "title": "Transcribe deduplicated candidate list into structured table",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_29d1dc58",
   "title": "Enumerate all CONFIG_ENABLE_* symbols and occurrence counts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789396496,
@@ -3326,7 +3326,7 @@
  {
   "id": "t_9a6734cf",
   "title": "Locate CONFIG_ENABLE_* declaration sites in sdkconfig, Kconfig, CMake",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789396496,

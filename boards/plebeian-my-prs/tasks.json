@@ -4058,7 +4058,7 @@
  {
   "id": "t_c4346701",
   "title": "Audit market PR#4 workflows for swallowed deploy failures",
-  "status": "ready",
+  "status": "blocked",
   "priority": 8,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789393662,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_0a78561a",
   "title": "Locate PR #1232 design-pass triage artifact on Kanban board",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394146,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_ddcf6559",
   "title": "Fetch PR diff to diff.patch",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_fba0acfa",
   "title": "Pin PR #1271 diff and full-file sources at head SHA 8046da09",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397622,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_ad308dc4",
   "title": "Verify PR #1232 head SHA and capture snapshot",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_f11fa8d2",
   "title": "Inventory workflow files at pinned SHA",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_7433d93e",
   "title": "Pin ground truth: PR #1306 diff and head SHA c20765e7",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_018476f0",
   "title": "Build dedup baseline from PR #1306 existing comments",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_1611cd86",
   "title": "Fetch verbatim .github/workflows YAML at ref 2c8b3981",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_c268d7f4",
   "title": "Verify e2e og-meta-tags spec exists at ref 2c8b3981",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789398497,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_0d114af5",
   "title": "Fetch PR #1232 head and confirm commit SHA (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,

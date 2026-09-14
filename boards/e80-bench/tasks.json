@@ -1261,7 +1261,7 @@
  },
  {
   "id": "t_2ad3a088",
-  "title": "Secret-scan the phase-1 diff and push the branch (Gate5)",
+  "title": "Gate5: secret-scan the phase-1 diff and push the branch",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
@@ -1789,8 +1789,8 @@
  },
  {
   "id": "t_1c17093f",
-  "title": "Recon: e80 range_check session_id join contract, GO-dir parse, writer key format",
-  "status": "triage",
+  "title": "Recon: e80 range_check session_id join, GO-dir parse, writer key format",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon nostr transport surface of tools/cvm_board_server.py (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Capture cvm_board_server relay failover list verbatim and prove relay.contextvm.org absence",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "triage",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2425,8 +2425,8 @@
  },
  {
   "id": "t_cec3b30d",
-  "title": "Extract verbatim recon test specs (path, command, fixtures, clock-freeze)",
-  "status": "triage",
+  "title": "Transcribe verbatim recon specs for boundary-mode regression test (path, command, fixtures, clock-freeze)",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2437,8 +2437,8 @@
  },
  {
   "id": "t_7b98e49c",
-  "title": "Verify --sync=cvm / derive_t0 core is merged and record its paths",
-  "status": "triage",
+  "title": "Read-only audit: confirm --sync=cvm / derive_t0 core is merged and record off-limits paths",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2449,8 +2449,8 @@
  },
  {
   "id": "t_dbea0ad0",
-  "title": "Capture raw pre-change git baseline (status + diff --stat)",
-  "status": "triage",
+  "title": "Capture raw pre-change git baseline (status + diff --stat) in firmware/e80-stm32-bench",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
