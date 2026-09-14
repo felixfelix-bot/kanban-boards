@@ -1741,7 +1741,7 @@
  },
  {
   "id": "t_30c97be8",
-  "title": "Fetch and bundle PR #1312 diff + metadata for review (no comments)",
+  "title": "Fetch PR #1312 diff + metadata and write bundle.md (no review)",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
@@ -2210,9 +2210,9 @@
  {
   "id": "t_eed4516c",
   "title": "Analyze PR #1271 infra + routing defects (new only)",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-pr-reviewer",
+  "assignee": "manager",
   "created_at": 1789345253,
   "started_at": null,
   "completed_at": null,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_a5eb2531",
   "title": "Audit ogMeta.ts for relay concurrency cap and in-flight coalescing",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346152,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_bb0db053",
   "title": "Trace ogMeta cache keys/TTL and saturation fallback behavior",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346152,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_6a3c9422",
   "title": "Gather PR 1232 diff hunk and Franchovy comment thread verbatim",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_b6347df8",
   "title": "Map e2e.yml line 148 in base vs head and explain the step",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346174,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_4243838e",
   "title": "Audit .github/workflows triggers + whether og-meta-tags spec runs on PRs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789346420,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_40e4d624",
   "title": "Audit Playwright video/trace config and upload-artifact steps for success-path evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789346420,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_7a5132c9",
   "title": "Establish which checks actually ran on PR 1232 and whether the gate is required",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789346420,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_ca84d1a3",
   "title": "Install gh 2.100.0 on dq05 and verify dpkg-managed binary",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_4660dd0d",
   "title": "Inventory SSR OG-metadata implementation at PR #1232 head",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789348503,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_2e7e4877",
   "title": "Inventory validation tests covering the SSR OG-metadata path",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789348503,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_27c7b93f",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_fe35286d",
   "title": "Resolve PR #1232 head and record fixing-commit SHAs for the 5 target paths",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_716b96ab",
   "title": "Grep PR #1232 head tree for proving test names per target",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_6f3ad4f1",
   "title": "Assemble PR #1232 inline-comment + target-evidence dossier tables",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348528,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_330e2d95",
   "title": "Collect PR #1232 top-level reviews and per-review reply targets",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_8feaa59b",
   "title": "Locate and triage design-pass artifact: pushbacks vs tension findings",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348697,
@@ -2682,6 +2682,54 @@
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_65651fd0",
+  "title": "Review infra/preview-vps provisioning + systemd at PR #1271 head",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-merchant-deploy",
+  "created_at": 1789351447,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_f9ab1afc",
+  "title": "Review subdomain routing, DNS, TLS dispatch at PR #1271 head",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-merchant-deploy",
+  "created_at": 1789351447,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3f91385f",
+  "title": "Review lazy-start spin-up failure/timeout paths at PR #1271 head",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-merchant-deploy",
+  "created_at": 1789351447,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_ddfe6318",
+  "title": "Synthesize + dedup infra/routing findings for PR #1271",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-pr-reviewer",
+  "created_at": 1789351447,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

@@ -110,7 +110,7 @@
  {
   "id": "t_20f98f15",
   "title": "Fit AT-cut thermal model (k, T0) from freezer-sweep data",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789117712,

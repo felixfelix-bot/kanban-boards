@@ -266,7 +266,7 @@
  {
   "id": "t_515a58b0",
   "title": "Power on / locate CF-WR632AX and confirm SSH + OpenWrt 25.12.4",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
