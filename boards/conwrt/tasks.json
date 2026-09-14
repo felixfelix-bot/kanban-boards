@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
@@ -626,7 +626,7 @@
  {
   "id": "t_cc35ecdf",
   "title": "Locate ipv4 token in net4sats LAN-move block of wizard bundle",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373947,
@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace generator-code provenance of net4sats LAN-move ipv4",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move and read-back evidence from wizard bundle",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,

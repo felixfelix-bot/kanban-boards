@@ -2090,7 +2090,7 @@
  {
   "id": "t_9362c777",
   "title": "Confirm recon specs and capture pre-change git baseline",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789365851,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_6b8f5399",
   "title": "Implement tools/nostr_giftwrap.py NIP-59 builder with kind-1059 guard",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789366022,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_588b1d1b",
   "title": "Add exact relay-set constant, absence test, fake relay transport",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_c4c43d76",
   "title": "Make gift-wrap events deterministic and idempotent per session",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Implement concurrent relay failover publisher with per-relay timeout",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_f5f265b8",
   "title": "Verify relay failover: paste red-then-green pytest evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_4c98fbe7",
   "title": "Add env-only key accessor with client!=server assertion in e80-stm32-bench tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366099,
