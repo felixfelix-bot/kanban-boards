@@ -446,7 +446,7 @@
  {
   "id": "t_2e467fc7",
   "title": "Record verbatim LR2021 module ID and photo for Board A",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789339677,
@@ -506,7 +506,7 @@
  {
   "id": "t_08f4a23e",
   "title": "Bench-verify module TX at reference input: safe level + margins",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789339695,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Validate calshow sampling harness at ambient (dry run)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture die-temp soak evidence at +25 C",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture die-temp soak evidence at 0 C",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture die-temp soak evidence at -20 C",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Capture die-temp soak evidence at -40 C",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,

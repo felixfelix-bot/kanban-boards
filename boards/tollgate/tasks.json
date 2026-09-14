@@ -2066,7 +2066,7 @@
  {
   "id": "t_e70380ca",
   "title": "Add rescan/retry serial helpers to tests/p1b_ab_test.py",
-  "status": "ready",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and reset CLI flags into tests/p1b_ab_test.py",
-  "status": "ready",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
