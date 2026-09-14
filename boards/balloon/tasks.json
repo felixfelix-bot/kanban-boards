@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401374,
