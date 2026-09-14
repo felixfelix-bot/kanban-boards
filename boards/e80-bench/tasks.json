@@ -1249,7 +1249,7 @@
  },
  {
   "id": "t_401a08f3",
-  "title": "Create atomic conventional commit: phase-1 code + ADR docs together",
+  "title": "Commit phase-1 code + ADR docs as one atomic conventional commit",
   "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "Source GO-mode session_id from the ARMED message payload",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_8b927b22",
   "title": "Implement session_id, ARMED payload schema, env key loading",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_3400f179",
   "title": "Implement NIP-59 gift-wrap publish and relay failover",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_123c4431",
   "title": "Recon boundary-mode test harness, fixtures, and test command (e80-stm32-bench)",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,

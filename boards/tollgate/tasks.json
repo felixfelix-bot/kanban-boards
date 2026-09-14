@@ -1742,7 +1742,7 @@
  {
   "id": "t_973c2e9d",
   "title": "Create BalanceWidget React component with /balance polling and Sass styles",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789145177,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_72f4873c",
   "title": "Fetch LR2021 datasheet, errata, and RadioLib driver from upstream",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348145,

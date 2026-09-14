@@ -349,7 +349,7 @@
  },
  {
   "id": "t_bfd759f1",
-  "title": "Draft tollgate LAN-move evidence subsection",
+  "title": "Draft tollgate LAN-move evidence subsection from wizard-bundle recipe",
   "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
@@ -361,7 +361,7 @@
  },
  {
   "id": "t_a27f30d9",
-  "title": "Independently verify LAN-move provenance verdicts",
+  "title": "Independently verify LAN-move provenance verdicts for both flows",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
@@ -386,7 +386,7 @@
  {
   "id": "t_f51dfe6f",
   "title": "Recon conwrt repo root/branch and extract D1/D2 specs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,

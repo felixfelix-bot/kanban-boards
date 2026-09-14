@@ -482,7 +482,7 @@
  {
   "id": "t_60866874",
   "title": "Audit thermal chamber setpoint range, accuracy and soak evidence",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339695,

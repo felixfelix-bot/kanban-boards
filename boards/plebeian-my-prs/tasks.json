@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Trace ogMeta saturation/fallback await path (Q3)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta lookup key, cache format/TTL, and caller reachability (Q4)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
