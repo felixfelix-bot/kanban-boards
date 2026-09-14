@@ -1526,7 +1526,7 @@
  {
   "id": "t_7ff4a4a3",
   "title": "Audit ~/repos/balloon-fresh/ for a tollgate PAY/ACK spec or wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_e2476a6e",
   "title": "Document CONFIG_ENABLE_TOLLGATE sdkconfig declaration and guard pattern",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_1b6fafb5",
   "title": "Produce tollgate call-site + CONFIG_ENABLE_TOLLGATE markdown spec for app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342392,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_8799d4bb",
   "title": "Transcribe MOCK protocol from test_relay_pipeline.c (read-only, verbatim)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789342406,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_ca11448d",
   "title": "Assemble symbol-by-symbol accounting report and chase zero-hit symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789346669,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Synthesize upstream PAY/ACK spec audit report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d6c1d43c",
   "title": "Write TOLLGATE_PROTO_CONTRACT.md from recon findings",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_b3e60bd1",
   "title": "Grep ~/repos for six tollgate PAY/ACK symbols and record hits in docs/recon/raw_symbol_grep.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789353577,

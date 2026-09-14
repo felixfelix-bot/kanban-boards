@@ -1550,7 +1550,7 @@
  {
   "id": "t_11cf44fe",
   "title": "TDD: ARMED schema validation and 60s/30s freshness watchdog",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_4fa0a18a",
   "title": "Write docs/verdict-publisher-contract.md and commit locally",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789350104,

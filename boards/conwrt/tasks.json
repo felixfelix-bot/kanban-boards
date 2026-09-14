@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,

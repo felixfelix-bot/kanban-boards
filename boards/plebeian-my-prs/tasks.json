@@ -1826,7 +1826,7 @@
  {
   "id": "t_a111a86d",
   "title": "Read-only: extract readiness predicate, secrets, and fail-mode evidence from preview-deploy.yml @ e690a826 (market PR #1271)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341394,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_e36f50a5",
   "title": "Trace post-gate Cloudflare steps in preview-deploy.yml (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341394,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_cd2385ac",
   "title": "Pin PlebeianApp/market PR #1283 head SHA, dump the full diff, and build a sensitive-path file/hunk index",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341600,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_88eb0032",
   "title": "Verify PR #1232 finding 1 (untrusted outbound URL origin + 503-on-fetch-failure) and post one evidence comment",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789341628,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_95bb4aeb",
   "title": "Gather PR #1232 gate evidence + e2e.yml:148 revert proof (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341817,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Collect PR #1232 top-level reviews with verbatim digests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Locate design-pass triage artifact for PR #1232",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_2438849c",
   "title": "Pin PR #1232 head and record per-target fixing commit SHAs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PR #1232",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_9677a57e",
   "title": "Extract proving test names from PR #1232 head tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789357713,
