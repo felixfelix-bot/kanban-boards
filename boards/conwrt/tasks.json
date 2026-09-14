@@ -278,7 +278,7 @@
  {
   "id": "t_1d9e084b",
   "title": "Prove and document the CF-WR632AX recovery path before anything else",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -530,7 +530,7 @@
  {
   "id": "t_bbd9df94",
   "title": "Verify net4sats-subsection.md against source md and wizard-bundle.json",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789361675,

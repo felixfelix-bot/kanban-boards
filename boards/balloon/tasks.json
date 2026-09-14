@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write docs/recon/raw_doc_scan.md PAY/ACK recon artifact",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789358797,
@@ -2161,8 +2161,8 @@
  },
  {
   "id": "t_b3e92fd9",
-  "title": "Recon relay_types.h enum values + relay packet framing convention (read-only)",
-  "status": "triage",
+  "title": "Recon relay_types.h enum + relay packet framing (read-only, notes only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,

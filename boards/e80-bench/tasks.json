@@ -1886,7 +1886,7 @@
  {
   "id": "t_5b90f450",
   "title": "Reproduce e80 range-split RED suite and capture full pytest log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
