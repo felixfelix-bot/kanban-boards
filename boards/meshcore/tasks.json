@@ -134,7 +134,7 @@
  {
   "id": "t_bef90304",
   "title": "Apply cal blob on module, verify, and record per-module values",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789117712,
@@ -842,7 +842,7 @@
  {
   "id": "t_d43d145b",
   "title": "Search decision-note artifacts on disk for human-gate board outcome",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344793,
@@ -854,7 +854,7 @@
  {
   "id": "t_348c2173",
   "title": "Trace task t_aaf1cda6 and relatives for board decision record",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344793,
@@ -962,7 +962,7 @@
  {
   "id": "t_ffc911f6",
   "title": "Physically locate thermal chamber and record make/model/serial + nameplate",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -974,7 +974,7 @@
  {
   "id": "t_4e41856d",
   "title": "Document chamber controller type and setpoint commanding method",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -1010,7 +1010,7 @@
  {
   "id": "t_46584c79",
   "title": "Define 10-min chamber logging protocol and capture template",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1154,7 +1154,7 @@
  {
   "id": "t_da4ac984",
   "title": "Enumerate and grep primary workspace for human-gate decision notes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1166,7 +1166,7 @@
  {
   "id": "t_8578e5a2",
   "title": "Broad-format catch-all grep for all nine term variants",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_cf3b6c77",
   "title": "Scan sibling worktrees and adjacent note stores for gate artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_7c2b677e",
   "title": "Compile evidence report to recon/human-gate-board-decision-notes.md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1202,7 +1202,7 @@
  {
   "id": "t_83fa11ee",
   "title": "Fetch t_aaf1cda6 fully and walk parents, children, siblings (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Keyword-sweep all board task rows for human-gate / shadow-card terms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_19a7d613",
   "title": "Follow artifacts, PRs, branches and files named by walked rows (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1250,7 +1250,7 @@
  {
   "id": "t_e3a39cd0",
   "title": "Locate, load, and inventory ramp logs (die-temp + freq-error)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351067,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_d9354cfc",
   "title": "Enumerate every local git repo and build a deterministic bucket list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces for gate/shadow-card recon",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_f5f926b5",
   "title": "Extract gate/shadow-card hits from tollgate-rs design-review-notes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789351146,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_61e69c85",
   "title": "Scan remaining repos and docs for gate/shadow-card mentions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI evidence from SkyMapper Board A",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Verify MeshCore feat/passive-mapper branch + SHA remotely",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_e90e207f",
   "title": "Locate scheduler registration and cite job name, schedule, entrypoint",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_100f5324",
   "title": "Grep source/infra for digest identifiers and find delivery channel in code",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Inventory every `block_kind` occurrence across the repo (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_63f12d3f",
   "title": "Sweep alias/variant spellings and schema-level definitions of block_kind",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_ec8e8685",
   "title": "Locate kanban_block tool definition and exact reason parameter signature",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_031bc3fa",
   "title": "Locate scanner consumer: prefix/regex and block_kind handling",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_eddf9970",
   "title": "Locate request-human-action skill artifacts and parent findings",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789353032,

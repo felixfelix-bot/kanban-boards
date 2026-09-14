@@ -1802,7 +1802,7 @@
  {
   "id": "t_7ae740af",
   "title": "Open nsyte upstream PR and report URL to operator",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789337189,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_d22a93b7",
   "title": "Build BalanceWidget React component consuming hook + Sass",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337392,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f270c27a",
   "title": "Add PTY-based pytest suite for serial resilience (retry, re-detect, timeout recovery)",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
