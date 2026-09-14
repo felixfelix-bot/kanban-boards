@@ -3062,7 +3062,7 @@
  {
   "id": "t_3e537b94",
   "title": "Identify chamber controller/software admin and maintenance approvers",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371231,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Inventory bench frequency sources and references",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "Inventory bench frequency measurement and analysis instruments",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added RF insertion loss and recalibration decision",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_f2c67b58",
   "title": "Catalogue SMA mating-surface and ice-bridging failure modes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373116,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_e59f3560",
   "title": "Catalogue PTFE dielectric and solder-joint/center-pin degradation modes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373116,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_dc2387b6",
   "title": "Catalogue feedthrough seal and instrument-side electronics failure modes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373116,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_1f4f5fce",
   "title": "Compile datasheet specs for each RF coax cable in the bundle",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373958,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_7a16e421",
   "title": "Measure coax jacket/connector/bundle OD and available slack with calipers",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373958,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Grep application source tree for escalation-digest identifiers, record raw hits",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,

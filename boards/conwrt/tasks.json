@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write provenance-verification.md report and confirm repo unmodified",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
