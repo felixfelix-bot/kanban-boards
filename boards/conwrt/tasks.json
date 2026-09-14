@@ -494,7 +494,7 @@
  {
   "id": "t_c52fd334",
   "title": "Transcribe net4sats LAN-move + read-back command blocks verbatim into drafts/net4sats-raw-commands.md",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
