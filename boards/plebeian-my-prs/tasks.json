@@ -1178,7 +1178,7 @@
  {
   "id": "t_3a03d0fe",
   "title": "Review PR #1310: docs(agents): authorize review-only pull-request mutations",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789229574,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_db5e4bc6",
   "title": "Review PR #1312: fix(#1285): bound the pending buffer, envelope on every ingestion path (review findings 1-5)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789315161,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_58015366",
   "title": "Review PR #1313: fix(#1284): union zap relays, derive the handler-id chain, trim booleans (review findings 1-3)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789315166,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_2bffe9e8",
   "title": "Cold glm cross-family verdict on PR #1310 draft review comment",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335506,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_8e0b80f4",
   "title": "Publish approved PR #1310 review comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335506,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_087284d3",
   "title": "Draft PR #1312 review findings (dedup, terse Felix style)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335925,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_95bf107a",
   "title": "Cold cross-family review of PR #1312 draft (glm)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335925,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_abef45a4",
   "title": "Publish approved PR #1312 review or escalate to manager",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335925,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_4a585063",
   "title": "Fetch PR #1313 diff and draft the review comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789336098,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_c2d12aee",
   "title": "Cold cross-family review of the PR #1313 draft (Gate 2.5)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789336098,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_a261ce06",
   "title": "Publish the approved PR #1313 review comment and set status=review",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789336098,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_f7babe60",
   "title": "Review PR #1313 for NEW issues: union zap relay handling",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789343174,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_2f6096de",
   "title": "Review PR #1313 for NEW issues: handler-id chain + trimming",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789343174,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_60a77ad9",
   "title": "Draft and package the Felix-style review comment for PR #1313",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789343174,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Recover design-pass triage artifact for PR #1232 and report pushbacks vs tension findings (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory inline review comments on PlebeianApp/market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3157,8 +3157,8 @@
  },
  {
   "id": "t_c55fe432",
-  "title": "Trigger CI for fork PR market #4 and capture all run outcomes",
-  "status": "triage",
+  "title": "Trigger CI for fork PR market#4 and capture all run outcomes",
+  "status": "ready",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
@@ -3170,9 +3170,9 @@
  {
   "id": "t_e18a92b1",
   "title": "Audit market workflow YAML for continue-on-error masking",
-  "status": "triage",
+  "status": "todo",
   "priority": 8,
-  "assignee": "market-master",
+  "assignee": "manager",
   "created_at": 1789363650,
   "started_at": null,
   "completed_at": null,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_f3012fde",
   "title": "Recon PR #1313 diff: map relay-related hunks to head file:line",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789366403,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_c83bb9da",
   "title": "Analyze relay union semantics: ordering, dedup keys, empty relays",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789366403,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_b04a11f7",
   "title": "Analyze relay failure propagation and silent drop/double-count",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789366403,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_2d713ce5",
   "title": "Audit PR #1312 ingestion-path coverage of bound + envelope",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_39ae50b2",
   "title": "Audit PR #1312 backpressure and bound integrity under load",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_1126cdd1",
   "title": "Synthesize <=40-line Felix-style draft review for PR #1312",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373130,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_17c0ee6e",
   "title": "Audit handler-id chain derivation in PR #1313 for NEW issues",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373237,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_36a18af6",
   "title": "Audit boolean trimming semantics in PR #1313 for NEW issues",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373237,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_9d2ce1fc",
   "title": "Consolidate PR #1313 findings into /tmp/pr1313/findings-chain.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789373237,
@@ -4050,6 +4050,42 @@
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373874,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_c4346701",
+  "title": "Audit market PR#4 workflows for swallowed deploy failures",
+  "status": "ready",
+  "priority": 8,
+  "assignee": "market-ci-e2e-grep-input",
+  "created_at": 1789393662,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_4bf69e81",
+  "title": "Audit secret handling in market PR#4 deploy workflows",
+  "status": "ready",
+  "priority": 8,
+  "assignee": "market-ci-e2e-grep-input",
+  "created_at": 1789393662,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a4a407e4",
+  "title": "Consolidate per-job masking verdicts for market PR#4 workflows",
+  "status": "todo",
+  "priority": 8,
+  "assignee": "market-master",
+  "created_at": 1789393662,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

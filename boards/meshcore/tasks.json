@@ -2257,7 +2257,7 @@
  },
  {
   "id": "t_d3af1dad",
-  "title": "Inventory candidate ramp log files in repo tree (read-only)",
+  "title": "Inventory candidate ramp log files, read-only, write candidates.json + candidates.md",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-data",

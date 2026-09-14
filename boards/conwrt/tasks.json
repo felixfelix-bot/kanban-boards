@@ -398,7 +398,7 @@
  {
   "id": "t_57592c2c",
   "title": "Triage defect D1: file:line, impact, blocking verdict, fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -410,7 +410,7 @@
  {
   "id": "t_011fa8da",
   "title": "Triage defect D2: file:line, impact, blocking verdict, fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -625,7 +625,7 @@
  },
  {
   "id": "t_cc35ecdf",
-  "title": "Find net4sats LAN-move IPv4 token and any in-bundle binding",
+  "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json and report any in-bundle binding",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
