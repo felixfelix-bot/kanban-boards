@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,

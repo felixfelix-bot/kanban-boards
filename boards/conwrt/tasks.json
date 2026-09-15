@@ -1814,7 +1814,7 @@
  {
   "id": "t_fc56854f",
   "title": "Extract proposal-doc DNS/kill-switch claims vs implemented code",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789487496,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_7595eeea",
   "title": "Enumerate every normative claim in the PR #55 proposal doc",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_69851911",
   "title": "Trace kill-switch, fail-closed, and enable/disable defaults in PIA OpenVPN module",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_06cd201f",
   "title": "Trace DNS, IPv6, and leak-prevention paths in PIA OpenVPN module",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,

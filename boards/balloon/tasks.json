@@ -2690,7 +2690,7 @@
  {
   "id": "t_878b6372",
   "title": "Widen and re-verify every 'no matches' symbol with logged read-only searches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789384434,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_07f88d67",
   "title": "Verify each citation against actual files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_db83526f",
   "title": "Analyze assumptions at each category-(a) seq consumer site",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_de7a3f5d",
   "title": "Capture read-only git baselines for each candidate repo root",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_1292a8c2",
   "title": "Rank 3 precedent candidates and write the REJECTED list",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440391,
@@ -4886,7 +4886,7 @@
  {
   "id": "t_2ff3e994",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in source declaration files",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4898,7 +4898,7 @@
  {
   "id": "t_547f984c",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in generated config files",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_b587d35d",
   "title": "Classify hits, build per-flag rollup, assemble STEP 4 catalog",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -5258,7 +5258,7 @@
  {
   "id": "t_1df693c2",
   "title": "Collect docs/definitions inventory hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5282,7 +5282,7 @@
  {
   "id": "t_3a4bf1b2",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY-ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789472812,
