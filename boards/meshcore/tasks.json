@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Inspect chamber RF feedthroughs: type, population, mounting, cabling",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
