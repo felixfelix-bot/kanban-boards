@@ -4538,7 +4538,7 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,
