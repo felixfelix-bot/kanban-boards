@@ -2006,7 +2006,7 @@
  {
   "id": "t_67c2e1bc",
   "title": "Draft `## relay_types.h constants and relay framing` section (read-only, verified)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_ac560089",
   "title": "Capture repo/branch/SHA/date header and master CONFIG guard-enumeration total (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_2832173b",
   "title": "Audit CONFIG_ENABLE_* build injection in balloon firmware (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_f58160fa",
   "title": "Synthesize CONFIG_ENABLE_* proof chain or undetermined verdict (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_587c7458",
   "title": "Inventory sdkconfig.h references in tracker firmware (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432333,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_dbd7c380",
   "title": "Read-only inventory of CONFIG_* macro usage in balloon firmware tree",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789432333,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_ad0d6541",
   "title": "Verbatim tollgate call-site inventory + git refs for app_task.cpp (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
@@ -4994,7 +4994,7 @@
  {
   "id": "t_966ddb98",
   "title": "Run read-only PAY/ACK sweep on balloon-fresh tracker firmware and capture raw output",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5030,7 +5030,7 @@
  {
   "id": "t_ba1ec2d9",
   "title": "Read-only tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t definitions in balloon-fresh/tracker/firmware",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5054,7 +5054,7 @@
  {
   "id": "t_be4e0258",
   "title": "Assemble final read-only enumeration report for app_task.cpp (STEP 1-4 + git status)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_3de9e5eb",
   "title": "Record git environment facts for tracker/firmware (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Inventory definitions of tollgate protocol symbols in balloon-fresh firmware",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "List tollgate symbols found only in generated/build artefacts",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5126,7 +5126,7 @@
  {
   "id": "t_6605608c",
   "title": "Enumerate ~/repos/*tollgate* and partition into COVERED / SKIPPED / ADDITIONAL buckets",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5150,7 +5150,7 @@
  {
   "id": "t_ffca2b94",
   "title": "Capture CONFIG_ guard grep in balloon-fresh firmware to /tmp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5162,7 +5162,7 @@
  {
   "id": "t_3012ce9b",
   "title": "Run grep B and capture CONFIG_ ifdef matches",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5174,7 +5174,7 @@
  {
   "id": "t_f2c61768",
   "title": "Capture defined(CONFIG_) grep matches from balloon firmware C sources",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5186,7 +5186,7 @@
  {
   "id": "t_e87e7704",
   "title": "Run CONFIG_ ifndef guard grep and capture count + keys",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5210,7 +5210,7 @@
  {
   "id": "t_b02f0056",
   "title": "Extract verbatim numbered claim list from reconciliation verdict",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,

@@ -6410,7 +6410,7 @@
  {
   "id": "t_d4f21d6a",
   "title": "Search Slack history for thermal chamber custodian evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
