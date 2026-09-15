@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move + read-back provenance vs wizard bundle",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo on disk and record git root, branch, and HEAD SHA",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_551a444d",
   "title": "Audit PIA token network transmission and secret lifecycle/cleanup",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497145,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_dd18f4c3",
   "title": "Inventory PR #55 doc changes and scan for literal secrets",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_ce5bf819",
   "title": "Audit doc-prescribed workflows for insecure secret practices",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_26c57ef6",
   "title": "Cross-check documented secret flows against PIA OpenVPN code",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_ca868fbf",
   "title": "Trace fail-closed behavior on tunnel drop, auth failure, reconnect",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789497658,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_e9ec98c6",
   "title": "Inventory kill-switch and VPN-on-boot enable/disable defaults",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497658,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_c0d40c2c",
   "title": "Inventory all wizard-bundle references",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
