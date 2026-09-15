@@ -2486,7 +2486,7 @@
  {
   "id": "t_8aa23d17",
   "title": "Sweep balloon-fresh docs for PAY/ACK protocol spec artifacts",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_2c433ef7",
   "title": "Read-only recon: find PAY/ACK wire-format code in balloon-fresh",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_77fa4dd6",
   "title": "Merge PAY/ACK sweep findings and issue authoritative-vs-stale verdict",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_d18ff846",
   "title": "Enumerate candidate repos and capture branch/HEAD/remote table (READ-ONLY)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,

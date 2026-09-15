@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces (docs roots, .md, ADR/RFC) per repo/worktree",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351146,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_8f776e31",
   "title": "Re-derive cal <k> <T0> parser contract from firmware source with file:line citations",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Enumerate all bench frequency-referencing instruments into INST-nn roster",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_4a323fdc",
   "title": "Produce attributed per-repo doc-surface inventory report (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_2c7b7d95",
   "title": "Read-only inventory of git worktrees and sibling checkout dirs with reachability table",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Read-only probe of local note stores and mounts; report inventory table",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
