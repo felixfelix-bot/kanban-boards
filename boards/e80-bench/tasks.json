@@ -1730,7 +1730,7 @@
  {
   "id": "t_6b57ef82",
   "title": "Recon range_check.py result contract and resend artifact naming",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789350104,
