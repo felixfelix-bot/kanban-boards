@@ -1154,7 +1154,7 @@
  {
   "id": "t_da4ac984",
   "title": "Read-only recon: human-gate decision notes + shadow-card paths",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Read-only board sweep for human-gate/shadow-card terms",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_f9f75bd0",
   "title": "Search lab wiki/docs for thermal chamber ownership",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_c547fb46",
   "title": "Search shared calendars for thermal chamber events",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7ea22bcf",
   "title": "Search booking sheets/schedulers for thermal chamber reservations",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_d4f21d6a",
   "title": "Search Slack history for thermal chamber custodian evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,

@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Read-only inventory of CONFIG_ENABLE_TOLLGATE in balloon firmware tree",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -3025,8 +3025,8 @@
  },
  {
   "id": "t_7b1da30d",
-  "title": "Locate P2 recon report for t_77f5b39d and write /tmp/p2_result.json",
-  "status": "triage",
+  "title": "Locate P2 recon report for t_77f5b39d, write /tmp/p2_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3037,8 +3037,8 @@
  },
  {
   "id": "t_760a566e",
-  "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "triage",
+  "title": "Locate P3 recon report in kanban store; write /tmp/p3_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3061,8 +3061,8 @@
  },
  {
   "id": "t_b2d0ef24",
-  "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (quoted report as task result text only)",
-  "status": "triage",
+  "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (report in result text only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3073,8 +3073,8 @@
  },
  {
   "id": "t_fcb22ab5",
-  "title": "Read-only sweep of esp-miner @ feature/tollgate-component-integration for authoritative PAY/ACK wire-format spec",
-  "status": "triage",
+  "title": "Read-only PAY/ACK wire-format sweep of esp-miner tollgate branch",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe parent A sweep list into structured table with verbatim lines",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Read-only verbatim transcription of parent sweep list B into one structured table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe dedup candidate list into table + verbatim blocks (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe versioned docs/spec dirs at HEAD for contradictions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Probe release and annotated tag snapshots for contradictions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4994,7 +4994,7 @@
  {
   "id": "t_966ddb98",
   "title": "Run read-only PAY/ACK sweep commands and capture raw output",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate all tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5030,7 +5030,7 @@
  {
   "id": "t_ba1ec2d9",
   "title": "Tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t definitions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5042,7 +5042,7 @@
  {
   "id": "t_4470c08b",
   "title": "Infer struct definitions implied by app_task.cpp usage, flag UNDETERMINED fields",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5054,7 +5054,7 @@
  {
   "id": "t_be4e0258",
   "title": "Assemble final read-only report: STEP 1-4 plus git status confirmation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_3de9e5eb",
   "title": "Record environment facts for firmware tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Grep definitions of tollgate protocol symbols",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "Cross-check generated/build artefacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5126,7 +5126,7 @@
  {
   "id": "t_6605608c",
   "title": "Enumerate and partition ~/repos/*tollgate* directories",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5150,7 +5150,7 @@
  {
   "id": "t_ffca2b94",
   "title": "Run grep A and capture CONFIG_ if matches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5162,7 +5162,7 @@
  {
   "id": "t_3012ce9b",
   "title": "Run grep B and capture CONFIG_ ifdef matches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5174,7 +5174,7 @@
  {
   "id": "t_f2c61768",
   "title": "Run grep C and capture defined(CONFIG_) matches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5186,7 +5186,7 @@
  {
   "id": "t_e87e7704",
   "title": "Run grep D and capture CONFIG_ ifndef matches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5210,7 +5210,7 @@
  {
   "id": "t_b02f0056",
   "title": "Extract verbatim numbered claims from reconciliation verdict",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
