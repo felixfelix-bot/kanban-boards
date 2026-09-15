@@ -5011,10 +5011,23 @@
  },
  "conwrt:t_7605c05e": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789436423.6783407,
+  "status": "running",
+  "updated": 1789436879.773296,
   "ts": 1789436423.6783407,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789436879"
+ },
+ "meshcore:t_80950496": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789436642.6493053,
+  "ts": 1789436642.6493053
+ },
+ "e80-bench:t_c4210fca": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789436642.6574605,
+  "ts": 1789436642.6574605
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
