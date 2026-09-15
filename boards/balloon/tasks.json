@@ -2666,7 +2666,7 @@
  {
   "id": "t_19adaa00",
   "title": "Reconcile PAY/ACK classifications into single authoritative verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789384358,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Sweep tollgate-rs repos for PAY/ACK wire format definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
