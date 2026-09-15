@@ -1514,7 +1514,7 @@
  {
   "id": "t_7a87e63d",
   "title": "Analyze IPv6-leak exposure in PR #55 kill-switch design",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789483283,
