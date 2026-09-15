@@ -3278,7 +3278,7 @@
  {
   "id": "t_8737548e",
   "title": "Verify GO-mode session_id tests pass and collect evidence",
-  "status": "todo",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_bffdf456",
   "title": "Pin repo revision and capture required grep evidence (verbatim)",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_561d73a6",
   "title": "Audit CVM wrap docs: is the deterministic ephemeral wrap key documented?",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789472154,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
