@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host sites for second half of failures in e80 log",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Write docs/_recon/range-check.md: verified citations + real example",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_6ef787ae",
   "title": "Confirm merge status and write audit report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_d057823e",
   "title": "Push branch and verify tracking",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_bffdf456",
   "title": "Pin repo revision and capture required grep evidence (verbatim)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_fea6d6cd",
   "title": "Analyze kind 1059 choke-point",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_561d73a6",
   "title": "Audit CVM wrap docs: is the deterministic ephemeral wrap key documented?",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789472154,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_9f7391cb",
   "title": "Grep e80-stm32-bench tools for publish/idempotency/key-derivation symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_30ac8a92",
   "title": "Locate existing idempotency/determinism tests in e80-stm32-bench tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_e82ffda3",
   "title": "Pinpoint publish entry point, idempotency logic, key derivation and construct fixture recipe",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_dc8ad79c",
   "title": "Verbatim-extract GIFTWRAP_DETERMINISM.md spec points (a)-(d)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472453,

@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
