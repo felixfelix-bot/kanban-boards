@@ -818,7 +818,7 @@
  {
   "id": "t_7bd17fa3",
   "title": "Assemble the defects-d1-d5-review.md verdict document",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -914,7 +914,7 @@
  {
   "id": "t_c05e8747",
   "title": "Locate and classify the net4sats LAN-move IP token in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -950,7 +950,7 @@
  {
   "id": "t_d893dcb5",
   "title": "Decide ipv4 provenance verdict and write provenance scratch file",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789464918,
@@ -974,7 +974,7 @@
  {
   "id": "t_c67f34c1",
   "title": "Prove config-snapshot + revert recovery path",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1058,7 +1058,7 @@
  {
   "id": "t_3f50216e",
   "title": "Merge audit findings into final report",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit LAN-move verdict vs tollgate note",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back verdict vs tollgate note",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
