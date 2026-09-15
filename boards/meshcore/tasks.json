@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Dry-run calshow sampling harness at ambient and report hard-gate verdict",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture +25 C die-temp soak evidence via calshow",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture 0 C die-temp soak evidence (>15 min in 0.5 C band)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Run -40 C die-temp soak and capture calshow evidence",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_8f776e31",
   "title": "Re-derive cal <k> <T0> parser contract from firmware source with file:line citations",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Physical on-bench inventory of all frequency reference sources",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Enumerate all bench frequency-referencing instruments into INST-nn roster",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep of app source tree for escalation-digest identifiers; report raw hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
