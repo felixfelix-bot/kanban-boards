@@ -781,8 +781,8 @@
  },
  {
   "id": "t_45991d42",
-  "title": "Extract character-exact D-ID inventory from Issue-32 verification runbook",
-  "status": "triage",
+  "title": "Build character-exact D-ID inventory from Issue-32 runbook (artifact-blind)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
