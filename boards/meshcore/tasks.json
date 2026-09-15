@@ -2750,7 +2750,7 @@
  {
   "id": "t_51b4e2d9",
   "title": "Recon esp32-tollgate master for shadow-card / human-gate / board-approval mechanisms (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789366684,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_79637390",
   "title": "Read-only recon: classify gate/shadow-card mechanism hits in nutband (main)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789366751,
