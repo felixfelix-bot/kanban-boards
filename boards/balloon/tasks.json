@@ -2654,7 +2654,7 @@
  {
   "id": "t_59aa075e",
   "title": "Independently re-extract and byte-diff the mock-protocol section",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379315,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_12dd2916",
   "title": "Verify report artifact metadata",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_9667157d",
   "title": "Merge sweep shards, finalize classifications, emit filename-sweep report",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789481141,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_043f73c5",
   "title": "Merge audit reports into final symbol-guard map",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_a2567090",
   "title": "Assemble audit artifact with counts",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6206,7 +6206,7 @@
  {
   "id": "t_ce1183c3",
   "title": "Read-only case-insensitive near-miss sweep for tollgate PAY/ACK variants",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789484870,
@@ -6218,7 +6218,7 @@
  {
   "id": "t_f83b9a9d",
   "title": "Assemble docs/recon/raw_symbol_grep.md and verify clean git status",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6242,7 +6242,7 @@
  {
   "id": "t_6965e323",
   "title": "Independently re-verify each quoted guard line byte-for-byte",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789485224,
@@ -6254,7 +6254,7 @@
  {
   "id": "t_cfc4f557",
   "title": "Audit esp32-tollgate for normative PAY/ACK protocol spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789486556,
@@ -6266,7 +6266,7 @@
  {
   "id": "t_66bd890c",
   "title": "Audit tollgate-module-basic-go for normative PAY/ACK spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789486556,
@@ -6290,7 +6290,7 @@
  {
   "id": "t_836254e8",
   "title": "Audit tollgate-rs for normative PAY/ACK spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789486556,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize upstream PAY/ACK spec audit and issue bottom-line call",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,
@@ -6314,7 +6314,7 @@
  {
   "id": "t_bf3fed20",
   "title": "Infer tollgate_msg_hdr_t struct layout from app_task.cpp usage",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789487004,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_f01441e6",
   "title": "Assemble STEP 3 block and merged FIELDS_TO_RESOLVE list",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7c153fea",
   "title": "Assemble per-candidate classification table and CONFLICTS section",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-curator",
   "created_at": 1789496025,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_f308d3e6",
   "title": "Independently re-extract and byte-diff the Mock protocol transcript",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496309,

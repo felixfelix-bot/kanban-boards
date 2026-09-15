@@ -1334,7 +1334,7 @@
  {
   "id": "t_f623b10c",
   "title": "Add RED tests + fixtures pinning frozen session-dir naming contract in range_check",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789339377,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_4c814646",
   "title": "Parse pytest log and report failure count and node ids",
-  "status": "done",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
