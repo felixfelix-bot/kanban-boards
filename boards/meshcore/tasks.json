@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_2d091a54",
   "title": "Probe boundary and no-fit branches for cal parser",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789370705,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Physical on-bench inventory of all frequency reference sources",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Enumerate all bench frequency-referencing instruments into INST-nn roster",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,

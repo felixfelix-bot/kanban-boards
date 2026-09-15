@@ -446,7 +446,7 @@
  {
   "id": "t_8f4b68e5",
   "title": "Triage D3: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -482,7 +482,7 @@
  {
   "id": "t_c7f175a9",
   "title": "Assemble triage-d3-d5.md table and lan_ip/guard interaction note",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
