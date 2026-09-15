@@ -2858,7 +2858,7 @@
  {
   "id": "t_79637390",
   "title": "Read-only recon: classify gate/shadow-card mechanism hits in nutband (main)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789366751,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_1e13b4b9",
   "title": "Read-only recon: gate/shadow-card/board-approval hits in nostr-glasses (master shard)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "nostr-glasses-master",
   "created_at": 1789366751,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_c3466f00",
   "title": "Recon shard D: human-gate/board doc sweep of 4 roots + workspace catch-all",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789366796,
