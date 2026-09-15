@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1477,8 +1477,8 @@
  },
  {
   "id": "t_04045747",
-  "title": "Read-only `block_kind` inventory + scanner-module verdict report",
-  "status": "triage",
+  "title": "Produce read-only block_kind inventory and scanner verdict",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1525,8 +1525,8 @@
  },
  {
   "id": "t_ec8e8685",
-  "title": "Locate kanban_block definition; document reason param signature verbatim",
-  "status": "triage",
+  "title": "Locate kanban_block definition and document reason parameter signature verbatim",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,

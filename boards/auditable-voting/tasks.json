@@ -314,19 +314,19 @@
  {
   "id": "t_10090c13",
   "title": "Integrate all four feature branches into main (multi-language, follow-up-questions, paper-ballots, resident-otp-admission) and pass the gate",
-  "status": "running",
+  "status": "done",
   "priority": 10,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162150,
   "started_at": 1789375846,
-  "completed_at": 1789467556,
+  "completed_at": 1789473202,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_cddeda7a",
   "title": "P2-T2: Cross-feature integration tests",
-  "status": "todo",
+  "status": "ready",
   "priority": 11,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162152,
