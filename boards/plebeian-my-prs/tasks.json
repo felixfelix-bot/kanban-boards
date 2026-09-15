@@ -1298,7 +1298,7 @@
  {
   "id": "t_5c307d89",
   "title": "Review PR #1290: Fix NIP-46 remote signer login (supersedes #1199)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789315155,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_5a9faa3d",
   "title": "Draft review comment for market PR #1290 (NIP-46 signer, no post)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335847,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_bad0c043",
   "title": "Cross-family verify PR #1290 draft review (Gate 2.5)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335847,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_4a900cd0",
   "title": "Fetch and pin market PR #1290 inputs at head SHA 272839a4",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351388,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5f4947f2",
   "title": "Review NIP-46 signer protocol flow in PR #1290 diff",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351388,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_46f0eee9",
   "title": "Security/robustness review of NIP-46 signer diff in PR #1290",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351388,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_9a72d81c",
   "title": "Preflight: pin reviewed SHA and map NIP-46 diff hunks",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789364167,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_b9c10a9c",
   "title": "Fetch PR metadata to meta.json",
-  "status": "triage",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_ddcf6559",
   "title": "Fetch PR diff to diff.patch",
-  "status": "blocked",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,
