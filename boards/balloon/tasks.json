@@ -3361,8 +3361,8 @@
  },
  {
   "id": "t_e46964bf",
-  "title": "Verify cargo check -p microfips-esp-common for riscv32imc-unknown-none-elf",
-  "status": "triage",
+  "title": "Verify cargo check -p microfips-esp-common for riscv32imc-unknown-none-elf (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3373,8 +3373,8 @@
  },
  {
   "id": "t_24ccf7d1",
-  "title": "Verify host cargo check -p microfips-esp-common",
-  "status": "triage",
+  "title": "Verify host `cargo check -p microfips-esp-common` and report PASS/FAIL/BLOCKED",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -4993,8 +4993,8 @@
  },
  {
   "id": "t_966ddb98",
-  "title": "Run read-only PAY/ACK sweep on balloon-fresh tracker firmware and capture raw output",
-  "status": "triage",
+  "title": "Read-only PAY/ACK sweep on balloon-fresh tracker firmware (verbatim capture)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5029,8 +5029,8 @@
  },
  {
   "id": "t_ba1ec2d9",
-  "title": "Read-only tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t definitions in balloon-fresh/tracker/firmware",
-  "status": "triage",
+  "title": "Read-only tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t in balloon-fresh/tracker/firmware",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5053,8 +5053,8 @@
  },
  {
   "id": "t_be4e0258",
-  "title": "Assemble final read-only enumeration report for app_task.cpp (STEP 1-4 + git status)",
-  "status": "triage",
+  "title": "Assemble read-only enumeration report for app_task.cpp (STEP 1-4 + git status)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5630,7 +5630,7 @@
  {
   "id": "t_63f4057d",
   "title": "Consolidate bucket C tollgate PAY/ACK sweep findings",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478265,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_12dd2916",
   "title": "Verify report artifact metadata",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5762,7 +5762,7 @@
  {
   "id": "t_273492c7",
   "title": "Grep tollgate-rs repos for PAY/ACK wire-format keywords (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789480740,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_c9c5937e",
   "title": "Consolidate PAY/ACK wire-format evidence report with classifications",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789480740,
@@ -5786,7 +5786,7 @@
  {
   "id": "t_6a9a297f",
   "title": "Produce revision-pinned decode/RX/ack call-site inventory report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481017,
@@ -5810,7 +5810,7 @@
  {
   "id": "t_c8f59b9d",
   "title": "Freeze verdict claims verbatim into a numbered list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_f50da0a5",
   "title": "Inventory vendored / submodule / fork duplicate location classes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5858,7 +5858,7 @@
  {
   "id": "t_8c6afff2",
   "title": "Collect and verify Go tollgate module repo inventory (paths, refs, SHAs)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_1e9d2974",
   "title": "Sweep tollgate-module-basic-go worktrees for proto/OpenAPI/YAML/docs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789481178,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_761efc3b",
   "title": "Sweep client/sibling tollgate Go+Rust repos for specs and docs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789481178,
@@ -5942,7 +5942,7 @@
  {
   "id": "t_ce738669",
   "title": "Sweep tollgate docs/content repos for ADRs, specs, and YAML",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789481178,
@@ -5966,7 +5966,7 @@
  {
   "id": "t_26a521e6",
   "title": "Enumerate tollgate_* consumer sites in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -5978,7 +5978,7 @@
  {
   "id": "t_38880b90",
   "title": "Enumerate TG_PROTO_* consumer sites in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -6050,7 +6050,7 @@
  {
   "id": "t_43315bce",
   "title": "Flag TOLLGATE-adjacent CONFIG_ENABLE_* symbols",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6098,7 +6098,7 @@
  {
   "id": "t_1582bf50",
   "title": "Audit guard sites for symbols A-M",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6110,7 +6110,7 @@
  {
   "id": "t_c676070e",
   "title": "Audit guard sites for symbols N-Z",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_043f73c5",
   "title": "Merge audit reports into final symbol-guard map",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6146,7 +6146,7 @@
  {
   "id": "t_9fe461b1",
   "title": "Produce full CONFIG_ENABLE_* reference listing",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6158,7 +6158,7 @@
  {
   "id": "t_62489538",
   "title": "Compute per-symbol CONFIG_ENABLE_* counts",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_a2567090",
   "title": "Assemble audit artifact with counts",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_927ba0fb",
   "title": "Per-flag rollup of CONFIG_ENABLE_* consumption sites incl. zero-usage flags",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6566,7 +6566,7 @@
  {
   "id": "t_a491e562",
   "title": "Resolve selected CONFIG_ENABLE_* flags and capture repo baseline",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496981,

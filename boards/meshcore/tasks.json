@@ -2270,7 +2270,7 @@
  {
   "id": "t_75ddf77a",
   "title": "Load and probe each candidate ramp log (raw, no modification)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_7c8cde00",
   "title": "Classify ramps and write inventory.json + inventory.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_9b6dd556",
   "title": "Grep sweep for shadow-card / human-gate / board / gate hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_ba8e0f13",
   "title": "Scan ADR/RFC/decision-named files regardless of extension",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_c376917a",
   "title": "Recon awesome-community-networks for approval/gating mechanisms",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "awesome-community-networks-main",
   "created_at": 1789388786,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_32dc9b2b",
   "title": "Recon contextvm-anker-solix for approval/gating mechanisms",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "contextvm-anker-solix-master",
   "created_at": 1789388786,
