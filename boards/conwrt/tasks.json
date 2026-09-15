@@ -445,8 +445,8 @@
  },
  {
   "id": "t_8f4b68e5",
-  "title": "Triage D3: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "triage",
+  "title": "Triage conwrt defect D3: cite file:line, runtime impact, blocking verdict, minimal fix",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,

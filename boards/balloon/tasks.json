@@ -2617,8 +2617,8 @@
  },
  {
   "id": "t_99d44349",
-  "title": "Grep $HOME/repos for six tollgate PAY/ACK symbols into docs/recon/raw_symbol_grep.md",
-  "status": "triage",
+  "title": "Record exact occurrences of six tollgate PAY/ACK symbols in docs/recon/raw_symbol_grep.md",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_f58160fa",
   "title": "Synthesize CONFIG_ENABLE_* proof chain or 'undetermined' verdict",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4309,8 +4309,8 @@
  },
  {
   "id": "t_587c7458",
-  "title": "Inventory direct sdkconfig.h references in tracker firmware",
-  "status": "triage",
+  "title": "Inventory direct sdkconfig.h references in tracker firmware (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432333,
@@ -4321,8 +4321,8 @@
  },
  {
   "id": "t_dbd7c380",
-  "title": "Inventory CONFIG_* users and sample usage lines",
-  "status": "triage",
+  "title": "Inventory CONFIG_* users and sample usage lines in balloon firmware (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789432333,
@@ -4357,8 +4357,8 @@
  },
  {
   "id": "t_ad0d6541",
-  "title": "Record git refs and inventory tollgate call sites in app_task.cpp",
-  "status": "triage",
+  "title": "Record git refs + complete tollgate call-site inventory in app_task.cpp (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
