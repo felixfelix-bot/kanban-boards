@@ -1178,7 +1178,7 @@
  {
   "id": "t_cf3b6c77",
   "title": "Scan sibling worktrees and adjacent note stores for gate artifacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351028,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_47b10787",
   "title": "Merge both rev scan tables into the final esp-miner gate recon report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,

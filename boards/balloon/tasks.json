@@ -3386,7 +3386,7 @@
  {
   "id": "t_e240f2e4",
   "title": "Consolidate riscv32imc + host build verification into one PASS/FAIL report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -5006,7 +5006,7 @@
  {
   "id": "t_2a3627f7",
   "title": "Classify PAY/ACK tollgate spec candidates and emit verbatim report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5090,7 +5090,7 @@
  {
   "id": "t_cacc743c",
   "title": "Detail struct/union/enum layouts with field order, widths, packing, endianness",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5366,7 +5366,7 @@
  {
   "id": "t_36bf9cf2",
   "title": "Consolidate msg_type audit and write final report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5654,7 +5654,7 @@
  {
   "id": "t_4dbeecb5",
   "title": "Identify P1 report child task from /tmp/p1_children.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5726,7 +5726,7 @@
  {
   "id": "t_c9a01c12",
   "title": "Extract PAY/ACK spec evidence from awesome-tollgate docs and examples",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5834,7 +5834,7 @@
  {
   "id": "t_3f2ce9de",
   "title": "Locate all artifact copies, diff each against canonical, map disagreements to claims",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5870,7 +5870,7 @@
  {
   "id": "t_514fc6a8",
   "title": "Sweep shard 0 (repos at idx mod 3 == 0): filename hits + verbatim quotes",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5882,7 +5882,7 @@
  {
   "id": "t_9506fc65",
   "title": "Sweep shard 1: filename hits + verbatim quotes (repos at indices mod 3 == 1)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5894,7 +5894,7 @@
  {
   "id": "t_30da02a6",
   "title": "Recon shard 2: filename hits + verbatim quotes (0-based idx mod 3 == 2)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_927ba0fb",
   "title": "Per-flag rollup of CONFIG_ENABLE_* consumption sites incl. zero-usage flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6854,7 +6854,7 @@
  {
   "id": "t_0c7e76e3",
   "title": "Sweep HEAD ref for PAY/ACK wire-format candidates",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789499875,
@@ -6866,7 +6866,7 @@
  {
   "id": "t_277d1f3b",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire-format candidates",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499875,
@@ -7682,7 +7682,7 @@
  {
   "id": "t_725b19bc",
   "title": "Build consolidated path table from parent reports",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501576,
@@ -7694,7 +7694,7 @@
  {
   "id": "t_1e6247fd",
   "title": "Build consolidated hit table with verbatim quotes and classifications",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501576,
@@ -7718,7 +7718,7 @@
  {
   "id": "t_de1dc650",
   "title": "Probe versioned docs/spec dirs in HEAD tree",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,
@@ -7730,7 +7730,7 @@
  {
   "id": "t_5e2a608e",
   "title": "Probe release tags for contradictions",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,
