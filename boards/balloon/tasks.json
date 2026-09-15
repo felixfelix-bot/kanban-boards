@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Read-only inventory of CONFIG_ENABLE_TOLLGATE in balloon firmware tree",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
