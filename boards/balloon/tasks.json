@@ -3974,7 +3974,7 @@
  {
   "id": "t_09201955",
   "title": "Audit tollgate_payment_proto.h and produce verbatim symbol table",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_5f83c272",
   "title": "Audit tollgate_payment_proto.h consumers for convention drift",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789407847,

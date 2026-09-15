@@ -866,7 +866,7 @@
  {
   "id": "t_77f25b09",
   "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789393446,
@@ -950,7 +950,7 @@
  {
   "id": "t_d893dcb5",
   "title": "Decide ipv4 provenance verdict and write provenance scratch file",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789464918,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_7a4f8157",
   "title": "Request review from upstream maintainers on PR #55",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_d021eeb5",
   "title": "Verify branch naming for PR #55 against D-135",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
