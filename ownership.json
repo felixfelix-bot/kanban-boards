@@ -6221,10 +6221,11 @@
  },
  "conwrt:t_fc60d94e": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789476903.3600843,
+  "status": "failed",
+  "updated": 1789477529.8759608,
   "ts": 1789476903.3600843,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789477463"
  },
  "conwrt:t_d893dcb5": {
   "node": "cobrador",
@@ -6246,6 +6247,96 @@
   "status": "claimed",
   "updated": 1789477202.3049672,
   "ts": 1789477202.3049672
+ },
+ "meshcore:t_60a9bffa": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477463.5776043,
+  "ts": 1789477463.5776043
+ },
+ "meshcore:t_d49f3c6b": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477463.5870442,
+  "ts": 1789477463.5870442
+ },
+ "meshcore:t_0417926c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477463.6143787,
+  "ts": 1789477463.6143787
+ },
+ "meshcore:t_a9be015c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477463.631514,
+  "ts": 1789477463.631514
+ },
+ "meshcore:t_9a9aaf86": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477463.6544712,
+  "ts": 1789477463.6544712
+ },
+ "meshcore:t_bfc4f945": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1052446,
+  "ts": 1789477465.1052446
+ },
+ "meshcore:t_922d897c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.112054,
+  "ts": 1789477465.112054
+ },
+ "meshcore:t_40a13e6c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1548886,
+  "ts": 1789477465.1548886
+ },
+ "meshcore:t_3bd737f9": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1632922,
+  "ts": 1789477465.1632922
+ },
+ "meshcore:t_bd85332e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1726558,
+  "ts": 1789477465.1726558
+ },
+ "meshcore:t_2c99186e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1837282,
+  "ts": 1789477465.1837282
+ },
+ "meshcore:t_e3ee6744": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.1927078,
+  "ts": 1789477465.1927078
+ },
+ "conwrt:t_d021eeb5": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.2111235,
+  "ts": 1789477465.2111235
+ },
+ "conwrt:t_7a4f8157": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.22019,
+  "ts": 1789477465.22019
+ },
+ "conwrt:t_61643b3e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789477465.231472,
+  "ts": 1789477465.231472
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

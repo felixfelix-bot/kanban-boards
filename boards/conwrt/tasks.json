@@ -1166,7 +1166,7 @@
  {
   "id": "t_61643b3e",
   "title": "Cold cross-family review of PR #55 head ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_7a4f8157",
   "title": "Request review from upstream maintainers on PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_d021eeb5",
   "title": "Verify branch naming for PR #55 against D-135",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
