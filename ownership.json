@@ -6558,22 +6558,6 @@
   "updated": 1789485279.141087,
   "ts": 1789485279.141087
  },
- "conwrt:t_1a242f81": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789487242.947049,
-  "ts": 1789485909.3462489,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789487174"
- },
- "conwrt:t_4ec11d6c": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789487244.345344,
-  "ts": 1789485910.7853339,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789487175"
- },
  "conwrt:t_247a7d37": {
   "node": "cobrador",
   "status": "done",

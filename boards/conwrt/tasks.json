@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Run repo-wide grep sweep for wizard-bundle writers and IP/LAN tokens",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Hunt templates, heredocs, and build hooks rendering the LAN-move block",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_a39d4d6e",
   "title": "Synthesize DNS-leak verdict with file:line evidence and fixes",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9f853058",
   "title": "Reconcile doc claims vs code and produce the gap table",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,

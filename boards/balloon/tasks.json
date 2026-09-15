@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Cross-check parent lists vs dedup list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_3de9e5eb",
   "title": "Record git environment facts for tracker/firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Inventory definitions of tollgate protocol symbols in balloon-fresh firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "List tollgate symbols found only in generated/build artefacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
