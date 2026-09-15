@@ -3950,7 +3950,7 @@
  {
   "id": "t_47b10787",
   "title": "Merge both rev scan tables into the final esp-miner gate recon report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,

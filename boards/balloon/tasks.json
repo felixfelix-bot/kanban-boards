@@ -3386,7 +3386,7 @@
  {
   "id": "t_e240f2e4",
   "title": "Consolidate independent build verification report (PASS/FAIL)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -5006,7 +5006,7 @@
  {
   "id": "t_2a3627f7",
   "title": "Analyze sweep output and produce PAY/ACK classification report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Inventory definitions of tollgate protocol symbols in balloon-fresh firmware",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789470658,
@@ -5090,7 +5090,7 @@
  {
   "id": "t_cacc743c",
   "title": "Detail struct/union/enum layouts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "List tollgate symbols found only in generated/build artefacts",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789470658,
@@ -5341,8 +5341,8 @@
  },
  {
   "id": "t_8f34a07f",
-  "title": "Analyze msg_type consumers in C/C++ files",
-  "status": "triage",
+  "title": "Audit msg_type consumers and declarations in C/C++ sources",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5353,8 +5353,8 @@
  },
  {
   "id": "t_cad059ae",
-  "title": "Analyze msg_type consumers in non-C/C++ and vendor dirs",
-  "status": "triage",
+  "title": "Analyze non-C/C++ and vendor msg_type consumers into rows_other.md",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5485,8 +5485,8 @@
  },
  {
   "id": "t_8a94325b",
-  "title": "Synthesize PAY/ACK wire-format findings into final bucket A report",
-  "status": "triage",
+  "title": "Synthesize five bucket-A PAY/ACK sweep reports into final consolidated report",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -5653,7 +5653,7 @@
  },
  {
   "id": "t_4dbeecb5",
-  "title": "Identify P1 report child task from children list",
+  "title": "Identify P1 report child task from /tmp/p1_children.json",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -5726,7 +5726,7 @@
  {
   "id": "t_c9a01c12",
   "title": "Extract PAY/ACK spec evidence from docs and examples",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5810,7 +5810,7 @@
  {
   "id": "t_c8f59b9d",
   "title": "Freeze verdict claims verbatim into numbered list",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5834,7 +5834,7 @@
  {
   "id": "t_3f2ce9de",
   "title": "Locate all artifact copies and diff each against canonical",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5858,7 +5858,7 @@
  {
   "id": "t_8c6afff2",
   "title": "Verify and compile Go tollgate module repo inventory",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481141,
@@ -5870,7 +5870,7 @@
  {
   "id": "t_514fc6a8",
   "title": "Sweep shard 0: filename hits + verbatim quotes (repos at positions 0,3,6...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5882,7 +5882,7 @@
  {
   "id": "t_9506fc65",
   "title": "Sweep shard 1: filename hits + verbatim quotes (repos at positions 1,4,7...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5894,7 +5894,7 @@
  {
   "id": "t_30da02a6",
   "title": "Sweep shard 2: filename hits + verbatim quotes (repos at positions 2,5,8...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_043f73c5",
   "title": "Merge audit reports into final symbol-guard map",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_a2567090",
   "title": "Assemble audit artifact with counts",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6242,7 +6242,7 @@
  {
   "id": "t_6965e323",
   "title": "Independently re-verify each quoted guard line byte-for-byte",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789485224,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize upstream PAY/ACK spec audit and issue bottom-line call",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,

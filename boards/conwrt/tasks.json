@@ -3422,7 +3422,7 @@
  {
   "id": "t_0e9f37b1",
   "title": "Enumerate all tunnel lifecycle hooks in PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_19032745",
   "title": "Audit IPv6 kill-switch coverage in conwrt PR #55 (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_f27adf7f",
   "title": "Audit DoH/DoT and port-53 bypass surface in PR #55 (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789505987,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_35d4ea0d",
   "title": "Locate PIA OpenVPN module root and entry points",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_6e3bd818",
   "title": "Trace PIA OpenVPN config parsing",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_8b13a026",
   "title": "Map PIA OpenVPN connection lifecycle states",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_fd595134",
   "title": "Inventory iptables/ip6tables/nftables kill-switch rules at ec5c60d9",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_6965ed5b",
   "title": "Inventory routing/DNS leak-prevention mechanisms at ec5c60d9",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,

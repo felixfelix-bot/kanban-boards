@@ -1814,7 +1814,7 @@
  {
   "id": "t_eb083ec2",
   "title": "Verify RED/GREEN evidence and clean tree for Gate1",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_06c702c1",
   "title": "Reproduce e80 range-split RED suite and capture log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_4c814646",
   "title": "Parse pytest log and report failure count and node ids",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
