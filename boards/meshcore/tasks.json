@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture -20 C die-temp soak evidence via calshow",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_88a32933",
   "title": "Forensic dump: Hermes scheduler config dirs and cron registry",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs (read-only, report in completion message)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Union and date tollgate-rs gating findings into one per-rev report",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
