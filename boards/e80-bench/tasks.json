@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "Add RED test: GO-mode session_id equals ARMED value",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_dbea0ad0",
   "title": "Capture raw pre-change git baseline in firmware/e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_16f02559",
   "title": "Execute tools test suite and write GIFTWRAP_AUDIT_TESTS.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_ca574921",
   "title": "Locate NIP-59 gift-wrap construction choke-point in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_b9ae813a",
   "title": "Inventory Rust test config for e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_83ecf68b",
   "title": "Search Rust event-builder construction sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_a147117d",
   "title": "Search JSON serialization and raw payload sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_314e73d6",
   "title": "Add FAILOVER_RELAYS constant to shared tools module",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789477920,
@@ -3998,7 +3998,7 @@
  {
   "id": "t_a97268f5",
   "title": "Inventory relay-failover tests and locate the fake-double injection point",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478512,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_4a92e94c",
   "title": "Extract production publisher/transport interface contract",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478512,

@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,
@@ -950,7 +950,7 @@
  {
   "id": "t_d893dcb5",
   "title": "Decide ipv4 provenance verdict and write provenance scratch file",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789464918,
@@ -1106,7 +1106,7 @@
  {
   "id": "t_fc60d94e",
   "title": "Pin conwrt repo root+branch and extract canonical D3-D5 definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789474730,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1250,7 +1250,7 @@
  {
   "id": "t_6cb85413",
   "title": "Extract six verdicts and corrected quotes from audit findings",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477825,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_76f487d5",
   "title": "Reconcile D-ID sets and build questionable-row table from runbook",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477825,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Enumerate derive_device_secret.py emitted fields and write targets",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_0566bbad",
   "title": "Grep all writers/renderers of docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with single verdict",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
