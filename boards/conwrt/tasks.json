@@ -1646,7 +1646,7 @@
  {
   "id": "t_7cf9b34b",
   "title": "Extract workaround, D-ID, structure verdicts from second report",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_fdef6e80",
   "title": "Reconcile audit findings and write verdict-inputs.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_91eaff15",
   "title": "Audit CI workflow files for secret leakage",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
