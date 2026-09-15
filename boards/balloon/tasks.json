@@ -3206,7 +3206,7 @@
  {
   "id": "t_0f8b506c",
   "title": "Extract citation + quote inventory from reconciliation/verdict result",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract verbatim git commands and staleness claims from reconciliation verdict",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396379,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe first parent sweep list (parent A) into a structured table with verbatim source lines",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Read-only verbatim transcription of parent sweep list B into one structured table",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe dedup candidate list into table + verbatim blocks (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,

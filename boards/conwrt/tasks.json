@@ -662,7 +662,7 @@
  {
   "id": "t_d12347f6",
   "title": "Extract verbatim LAN-move + read-back evidence for net4sats and tollgate from docs/wizard-bundle.json (read-only, no writes)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -698,7 +698,7 @@
  {
   "id": "t_f60e0a02",
   "title": "Write state/conwrt-issue32-evidence/drafts/provenance-verification.md and verify repo unmodified",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789374915,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on Amperstrand/conwrt PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
@@ -902,7 +902,7 @@
  {
   "id": "t_bf9878fa",
   "title": "Verify PR #55 branch name complies with D-135 'pr/' prefix rule",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
@@ -926,7 +926,7 @@
  {
   "id": "t_cb02d695",
   "title": "Analyze derive_device_secret.py emitted fields and outputs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -938,7 +938,7 @@
  {
   "id": "t_dedc85ff",
   "title": "Enumerate writers/templates that produce docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,

@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Physically inspect and classify thermal chamber controller, record labels, photograph interface",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep of app source tree for escalation-digest identifiers; report raw hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_d8ee6c56",
   "title": "Recon shadow-card / human-gate / board-gate mentions in tollgate-quaterly-reports",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789388328,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_020235bf",
   "title": "Recon shadow-card/human-gate mentions in tollgate-release-explorer-site",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789388328,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_b0cba6fd",
   "title": "Recon feature/meshcore-lr2021-upstream-pr for gate-mechanism hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789388545,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_f113919d",
   "title": "Recon hardware/flight-board-v0.1 for shadow-card/gate/board hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789388545,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Read-only recon: scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_bc4c6635",
   "title": "Recon ci/e2e-grep-input for gate/shadow-card hits (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789388644,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Read-only recon: shadow-card/gate hits in feat/applesauce-wave-a",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,

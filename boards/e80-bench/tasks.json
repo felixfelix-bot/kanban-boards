@@ -2522,7 +2522,7 @@
  {
   "id": "t_7a8979a2",
   "title": "Make NIP-59 gift-wrap ephemeral key deterministic via HKDF in the choke-point module",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789396722,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q from the pinned cwd in e80-stm32-bench/tools and report verbatim results",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness on the kind-1059 gift-wrap derivation path",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_de89bfda",
   "title": "Audit: kind 1059 has exactly one production construction path and no plaintext/kind-1 fallback",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run two-process determinism smoke test for giftwrap event-id generation, report PASS/FAIL",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_0288d9c8",
   "title": "Audit CVM wrap docs: deterministic eph key, unlinkability cost, created_at",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_9d170792",
   "title": "Pin exact failover test command and inventory subset-accept / dead-relay coverage",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789397045,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Static-verify bare relay.contextvm.org absent from firmware/e80-stm32-bench/tools/",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Verify runtime relay host set equals the five allowed hosts",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
