@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Audit parent A/B lists against dedup list and report all discrepancies",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_e46964bf",
   "title": "Verify cargo check -p microfips-esp-common for riscv32imc-unknown-none-elf",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_24ccf7d1",
   "title": "Verify host cargo check -p microfips-esp-common",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f2a71963",
   "title": "Assemble final sdkconfig.h evidence report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432333,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_c00ad874",
   "title": "Audit and format the final decode-side report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432394,
@@ -5462,7 +5462,7 @@
  {
   "id": "t_0984302a",
   "title": "Sweep fix/upstream-autopay-gate-open-retry for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789478203,
@@ -5474,7 +5474,7 @@
  {
   "id": "t_2e8c058d",
   "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY/ACK format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -5594,7 +5594,7 @@
  {
   "id": "t_31eeb114",
   "title": "Sweep fips repo for tollgate PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789478265,
@@ -5606,7 +5606,7 @@
  {
   "id": "t_4b833723",
   "title": "Sweep sx1280-testing for tollgate PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "sx1280-testing-master",
   "created_at": 1789478265,
@@ -5618,7 +5618,7 @@
  {
   "id": "t_d6165ddf",
   "title": "Sweep direwolf-setup, nostr-glasses, other esp32 repos",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478265,
@@ -5642,7 +5642,7 @@
  {
   "id": "t_697dd52a",
   "title": "Enumerate children of t_77f5b39d from kanban store",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5690,7 +5690,7 @@
  {
   "id": "t_be4c6eb6",
   "title": "Capture repo identity for awesome-tollgate",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5702,7 +5702,7 @@
  {
   "id": "t_fda4de0e",
   "title": "Sweep filenames for PAY/ACK spec candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5714,7 +5714,7 @@
  {
   "id": "t_d3c0cae0",
   "title": "Content sweep for PAY/ACK wire-format terms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5750,7 +5750,7 @@
  {
   "id": "t_afaada7f",
   "title": "Enumerate tollgate-rs repos, capture HEAD refs, run filename sweep",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789480740,
@@ -5762,7 +5762,7 @@
  {
   "id": "t_273492c7",
   "title": "Grep tollgate-rs repos for PAY/ACK wire-format keywords (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789480740,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_c9c5937e",
   "title": "Consolidate PAY/ACK wire-format evidence report with classifications",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789480740,
@@ -5786,7 +5786,7 @@
  {
   "id": "t_6a9a297f",
   "title": "Produce revision-pinned decode/RX/ack call-site inventory report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481017,
@@ -5810,7 +5810,7 @@
  {
   "id": "t_c8f59b9d",
   "title": "Freeze verdict claims verbatim into a numbered list",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_f50da0a5",
   "title": "Inventory vendored / submodule / fork duplicate location classes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5858,7 +5858,7 @@
  {
   "id": "t_8c6afff2",
   "title": "Collect and verify Go tollgate module repo inventory (paths, refs, SHAs)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_1e9d2974",
   "title": "Sweep tollgate-module-basic-go worktrees for proto/OpenAPI/YAML/docs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789481178,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_761efc3b",
   "title": "Sweep client/sibling tollgate Go+Rust repos for specs and docs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789481178,
@@ -5942,7 +5942,7 @@
  {
   "id": "t_ce738669",
   "title": "Sweep tollgate docs/content repos for ADRs, specs, and YAML",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789481178,
@@ -5966,7 +5966,7 @@
  {
   "id": "t_26a521e6",
   "title": "Enumerate tollgate_* consumer sites in balloon firmware",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -5978,7 +5978,7 @@
  {
   "id": "t_38880b90",
   "title": "Enumerate TG_PROTO_* consumer sites in balloon firmware",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -6002,7 +6002,7 @@
  {
   "id": "t_05b949e7",
   "title": "Locate and read parent task 'sibling tollgate repo sweep'",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481771,
@@ -6026,7 +6026,7 @@
  {
   "id": "t_bc45717e",
   "title": "Enumerate all CONFIG_ENABLE_* symbols from repo",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6038,7 +6038,7 @@
  {
   "id": "t_dea16b79",
   "title": "Map Kconfig `config ENABLE_*` lines to `CONFIG_ENABLE_*` symbols with file:line evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6086,7 +6086,7 @@
  {
   "id": "t_4be0894d",
   "title": "Enumerate all CONFIG_ENABLE_* symbols in firmware tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6134,7 +6134,7 @@
  {
   "id": "t_4b0489bc",
   "title": "Verify branch and capture repo state",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6182,7 +6182,7 @@
  {
   "id": "t_62f9bd9c",
   "title": "Exact grep for symbols 1-3: tollgate_msg_hdr_t, ack_payload, TG_MSG_PAY",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6194,7 +6194,7 @@
  {
   "id": "t_6f639f0d",
   "title": "Exact grep for symbols 4-6: TG_MSG_ACK, tollgate_proto_encode/decode",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6242,7 +6242,7 @@
  {
   "id": "t_6965e323",
   "title": "Independently re-verify each quoted guard line byte-for-byte",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789485224,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize upstream PAY/ACK spec audit and issue bottom-line call",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_f01441e6",
   "title": "Assemble STEP 3 block and merged FIELDS_TO_RESOLVE list",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,
