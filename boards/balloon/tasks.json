@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Grep balloon-fresh firmware build files for sdkconfig export and ENABLE_ symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,

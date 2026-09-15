@@ -1886,7 +1886,7 @@
  {
   "id": "t_5b90f450",
   "title": "Reproduce e80 range-split RED suite; record actual failure count + full log",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon nostr transport surface of tools/cvm_board_server.py (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Capture relay failover list verbatim from cvm_board_server.py + grep evidence",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
