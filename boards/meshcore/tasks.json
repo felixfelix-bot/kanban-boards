@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_a351c48f",
   "title": "Read-only recon of gating/board-approval mentions at tollgate-module-basic-go HEAD",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,

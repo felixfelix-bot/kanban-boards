@@ -6792,17 +6792,19 @@
  },
  "conwrt:t_6077e22d": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789484701.0987768,
+  "status": "failed",
+  "updated": 1789485128.096052,
   "ts": 1789484289.567335,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789485059"
  },
  "conwrt:t_7cf9b34b": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789484702.5614228,
+  "status": "failed",
+  "updated": 1789485129.683695,
   "ts": 1789484289.5866303,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789485061"
  },
  "conwrt:t_93353722": {
   "node": "cobrador",

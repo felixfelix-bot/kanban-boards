@@ -326,7 +326,7 @@
  {
   "id": "t_cddeda7a",
   "title": "P2-T2: Cross-feature integration tests",
-  "status": "ready",
+  "status": "running",
   "priority": 11,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162152,
@@ -338,7 +338,7 @@
  {
   "id": "t_af37c6c9",
   "title": "P2-T3: E2E smoke test",
-  "status": "ready",
+  "status": "todo",
   "priority": 12,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,
