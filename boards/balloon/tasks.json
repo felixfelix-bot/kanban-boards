@@ -2510,7 +2510,7 @@
  {
   "id": "t_77fa4dd6",
   "title": "Merge PAY/ACK sweep findings and issue authoritative-vs-stale verdict",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_878b6372",
   "title": "Widen and re-verify every 'no matches' symbol with logged read-only searches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789384434,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_367ba516",
   "title": "Collect git metadata for each discovered tollgate-rs path",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8dde3190",
   "title": "Scan tollgate-rs repo refs for design-review/notes/rfc/adr/spec names",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_a4ecb075",
   "title": "Read-only audit: all tollgate_msg_hdr_t field accesses in app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_a6217304",
   "title": "Audit tollgate_ack_payload_t field accesses in app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4754,7 +4754,7 @@
  {
   "id": "t_7a3c1ff6",
   "title": "Enumerate and categorize 'seq' hits in balloon firmware (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_a206c90b",
   "title": "Enumerate tollgate_/TG_PROTO_ consumer sites in balloon firmware",
-  "status": "done",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432748,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_db83526f",
   "title": "Analyze assumptions at each category-(a) seq consumer site",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_91b427c5",
   "title": "Produce PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "done",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432810,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_de7a3f5d",
   "title": "Capture read-only git baselines for each candidate repo root",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_a8770ebe",
   "title": "Enumerate deduped CONFIG_ENABLE_* symbols and declaration sites",
-  "status": "done",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_d33e1501",
   "title": "Map real #if/#ifdef guard sites for CONFIG_ENABLE_* symbols",
-  "status": "done",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_1292a8c2",
   "title": "Rank 3 precedent candidates and write the REJECTED list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440391,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_126b0941",
   "title": "Enumerate and count CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "done",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440411,
@@ -4886,7 +4886,7 @@
  {
   "id": "t_2ff3e994",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in source declaration files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4898,7 +4898,7 @@
  {
   "id": "t_547f984c",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in generated config files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4922,7 +4922,7 @@
  {
   "id": "t_4c471c69",
   "title": "Sweep all CONFIG_ENABLE_* usage sites in firmware tree",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -4934,7 +4934,7 @@
  {
   "id": "t_99b727c7",
   "title": "Run negative CONFIG_ENABLE_ sweep and classify hits",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789448085,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_b587d35d",
   "title": "Classify hits, build per-flag rollup, assemble STEP 4 catalog",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_adbdc101",
   "title": "Transcribe all staleness/recency claims verbatim from the verdict",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_6ff4a9f6",
   "title": "Merge command and claim inventories with cross-links and coverage notes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,

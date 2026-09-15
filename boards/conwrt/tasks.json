@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims against wizard bundle",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Pinpoint net4sats LAN-move IPv4 token in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Audit derive_device_secret.py: emitted fields, write targets, IPv4/LAN exposure",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_0566bbad",
   "title": "Audit writers/renderers of docs/wizard-bundle.json for IP interpolation",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_e5114051",
   "title": "Audit PR #55: separate tested behavior from proposed behavior",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_e664a415",
   "title": "Fetch PR #55 (ec5c60d9) and extract reviewable artifacts",
-  "status": "done",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483267,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc's credential model against threat model",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_9bd6fdaa",
   "title": "Review kill-switch / fail-open logic in PR #55 (conwrt)",
-  "status": "done",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789483283,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defective items in conwrt issue32 runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_596aba53",
   "title": "Verify D-ID set and unnumbered flags against raw runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Run repo-wide grep sweep for wizard-bundle writers and IP/LAN tokens",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Hunt templates, heredocs, and build hooks rendering the LAN-move block",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_69851911",
   "title": "Trace kill-switch, fail-closed, and enable/disable defaults in PIA OpenVPN module",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_06cd201f",
   "title": "Trace DNS, IPv6, and leak-prevention paths in PIA OpenVPN module",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,

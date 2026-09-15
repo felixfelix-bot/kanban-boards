@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_b6582f7d",
   "title": "Locate derive_t0 / --sync=cvm core files and introducing commits (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_ce71ec7c",
   "title": "Verify clean tree and secret-scan phase-1 diff",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_5edf88f0",
   "title": "Create relays.py stub module",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_08811159",
   "title": "Create allowlist.py stub module in cvm_tx_listener",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_5060026e",
   "title": "Create watchdog.py stub module for cvm_tx_listener",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_1bc0ce3d",
   "title": "Create cvm_tx_listener/schema.py stub module",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_087b0236",
   "title": "Locate e80 range-split test suite path",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_bffdf456",
   "title": "Pin repo revision and capture required grep evidence (verbatim)",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_561d73a6",
   "title": "Audit CVM wrap docs: is the deterministic ephemeral wrap key documented?",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789472154,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_dc8ad79c",
   "title": "Verbatim-extract GIFTWRAP_DETERMINISM.md spec points (a)-(d)",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472453,
