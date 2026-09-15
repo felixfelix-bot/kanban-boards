@@ -4262,7 +4262,7 @@
  {
   "id": "t_08bc9e17",
   "title": "Merge shard-A recon into the deliverable table and post comment",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388786,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_7f6357be",
   "title": "Merge shard-B recon findings into final table for t_e5b0a5ed",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388847,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
