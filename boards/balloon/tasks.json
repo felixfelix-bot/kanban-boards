@@ -2486,7 +2486,7 @@
  {
   "id": "t_8aa23d17",
   "title": "Read-only sweep of balloon-fresh docs for PAY/ACK protocol spec artifacts",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_2c433ef7",
   "title": "Recon: locate PAY/ACK tollgate wire-format code in balloon-fresh",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
@@ -3493,8 +3493,8 @@
  },
  {
   "id": "t_bc19acb1",
-  "title": "Trace the include or build flag that brings CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
-  "status": "triage",
+  "title": "Trace the include or build flag bringing CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3be12518",
   "title": "Probe stale/divergent vendored, submodule, fork copies of artifact",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_d4a62f89",
   "title": "Read-only inventory of tollgate-rs repo paths and linked worktrees",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_e04c5f76",
   "title": "Sweep tollgate-module-basic-go HEAD for PAY/ACK wire-format defs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,

@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host sites for second half of failures in e80 log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Write docs/_recon/range-check.md: verified citations + real example",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_1bc0ce3d",
   "title": "Create cvm_tx_listener/schema.py stub module",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_087b0236",
   "title": "Locate e80 range-split test suite path",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
