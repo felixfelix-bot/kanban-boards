@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_7a4f8157",
   "title": "Request review from upstream maintainers on PR #55",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_4d9187ea",
   "title": "Extract verbatim D-ID set from conwrt issue32 runbook and flag unnumbered defects",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section of defects-d1-d5.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Enumerate derive_device_secret.py emitted fields, write targets, and IPv4/LAN exposure",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_0566bbad",
   "title": "Audit writers/renderers of docs/wizard-bundle.json for IP interpolation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with single A/B/C verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_fdef6e80",
   "title": "Reconcile audit findings and write verdict-inputs.json",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_6fa8de93",
   "title": "Build questionable-row array, resolving report disagreements",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483458,

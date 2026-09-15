@@ -1694,7 +1694,7 @@
  {
   "id": "t_3516b5eb",
   "title": "Create cvm_tx_listener package skeleton with constants.py",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_9622baef",
   "title": "Capture verbatim RED pytest baseline for relay-failover tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,

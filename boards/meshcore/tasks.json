@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Produce read-only block_kind inventory and scanner verdict",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_ec8e8685",
   "title": "Locate kanban_block definition and document reason parameter signature verbatim",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9f57a551",
   "title": "Inventory all frequency reference sources on the bench (physical walkthrough)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs (read-only, report in completion message)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Union and date tollgate-rs gating findings into one per-rev report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_f9f75bd0",
   "title": "Search lab wiki/docs for thermal chamber ownership",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_c547fb46",
   "title": "Search shared calendars for thermal chamber events",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7ea22bcf",
   "title": "Search booking sheets/schedulers for thermal chamber reservations",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
