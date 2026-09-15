@@ -2114,7 +2114,7 @@
  {
   "id": "t_cef4342d",
   "title": "Sweep balloon-fresh repo read-only for existing PAY/ACK protocol artifacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
