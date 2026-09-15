@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section of defects-d1-d5.md",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477046,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_38b46e0d",
   "title": "Trace DNS resolution and DNS-leak guards in PIA OpenVPN module (ec5c60d9)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_f8524a75",
   "title": "Trace IPv6 handling and v6 leak paths in PIA OpenVPN module (ec5c60d9)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
