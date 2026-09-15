@@ -2450,7 +2450,7 @@
  {
   "id": "t_dbea0ad0",
   "title": "Capture raw pre-change git baseline in firmware/e80-stm32-bench",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_9f7391cb",
   "title": "Grep e80-stm32-bench tools for publish/idempotency/key-derivation symbols",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_30ac8a92",
   "title": "Locate existing idempotency/determinism tests in e80-stm32-bench tools",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
