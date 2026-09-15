@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Audit reconciliation/verdict citations: re-verify every path, line number, and quote (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -5270,7 +5270,7 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5318,7 +5318,7 @@
  {
   "id": "t_17220695",
   "title": "Classify price_sats consumers and write audit report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477321,
@@ -6470,7 +6470,7 @@
  {
   "id": "t_0ed83101",
   "title": "Inventory tollgate-module-basic-go paths, branches, and HEAD SHAs",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496648,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_69e9906d",
   "title": "Audit HEAD tollgate-module-basic-go worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496648,

@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defects in conwrt issue32 runbook",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Read-only grep sweep: wizard-bundle writers and IP/LAN tokens",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Audit: find all renderers/templates/heredocs/build hooks that emit the net4sats LAN-move block into docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,
