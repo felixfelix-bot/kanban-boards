@@ -2006,7 +2006,7 @@
  {
   "id": "t_e7040da8",
   "title": "Synthesize recon findings into docs/_recon/cvm-board-server.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_74e224a1",
   "title": "Inventory Makefile and justfile test targets",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479118,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_cc6fc3d9",
   "title": "Inventory Taskfile.yml test tasks",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479118,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_dc9de1a7",
   "title": "Inventory package.json test scripts",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479118,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_81db71c6",
   "title": "Inventory shell scripts under scripts/ and ci/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479118,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_a5c9c316",
   "title": "Inventory CI test steps in root workflow files",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479125,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_2041966a",
   "title": "Inventory CI test steps in tools/ workflow files",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479125,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_5b3817ec",
   "title": "Scan Python test code for env var usage",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_690af3b4",
   "title": "Scan CI workflows and config for env var definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_c2f7257f",
   "title": "Scan README and docs for env var setup instructions",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
@@ -4454,7 +4454,7 @@
  {
   "id": "t_37e388df",
   "title": "Enumerate package index dependencies in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479271,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_1818a6ac",
   "title": "Enumerate toolchain download dependencies in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479271,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_056fccdb",
   "title": "Enumerate container image dependencies in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479271,
@@ -4490,7 +4490,7 @@
  {
   "id": "t_ec94b331",
   "title": "Enumerate test-time URL dependencies in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479271,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_a1eed449",
   "title": "Enumerate hardware prerequisites and skip conditions",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479280,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_72d9d54d",
   "title": "Enumerate serial device and permission prerequisites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479280,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_6ccc06ea",
   "title": "Enumerate flashing/debug tool prerequisites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479280,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_b09a1e77",
   "title": "Enumerate Python toolchain and version constraints",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479288,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_252e23bf",
   "title": "Enumerate Rust toolchain and version constraints",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479288,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_6eb78f4f",
   "title": "Enumerate CI and lockfile version constraints",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479288,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_dee39f40",
   "title": "Extract NIP-59 gift-wrap spec facts verbatim",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479567,

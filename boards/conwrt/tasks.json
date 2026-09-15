@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims against wizard bundle",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_4d9187ea",
   "title": "Extract verbatim D-ID set from conwrt issue32 runbook and flag unnumbered defects",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477046,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_0566bbad",
   "title": "Audit writers/renderers of docs/wizard-bundle.json for IP interpolation",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_e5114051",
   "title": "Audit PR #55: separate tested behavior from proposed behavior",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_280dd175",
   "title": "Analyze DNS-leak exposure in PR #55 kill-switch design",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789483283,
