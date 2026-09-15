@@ -2306,7 +2306,7 @@
  {
   "id": "t_22a1fa79",
   "title": "Add smoke test exercising fake transport; report all command lines",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
