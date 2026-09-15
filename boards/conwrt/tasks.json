@@ -302,7 +302,7 @@
  {
   "id": "t_fa3c1eb0",
   "title": "Validate preflight run log against acceptance criteria",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789348614,
