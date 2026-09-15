@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE status and CONFIG_ENABLE_* guard conventions (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,

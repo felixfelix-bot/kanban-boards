@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Transcribe verbatim recon specs for boundary-mode regression test (path, command, fixtures, clock-freeze)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,

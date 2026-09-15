@@ -2534,11 +2534,11 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
-  "started_at": null,
+  "started_at": 1789447513,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2802,7 +2802,7 @@
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
-  "started_at": null,
+  "started_at": 1789447513,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"

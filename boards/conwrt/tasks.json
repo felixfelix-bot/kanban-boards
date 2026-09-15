@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build character-exact D-ID inventory from Issue-32 runbook (artifact-blind)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -794,7 +794,7 @@
  {
   "id": "t_c345f02f",
   "title": "Audit defect quotes and locations in defects-d1-d5.md",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -806,7 +806,7 @@
  {
   "id": "t_dedc64e7",
   "title": "Audit workarounds, D-ID set, and structure of defects-d1-d5.md",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -830,7 +830,7 @@
  {
   "id": "t_43c83f64",
   "title": "Locate conwrt repo and record git root, branch, HEAD, and status",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
@@ -842,7 +842,7 @@
  {
   "id": "t_70771824",
   "title": "Extract verbatim D3/D4/D5 defect definitions into scratch quotes file",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
