@@ -2282,7 +2282,7 @@
  {
   "id": "t_7c8cde00",
   "title": "Classify ramps and write inventory.json + inventory.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_3287821a",
   "title": "Recon gitworkshop for human-gate/board mechanisms",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789388847,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_b7ee98a0",
   "title": "Recon opencode-setup for human-gate/board mechanisms across all branches",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "opencode-setup-master",
   "created_at": 1789388847,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_efd504d0",
   "title": "Recon openrouter-automation for human-gate/board mechanisms",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "openrouter-automation-master",
   "created_at": 1789388847,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_d3c60dcb",
   "title": "Recon direwolf-setup for shadow-card and human-gate mentions",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_59086e73",
   "title": "Recon rana: every branch/worktree for shadow-card + human-gate hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1f938710",
   "title": "Consolidate shard C recon outputs and post merged comment",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_454905dd",
   "title": "Compile findings table and identify owner candidates",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
