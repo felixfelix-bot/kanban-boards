@@ -434,7 +434,7 @@
  {
   "id": "t_de1259b2",
   "title": "Gate: verify serial link + MeshCore fork branch/SHA on Board A",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339677,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_b6144fc6",
   "title": "Compile consolidated bench frequency inventory markdown table",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_5296975e",
   "title": "Merge recon tables into one normalised gating report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,
