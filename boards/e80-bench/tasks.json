@@ -2006,7 +2006,7 @@
  {
   "id": "t_e7040da8",
   "title": "Synthesize recon findings into docs/_recon/cvm-board-server.md",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Transcribe recon specs from e80-stm32-bench boundary-test note",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e59cdfe9",
   "title": "Read-only audit: prove failover/publisher tests use no live network primitives",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_8366a8de",
   "title": "Inventory key-material env vars and params under firmware/e80-stm32-bench/tools/",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440487,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_ef0e23fe",
   "title": "Pin exact pytest command for STM32 bench publisher/relay failover suite",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440754,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_bcc5ca2a",
   "title": "Grep-sweep firmware/e80-stm32-bench/tools for kind 1059 / gift-wrap symbols",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_09495a6d",
   "title": "Produce verbatim grep evidence that gift-wrap path emits no plaintext/kind-1 event",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_950d3ba1",
   "title": "Grep sweep: raw inventory of randomness call sites in tools tree",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_3cf5ff7f",
   "title": "Inventory conftest.py, fixtures, and test helpers under e80-stm32-bench/tools",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_16f02559",
   "title": "Execute tools test suite and write GIFTWRAP_AUDIT_TESTS.md",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_ca574921",
   "title": "Locate NIP-59 gift-wrap construction choke-point in firmware/e80-stm32-bench/tools",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_b6582f7d",
   "title": "Locate derive_t0 / --sync=cvm core files and introducing commits",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_ce71ec7c",
   "title": "Verify clean tree and secret-scan phase-1 diff",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_5edf88f0",
   "title": "Create relays.py stub module",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_08811159",
   "title": "Create allowlist.py stub module in cvm_tx_listener",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_5060026e",
   "title": "Create watchdog.py stub module for cvm_tx_listener",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_1bc0ce3d",
   "title": "Create cvm_tx_listener/schema.py stub module",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_087b0236",
   "title": "Locate e80 range-split test suite path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,

@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection from wizard-bundle recipe",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -962,7 +962,7 @@
  {
   "id": "t_2f7f8778",
   "title": "Power on CF-WR632AX, verify SSH and capture OpenWrt version",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_b00b723a",
   "title": "Audit stated_workaround column against runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1046,7 +1046,7 @@
  {
   "id": "t_6c0fc120",
   "title": "Verify defects-d1-d5.md file structure",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_76f487d5",
   "title": "Reconcile D-ID sets and build questionable-row table from runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477825,

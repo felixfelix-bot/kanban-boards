@@ -1898,7 +1898,7 @@
  {
   "id": "t_80950496",
   "title": "Run +25/0/-20/-40 C holds, log >=10 min raw per setpoint",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_47c20593",
   "title": "Inspect physical logbook and sign-out sheets for chamber custodian evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789389061,
