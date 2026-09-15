@@ -1406,7 +1406,7 @@
  {
   "id": "t_9cea8c1c",
   "title": "Audit PIA OpenVPN module secret handling in PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_cfdaf6f5",
   "title": "Audit repo-side proposal doc secret handling in PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_d091722c",
   "title": "Enumerate derive_device_secret.py output fields and check for an ipv4 emitter",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_b99a7981",
   "title": "Enumerate writers/templates that populate the LAN-move block in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
