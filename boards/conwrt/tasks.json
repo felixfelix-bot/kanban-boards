@@ -278,7 +278,7 @@
  {
   "id": "t_1d9e084b",
   "title": "Prove and document the CF-WR632AX recovery path before anything else",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
