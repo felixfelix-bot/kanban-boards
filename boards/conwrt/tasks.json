@@ -554,7 +554,7 @@
  {
   "id": "t_bf9f349a",
   "title": "Trace LAN-move recipe ipv4 provenance in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789362852,

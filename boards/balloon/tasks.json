@@ -3050,7 +3050,7 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (quoted report, result text only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Read-only sweep of esp-miner feature/tollgate-component-integration for an authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Read-only PAY/ACK wire-format spec audit of tollgate-bash-client",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep ~/repos/awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789396021,
@@ -3205,7 +3205,7 @@
  },
  {
   "id": "t_0f8b506c",
-  "title": "Extract all citations and quotes from reconciliation/verdict task result",
+  "title": "Extract citation + quote inventory from reconciliation/verdict result",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -3230,9 +3230,9 @@
  {
   "id": "t_38258f50",
   "title": "Extract verbatim git commands and staleness claims from reconciliation verdict",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789396379,
   "started_at": null,
   "completed_at": null,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe first parent sweep list (parent A) from reconciliation result into a structured table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Transcribe parent sweep list B into a structured, verbatim table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe deduplicated candidate list into structured table with verbatim source blocks",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -4950,6 +4950,42 @@
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_88171069",
+  "title": "Extract all git commands verbatim from the reconciliation verdict",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789467022,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_adbdc101",
+  "title": "Extract all staleness and recency claims verbatim from the verdict",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789467022,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_6ff4a9f6",
+  "title": "Merge command and claim inventories with cross-links and coverage notes",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789467022,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
