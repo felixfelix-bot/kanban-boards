@@ -2822,7 +2822,7 @@
  {
   "id": "t_c4210fca",
   "title": "Implement tools/nostr_giftwrap.py kind-1059 builder + single choke-point guard",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789433197,
