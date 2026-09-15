@@ -2438,7 +2438,7 @@
  {
   "id": "t_7b98e49c",
   "title": "Read-only audit: confirm --sync=cvm / derive_t0 core is merged and record off-limits paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,

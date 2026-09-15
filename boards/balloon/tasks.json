@@ -2005,8 +2005,8 @@
  },
  {
   "id": "t_67c2e1bc",
-  "title": "Build worked byte-offset example and assemble final markdown section",
-  "status": "triage",
+  "title": "Assemble relay_types.h markdown section with worked byte-offset example",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_b3e92fd9",
   "title": "Recon relay_types.h enum + relay packet framing; write docs/recon/.tollgate_framing_notes.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2173,8 +2173,8 @@
  },
  {
   "id": "t_e785bf7d",
-  "title": "Recon CONFIG_ENABLE_TOLLGATE status and CONFIG_ENABLE_* guard conventions (read-only)",
-  "status": "triage",
+  "title": "Recon CONFIG_ENABLE_TOLLGATE status and CONFIG_ENABLE_* guard conventions",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2677,8 +2677,8 @@
  },
  {
   "id": "t_4b2ba0b5",
-  "title": "Compile six-symbol grep evidence table from upstream sweeps",
-  "status": "triage",
+  "title": "Compile six-symbol grep evidence table from parent sweep artifacts (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
@@ -2785,8 +2785,8 @@
  },
  {
   "id": "t_474af18c",
-  "title": "Audit claims in TOLLGATE_PROTO_CONTRACT.md (read-only, text report only)",
-  "status": "triage",
+  "title": "Read-only audit of TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
@@ -2845,8 +2845,8 @@
  },
  {
   "id": "t_88a37cad",
-  "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire format",
-  "status": "triage",
+  "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire spec",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2881,8 +2881,8 @@
  },
  {
   "id": "t_cb852ca9",
-  "title": "Census CONFIG_* guard idioms (A: #if, B: #ifdef, C: #if defined) in balloon-fresh firmware",
-  "status": "triage",
+  "title": "Census CONFIG_* guard idioms (#if/#ifdef/#if defined) in balloon-fresh firmware",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2929,7 +2929,7 @@
  },
  {
   "id": "t_76066d43",
-  "title": "Read-only sweep balloon-fresh firmware for PAY/ACK protocol candidates",
+  "title": "Read-only PAY/ACK protocol sweep of balloon-fresh tracker firmware",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -2941,8 +2941,8 @@
  },
  {
   "id": "t_8281c7f5",
-  "title": "Enumerate sibling tollgate repos with branch and HEAD sha (read-only)",
-  "status": "triage",
+  "title": "Read-only inventory of sibling tollgate repos: branch + 40-char HEAD sha",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,

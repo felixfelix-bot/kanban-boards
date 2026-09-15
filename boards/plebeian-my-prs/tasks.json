@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
