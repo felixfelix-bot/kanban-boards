@@ -482,7 +482,7 @@
  {
   "id": "t_c7f175a9",
   "title": "Assemble triage-d3-d5.md table and lan_ip/guard interaction note",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -733,7 +733,7 @@
  },
  {
   "id": "t_b7afb5d4",
-  "title": "Reconcile net4sats findings with worker note and emit verdict report",
+  "title": "Reconcile net4sats findings and emit verdict report",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -770,9 +770,9 @@
  {
   "id": "t_3f7d705a",
   "title": "Reconcile tollgate audit verdicts vs worker note; emit CORRECTION lines",
-  "status": "ready",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-reviewer-glm",
+  "assignee": "manager",
   "created_at": 1789380019,
   "started_at": null,
   "completed_at": null,
@@ -962,7 +962,7 @@
  {
   "id": "t_2f7f8778",
   "title": "Power on CF-WR632AX and verify SSH + OpenWrt version",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_b00b723a",
   "title": "Audit stated_workaround column against runbook",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1034,7 +1034,7 @@
  {
   "id": "t_6015d54d",
   "title": "Reconcile D-ID set in Discrepancies section",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1046,7 +1046,7 @@
  {
   "id": "t_6c0fc120",
   "title": "Verify defects-d1-d5.md file structure",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1058,10 +1058,46 @@
  {
   "id": "t_3f50216e",
   "title": "Merge audit findings into final report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7c40904e",
+  "title": "Audit LAN-move verdict vs tollgate note",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "awesome-tollgate-main",
+  "created_at": 1789473600,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fb6e57f0",
+  "title": "Audit read-back verdict vs tollgate note",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "awesome-tollgate-main",
+  "created_at": 1789473600,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_c5842c60",
+  "title": "Merge tollgate audit findings into final report",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "awesome-tollgate-main",
+  "created_at": 1789473600,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

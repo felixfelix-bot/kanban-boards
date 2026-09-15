@@ -326,11 +326,11 @@
  {
   "id": "t_cddeda7a",
   "title": "P2-T2: Cross-feature integration tests",
-  "status": "ready",
+  "status": "running",
   "priority": 11,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162152,
-  "started_at": null,
+  "started_at": 1789473652,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
