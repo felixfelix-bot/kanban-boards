@@ -3374,7 +3374,7 @@
  {
   "id": "t_6ef787ae",
   "title": "Confirm merge status and write audit report",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_d057823e",
   "title": "Push branch and verify tracking",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_fea6d6cd",
   "title": "Analyze kind 1059 choke-point",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_e82ffda3",
   "title": "Pinpoint publish entry point, idempotency logic, key derivation and construct fixture recipe",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_de234528",
   "title": "Extract ordered failing node-id list and half boundary from pytest log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

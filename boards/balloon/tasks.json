@@ -3830,7 +3830,7 @@
  {
   "id": "t_762d13c0",
   "title": "Assemble final tollgate-rs repo inventory report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
