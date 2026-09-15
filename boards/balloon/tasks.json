@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Read-only sweep of tollgate-infrastructure-kit for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Read-only PAY/ACK wire-format spec sweep of tollgate-community-calls",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_644f0cc7",
   "title": "Sweep tollgate-quaterly-reports for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789396021,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71c04a28",
   "title": "Read-only sweep of tollgate-release-explorer-site for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789396021,
@@ -3265,8 +3265,8 @@
  },
  {
   "id": "t_05ff9310",
-  "title": "Transcribe first parent sweep list (parent A) from reconciliation result into a structured table",
-  "status": "triage",
+  "title": "Transcribe first parent sweep list (parent A) into a structured table with verbatim source lines",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3277,8 +3277,8 @@
  },
  {
   "id": "t_a8b3350b",
-  "title": "Transcribe parent sweep list B into a structured, verbatim table",
-  "status": "triage",
+  "title": "Read-only verbatim transcription of parent sweep list B into one structured table",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3289,8 +3289,8 @@
  },
  {
   "id": "t_cbfe53c0",
-  "title": "Transcribe deduplicated candidate list into structured table with verbatim source blocks",
-  "status": "triage",
+  "title": "Transcribe dedup candidate list into table + verbatim blocks (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
