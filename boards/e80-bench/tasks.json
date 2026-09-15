@@ -3482,7 +3482,7 @@
  {
   "id": "t_06c702c1",
   "title": "Reproduce e80 range-split RED suite and capture log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
