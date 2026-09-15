@@ -2617,7 +2617,7 @@
  },
  {
   "id": "t_99d44349",
-  "title": "Record exact occurrences of six tollgate PAY/ACK symbols in docs/recon/raw_symbol_grep.md",
+  "title": "Record exact occurrences of six tollgate PAY/ACK symbols in recon artifact",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
@@ -4801,7 +4801,7 @@
  },
  {
   "id": "t_91b427c5",
-  "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
+  "title": "Produce PAY/ACK candidate inventory from parent sweep (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -4837,7 +4837,7 @@
  },
  {
   "id": "t_a8770ebe",
-  "title": "Enumerate deduped CONFIG_ENABLE_* symbols and their declaration sites",
+  "title": "Enumerate deduped CONFIG_ENABLE_* symbols and declaration sites",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -4873,7 +4873,7 @@
  },
  {
   "id": "t_126b0941",
-  "title": "Enumerate and count every CONFIG_ENABLE_* symbol in balloon firmware",
+  "title": "Enumerate and count CONFIG_ENABLE_* symbols in balloon firmware",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
