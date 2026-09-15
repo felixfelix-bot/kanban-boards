@@ -422,7 +422,7 @@
  {
   "id": "t_ec3046f3",
   "title": "Assemble triage-d1-d2.md table + lan_ip/guard interactions note",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -566,7 +566,7 @@
  {
   "id": "t_a31dce33",
   "title": "Compose drafts/tollgate-subsection.md from extraction + provenance",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362852,

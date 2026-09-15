@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "Prep env: read FIPS-FIX-PLAN.md, verify riscv32imc target (READ-ONLY, no source changes)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract '## Mock protocol' section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Audit balloon-fresh firmware CMake/Kconfig for sdkconfig export and ENABLE_ symbols",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_c7567c99",
   "title": "Grep tree-root sdkconfig and sdkconfig.defaults for CONFIG_ENABLE_*",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402532,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_8fa90f4e",
   "title": "Read-only audit: rank and select CONFIG_ENABLE_* guard-site candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,

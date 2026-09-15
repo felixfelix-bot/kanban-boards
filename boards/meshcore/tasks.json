@@ -4094,7 +4094,7 @@
  {
   "id": "t_bc4c6635",
   "title": "Recon ci/e2e-grep-input for gate/shadow-card hits (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789388644,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Read-only recon: shadow-card/gate hits in feat/applesauce-wave-a",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,
