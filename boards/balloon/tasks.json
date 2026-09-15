@@ -2330,7 +2330,7 @@
  {
   "id": "t_8e8296e7",
   "title": "Reconcile classifications and issue authoritative PAY/ACK spec verdict",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
