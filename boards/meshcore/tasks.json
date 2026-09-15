@@ -278,7 +278,7 @@
  {
   "id": "t_f719b612",
   "title": "Verify board/firmware/serial preconditions and record LR2021 module ID",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789333877,

@@ -3950,7 +3950,7 @@
  {
   "id": "t_d5a1daec",
   "title": "Inventory tollgate_proto_encode/decode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_62a70b76",
   "title": "Merge and verify three audit tables into final app_task.cpp report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432629,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize repo audits into one PAY/ACK upstream-spec report and issue the bottom-line call",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_f01441e6",
   "title": "Assemble STEP 3 struct block and merged FIELDS_TO_RESOLVE list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_02b1e439",
   "title": "Deep-read balloon PAY/ACK candidates batch C (positions 2,5,8,11,...)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789496025,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_517bdd43",
   "title": "List files under tracker/firmware referencing CONFIG_* macros (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_2ff835fc",
   "title": "Enumerate and classify active direct sdkconfig.h includes in tracker/firmware (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_23e78080",
   "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6626,7 +6626,7 @@
  {
   "id": "t_072b0696",
   "title": "Re-verify esp32-balloon-integration in-repo PAY/ACK candidate quotes",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499439,
@@ -6710,7 +6710,7 @@
  {
   "id": "t_132e6575",
   "title": "Re-grep category-(a) seq sites and diff vs upstream list",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6722,7 +6722,7 @@
  {
   "id": "t_60b9cbad",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6734,7 +6734,7 @@
  {
   "id": "t_e567f245",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6758,7 +6758,7 @@
  {
   "id": "t_e640451e",
   "title": "Enumerate in-scope tollgate-module-basic-go worktrees (path, branch, SHA)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499638,
@@ -6770,7 +6770,7 @@
  {
   "id": "t_1ddb8336",
   "title": "Scan feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499638,
@@ -6806,7 +6806,7 @@
  {
   "id": "t_86fee389",
   "title": "Freeze exact CONFIG_ENABLE_* flag list from parent task output",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499737,
