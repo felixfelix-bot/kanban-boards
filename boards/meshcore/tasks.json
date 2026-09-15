@@ -434,7 +434,7 @@
  {
   "id": "t_de1259b2",
   "title": "Gate: verify serial link + MeshCore fork branch/SHA on Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339677,
