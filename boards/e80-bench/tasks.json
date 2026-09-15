@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Transcribe recon specs (a)-(d) from e80-stm32-bench boundary-test note, read-only",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e59cdfe9",
   "title": "Read-only audit: prove failover/publisher tests use no live network primitives",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,

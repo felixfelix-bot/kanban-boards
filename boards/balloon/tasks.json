@@ -2185,8 +2185,8 @@
  },
  {
   "id": "t_0ff4d6ed",
-  "title": "Write docs/recon/tollgate_proto_framing_config.md synthesis",
-  "status": "triage",
+  "title": "Write docs/recon/tollgate_proto_framing_config.md synthesis (read-only recon)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Trace the include or build flag that brings CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Read-only audit: pin balloon-firmware HEAD and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Read-only audit of generated sdkconfig CONFIG_ENABLE_* entries in balloon tracker firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory decode/RX/ack tollgate call sites in main/app_task.cpp (read-only, revision-pinned)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
@@ -4189,7 +4189,7 @@
  },
  {
   "id": "t_776ae2a2",
-  "title": "Verify declaration sites for selected CONFIG_ENABLE_* flags",
+  "title": "Audit declaration sites for selected CONFIG_ENABLE_* flags (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -4501,7 +4501,7 @@
  },
  {
   "id": "t_66606072",
-  "title": "Inventory all tollgate Go repos: branch, HEAD, remote, worktree",
+  "title": "Read-only inventory of all tollgate Go repos (branch, HEAD, remotes, worktree links)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -5173,8 +5173,8 @@
  },
  {
   "id": "t_f2c61768",
-  "title": "Run grep C and capture defined(CONFIG_) matches",
-  "status": "triage",
+  "title": "Capture defined(CONFIG_) grep matches from balloon firmware C sources",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5185,8 +5185,8 @@
  },
  {
   "id": "t_e87e7704",
-  "title": "Run grep D and capture CONFIG_ ifndef matches",
-  "status": "triage",
+  "title": "Run CONFIG_ ifndef guard grep and capture count + keys",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5209,8 +5209,8 @@
  },
  {
   "id": "t_b02f0056",
-  "title": "Extract verbatim numbered claims from reconciliation verdict",
-  "status": "triage",
+  "title": "Extract verbatim numbered claim list from reconciliation verdict",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
