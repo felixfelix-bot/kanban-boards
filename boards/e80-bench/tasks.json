@@ -2390,7 +2390,7 @@
  {
   "id": "t_c830a19e",
   "title": "Verify publish idempotency: same session input yields same event id",
-  "status": "done",
+  "status": "blocked",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789380049,
