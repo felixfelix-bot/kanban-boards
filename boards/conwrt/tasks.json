@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section of defects-d1-d5.md",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_e664a415",
   "title": "Fetch PR #55 (ec5c60d9) and extract reviewable artifacts",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483267,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_9bd6fdaa",
   "title": "Review kill-switch / fail-open logic in PR #55 (conwrt)",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789483283,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_280dd175",
   "title": "Analyze DNS-leak exposure in PR #55 kill-switch design",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789483283,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_7a87e63d",
   "title": "Analyze IPv6-leak exposure in PR #55 kill-switch design",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789483283,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_4bb18d78",
   "title": "Map proposal doc vs PIA OpenVPN module for kill-switch gaps",
-  "status": "done",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789483283,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_cf168f56",
   "title": "Locate the ipv4 token in the net4sats LAN-move recipe in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_d091722c",
   "title": "Enumerate derive_device_secret.py output fields and check for an ipv4 emitter",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_b99a7981",
   "title": "Enumerate writers/templates that populate the LAN-move block in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_fdef6e80",
   "title": "Reconcile audit findings and write verdict-inputs.json",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_6fa8de93",
   "title": "Build questionable-row array, resolving report disagreements",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483458,

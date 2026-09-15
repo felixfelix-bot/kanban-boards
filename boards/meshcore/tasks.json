@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs (read-only, report in completion message)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Union and date tollgate-rs gating findings into one per-rev report",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_65540377",
   "title": "Recon gating/approval mentions in awesome-tollgate (all branches)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789388309,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_bc299463",
   "title": "Recon gating/approval mentions in tollgate-bash-client (all branches)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789388309,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_132bbc3b",
   "title": "Recon gating/approval mentions in tollgate-community-calls (all branches)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789388309,

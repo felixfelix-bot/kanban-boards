@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Add concurrent failover relay publisher with per-relay deadline + per-relay aggregate",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run two-process determinism smoke test for giftwrap event-id generation and report PASS/FAIL",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Static-verify bare relay.contextvm.org absent from firmware/e80-stm32-bench/tools/",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Verify runtime relay host set equals five allowed hosts",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_b8a7083f",
   "title": "Sweep source code for RNG imports and usage",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478970,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_4f1e67f9",
   "title": "Inspect pytest.ini in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478976,
@@ -4262,7 +4262,7 @@
  {
   "id": "t_7753754d",
   "title": "Inspect pyproject.toml pytest config in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478976,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_d8561e13",
   "title": "Inspect setup.cfg pytest config in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478976,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_e367fea2",
   "title": "Inspect tox.ini pytest config in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478976,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_9112cf9f",
   "title": "Find and inspect conftest.py above tools/ in e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478976,

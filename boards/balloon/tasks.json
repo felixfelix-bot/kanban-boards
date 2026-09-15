@@ -1550,7 +1550,7 @@
  {
   "id": "t_0d2ffaf2",
   "title": "Audit tollgate upstream repos for a normative PAY/ACK protocol spec",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342382,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_13799503",
   "title": "Document relay_types.h enums and relay packet framing",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342406,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_25ee4a10",
   "title": "Independently verify raw_symbol_grep.md completeness against the six-symbol spec",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379056,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Sweep tollgate-rs repos for PAY/ACK wire format definitions (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385366,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Read-only audit of balloon-fresh firmware CMake/Kconfig for ENABLE_ symbols and sdkconfig export",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_c7567c99",
   "title": "Report CONFIG_ENABLE_* lines in tracker firmware root sdkconfig and sdkconfig.defaults",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_66606072",
   "title": "Inventory all tollgate Go repos: branch, HEAD, remote, worktree",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_e04c5f76",
   "title": "Sweep tollgate-module-basic-go HEAD for PAY/ACK wire-format defs",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_7cc3931a",
   "title": "Read-only sweep of feat/cli-json-config-rebased worktree for PAY/ACK wire definitions",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789432548,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_fd17bd1c",
   "title": "Survey PAY/ACK code and wire format in fix/upstream-autopay-gate-open-retry",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789432559,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_1325d61b",
   "title": "Survey PAY/ACK wire format in tollgate-module-basic-go @ feat/portal-packaging (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789432559,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Audit app_task.cpp: locate tollgate_payment_proto.h include and inventory every tollgate_proto_encode call site",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Audit all tollgate_proto_decode call sites in app_task.cpp (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit all TG_MSG_* constant uses in tracker/firmware app_task.cpp (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4994,7 +4994,7 @@
  {
   "id": "t_966ddb98",
   "title": "Run read-only PAY/ACK sweep commands and capture raw output",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate all tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
