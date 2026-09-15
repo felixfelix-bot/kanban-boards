@@ -2846,7 +2846,7 @@
  {
   "id": "t_aa17f19b",
   "title": "Recon publish entry point, determinism logic, existing tests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789436783,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_8366a8de",
   "title": "Inventory key-material usage under firmware/e80-stm32-bench/tools/",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440487,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_a882b2b1",
   "title": "Locate gift-wrap choke-point and extract canonical spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440542,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_ef0e23fe",
   "title": "Discover relay failover test suite and pin exact pytest command",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440754,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_bcc5ca2a",
   "title": "Grep-sweep tools tree for kind 1059 and gift-wrap symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_808fe566",
   "title": "Map all signing call paths in the tools tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_09495a6d",
   "title": "Prove no plaintext / kind-1 event emits from gift-wrap path",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,

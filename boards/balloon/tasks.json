@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Pin balloon-firmware revision and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Inspect generated sdkconfig presence and list CONFIG_ENABLE_* entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
