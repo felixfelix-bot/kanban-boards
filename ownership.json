@@ -4996,14 +4996,6 @@
   "updated": 1789433396.485063,
   "ts": 1789433396.485063
  },
- "conwrt:t_7605c05e": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789438208.34648,
-  "ts": 1789436423.6783407,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789436879"
- },
  "meshcore:t_80950496": {
   "node": "dq05",
   "status": "claimed",
