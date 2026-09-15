@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces (docs roots, .md, ADR/RFC) per repo/worktree",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351146,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_0810e888",
   "title": "Publish verbatim remote tip SHA for felixfelix-bot/MeshCore feat/passive-mapper",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789352877,
@@ -2257,8 +2257,8 @@
  },
  {
   "id": "t_d3af1dad",
-  "title": "Inventory candidate ramp log files, read-only, write candidates.json + candidates.md",
-  "status": "triage",
+  "title": "Locate ramp-log candidates (read-only) and emit candidates.json + candidates.md",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2305,8 +2305,8 @@
  },
  {
   "id": "t_6b680174",
-  "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
-  "status": "triage",
+  "title": "Recon tollgate-rs design-review-notes scope; publish read-only doc manifest",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2989,8 +2989,8 @@
  },
  {
   "id": "t_8f776e31",
-  "title": "Re-derive cal <k> <T0> parser contract from firmware source with file:line citations",
-  "status": "triage",
+  "title": "Re-derive `cal <k> <T0>` parser contract from firmware source, cited",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3145,8 +3145,8 @@
  },
  {
   "id": "t_fdc51e76",
-  "title": "Enumerate all bench frequency-referencing instruments into INST-nn roster",
-  "status": "triage",
+  "title": "Walk bench and enumerate frequency-referencing instruments as INST-nn roster",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3313,8 +3313,8 @@
  },
  {
   "id": "t_08f0587e",
-  "title": "Compute added DUT-to-instrument insertion loss and decide recalibration",
-  "status": "triage",
+  "title": "Compute added DUT-to-instrument insertion loss and rule on recalibration",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3697,7 +3697,7 @@
  },
  {
   "id": "t_ea1fbe36",
-  "title": "Read-only gating-term grep sweep: first half of tollgate-rs revs",
+  "title": "Read-only gating-term grep sweep: tollgate-rs revs, first half",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3721,8 +3721,8 @@
  },
  {
   "id": "t_371b7a7a",
-  "title": "Narrow, date, and merge tollgate-rs gating findings into tables",
-  "status": "triage",
+  "title": "Narrow, date, and merge tollgate-rs gating findings into one per-rev report",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,

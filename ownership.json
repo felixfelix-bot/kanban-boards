@@ -5420,6 +5420,24 @@
   "updated": 1789466492.0760722,
   "ts": 1789466492.0760722
  },
+ "meshcore:t_3a304ef7": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789466753.3341746,
+  "ts": 1789466753.3341746
+ },
+ "e80-bench:t_c6369eac": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789466753.3581996,
+  "ts": 1789466753.3581996
+ },
+ "balloon:t_77fa4dd6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789466753.3768952,
+  "ts": 1789466753.3768952
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",

@@ -1274,7 +1274,7 @@
  {
   "id": "t_c6369eac",
   "title": "Set task status to review and post full evidence summary",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789333273,
@@ -1801,8 +1801,8 @@
  },
  {
   "id": "t_23fdb6f3",
-  "title": "Add fixtures + RED tests pinning frozen session-dir naming contract",
-  "status": "triage",
+  "title": "Add fixtures + RED test pinning frozen session-dir naming (GO-mode `s<sid>-go<epoch>`, legacy T0 unchanged)",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789352682,

@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,

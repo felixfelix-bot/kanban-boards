@@ -2510,7 +2510,7 @@
  {
   "id": "t_77fa4dd6",
   "title": "Merge PAY/ACK sweep findings and issue authoritative-vs-stale verdict",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report for t_77f5b39d and write /tmp/p1_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report in kanban store and write /tmp/p2_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3157,7 +3157,7 @@
  },
  {
   "id": "t_71c04a28",
-  "title": "Sweep tollgate-release-explorer-site for PAY/ACK wire-format spec (read-only)",
+  "title": "Read-only sweep of tollgate-release-explorer-site for authoritative PAY/ACK wire-format spec",
   "status": "ready",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
@@ -3889,8 +3889,8 @@
  },
  {
   "id": "t_d18ff846",
-  "title": "Enumerate candidate repos and capture branch/HEAD/remote table (READ-ONLY)",
-  "status": "triage",
+  "title": "Inventory ~/repos candidates with branch/HEAD/remote table (READ-ONLY)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
