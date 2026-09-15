@@ -2798,12 +2798,12 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory SSR OG/Twitter metadata code at PR #1232 head (read-only)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
   "started_at": 1789447513,
-  "completed_at": null,
+  "completed_at": 1789455802,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
