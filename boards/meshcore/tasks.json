@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Physically inspect and classify thermal chamber controller, record labels, photograph interface",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep evidence report: escalation-digest identifiers in app source tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_f113919d",
   "title": "Recon hardware/flight-board-v0.1 for shadow-card/gate/board hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789388545,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Read-only recon: scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_bc4c6635",
   "title": "Recon ci/e2e-grep-input for gate/shadow-card hits (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789388644,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Read-only recon: shadow-card/gate hits in feat/applesauce-wave-a",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_c376917a",
   "title": "Recon awesome-community-networks for approval/gating mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-community-networks-main",
   "created_at": 1789388786,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_32dc9b2b",
   "title": "Recon contextvm-anker-solix for approval/gating mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "contextvm-anker-solix-master",
   "created_at": 1789388786,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_3287821a",
   "title": "Recon gitworkshop for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789388847,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_b7ee98a0",
   "title": "Recon opencode-setup for human-gate/board mechanisms across all branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "opencode-setup-master",
   "created_at": 1789388847,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_efd504d0",
   "title": "Recon openrouter-automation for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "openrouter-automation-master",
   "created_at": 1789388847,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_d3c60dcb",
   "title": "Recon direwolf-setup for shadow-card and human-gate mentions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_59086e73",
   "title": "Recon rana: every branch/worktree for shadow-card + human-gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1f938710",
   "title": "Consolidate shard C recon outputs and post merged comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,

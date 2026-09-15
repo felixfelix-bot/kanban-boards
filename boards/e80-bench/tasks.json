@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Assemble docs/_recon/range-check.md with citations + real example",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_9c5019f0",
   "title": "Implement GO-mode session_id from ARMED payload",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_f28dff5f",
   "title": "Audit tools tree for duplicate wrap paths or plaintext fallbacks",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_4a9a36c7",
   "title": "Inventory RNG crate versions from Cargo.toml and Cargo.lock",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478821,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_da6a66df",
   "title": "Sweep source for RNG import paths and API call sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789478821,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_e7d09900",
   "title": "Inventory Python dependency manifests and lockfiles in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_848c8968",
   "title": "Sweep e80-stm32-bench/tools source for randomness API usage",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_740a6a94",
   "title": "Read package.json and lockfiles in tools/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478970,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,

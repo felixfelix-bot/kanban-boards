@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit synthesis report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_776ae2a2",
   "title": "Verify declaration sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
