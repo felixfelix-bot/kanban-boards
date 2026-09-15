@@ -1898,7 +1898,7 @@
  {
   "id": "t_36f68231",
   "title": "Extract assertion + host source sites for first half of failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host source sites for second half of failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Assemble docs/_recon/range-check.md with citations + real example",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_eafd084b",
   "title": "Add tools/test_nostr_giftwrap.py proving kind-1059 passes and 30315 raises",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789433197,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_3501e93b",
   "title": "Prove in-process publish determinism: same input, same event id",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789436783,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_85604c34",
   "title": "Analyze determinism source and privacy trade-off",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789436783,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_b52da1ed",
   "title": "Implement deterministic NIP-59 ephemeral key via HKDF",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440542,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_16f02559",
   "title": "Execute tools test suite and write GIFTWRAP_AUDIT_TESTS.md",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_ca574921",
   "title": "Locate NIP-59 gift-wrap construction choke-point in firmware/e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_28a6e4c0",
   "title": "Sweep CVM docs for privacy trade-off acknowledgements",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478578,
@@ -4046,7 +4046,7 @@
  {
   "id": "t_044d4276",
   "title": "Verify ephemeral key stability and wrap correlatability in code",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478578,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_9bffb5b5",
   "title": "Inventory & read CVM wrap docs for created_at strategy rationale",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478588,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_2fabb50f",
   "title": "Cross-check wrap event created_at implementation in market code",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478588,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_96c6c0de",
   "title": "Trace NIP-59 gift-wrap construction in tools tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,

@@ -2870,7 +2870,7 @@
  {
   "id": "t_1e13b4b9",
   "title": "Read-only recon: gate/shadow-card/board-approval hits in nostr-glasses (master shard)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "nostr-glasses-master",
   "created_at": 1789366751,
