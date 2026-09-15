@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon nostr transport surface of tools/cvm_board_server.py (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
