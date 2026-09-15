@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_d00f4ed5",
   "title": "Scan esp-miner master rev for gate/shadow-card/board-approval hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_91454856",
   "title": "Scan esp-miner feature/tollgate-component-integration rev for gate hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789388386,
@@ -4262,7 +4262,7 @@
  {
   "id": "t_08bc9e17",
   "title": "Merge shard-A recon into the deliverable table and post comment",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388786,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_7f6357be",
   "title": "Merge shard-B recon findings into final table for t_e5b0a5ed",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388847,

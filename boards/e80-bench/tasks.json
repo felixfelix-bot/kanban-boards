@@ -3374,7 +3374,7 @@
  {
   "id": "t_6ef787ae",
   "title": "Confirm merge status and write audit report",
-  "status": "blocked",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_d057823e",
   "title": "Push branch and verify tracking",
-  "status": "blocked",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_5edf88f0",
   "title": "Create relays.py stub module",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_06c702c1",
   "title": "Reproduce e80 range-split RED suite and capture log",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_9f7391cb",
   "title": "Grep e80-stm32-bench tools for publish/idempotency/key-derivation symbols",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_30ac8a92",
   "title": "Locate existing idempotency/determinism tests in e80-stm32-bench tools",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_dc8ad79c",
   "title": "Verbatim-extract GIFTWRAP_DETERMINISM.md spec points (a)-(d)",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472453,
