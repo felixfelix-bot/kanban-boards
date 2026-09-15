@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Dry-run calshow sampling harness at ambient and report hard-gate verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
