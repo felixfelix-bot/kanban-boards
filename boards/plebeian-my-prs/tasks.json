@@ -2654,7 +2654,7 @@
  {
   "id": "t_7b4397f3",
   "title": "Analyze preview-deploy.yml at head SHA for new workflow defects",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_2c6cae1d",
   "title": "Analyze other PR-touched workflow files for new defects",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,

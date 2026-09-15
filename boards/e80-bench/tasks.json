@@ -1898,7 +1898,7 @@
  {
   "id": "t_36f68231",
   "title": "Extract assertion + host source sites for first half of failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host source sites for second half of failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Capture relay failover list verbatim from cvm_board_server.py + grep evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
