@@ -290,7 +290,7 @@
  {
   "id": "t_7605c05e",
   "title": "Capture pre-flight evidence bundle: uci/mtd/packages, reboot baselines, clock go/no-go",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
@@ -734,7 +734,7 @@
  {
   "id": "t_b7afb5d4",
   "title": "Reconcile net4sats findings with worker note and emit verdict report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -770,7 +770,7 @@
  {
   "id": "t_3f7d705a",
   "title": "Reconcile tollgate audit verdicts vs worker note; emit CORRECTION lines",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789380019,

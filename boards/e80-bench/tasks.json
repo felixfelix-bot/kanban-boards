@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q from the pinned cwd in e80-stm32-bench/tools and report verbatim results",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness on the kind-1059 gift-wrap derivation path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_aa17f19b",
   "title": "Recon: publish entry point, determinism logic, and existing tests in e80-stm32-bench tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789436783,

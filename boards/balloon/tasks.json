@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/transmit tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract verbatim git commands and staleness claims from reconciliation verdict",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396379,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_e46964bf",
   "title": "Verify riscv32imc-unknown-none-elf cargo check for microfips-esp-common",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_24ccf7d1",
   "title": "Verify host cargo check for microfips-esp-common",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Read-only audit: pin balloon-firmware HEAD/branch and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Inspect generated sdkconfig and list CONFIG_ENABLE_* entries (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789403662,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_f6afccee",
   "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t usage in app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
