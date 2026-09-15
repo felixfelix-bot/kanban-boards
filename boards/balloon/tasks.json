@@ -7154,7 +7154,7 @@
  {
   "id": "t_58d8da1a",
   "title": "Inspect docs and schemas for PAY/ACK message exchange",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7166,7 +7166,7 @@
  {
   "id": "t_5ca0b03c",
   "title": "Resolve tollgate-rs repo identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7178,7 +7178,7 @@
  {
   "id": "t_e2633097",
   "title": "Sweep tollgate-rs filenames for PAY/ACK candidates",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7190,7 +7190,7 @@
  {
   "id": "t_6a15c2b9",
   "title": "Grep tollgate-rs content for PAY/ACK wire-format terms",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7202,7 +7202,7 @@
  {
   "id": "t_9ad6d7b9",
   "title": "Inspect tollgate-rs Rust structs and design notes for PAY/ACK",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7226,7 +7226,7 @@
  {
   "id": "t_c829db53",
   "title": "Resolve tollgate-infrastructure-kit repo path and record identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789500856,
@@ -7274,7 +7274,7 @@
  {
   "id": "t_c65d457c",
   "title": "Resolve tollgate-community-calls repo path and record git identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789500881,
@@ -7322,7 +7322,7 @@
  {
   "id": "t_020f2c8a",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789500955,
