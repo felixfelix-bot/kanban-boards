@@ -1658,7 +1658,7 @@
  {
   "id": "t_da84afb3",
   "title": "Dry-run calshow sampling harness at ambient and report hard-gate verdict",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture +25 C die-temp soak evidence via calshow",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture 0 C die-temp soak evidence (>15 min in 0.5 C band)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture -20 C die-temp soak evidence via calshow",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Run -40 C die-temp soak and capture calshow evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ece027b",
   "title": "Roll up four-setpoint soak results into one evidence table",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_51b4e2d9",
   "title": "Recon esp32-tollgate master for shadow-card / human-gate / board-approval mechanisms (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789366684,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_79637390",
   "title": "Read-only recon: classify gate/shadow-card mechanism hits in nutband (main)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789366751,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_1e13b4b9",
   "title": "Read-only recon: gate/shadow-card/board-approval hits in nostr-glasses (master shard)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "nostr-glasses-master",
   "created_at": 1789366751,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_c3466f00",
   "title": "Recon shard D: human-gate/board doc sweep of 4 roots + workspace catch-all",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789366796,

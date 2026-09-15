@@ -446,7 +446,7 @@
  {
   "id": "t_8f4b68e5",
   "title": "Triage D3: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -458,7 +458,7 @@
  {
   "id": "t_f190ff39",
   "title": "Triage D4: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -470,7 +470,7 @@
  {
   "id": "t_71648d2f",
   "title": "Triage D5: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
