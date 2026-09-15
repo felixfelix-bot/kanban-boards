@@ -1898,7 +1898,7 @@
  {
   "id": "t_36f68231",
   "title": "Extract assertion + host source sites for first half of failures",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host source sites for second half of failures",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_2574a09d",
   "title": "Recon nostr transport in tools/cvm_board_server.py (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4fb74c0f",
   "title": "Recon: capture relay failover list verbatim from tools/cvm_board_server.py + enumerated relay grep evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q from the pinned cwd in e80-stm32-bench/tools and report verbatim results",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_c4210fca",
   "title": "Add tools/nostr_giftwrap.py with kind-1059 builder and single choke-point guard",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789433197,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_950d3ba1",
   "title": "Grep sweep: raw inventory of randomness call sites in tools tree",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_3cf5ff7f",
   "title": "Inventory conftest.py, fixtures, and test helpers under e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,

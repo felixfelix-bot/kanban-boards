@@ -2186,7 +2186,7 @@
  {
   "id": "t_0ff4d6ed",
   "title": "Write docs/recon/tollgate_proto_framing_config.md synthesis",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/transmit tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Trace which include or build flag provides CONFIG_ENABLE_* in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_66606072",
   "title": "Inventory tollgate Go repos: branch, HEAD, remote, worktree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_e04c5f76",
   "title": "Sweep tollgate-module-basic-go HEAD for PAY/ACK wire-format defs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,
