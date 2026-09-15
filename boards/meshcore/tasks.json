@@ -2270,7 +2270,7 @@
  {
   "id": "t_75ddf77a",
   "title": "Load and probe each candidate ramp log (raw, no modification)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_9b6dd556",
   "title": "Grep sweep for shadow-card / human-gate / board / gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_ba8e0f13",
   "title": "Scan ADR/RFC/decision-named files regardless of extension",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_a202b45f",
   "title": "Produce gating-mechanism hit table for fix/upstream-autopay-gate-open-retry",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789388280,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_2247686d",
   "title": "Enumerate and scan all uncovered tollgate-module-basic-go revs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_42049035",
   "title": "Inventory sibling tollgate-* roots and refs (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_d8ee6c56",
   "title": "Recon shadow-card/human-gate/board-gate mentions in tollgate-quaterly-reports",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789388328,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_020235bf",
   "title": "Recon shadow-card/human-gate mentions in tollgate-release-explorer-site",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789388328,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_c5504dfa",
   "title": "Inventory esp-miner doc roots and resolve local rev names (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_7e363e57",
   "title": "Read-only recon: scan esp32-mesh feature/redeem-ecash for shadow-card/gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789388477,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_b0cba6fd",
   "title": "Recon feature/meshcore-lr2021-upstream-pr for gate-mechanism hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789388545,

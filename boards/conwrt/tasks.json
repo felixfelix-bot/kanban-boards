@@ -1010,7 +1010,7 @@
  {
   "id": "t_6534c835",
   "title": "Write consolidated preflight run log",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_14cf06ab",
   "title": "Sweep PR #55 diff for secret patterns and inventory secret touchpoints",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483216,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_9cea8c1c",
   "title": "Audit PIA OpenVPN module secret handling in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_cfdaf6f5",
   "title": "Audit repo-side proposal doc secret handling in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
