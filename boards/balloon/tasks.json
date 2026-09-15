@@ -3890,7 +3890,7 @@
  {
   "id": "t_d18ff846",
   "title": "Inventory ~/repos candidates with branch/HEAD/remote table (READ-ONLY)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Locate include line and inventory all tollgate_proto_encode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Inventory all tollgate_proto_decode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit every TG_MSG_* constant use in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
