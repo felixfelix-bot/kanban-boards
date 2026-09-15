@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "ready",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,

@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Classify all PAY/ACK candidates from sibling-tollgate sweep (read-only)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/transmit tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,

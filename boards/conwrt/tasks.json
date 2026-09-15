@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
