@@ -482,7 +482,7 @@
  {
   "id": "t_c7f175a9",
   "title": "Assemble triage-d3-d5.md table and lan_ip/guard interaction note",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
