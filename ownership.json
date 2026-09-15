@@ -5831,6 +5831,14 @@
   "repo": "conwrt",
   "run_id": "cobrador-1789471139"
  },
+ "conwrt:t_8f4b68e5": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1789471395.6057792,
+  "ts": 1789471329.6345568,
+  "repo": "conwrt",
+  "run_id": "cobrador-1789471329"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",

@@ -4406,7 +4406,7 @@
  {
   "id": "t_e706f207",
   "title": "Extract numbered verbatim claim list from reconciliation verdict",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
