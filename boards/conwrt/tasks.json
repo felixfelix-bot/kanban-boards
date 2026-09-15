@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defective items in conwrt issue32 runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_596aba53",
   "title": "Verify D-ID set and unnumbered flags against raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
