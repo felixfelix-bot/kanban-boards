@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep of app source tree for escalation-digest identifiers; report raw hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,

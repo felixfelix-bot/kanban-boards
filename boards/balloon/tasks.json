@@ -2485,8 +2485,8 @@
  },
  {
   "id": "t_8aa23d17",
-  "title": "Sweep balloon-fresh docs for PAY/ACK protocol spec artifacts (read-only)",
-  "status": "triage",
+  "title": "Sweep balloon-fresh docs for PAY/ACK protocol spec artifacts",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2497,8 +2497,8 @@
  },
  {
   "id": "t_2c433ef7",
-  "title": "Sweep balloon-fresh firmware for PAY/ACK wire-format code (read-only)",
-  "status": "triage",
+  "title": "Read-only recon: find PAY/ACK wire-format code in balloon-fresh",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
@@ -3769,8 +3769,8 @@
  },
  {
   "id": "t_3be12518",
-  "title": "Read-only probe: vendored/submodule duplicate copies of the reconciled artifact",
-  "status": "triage",
+  "title": "Read-only probe: stale/divergent vendored, submodule, and fork copies of the reconciled artifact",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3793,8 +3793,8 @@
  },
  {
   "id": "t_d4a62f89",
-  "title": "Enumerate all tollgate-rs repo paths and linked worktrees (read-only)",
-  "status": "triage",
+  "title": "Read-only inventory of all tollgate-rs repo paths and linked worktrees",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
