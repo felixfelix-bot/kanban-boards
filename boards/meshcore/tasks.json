@@ -3926,7 +3926,7 @@
  {
   "id": "t_d00f4ed5",
   "title": "Scan esp-miner master rev for gate/shadow-card/board-approval hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_91454856",
   "title": "Scan esp-miner feature/tollgate-component-integration rev for gate hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789388386,

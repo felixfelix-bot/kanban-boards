@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Verify every verbatim quote and path/line cited in the verdict",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -3301,8 +3301,8 @@
  },
  {
   "id": "t_3f80ed7b",
-  "title": "Cross-check parent lists vs dedup list",
-  "status": "triage",
+  "title": "Audit parent A/B lists against dedup list and report all discrepancies",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3361,8 +3361,8 @@
  },
  {
   "id": "t_e46964bf",
-  "title": "Verify riscv32imc-unknown-none-elf cargo check for microfips-esp-common",
-  "status": "triage",
+  "title": "Verify cargo check -p microfips-esp-common for riscv32imc-unknown-none-elf",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3373,8 +3373,8 @@
  },
  {
   "id": "t_24ccf7d1",
-  "title": "Verify host cargo check for microfips-esp-common",
-  "status": "triage",
+  "title": "Verify host cargo check -p microfips-esp-common",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3410,9 +3410,9 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "esp32-balloon-integration-master",
+  "assignee": "manager",
   "created_at": 1789400792,
   "started_at": null,
   "completed_at": null,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_ce95c1ed",
   "title": "Sweep all other ~/repos/tollgate-module-basic-go* paths for PAY-ACK wire format",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432559,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_62a70b76",
   "title": "Merge audit tables into final app_task.cpp report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432629,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_db83526f",
   "title": "Analyze assumptions at each category-(a) seq consumer site",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4922,7 +4922,7 @@
  {
   "id": "t_4c471c69",
   "title": "Sweep all CONFIG_ENABLE_* usage sites in firmware tree",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -4934,7 +4934,7 @@
  {
   "id": "t_99b727c7",
   "title": "Run negative CONFIG_ENABLE_ sweep and classify hits",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789448085,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_adbdc101",
   "title": "Transcribe all staleness/recency claims verbatim from the verdict",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_6ff4a9f6",
   "title": "Merge command and claim inventories with cross-links and coverage notes",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -5318,7 +5318,7 @@
  {
   "id": "t_17220695",
   "title": "Classify price_sats consumers and write audit report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5342,7 +5342,7 @@
  {
   "id": "t_8f34a07f",
   "title": "Analyze msg_type consumers in C/C++ files",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5354,7 +5354,7 @@
  {
   "id": "t_cad059ae",
   "title": "Analyze msg_type consumers in non-C/C++ and vendor dirs",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_7fd467f5",
   "title": "Merge extracted git commands into final COMMANDS section",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_8a94325b",
   "title": "Synthesize PAY/ACK wire-format findings into final bucket A report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -5558,7 +5558,7 @@
  {
   "id": "t_7e763f89",
   "title": "Aggregate bucket-B PAY/ACK wire-format findings",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478239,
@@ -6206,7 +6206,7 @@
  {
   "id": "t_ce1183c3",
   "title": "Case-insensitive near-miss sweep for tollgate PAY/ACK variants",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789485224,
@@ -6254,7 +6254,7 @@
  {
   "id": "t_cfc4f557",
   "title": "Audit esp32-tollgate for normative PAY/ACK spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789486556,
@@ -6266,7 +6266,7 @@
  {
   "id": "t_66bd890c",
   "title": "Audit tollgate-module-basic-go for normative PAY/ACK spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789486556,
@@ -6342,6 +6342,54 @@
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_fc9e6af7",
+  "title": "Deep-read balloon PAY/ACK candidates (batch A: indices 0,3,6,...)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789496025,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_ad0c7f06",
+  "title": "Deep-read balloon PAY/ACK candidates (batch B: indices 1,4,7,...)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-balloon",
+  "created_at": 1789496025,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_02b1e439",
+  "title": "Deep-read balloon PAY/ACK candidates (batch C: indices 2,5,8,...)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-hardware-fligh",
+  "created_at": 1789496025,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7c153fea",
+  "title": "Assemble per-candidate classification table and CONFLICTS section",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-curator",
+  "created_at": 1789496025,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
