@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_4c814646",
   "title": "Parse pytest log and report failure count and node ids",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
