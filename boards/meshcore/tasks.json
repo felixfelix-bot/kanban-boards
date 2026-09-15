@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789360361,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_e795e543",
   "title": "Verify inventory completeness and spot-check raw files",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789361766,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_8dca3b31",
   "title": "Assemble final findings table with dates, classifications, zero-hit dirs",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_8a548baa",
   "title": "Independently verify inventory table against the physical bench",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_47b10787",
   "title": "Merge both rev scan tables into the final esp-miner gate recon report",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_454905dd",
   "title": "Compile findings table and identify owner candidates",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
