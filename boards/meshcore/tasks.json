@@ -1526,7 +1526,7 @@
  {
   "id": "t_ec8e8685",
   "title": "Locate kanban_block definition; document reason param signature verbatim",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352979,

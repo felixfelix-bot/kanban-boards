@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Audit claims in TOLLGATE_PROTO_CONTRACT.md (read-only, text report only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_cb852ca9",
   "title": "Census CONFIG_* guard idioms (A: #if, B: #ifdef, C: #if defined) in balloon-fresh firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
