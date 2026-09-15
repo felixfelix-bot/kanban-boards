@@ -4994,7 +4994,7 @@
  {
   "id": "t_966ddb98",
   "title": "Run read-only PAY/ACK sweep on balloon-fresh tracker firmware and capture raw output",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5030,7 +5030,7 @@
  {
   "id": "t_ba1ec2d9",
   "title": "Read-only tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t definitions in balloon-fresh/tracker/firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5054,7 +5054,7 @@
  {
   "id": "t_be4e0258",
   "title": "Assemble final read-only enumeration report for app_task.cpp (STEP 1-4 + git status)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_3de9e5eb",
   "title": "Record git environment facts for tracker/firmware (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Inventory definitions of tollgate protocol symbols in balloon-fresh firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "List tollgate symbols found only in generated/build artefacts",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,

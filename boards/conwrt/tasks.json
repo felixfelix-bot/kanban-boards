@@ -1790,7 +1790,7 @@
  {
   "id": "t_dd545800",
   "title": "Inventory DNS artifacts in PR #55 diff and PIA OpenVPN module",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d1bef0e8",
   "title": "Audit firewall ruleset and tunnel teardown for port-53 escape",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
