@@ -5178,11 +5178,18 @@
  },
  "conwrt:t_c05e8747": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789466005.1160617,
+  "status": "failed",
+  "updated": 1789466070.1514637,
   "ts": 1789465595.0163925,
   "repo": "conwrt",
   "run_id": "cobrador-1789466005"
+ },
+ "conwrt:t_26708a48": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789466189.7113159,
+  "ts": 1789466189.7113159,
+  "repo": "conwrt"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

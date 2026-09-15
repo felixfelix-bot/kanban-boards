@@ -914,7 +914,7 @@
  {
   "id": "t_c05e8747",
   "title": "Inspect net4sats LAN-move block in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,

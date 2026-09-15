@@ -2581,8 +2581,8 @@
  },
  {
   "id": "t_846739cd",
-  "title": "Inventory every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree (read-only)",
-  "status": "triage",
+  "title": "Read-only inventory of every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -3025,8 +3025,8 @@
  },
  {
   "id": "t_7b1da30d",
-  "title": "Locate P2 recon report in kanban store and emit /tmp/p2_result.json",
-  "status": "triage",
+  "title": "Locate P2 recon report in kanban store and write /tmp/p2_result.json",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
