@@ -98,7 +98,7 @@
  {
   "id": "t_6135800f",
   "title": "Run tollgate wizard recipe manually on live CF-WR632AX and capture evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789332951,
@@ -110,7 +110,7 @@
  {
   "id": "t_158a1da7",
   "title": "Add tested_hardware entries to models/comfast-cf-wr632ax.json and reply on conwrt#32",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789332951,
@@ -146,7 +146,7 @@
  {
   "id": "t_95863c0c",
   "title": "Verify lan_ip guard: exit 1 + human-readable hint",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789339296,
@@ -170,7 +170,7 @@
  {
   "id": "t_279e0f6f",
   "title": "Consolidate ordered live-run checklist for both flows",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339296,
@@ -374,7 +374,7 @@
  {
   "id": "t_65f68127",
   "title": "Append subsections to checklist.md and add cross-flow comparison",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-merger",
   "created_at": 1789356091,
@@ -614,7 +614,7 @@
  {
   "id": "t_c752d5c9",
   "title": "Write drafts/net4sats-derivation-notes.md with one provenance verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789365999,
@@ -1118,7 +1118,7 @@
  {
   "id": "t_9dcc79fa",
   "title": "Triage defect D3: file:line, impact, live-run blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789474730,
@@ -1130,7 +1130,7 @@
  {
   "id": "t_ecb14e57",
   "title": "Triage defect D4: file:line, impact, live-run blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789474730,
@@ -1142,7 +1142,7 @@
  {
   "id": "t_3bb6de3f",
   "title": "Triage defect D5: file:line, impact, live-run blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789474730,
@@ -1154,7 +1154,7 @@
  {
   "id": "t_1ba0c154",
   "title": "Assemble triage-d3-d5.md table plus lan_ip/guard interactions note",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789474730,
@@ -1202,7 +1202,7 @@
  {
   "id": "t_d6b446c9",
   "title": "Write review report and post summary",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1238,7 +1238,7 @@
  {
   "id": "t_1ee49fae",
   "title": "Compare D-ID sets and write findings file",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1274,7 +1274,7 @@
  {
   "id": "t_fc9cc0ab",
   "title": "Assemble defects-d1-d5-review.md verdict document",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477825,
@@ -1285,8 +1285,8 @@
  },
  {
   "id": "t_05bc6a7b",
-  "title": "Pinpoint net4sats LAN-move IPv4 token in docs/wizard-bundle.json (read-only)",
-  "status": "triage",
+  "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json (read-only)",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Read-only audit of derive_device_secret.py: emitted keys, write targets, IPv4/LAN exposure",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_c2f5be2b",
   "title": "Synthesize comprehensive PR #55 review",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1430,7 +1430,7 @@
  {
   "id": "t_0c7e1294",
   "title": "Merge audits into PR #55 secret-handling review report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789483216,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_901ce8b7",
   "title": "Synthesize PR #55 credential-persistence review with line refs",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_ba136943",
   "title": "Consolidate PR #55 kill-switch leak findings and recommendations",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483283,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_cdac94e1",
   "title": "Decide ipv4 provenance verdict and write net4sats-generator-provenance.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789483342,
@@ -1597,8 +1597,8 @@
  },
  {
   "id": "t_9d3d8342",
-  "title": "Locate conwrt repo on disk and record git root, branch, and HEAD SHA",
-  "status": "triage",
+  "title": "Locate conwrt repo on disk and record git root, branch, HEAD SHA",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_93353722",
   "title": "Extract quote/location verdicts from quote-location-findings.md into drafts/quote-location-draft.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_33a38fd5",
   "title": "Assemble and validate table-inputs.json from partials",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483458,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_ab05846f",
   "title": "Assemble final wizard-bundle IP-interpolation audit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485424,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_181265b8",
   "title": "Verify gap analysis completeness and reference integrity",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789487516,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_486f9ac4",
   "title": "Regex-sweep changed files for secret patterns and classify hits",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497129,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_6cf676be",
   "title": "Inventory secret-adjacent files with no regex hit",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497129,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_742451dd",
   "title": "Assemble final PR #55 secret-touchpoint inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497129,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_105ad25c",
   "title": "Merge PIA OpenVPN secret-handling findings into final audit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497145,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_3db56dd3",
   "title": "Checkout PR #55 at ec5c60d9 and publish changed-file inventory",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497322,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_8ae6046f",
   "title": "Trace kill-switch state machine for WAN leak windows",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789497322,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_5bb9cdd4",
   "title": "Scan PR #55 for fail-open constructs in kill-switch rules",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789497322,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_f32b2082",
   "title": "Audit teardown symmetry and reconnect leak window in PR #55",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789497322,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_b02cf750",
   "title": "Merge kill-switch audit streams into verified findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789497322,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_d4c6451b",
   "title": "Inventory DNS artifacts in PR #55 diff at ec5c60d9",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497349,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_7e2def77",
   "title": "Synthesize line-cited DNS escape findings inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497349,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_7562efb4",
   "title": "Trace tunnel up/down lifecycle hooks and DNS mutation/revert behavior",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_b1fed363",
   "title": "Audit IPv6 kill-switch coverage and DoH/DoT port-53 bypass surface",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_e87493a5",
   "title": "Code-check kill-switch claims (behavior on tunnel drop)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497502,
@@ -2246,7 +2246,7 @@
  {
   "id": "t_61a27169",
   "title": "Synthesize property-vs-implementation table and misleading-claim note",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_5f078c01",
   "title": "Inventory kill-switch mechanisms in PIA OpenVPN at ec5c60d9",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_ca868fbf",
   "title": "Trace fail-closed behavior on tunnel drop, auth failure, reconnect",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_e927c481",
   "title": "Consolidate PIA OpenVPN kill-switch/fail-closed inventory report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497658,
@@ -2378,7 +2378,7 @@
  {
   "id": "t_96fa4e6c",
   "title": "Trace net4sats LAN-move block provenance",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_7fe4ceb1",
   "title": "List used template files and cross-check bundle",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_f0333829",
   "title": "Consolidate D3-D5 sections and capture lan_ip/guard context",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2510,9 +2510,9 @@
  {
   "id": "t_8756de6b",
   "title": "Audit PIA OpenVPN credential sources and file lifecycle",
-  "status": "ready",
+  "status": "todo",
   "priority": 3,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789499019,
   "started_at": null,
   "completed_at": null,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_c5e96377",
   "title": "Audit permissions and ownership of PIA credential artifacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_487d0a02",
   "title": "Audit PIA credential leakage paths (logs, argv, temp, repo)",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_3f2970b1",
   "title": "Audit keychain/secret-store integration for PIA credentials",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_5f12e60c",
   "title": "Consolidate PIA credential-persistence findings into final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_e1772c70",
   "title": "Locate and quote the ipv4 value in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_dc828f33",
   "title": "Inventory derive_device_secret.py emitted output fields",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_81e5db7e",
   "title": "Grep for bundle writers and the ipv4 binding site",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_04e815d6",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_d66ce8af",
   "title": "Fetch PR #55 (head ec5c60d9) and inventory changed files",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499321,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_fd3dafb3",
   "title": "Extract every behavioral claim from the PR #55 proposal doc",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789499321,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_8eba56c9",
   "title": "Classify each proposal claim against PIA OpenVPN module code paths",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789499321,
@@ -2654,7 +2654,7 @@
  {
   "id": "t_f1627fc5",
   "title": "Map PIA OpenVPN public boundary surface to test coverage gaps",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789499321,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_80d8a434",
   "title": "Audit hedging, status, and doc-maturity language in PR #55",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789499321,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_6a36553c",
   "title": "Assemble PR #55 findings report with prioritized fixes",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789499321,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_f6b00bfb",
   "title": "Assemble consolidated doc-side normative inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501874,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_bf103c7d",
   "title": "Scan current content of in-scope docs for literal secrets",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_bcc9d07b",
   "title": "Scan git history of in-scope docs for literal secrets",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_f844c2c4",
   "title": "Compile final secret audit report for PR #55",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_e52800ff",
   "title": "Synthesize PIA OpenVPN secret leakage audit findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_1bde08a7",
   "title": "Consolidate secret practice audit findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_9d1c0dc4",
   "title": "Diff doc contracts against implementation and produce mismatch table",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502152,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_ab0bd8d6",
   "title": "Write README summarizing PR #55 artifacts",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_c8d82f7d",
   "title": "Consolidate PIA OpenVPN credential audit findings into report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_e8f88f2f",
   "title": "Compile categorized changed-file inventory",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505726,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_4fd368a1",
   "title": "Dump line-numbered kill-switch-relevant files",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505726,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_a0b5b36f",
   "title": "Identify DNS-relevant files in PR #55 diff",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505733,
@@ -3242,7 +3242,7 @@
  {
   "id": "t_2dcd6624",
   "title": "Extract DNS diff snippets and roles",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505733,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_0581284c",
   "title": "Consolidate DNS surface inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_f2c07940",
   "title": "Audit DNS set before tun0",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3326,7 +3326,7 @@
  {
   "id": "t_8c75d74b",
   "title": "Audit DNS teardown/restore",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_288592e0",
   "title": "Audit resolver pointing at LAN/DHCP",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_e6bb21df",
   "title": "Audit block-outside-dns presence",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_df6979ce",
   "title": "Audit script-security level and DNS commands",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_2a05ca1c",
   "title": "Merge firewall audit findings into final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505791,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_c6ed9ca0",
   "title": "Identify DNS mutation points in tunnel hooks",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_2ed42735",
   "title": "Assess DNS restore on clean and abnormal tunnel exit",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_241d90e6",
   "title": "Determine DNS mutation ordering relative to tunnel up",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_86620029",
   "title": "Synthesize DNS leak audit findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_19032745",
   "title": "Audit IPv6 kill-switch coverage in conwrt PR #55 (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_f27adf7f",
   "title": "Audit DoH/DoT and port-53 bypass surface in PR #55 (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789505987,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_ce8fbefa",
   "title": "Consolidate IPv6 + DoH/DoT audit into final numbered findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_35d4ea0d",
   "title": "Locate PIA OpenVPN module root and entry points",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_8b13a026",
   "title": "Map PIA OpenVPN connection lifecycle states",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_e52c3a77",
   "title": "Compile PIA OpenVPN module map",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_aa2a61cc",
   "title": "Inventory lifecycle, namespaces and teardown for kill-switch at ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_94e81ba4",
   "title": "Merge kill-switch inventory into final structured report at ec5c60d9",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_350f20bc",
   "title": "Trace fail-closed behavior on tunnel drop at conwrt ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_7fe47de9",
   "title": "Trace auth-failure path and kill-switch state at initial connect",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_062150cb",
   "title": "Trace reconnect and retry-loop behavior after a failed or dropped tunnel",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_a9db1d82",
   "title": "Audit kill-switch install/teardown ordering vs tunnel up/down",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_df3d0d2c",
   "title": "Synthesize fail-closed verdict table for conwrt ec5c60d9",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_a737cf04",
   "title": "Trace DNS resolver configuration and injection in PIA OpenVPN module",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_a76898ea",
   "title": "Trace DNS-leak guard rules and routes in PIA OpenVPN module",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_d39f468d",
   "title": "Audit UCI/docs exposure of DNS protections and assemble final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_c4c4bbd0",
   "title": "Trace firewall default policies and interface zones for WAN",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8ec1edf1",
   "title": "Identify undocumented leak protection in PIA OpenVPN module",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_fff7d0ce",
   "title": "Merge inventory findings into final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_d4c9fc2d",
   "title": "Consolidate and deduplicate PIA transport audit findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506278,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_1531af7a",
   "title": "Synthesize PIA token audit findings into final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_e79b6ff1",
   "title": "Extract credential file path contracts",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_cc958c40",
   "title": "Extract token and env var contracts",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_348203e2",
   "title": "Extract permissions, mounts, and rotation contracts",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_d6fe5373",
   "title": "Compile doc_contracts.md from extracted data",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_247e4d24",
   "title": "Draft final JSON schema from extracted findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -3998,7 +3998,7 @@
  {
   "id": "t_da95b4d9",
   "title": "Validate draft JSON and traceability",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_b862c185",
   "title": "Adjudicate conflicts against runbook",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_7d6b20d3",
   "title": "Verify corrected quotes against runbook",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4046,7 +4046,7 @@
  {
   "id": "t_1cec6a3b",
   "title": "Assemble verdict-inputs.json and validate",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_cdefc1a9",
   "title": "Reconcile artifact and runbook D-ID sets",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_b50e3208",
   "title": "Merge inventories and flag gaps",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_09ab9b74",
   "title": "Assess placeholder quality per document",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506594,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_9505c66f",
   "title": "Verify raw runbook for disputed rows",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_32b344e2",
   "title": "Assemble questionable_rows array and write rows.partial.json",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_1bcc6291",
   "title": "Merge kill-switch and leak-prevention sweeps into final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_20b7cb2b",
   "title": "Sweep DNS resolution & DNS-leak normative claims (area 3)",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4262,7 +4262,7 @@
  {
   "id": "t_f41e265c",
   "title": "Sweep IPv6 handling normative claims (area 4)",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_73fb7e95",
   "title": "Collect doc ambiguities in DNS and IPv6 areas",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_43899800",
   "title": "Merge sweeps into final claim table with sequential C-IDs",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_364e65f1",
   "title": "Reconcile verified set against inventory and write final summary",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789508260,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_4a3222e7",
   "title": "Synthesize consolidated audit findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508587,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_f5d5619e",
   "title": "Consolidate CI artifact audit findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_e4e2d39d",
   "title": "Analyze elevated-privilege exposure in PIA interfaces",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508602,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_8ce48eb6",
   "title": "Analyze file-permission and umask hygiene for PIA secrets",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508602,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_361bc70c",
   "title": "Consolidate PIA interface/permission findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508602,
@@ -4454,7 +4454,7 @@
  {
   "id": "t_26d96c07",
   "title": "Inventory all iptables/nftables artifacts at ec5c60d9",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789509861,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_0ce41e36",
   "title": "Determine UDP/53 and TCP/53 WAN verdict per artifact",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789509861,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_8a293c44",
   "title": "Analyze default policies, tun0-only matching, and rule lifecycle",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789509861,
@@ -4490,7 +4490,7 @@
  {
   "id": "t_1989d7d3",
   "title": "Synthesize firewall audit report with severity and exploit paths",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789509861,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_a65e0d3c",
   "title": "Trace kill-switch traffic-blocking & route-table code at PR #55 head",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510343,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_57948e59",
   "title": "Trace kill-switch watchdog, reconnect & shutdown-path code",
-  "status": "ready",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789510343,
@@ -4526,10 +4526,46 @@
  {
   "id": "t_1359b8f3",
   "title": "Assemble final kill-switch property/status table from evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 3,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789510343,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_eefc86fe",
+  "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "worker-pr-reviewer",
+  "created_at": 1789510713,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_d2a92d26",
+  "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "worker-inspector",
+  "created_at": 1789510713,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_4e2d5971",
+  "title": "Synthesize credential sources and lifecycle audit into final report",
+  "status": "todo",
+  "priority": 3,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789510713,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

@@ -86,7 +86,7 @@
  {
   "id": "t_1d74c7bb",
   "title": "Fix LoadWallet deadlock on second in-process call",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789135677,
@@ -98,7 +98,7 @@
  {
   "id": "t_2ddcb879",
   "title": "Verify fix under -race and close gonuts-tollgate issue #1",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789135677,

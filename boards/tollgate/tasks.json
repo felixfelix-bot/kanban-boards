@@ -1838,7 +1838,7 @@
  {
   "id": "t_93051901",
   "title": "Write standalone LR2021 auto-TX / TXContinuous probe in bench app",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337368,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_bfd5a059",
   "title": "Run probe on attached LR2021 hardware and capture evidence log",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789337368,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_8a4b6639",
   "title": "Synthesize gapless-TX strategy decision note and post to card",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789337368,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_daca5e00",
   "title": "Validate FLRC bitrate sweep on hardware and commit the fix",
-  "status": "todo",
+  "status": "archived",
   "priority": 2,
   "assignee": "sx1280-testing-master",
   "created_at": 1789343318,
@@ -1994,7 +1994,7 @@
  {
   "id": "t_4c565435",
   "title": "Assemble LR2021 command-layout markdown and post as kanban comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_da54460a",
   "title": "Synthesize LR2021 TX findings block and post as kanban comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789343388,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_e7bd3b99",
   "title": "Author docs/lr2021-research/SOURCES.md provenance and gap register",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789348145,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_c2ff5fa1",
   "title": "Verify SOURCES.md entries resolve and gaps are flagged",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348145,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_1fb86b44",
   "title": "Extract sweep evidence and write /tmp/p1b_ab_acceptance_report.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 2,
   "assignee": "esp-miner-master",
   "created_at": 1789375989,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_11fdeb71",
   "title": "Document CONFIG_FIFO_IRQ (0x011A) wire layout from headers",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376020,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_bf2209d9",
   "title": "Document GET_TX_FIFO_LEVEL (0x011D) request and response layout",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376020,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_b2adba28",
   "title": "Document CLEAR_TX_FIFO (0x011F) wire layout from headers",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376020,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_d9bbd11d",
   "title": "Cross-check and consolidate the three command layout tables",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376020,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_d3ac0ae1",
   "title": "Consolidate LR11x0 provenance and audit LR2021 claims",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376272,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_e00dbe43",
   "title": "Compile provenance.md with hashes and FAILED/NOT-FOUND log",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376347,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_95beac11",
   "title": "Merge provenance parts into docs/lr2021-research/fetch-manifest.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789377217,

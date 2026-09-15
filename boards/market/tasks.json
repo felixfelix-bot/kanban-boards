@@ -1598,7 +1598,7 @@
  {
   "id": "t_f581dfd5",
   "title": "Verify mint mock E2E with video, run all gates, open fork PR",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789129380,

@@ -278,7 +278,7 @@
  {
   "id": "t_f719b612",
   "title": "Verify board/firmware/serial preconditions and record LR2021 module ID",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789333877,
@@ -302,7 +302,7 @@
  {
   "id": "t_03259d94",
   "title": "Run freezer dwell sweep and ramp telemetry capture on LR2021",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789333877,
@@ -314,7 +314,7 @@
  {
   "id": "t_e77f6e2d",
   "title": "Assemble raw dwell+ramp CSV and session notes from bench run",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789333877,
@@ -326,7 +326,7 @@
  {
   "id": "t_32004e49",
   "title": "Verify dataset meets acceptance criteria; flag missing measurements",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789333877,
@@ -362,7 +362,7 @@
  {
   "id": "t_28a758af",
   "title": "Rewrite request-human-action skill with verify step and corrected route",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789334035,
@@ -374,7 +374,7 @@
  {
   "id": "t_c31bcdcc",
   "title": "Fact-check rewritten skill against cron, channel, block_kind evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-stackstr-qa",
   "created_at": 1789334035,
@@ -422,7 +422,7 @@
  {
   "id": "t_291d4094",
   "title": "Assemble final cal <k> <T0> deliverable with caveats",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789334066,
@@ -458,7 +458,7 @@
  {
   "id": "t_a0468a3b",
   "title": "Capture verbatim calshow, telemetry record, k=0 and FEI absence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789339677,
@@ -470,7 +470,7 @@
  {
   "id": "t_2b24e1c9",
   "title": "Assemble final precondition report comment on this task",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339677,
@@ -530,7 +530,7 @@
  {
   "id": "t_2afc9768",
   "title": "Dry-run full TX to coupling to reference to ppm chain at room temp",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789339695,
@@ -542,7 +542,7 @@
  {
   "id": "t_a6897b8a",
   "title": "Assemble precondition PASS/FAIL report and post to the gate task",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339695,
@@ -638,7 +638,7 @@
  {
   "id": "t_dae49b8a",
   "title": "Synthesize human-gate board verdict and shadow-card terminology",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789339850,
@@ -866,7 +866,7 @@
  {
   "id": "t_8eea558d",
   "title": "Consolidate raw evidence report on human-gate board outcome",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789344793,
@@ -998,7 +998,7 @@
  {
   "id": "t_43737334",
   "title": "Compile sourced chamber spec report and flag all UNKNOWN values",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350658,
@@ -1034,7 +1034,7 @@
  {
   "id": "t_845a1561",
   "title": "Compute stability metrics and offsets from chamber logs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789350713,
@@ -1046,7 +1046,7 @@
  {
   "id": "t_c0fb62ce",
   "title": "Publish PASS/FAIL or UNVERIFIED deliverable comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789350713,
@@ -1142,7 +1142,7 @@
  {
   "id": "t_3537021c",
   "title": "Specify measurement method per candidate and nominate primary reference",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789350825,
@@ -1238,7 +1238,7 @@
  {
   "id": "t_41d9c4ea",
   "title": "Compile human-gate board trace report and write recon/human-gate-board-task-graph.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_96b58dfc",
   "title": "Align channel clocks and resample ramps to a uniform grid",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351067,
@@ -1274,7 +1274,7 @@
  {
   "id": "t_34efc124",
   "title": "QC-flag dropouts, saturated die-temp, and ppm outliers per ramp",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351067,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_d05769b5",
   "title": "Emit final cleaned per-ramp series plus QC summary bundle",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351067,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_b2daf97c",
   "title": "Forensic git search \u2014 BUCKET A repos (human-gate / shadow-card)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_52f4dd90",
   "title": "Forensic git search \u2014 BUCKET B repos (human-gate / shadow-card)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_13a8e56c",
   "title": "Forensic git search \u2014 BUCKET C repos (human-gate / shadow-card)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_7cbf0b3b",
   "title": "Merge bucket reports into single raw evidence report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_f268797c",
   "title": "Consolidate gate/shadow-card evidence into one table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351146,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_4ecbb301",
   "title": "Reconcile and line-verify the four cited digest facts",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352944,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_e76821ab",
   "title": "Determine the exact allowed block_kind literal set and its define/consume sites",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_3fb62d29",
   "title": "Determine unknown-value behavior and assemble final evidence report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_585d79b7",
   "title": "Synthesize verified report on kanban_block reason format and enforcement",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789352979,
@@ -1574,7 +1574,7 @@
  {
   "id": "t_679f3f54",
   "title": "Verify path, tool, CLI, and env references in the skill",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789353032,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_99135e42",
   "title": "Verify cron, channel, webhook, route, and format references",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789353032,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_ec5da693",
   "title": "Compile numbered staleness audit report and confirm clean tree",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789353032,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_f359ae4d",
   "title": "Consolidate chamber-range gate verdict and STOP report if needed",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789356106,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_8d90533e",
   "title": "Enumerate interruption risks for the session window",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1778,7 +1778,7 @@
  {
   "id": "t_42141f77",
   "title": "Secure a named reservation covering the entire session window",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_681802a8",
   "title": "Assemble and verify the final deliverable report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357098,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_c46fb410",
   "title": "Trace carrier signal paths and publish final candidate table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789357637,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_07c44759",
   "title": "Merge audit into final evidence table, gap-closure list, and cross-check",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789357656,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_1f35f881",
   "title": "Adversarially verify the calibration audit for inferred or invented claims",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789357656,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_59e80a86",
   "title": "Audit raw chamber logs, publish PASS/FAIL/UNVERIFIED table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_c830ffd4",
   "title": "Compute mechanical fit of DUT + coax bundle vs each candidate port",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_5069b82a",
   "title": "Assess door-gasket sealing and thermal leakage with cable crossing",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_608571dd",
   "title": "Write consolidated fit verdict with dimension sources",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_d4fd14f9",
   "title": "Assess where and how condensation, frost, and ice will actually form",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_78a04b12",
   "title": "Specify mitigation hardware and deliver required-vs-optional risk report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360123,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_9914d509",
   "title": "Compute setpoint transition/soak time budget and ramp feasibility verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360165,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_4c98b31f",
   "title": "Merge shard hits, verify dir coverage, emit unified report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360344,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_38c8c52f",
   "title": "Grep sibling git worktrees and checkouts for gate/shadow artifacts",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360361,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_8e472077",
   "title": "Search local note stores (~/notes, ~/.hermes, /workspace, /srv) for terms",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360361,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_21c3fbf9",
   "title": "Consolidate recon findings: per-term counts, quotes, dates, inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360361,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_fb7705a3",
   "title": "Search repo-local skill files, docs and notes for gate/shadow-card terms",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_02f28573",
   "title": "Search PRs, branches and commit history for gate/shadow-card mentions (read-only)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
@@ -2246,7 +2246,7 @@
  {
   "id": "t_9e8a2349",
   "title": "Synthesize trace report: artifacts examined, hits, cap and nothing-found statement",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360430,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_f31e7590",
   "title": "Merge recon hits into dated classification table with zero-hit list",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361971,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_0f4e74f5",
   "title": "Consolidate block_kind findings into verbatim claim list",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362587,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_959fce4e",
   "title": "Assemble scanner-consumer evidence report and verify clean tree",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789362655,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_9e3bc8b5",
   "title": "Write recon digest to /tmp (no repo writes)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362675,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_7ad1c3bc",
   "title": "Record chamber rated range and published accuracy/uniformity specs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362704,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_4076b8a1",
   "title": "Command and verify +25, 0, -20, -40 C setpoints on chamber",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362704,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_ea4cba20",
   "title": "Compile per-setpoint PASS/FAIL/UNVERIFIED table and audit evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362704,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_e63d5bda",
   "title": "Verify +25/0/-20/-40 C selectability and publish sourced report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -2654,7 +2654,7 @@
  {
   "id": "t_7a18b4d0",
   "title": "Compute transition times per setpoint pair and ramp-count budget",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363430,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_f47a6663",
   "title": "Compile feedthrough + ramp feasibility verdict and anomaly list",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363430,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_522d72c3",
   "title": "Recon awesome-tollgate, bash-client, community-calls for gating",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366626,
@@ -2726,7 +2726,7 @@
  {
   "id": "t_43326d68",
   "title": "Merge tollgate gating recon reports into one dated inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366626,
@@ -2810,7 +2810,7 @@
  {
   "id": "t_b66ae1a2",
   "title": "Merge and normalize gate/shadow-card recon tables",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366684,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_76fd1692",
   "title": "Consolidate gate/shadow-card recon shards into one table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366751,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_fb441024",
   "title": "Recon shard A: awesome-community-networks + contextvm-anker-solix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366796,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_e5b0a5ed",
   "title": "Recon shard B: gitworkshop, opencode-setup, openrouter-automation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366796,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_20352054",
   "title": "Merge shard recon tables into final workspace gate-mention report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789366796,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_91f4019e",
   "title": "Convert fitted k/T0 into parser literal strings",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789369906,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_777eecf1",
   "title": "Quantify rounding penalty in ppm across swept temperature range",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789369906,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_3de4a8f8",
   "title": "Hand-simulate every candidate literal against the contract",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789370705,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_5dc86b24",
   "title": "Consolidate verification log and flag failing literals",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789370705,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_857a8fa7",
   "title": "Reconcile findings and post final cited custodian report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371231,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_b2dedb6e",
   "title": "Compile per-port RF connector table with cited sources",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372804,
@@ -3242,7 +3242,7 @@
  {
   "id": "t_38865d7c",
   "title": "Identify connector family, gender, and impedance for every listed port",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372861,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_859103e7",
   "title": "Audit calibration kit and existing accessories for connector compatibility",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372861,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_4d4554d5",
   "title": "Record max input power and frequency range for each instrument RF port",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372861,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_4c36908e",
   "title": "Compile the master verified connector table and resolve all UNVERIFIED rows",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372861,
@@ -3326,7 +3326,7 @@
  {
   "id": "t_b98d71c9",
   "title": "Merge BOM, hazard lines, and OPEN RISKS; audit acceptance criteria",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789372904,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_c64112fd",
   "title": "Synthesize ranked failure-mode list with temperature likelihood",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373116,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_373da154",
   "title": "Merge specs + measurements, check bend compliance, flag violations",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-layout",
   "created_at": 1789373958,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_950f040d",
   "title": "Trace digest entrypoint to send call; pin literal transport string in evidence report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_621a32d0",
   "title": "Consolidate verbatim evidence report on digest-job schedule",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_63a8416d",
   "title": "Physically test-fit module and RF cable through chosen feedthrough and latch door",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_a8a79df5",
   "title": "Publish feedthrough verdict, table, caveats and photos",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388153,
@@ -3674,7 +3674,7 @@
  {
   "id": "t_2619b8a8",
   "title": "Reconcile datasheet vs measured and publish headline ramp rate",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_9b54f3c3",
   "title": "Consolidate cross-branch gating-mechanism recon report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_d0e818b7",
   "title": "Consolidate the three recon reports into one merged verdict table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388328,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_3a709ce2",
   "title": "Merge rev recon tables into one classified report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388545,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_1ad7d47a",
   "title": "Merge market shard scans into one findings table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388644,
@@ -4166,7 +4166,7 @@
  {
   "id": "t_3d28c98d",
   "title": "Merge market shadow-card/gate recon into shard table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789388685,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_98330903",
   "title": "Scan fix/shipping-selectors-cart-redesign for gate/shadow-card hits",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789388716,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_d941ea79",
   "title": "Scan security/critical-remediation for gate/shadow-card hits",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-security-critical-remediation",
   "created_at": 1789388716,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_fed7ab02",
   "title": "Scan extra MARKET fix/security worktrees for gate hits",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388716,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_d46a066b",
   "title": "Consolidate shard tables into one mergeable gate-hit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789388716,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_9188b333",
   "title": "Add unit tests incl. byte-identical round-trip test",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388971,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_4a91038f",
   "title": "Audit contract conformance and list unspecified conversions",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789388971,
@@ -4454,7 +4454,7 @@
  {
   "id": "t_80b7a769",
   "title": "Synthesize cited custodian summary and save artifact to t_c1c07af9",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389061,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_cd1d8282",
   "title": "Follow up by DM/in-person on gaps left by the document and log searches",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389124,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_cf9112e0",
   "title": "Synthesize admin/approver lists with citations and save to t_c1c07af9",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389124,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_bf5fcbe8",
   "title": "Extract documented connector spec for every DUT RF port",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389304,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_19e107b8",
   "title": "Trace PCB-edge RF pigtail chain and termination connector",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389304,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_14b09a28",
   "title": "Compile RF connector citation table and audit UNVERIFIED ports",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389304,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_3adde832",
   "title": "Photograph each instrument's connector panel and record file paths",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389809,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_95ef29a8",
   "title": "Record exact port labels and direction/role for every RF port",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389809,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_9eefd775",
   "title": "Compile canonical instrument-to-port table and validate DUT path coverage",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389809,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_635bddd0",
   "title": "Consolidate interior and exterior segments into one final DUT-to-instrument BOM",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389826,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_82dfa5be",
   "title": "Verify final BOM against acceptance criteria and sibling citations",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389826,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_d3adfbd2",
   "title": "Merge sealing, termination, and tooling lines into final torqued-chain BOM",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389875,
@@ -4754,7 +4754,7 @@
  {
   "id": "t_ff2b708e",
   "title": "Merge both halves into the final SMA failure-mode catalogue document",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389928,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_40196e9a",
   "title": "QA the catalogue against acceptance criteria and fix gaps",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789389928,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_c109fea4",
   "title": "Compile final failure-mode catalogue from dielectric and termination analyses",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390247,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_6f10f579",
   "title": "Compile cable cold-temperature failure-mode catalogue",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390304,
@@ -4898,7 +4898,7 @@
  {
   "id": "t_2d836f6c",
   "title": "Compile feedthrough and electronics failure-mode catalogue",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390331,
@@ -4922,7 +4922,7 @@
  {
   "id": "t_a288ac99",
   "title": "Compile datasheet specs for each identified RF coax cable",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789390387,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_d7af9e0c",
   "title": "Assemble 'Module under test' block with evidence tags and ambiguities",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789390934,
@@ -5006,7 +5006,7 @@
  {
   "id": "t_cc07e6d5",
   "title": "Sweep every candidate booking system for reservations overlapping our session window",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789391104,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_f2a2bc58",
   "title": "Reconcile findings and post the authoritative-system findings comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789391104,
@@ -5054,7 +5054,7 @@
  {
   "id": "t_0002dcdd",
   "title": "Derive coldest warm-side surface temp and condensation thresholds",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392207,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_f4ab6f78",
   "title": "Assemble one-page condensation baseline with citations",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392207,
@@ -5126,7 +5126,7 @@
  {
   "id": "t_9e9ce304",
   "title": "Synthesize bench custodian evidence and post cited answer",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392498,
@@ -5162,7 +5162,7 @@
  {
   "id": "t_630ff7b0",
   "title": "Merge, dedupe, rank, cap to 25, and publish final pointer inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-curator",
   "created_at": 1789392516,
@@ -5186,7 +5186,7 @@
  {
   "id": "t_c45f7bc1",
   "title": "Enumerate code-level cal literal variants (>=8 byte forms)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394312,
@@ -5198,7 +5198,7 @@
  {
   "id": "t_c260596e",
   "title": "Extract plan intent and no-fit branch behavior for cal emission",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394312,
@@ -5210,7 +5210,7 @@
  {
   "id": "t_f11477d5",
   "title": "Assemble flat candidate cal-literal list with bytes, provenance, intent",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394312,
@@ -5246,7 +5246,7 @@
  {
   "id": "t_e2c313d5",
   "title": "Classify each RF port and assemble the per-port inspection report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394399,
@@ -5258,7 +5258,7 @@
  {
   "id": "t_5f2726fe",
   "title": "Audit inspection report against acceptance criteria, flag gaps",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394399,
@@ -5282,7 +5282,7 @@
  {
   "id": "t_8e266bd6",
   "title": "Measure per-cable jacket OD and connector body OD/length",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397399,
@@ -5294,7 +5294,7 @@
  {
   "id": "t_54865987",
   "title": "Measure bundle OD and routing slack/bend radius",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397399,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_a4ffc1fb",
   "title": "Assemble deliverable table and enforce units/source acceptance",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397399,
@@ -5330,7 +5330,7 @@
  {
   "id": "t_658e1786",
   "title": "Survey and measure all chamber DOOR feedthroughs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397467,
@@ -5342,7 +5342,7 @@
  {
   "id": "t_d5844370",
   "title": "Survey and measure all chamber WALL feedthroughs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397467,
@@ -5354,7 +5354,7 @@
  {
   "id": "t_08e72ddf",
   "title": "Consolidate feedthrough inventory, verify tagging, publish final table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397467,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_20e09a31",
   "title": "Record connector mating depth and in-chamber wrench/torque clearance",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397484,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_3f0626b5",
   "title": "Compute required swept envelope and write final acceptance report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789397484,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_67689e62",
   "title": "Extract and quote manufacturer-rated specs with citations",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789462909,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e7cd9048",
   "title": "Implement and run ambient sampling loop",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463052,
@@ -5462,7 +5462,7 @@
  {
   "id": "t_f1eae5db",
   "title": "Write gate verdict note",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463052,
@@ -5498,7 +5498,7 @@
  {
   "id": "t_9c1c77d8",
   "title": "Compile sourced penetration and gasket report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463220,
@@ -5522,7 +5522,7 @@
  {
   "id": "t_e0871d1a",
   "title": "Narrow and classify nutband gate hits",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789463886,
@@ -5534,7 +5534,7 @@
  {
   "id": "t_67d5a62f",
   "title": "Assemble nutband findings table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789463886,
@@ -5606,7 +5606,7 @@
  {
   "id": "t_dc48ae81",
   "title": "Merge recon findings into final table and post comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463995,
@@ -5654,7 +5654,7 @@
  {
   "id": "t_b97ec2a0",
   "title": "Synthesize cited ramp-rate comment or post UNVERIFIED-DATASHEET",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5690,7 +5690,7 @@
  {
   "id": "t_07f94af9",
   "title": "Produce tollgate-rs scan plan with rev split and doc roots",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464734,
@@ -5714,7 +5714,7 @@
  {
   "id": "t_3ecff396",
   "title": "Classify top-level directories and flag design-review-notes",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465036,
@@ -5726,7 +5726,7 @@
  {
   "id": "t_171eecbf",
   "title": "Compile final topology map report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465036,
@@ -5798,7 +5798,7 @@
  {
   "id": "t_50de966f",
   "title": "Narrow and classify each raw hit (keep/drop, verbatim quotes)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5810,7 +5810,7 @@
  {
   "id": "t_9987ef26",
   "title": "Merge findings into single table + coverage sections",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5858,7 +5858,7 @@
  {
   "id": "t_02d24593",
   "title": "Check for prior sibling doc-surface inventory and emit recon doc",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-curator",
   "created_at": 1789467406,
@@ -5894,7 +5894,7 @@
  {
   "id": "t_78558858",
   "title": "Assemble classified shadow-card/gate findings table + sections",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-cvm-worker-nip53-status",
   "created_at": 1789467470,
@@ -5942,7 +5942,7 @@
  {
   "id": "t_06f5cb0b",
   "title": "Narrow, classify, and assemble shadow-card/gate findings table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
@@ -5966,7 +5966,7 @@
  {
   "id": "t_adc5f856",
   "title": "Ambient baseline read and raw logging harness",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473450,
@@ -5978,7 +5978,7 @@
  {
   "id": "t_7265c8a7",
   "title": "Readback no-op and final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473450,
@@ -6002,7 +6002,7 @@
  {
   "id": "t_0959f0aa",
   "title": "Measure and photograph each RF feedthrough",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473463,
@@ -6014,7 +6014,7 @@
  {
   "id": "t_6f8565bc",
   "title": "Inventory and test reusable cabling at feedthroughs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473463,
@@ -6026,7 +6026,7 @@
  {
   "id": "t_34dfe151",
   "title": "Compile evidence-backed record of all RF feedthroughs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473463,
@@ -6062,7 +6062,7 @@
  {
   "id": "t_5fcf79be",
   "title": "Merge, dedup, analyze, and bucket git repos",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473967,
@@ -6086,7 +6086,7 @@
  {
   "id": "t_3a223e5f",
   "title": "Raw pattern sweep for shadow-card/gate hits on fips OTA rev",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789474322,
@@ -6098,7 +6098,7 @@
  {
   "id": "t_96f420aa",
   "title": "Include ADR/decision/rfc/design-review-notes files regardless of match",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789474322,
@@ -6110,7 +6110,7 @@
  {
   "id": "t_08d37c54",
   "title": "Narrow, classify, and emit the fips recon hit table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789474322,
@@ -6134,7 +6134,7 @@
  {
   "id": "t_c16421ac",
   "title": "Trace `cal` numeric conversion, destination types, stores, argument order",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789474500,
@@ -6146,7 +6146,7 @@
  {
   "id": "t_91fc2321",
   "title": "Build `cal` edge-case behavior matrix from source quotes",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789474500,
@@ -6158,7 +6158,7 @@
  {
   "id": "t_4ca8c011",
   "title": "Assemble and self-verify final `cal` parser contract note",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789474500,
@@ -6182,7 +6182,7 @@
  {
   "id": "t_634b1787",
   "title": "Compute chamber ramp rates from captured log",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789474791,
@@ -6218,7 +6218,7 @@
  {
   "id": "t_746fffed",
   "title": "Merge scan and inventory into final table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475044,
@@ -6254,7 +6254,7 @@
  {
   "id": "t_732ec38c",
   "title": "Combine recon outputs into shared input list",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789475060,
@@ -6278,7 +6278,7 @@
  {
   "id": "t_b3250484",
   "title": "Collect raw shadow-card/human-gate hits across all revs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789475341,
@@ -6290,7 +6290,7 @@
  {
   "id": "t_4befb3f3",
   "title": "Narrow, classify, and produce recon deliverable",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789475341,
@@ -6314,7 +6314,7 @@
  {
   "id": "t_1c22a1c2",
   "title": "Write and run verification tests for conversions",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475479,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_441e54a0",
   "title": "Implement firmware-exact parse/round/format primitive",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789475494,
@@ -6350,7 +6350,7 @@
  {
   "id": "t_a0baac2b",
   "title": "Write acceptance tests for firmware numeric parse/round",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475494,

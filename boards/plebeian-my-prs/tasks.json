@@ -1442,7 +1442,7 @@
  {
   "id": "t_57881900",
   "title": "Cross-family review (glm) of PR #1283 draft comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789334871,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_219eb26e",
   "title": "Publish approved review comment on PR #1283",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789334871,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_d3f48721",
   "title": "Post PR #1232 pushbacks and record findings 1-9 decision ledger",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789334929,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_5e25b73d",
   "title": "Post evidence-bearing replies to every PR #1232 inline comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789335146,
@@ -1538,7 +1538,7 @@
  {
   "id": "t_5cf18397",
   "title": "Reply to PR #1232 top-level reviews and post triage pushbacks",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789335146,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_ef0e5f9b",
   "title": "Audit PR #1232: verify every reviewer comment has a reply",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789335146,
@@ -1586,7 +1586,7 @@
  {
   "id": "t_a7bd2466",
   "title": "Publish the approved PR #1306 review comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335202,
@@ -1694,7 +1694,7 @@
  {
   "id": "t_bc6b5507",
   "title": "Publish approved review comment on PR #1290",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789335847,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_5df9d3d5",
   "title": "Publish or escalate PR #1252 review per Gate 2.5 verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789335892,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_12f11fcc",
   "title": "Assemble DRAFT-READY PR #1283 review comment and post to kanban",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341600,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_770c6303",
   "title": "Synthesize PR #1232 findings 1-3 verdicts and pushback text",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789341628,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_1ca213c1",
   "title": "Synthesize verdicts and post kanban_comment deliverable on t_13e33dca",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789341664,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_a4d03cc6",
   "title": "Canonicalize findings and draft ready-to-post review comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343033,
@@ -2246,7 +2246,7 @@
  {
   "id": "t_3a7309ad",
   "title": "Publish PR #1271 review comment after gate approval",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789345253,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_6d0e3d86",
   "title": "Confirm apt will not downgrade gh on dq05 and post raw evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-dq05",
   "created_at": 1789346492,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_49d3ef1d",
   "title": "Classify finding 8 and assemble the final markdown report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348503,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_9dc75303",
   "title": "Draft Felix-style review comment for #1306 and save as artifact",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351301,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_2464683d",
   "title": "Consolidate findings, apply dedup gate, emit final report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -2726,7 +2726,7 @@
  {
   "id": "t_ddfe6318",
   "title": "Synthesize + dedup infra/routing findings for PR #1271",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351447,
@@ -2810,7 +2810,7 @@
  {
   "id": "t_d4880231",
   "title": "Assemble citable SSR OG-metadata inventory + gap list for PR #1232",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_7083e2b8",
   "title": "Merge Q3+Q4 evidence and post consolidated kanban_comment on t_bb0db053",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357132,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_ce9f7ee5",
   "title": "Conclude whether a successful market PR run emits video evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b28ffec3",
   "title": "Synthesize PR #1232 check report and required-vs-advisory verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357390,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_139d9455",
   "title": "Assemble dossier: Top-level reviews + Triage sections",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_6b53fe32",
   "title": "Assemble PR #1232 dossier: inline comments + target evidence tables",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357713,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_3d22f8b9",
   "title": "Fix CI plumbing only and re-observe runs",
-  "status": "todo",
+  "status": "archived",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_c71dff09",
   "title": "Compile CI evidence dossier and verdicts for hand-off",
-  "status": "todo",
+  "status": "archived",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789363650,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_ad8555bb",
   "title": "Synthesize APPROVED/REJECTED verdict for #1306 draft comment",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_04491ffb",
   "title": "Map workflow triggers/jobs to og-meta-tags spec; answer PR reachability",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363786,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_7baf31d1",
   "title": "Inventory unit tests asserting SSR OG metadata",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363857,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_e0d91710",
   "title": "Inventory E2E/Playwright tests asserting SSR OG metadata",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363857,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_f413327f",
   "title": "Reconcile PR #1232 claims against head: prove what is MISSING",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363857,
@@ -3326,7 +3326,7 @@
  {
   "id": "t_4c86af72",
   "title": "Assemble final SSR OG-metadata test inventory report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363857,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_a6e1d275",
   "title": "Record commit SHAs for src/index.tsx and products.$productId.tsx",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_0da4dd34",
   "title": "Record commit SHAs for src/server/ogMeta.ts at PR #1232 head",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_1591911a",
   "title": "Record commit SHAs for e2e.yml and og-meta-tags.spec.ts",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_a667b807",
   "title": "Assemble artifacts/pr1232/target-shas.md and print it",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_fa0f86b8",
   "title": "Assemble PR #1232 proving-test evidence table (read-only)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789363946,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_83f70977",
   "title": "Review nostrconnect:// and bunker:// URI parsing in PR #1290 diff",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364167,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_5a4f4c95",
   "title": "Review NIP-46 request/response plumbing and NIP-04/44 negotiation",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364167,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_87ff95bd",
   "title": "Review NIP-46 permission prompts, correlation, timeouts, and leaks",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364167,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_1a23bc98",
   "title": "Synthesize protocol findings into findings-protocol.md with counts",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789364167,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_1231a5fd",
   "title": "Consolidate, dedup, and finalize PR #1283 signer-seam findings",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364770,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_a7c28074",
   "title": "Consolidate PR #1283 publish-lane audit and enforce dedup",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364789,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_cb0dc91b",
   "title": "Audit signer migration completeness: nostr-tools leftovers, dead/duplicate paths",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_e3f35654",
   "title": "Audit applesauce-signers dependency, lockfile and build-config consistency",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_669e1581",
   "title": "Audit tests, shared code and doc/comment drift after signer migration",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3674,7 +3674,7 @@
  {
   "id": "t_6b32ee1f",
   "title": "Consolidate lens-2 findings into canonical numbered report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-chore-applesauce-foundation",
   "created_at": 1789366385,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_691dc949",
   "title": "Merge relay findings, dedupe by root cause, emit findings-relay.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789366403,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_65cd584f",
   "title": "Adjudicate PR #1271 verdict and commit decision note",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_8049c853",
   "title": "Consolidate routing/DNS/TLS findings with dedup gate",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373532,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_02f9c35b",
   "title": "Assemble upload-artifact inventory report with firing set",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3998,7 +3998,7 @@
  {
   "id": "t_b7a0d80a",
   "title": "Find exact tests for trusted-origin / hostile-Host 503 regression (area a)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373874,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_79709300",
   "title": "Find ownership semantics test + four navigation scenario tests (area b)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373874,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_5476a9e9",
   "title": "Find exact currency-selector-in-matrix test (area c)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373874,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_b3781a3e",
   "title": "Find four OG-meta-tags tests: cap, coalescing, shell fallback, saturation (area d)",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,
@@ -4046,7 +4046,7 @@
  {
   "id": "t_b4c09adf",
   "title": "Assemble final markdown: head tree line, area table, CI table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373874,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_a4a407e4",
   "title": "Consolidate per-job masking verdicts for market PR#4 workflows",
-  "status": "todo",
+  "status": "archived",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789393662,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_a364ea27",
   "title": "Extract unposted pushbacks from PR #1232 triage artifact",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394146,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_73bc74ce",
   "title": "Extract tension findings from PR #1232 triage artifact",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394146,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_695e5df7",
   "title": "Assemble PR #1232 Triage section with disjointness rule",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394146,
@@ -4166,7 +4166,7 @@
  {
   "id": "t_b621c233",
   "title": "Analyze SHA drift and NIP-46 files, write fetch-notes.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789394695,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_a108149d",
   "title": "Audit lazy spin-up control flow: exit codes, timeouts, locks, readiness",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789397622,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_46f4f4ec",
   "title": "Audit spin-up failure triggers, concurrency races, and residual state",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789397622,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_3dff4945",
   "title": "Merge, dedup-gate, and finalize PR #1271 lazy-start findings report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789397622,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_41c9dd98",
   "title": "Enumerate all CI checks on PR #1232",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
@@ -4262,7 +4262,7 @@
  {
   "id": "t_56eca870",
   "title": "Compile read-only verification report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_ea176297",
   "title": "Audit each draft finding at head SHA and post evidence table",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789398416,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_ac327b05",
   "title": "Enumerate jobs and trace reusable/composite workflow refs",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1987739c",
   "title": "Assemble final verbatim workflow inventory report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_8a27b4e7",
   "title": "Map test runners and npm scripts at PR #1232 head",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_38ad0014",
   "title": "Enumerate all test files at PR #1232 head, split unit vs E2E",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_6a87e687",
   "title": "Locate SSR OG-metadata source files at PR #1232 head",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_34e40c1d",
   "title": "Assemble head-revision test-infrastructure audit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_8c931274",
   "title": "Trigger CI for the verified SHA and enumerate every resulting run id",
-  "status": "todo",
+  "status": "archived",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4454,7 +4454,7 @@
  {
   "id": "t_b70b8d99",
   "title": "Watch every run to completion, capture per-run/job detail, assemble CI report",
-  "status": "todo",
+  "status": "archived",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4490,7 +4490,7 @@
  {
   "id": "t_2931c861",
   "title": "Render Finding 4 verdict for e2e.yml:148 with required sentence",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_a5b44424",
   "title": "Draft rebuttal comment body for PR 1232 if verdict is wrong",
-  "status": "todo",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,

@@ -1310,7 +1310,7 @@
  {
   "id": "t_036f708e",
   "title": "Verify legacy boundary mode naming and legacy tests unchanged",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789339366,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_ffe86bab",
   "title": "Final verification and single atomic commit for GO-mode session_id",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789339366,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_f623b10c",
   "title": "Add RED tests + fixtures pinning frozen session-dir naming contract in range_check",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789339377,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_61e744d3",
   "title": "Implement GO-mode s<sid>-go<epoch> parsing in range_check session join",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789339377,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_4ba802a8",
   "title": "Verify range_check GO-mode join and own the single atomic commit",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789339377,
@@ -1382,7 +1382,7 @@
  {
   "id": "t_ec90ee12",
   "title": "Fix HOST-BUG failures with Gate1 RED-then-GREEN TDD",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344158,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_fc0ba282",
   "title": "Convert drift/stale tests to documented skips + update docs in same commit",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789344158,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_4e78017f",
   "title": "Run Gate2/Gate4 evidence and publish final disposition table",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789344158,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_fefe1dc4",
   "title": "Verify GO-mode session_id and dir naming; collect Gate1 evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789344272,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_fdf6c33c",
   "title": "Implement repeat-until-GO publish loop with idempotent seq",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344343,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_a9d2b26a",
   "title": "Verify green suite, audit no plaintext, commit locally",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789344343,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_0d42561b",
   "title": "Wire TX listener end-to-end, run suite, commit locally",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344375,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_9768cb0b",
   "title": "Implement verdict payload builder and config-end aggregation",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344432,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_0abd46b8",
   "title": "Wire publisher into range_check.py, verify invariant, commit",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789344432,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_aa0fbeb5",
   "title": "Consolidate bucket tables into final 23-row disposition table",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789348639,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_f3b7cfd7",
   "title": "Add pytest harness fixtures and test_constants.py",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789350041,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_aacb81c1",
   "title": "Run full suite, capture RED evidence, confirm no production changes",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789355764,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_ff373533",
   "title": "Bucket e80 failures into A (T0-anchor/late-join) or B (other)",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_35763ea5",
   "title": "Write test_e80_range_split_inventory.md and verify clean git status",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_2f4b6d41",
   "title": "Prove gift-wrap, failover, no-leak tests red-then-green; commit locally",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361711,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_cefe3a51",
   "title": "Write boundary_mode_regression.rs guard with pinned literal",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_6c6cd4f1",
   "title": "Verify guard passes and no existing test file changed",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789365851,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_41976439",
   "title": "Write pytest suite for gift-wrap builder and plaintext-leak guard",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366022,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_86193fcd",
   "title": "Adversarially audit gift-wrap emission for plaintext leaks and kind bypass",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789366022,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_c7af7d3b",
   "title": "Unit-test env key loading, missing-var, equal-pubkey and log-redaction cases",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-stackstr-qa",
   "created_at": 1789366099,
@@ -2246,7 +2246,7 @@
  {
   "id": "t_2a26bcba",
   "title": "Audit e80-stm32-bench tools for key literals, disk keys and log leakage",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789366099,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_bf425eec",
   "title": "Assemble red-then-green verification report with risk list",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789380049,
@@ -2462,7 +2462,7 @@
  {
   "id": "t_3db010ed",
   "title": "Assemble single handoff summary for the fresh test author",
-  "status": "todo",
+  "status": "archived",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_f23742e4",
   "title": "Verify acceptance: greps, smoke tests, secret hygiene",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789387619,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_80ce5857",
   "title": "Freeze gift-wrap created_at, stabilise event id, add dedupe cache",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789396722,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_face26d9",
   "title": "Static audit: no randomness sources, spec-conformant docs in gift-wrap",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789396722,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_4d753c71",
   "title": "Dynamic verification: repeated gift-wrap publishes return identical event",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789396722,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_3b008164",
   "title": "Compile verification report and follow-ups",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2654,7 +2654,7 @@
  {
   "id": "t_e04d2eea",
   "title": "Capture RAW pre-implementation RED output for the pinned command",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_fd9c03ef",
   "title": "Capture RAW GREEN pytest output on current HEAD for the pinned command",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_4dd88344",
   "title": "Assemble red-then-green verification report and confirm acceptance criteria",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_41ae8644",
   "title": "Spec canonical byte-level session serialization and domain label",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2774,7 +2774,7 @@
  {
   "id": "t_ef98bcf3",
   "title": "Consolidate audit into GIFTWRAP_DETERMINISM.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2810,7 +2810,7 @@
  {
   "id": "t_236ff721",
   "title": "Consolidate Step-3 verification report and PASS/FAIL verdicts",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_9f6391f0",
   "title": "Prove cross-invocation publish determinism across process boundary",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789436783,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_72e43b52",
   "title": "Assemble final idempotency verification report (items 1-6)",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789436783,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_2508cecc",
   "title": "Independently verify keymaterial.py: no leaks, no import-time reads, one accessor",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789440487,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_24b3e3fa",
   "title": "Static audit: entropy-free path, docs, signature unchanged",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440542,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_12177c68",
   "title": "Behavioral determinism check for ephemeral key derivation",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440542,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_9a473e69",
   "title": "Close coverage gaps with test-only harness and re-pin selector",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440754,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_4f675839",
   "title": "Assemble final verification report with nodeid citations",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440754,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a6f69844",
   "title": "Assemble GIFTWRAP_AUDIT_CHOKEPOINT.md with hit table and choke-point",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440818,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_e41c5104",
   "title": "Classify hits on the gift-wrap derivation path and write the audit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451828,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_3961160a",
   "title": "Independently verify the randomness audit report for omissions",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_d0999e2c",
   "title": "Adjudicate routing of each site and issue PASS/FAIL verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -3242,7 +3242,7 @@
  {
   "id": "t_1a397e8a",
   "title": "Enumerate distinct signing/construction paths and kind determiners",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789459644,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_6900895f",
   "title": "Implement session_id minting function",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_f8b4aecc",
   "title": "Implement ARMED payload schema builder",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,
@@ -3326,7 +3326,7 @@
  {
   "id": "t_5aa0acea",
   "title": "Implement key handling and assertion logic",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_ae862076",
   "title": "Integrate nostr transport layer with lazy imports",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_d369da46",
   "title": "Run full pytest suite and produce GREEN report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_05190a69",
   "title": "Implement fake relay transport double with ACCEPT/TIMEOUT/HARD_ERROR",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789472019,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_a6803a69",
   "title": "Verify fake relay transport and produce acceptance report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789472019,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_ea63d2b0",
   "title": "Enumerate other constructors and issue verdict",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_c388f9e8",
   "title": "Synthesize CVM wrap docs audit report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789472154,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_3f2e798d",
   "title": "Compile recon note with GO/STOP decision",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ccb71bf6",
   "title": "Synthesize final NIP-59 gift-wrap determinism brief",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472453,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_66e89b15",
   "title": "Synthesize test entry point report for e80-stm32-bench/tools",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_61fac83a",
   "title": "Assemble final test prerequisite report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472650,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_65e28614",
   "title": "Synthesize event-construction inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_5e85f6be",
   "title": "Grep shared crates for signing paths",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789473042,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_3916c0be",
   "title": "Classify hits and finalize GIFTWRAP_SIGNING_PATHS.md",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789473042,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_22bf587f",
   "title": "Replace all literal relay lists with FAILOVER_RELAYS reference",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789477920,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_25ea7602",
   "title": "Write consolidated relay-failover fake spec for the next task",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789478512,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_0c5dec80",
   "title": "Issue PASS/FAIL verdict for claim 2 with evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478578,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_04994c90",
   "title": "Issue claim 3 verdict (PASS/FAIL) with quoted evidence",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478588,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_af2b026b",
   "title": "Write NIP-59 choke-point confirmation report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,
@@ -4166,7 +4166,7 @@
  {
   "id": "t_2d10c9aa",
   "title": "Reconcile pinned versions vs source API usage and emit final table",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478821,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_c32ff0b7",
   "title": "Reconcile RNG library catalog and flag version/API mismatches",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_b44c1f46",
   "title": "Cross-reference and produce final RNG catalog",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478970,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1a031dae",
   "title": "Consolidate task runner inventory report",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479118,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_e8318222",
   "title": "Consolidate CI test step inventory",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479125,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_423ebccd",
   "title": "Synthesize env var inventory and classification table",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_2e1578ec",
   "title": "Merge hardware, serial, and tool requirement tables",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479280,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_dd410a36",
   "title": "Merge toolchain constraint reports into final markdown",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479288,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_da2c81bd",
   "title": "Write hermetic fixtures and helpers for gift-wrap tests",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479567,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_b633da84",
   "title": "Write idempotence and sensitivity tests for gift-wrap",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479567,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_ef6074dd",
   "title": "Write leakage and entropy tests for gift-wrap",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479567,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_ca7032c5",
   "title": "Write created_at derivation test for gift-wrap",
-  "status": "todo",
+  "status": "archived",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479567,
