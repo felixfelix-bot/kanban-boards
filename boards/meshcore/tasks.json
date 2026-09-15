@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_47b10787",
   "title": "Merge both rev scan tables into the final esp-miner gate recon report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,

@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims against wizard bundle",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section of defects-d1-d5.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Pinpoint net4sats LAN-move IPv4 token in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Audit derive_device_secret.py: emitted fields, write targets, IPv4/LAN exposure",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_1e2e7d7d",
   "title": "Compile secret-handling findings list with doc rewrite snippets",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_0df5b54e",
   "title": "Grep conwrt tree at ec5c60d9 for DNS surfaces",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_261436ff",
   "title": "Audit PIA OpenVPN module DNS lifecycle at ec5c60d9",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_c0d40c2c",
   "title": "Inventory all wizard-bundle references",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_897ef95c",
   "title": "Extract verbatim D3 defect definition from evidence file",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_5a20067f",
   "title": "Extract verbatim D4 defect definition from evidence file",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_a8f42f8d",
   "title": "Extract verbatim D5 defect definition from evidence file",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,

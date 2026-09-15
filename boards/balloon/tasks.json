@@ -3386,7 +3386,7 @@
  {
   "id": "t_e240f2e4",
   "title": "Consolidate independent build verification report (PASS/FAIL)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_91b37ab4",
   "title": "Reconcile findings, adjudicate conflicts, deliver authoritative-spec verdict",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400792,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_62a70b76",
   "title": "Merge audit tables into final app_task.cpp report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432629,
@@ -5318,7 +5318,7 @@
  {
   "id": "t_17220695",
   "title": "Classify price_sats consumers and write audit report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5342,7 +5342,7 @@
  {
   "id": "t_8f34a07f",
   "title": "Analyze msg_type consumers in C/C++ files",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5354,7 +5354,7 @@
  {
   "id": "t_cad059ae",
   "title": "Analyze msg_type consumers in non-C/C++ and vendor dirs",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_7fd467f5",
   "title": "Merge extracted git commands into final COMMANDS section",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_8a94325b",
   "title": "Synthesize PAY/ACK wire-format findings into final bucket A report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -5558,7 +5558,7 @@
  {
   "id": "t_7e763f89",
   "title": "Aggregate bucket-B PAY/ACK wire-format findings",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478239,
@@ -6350,7 +6350,7 @@
  {
   "id": "t_fc9e6af7",
   "title": "Deep-read balloon PAY/ACK candidates (batch A: indices 0,3,6,...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496025,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_ad0c7f06",
   "title": "Deep-read balloon PAY/ACK candidates (batch B: indices 1,4,7,...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789496025,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_02b1e439",
   "title": "Deep-read balloon PAY/ACK candidates (batch C: indices 2,5,8,...)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789496025,
@@ -6398,7 +6398,7 @@
  {
   "id": "t_2fe8c389",
   "title": "Extract ## Mock protocol section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496309,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_517bdd43",
   "title": "Enumerate all CONFIG_* user files in tracker/firmware",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_2ff835fc",
   "title": "Enumerate files with a direct ACTIVE sdkconfig.h include",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_f5c74797",
   "title": "Diff the two file lists to produce the gap set",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_23e78080",
   "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
