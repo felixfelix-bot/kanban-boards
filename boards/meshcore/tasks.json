@@ -3818,7 +3818,7 @@
  {
   "id": "t_65540377",
   "title": "Recon gating/approval mentions in awesome-tollgate (all branches)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789388309,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_bc299463",
   "title": "Recon gating/approval mentions in tollgate-bash-client (all branches)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789388309,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_132bbc3b",
   "title": "Recon gating/approval mentions in tollgate-community-calls (all branches)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789388309,

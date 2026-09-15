@@ -2629,7 +2629,7 @@
  },
  {
   "id": "t_25ee4a10",
-  "title": "Verify raw_symbol_grep.md completeness against six-symbol spec",
+  "title": "Adversarially verify raw_symbol_grep.md against six-symbol spec",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -3217,7 +3217,7 @@
  },
  {
   "id": "t_07f88d67",
-  "title": "Verify each citation against actual files",
+  "title": "Verify each citation against actual files and emit PASS/FAIL report",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -5257,7 +5257,7 @@
  },
  {
   "id": "t_1df693c2",
-  "title": "Collect docs/definitions inventory hits",
+  "title": "Collect docs/definitions inventory hits (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -5281,7 +5281,7 @@
  },
  {
   "id": "t_3a4bf1b2",
-  "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY-ACK wire format",
+  "title": "Inventory PAY/ACK wire-format candidates in tollgate-module-basic-go HEAD worktree",
   "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
@@ -5330,7 +5330,7 @@
  {
   "id": "t_97238119",
   "title": "Run msg_type greps and produce hit list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_a052210f",
   "title": "Extract merged/other git commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789485224,
