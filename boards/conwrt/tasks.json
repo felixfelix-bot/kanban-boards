@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Pinpoint net4sats LAN-move IPv4 token in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Audit derive_device_secret.py: emitted fields, write targets, IPv4/LAN exposure",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defective items in conwrt issue32 runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_596aba53",
   "title": "Verify D-ID set and unnumbered flags against raw runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
