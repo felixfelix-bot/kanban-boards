@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_fe1a85e9",
   "title": "Sweep non-ESP32 tollgate repos for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,

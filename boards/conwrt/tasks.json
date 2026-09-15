@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on Amperstrand/conwrt PR #55",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
@@ -961,7 +961,7 @@
  },
  {
   "id": "t_2f7f8778",
-  "title": "Power on CF-WR632AX and verify SSH + OpenWrt version",
+  "title": "Power on CF-WR632AX, verify SSH and capture OpenWrt version",
   "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
