@@ -2174,7 +2174,7 @@
  {
   "id": "t_e785bf7d",
   "title": "Recon CONFIG_ENABLE_TOLLGATE and guard conventions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_8fa90f4e",
   "title": "Read-only audit: rank and select CONFIG_ENABLE_* guard-site candidates",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_2832173b",
   "title": "Audit firmware CONFIG_ENABLE_* build injection (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_f58160fa",
   "title": "Synthesize CONFIG_ENABLE_* proof chain or undetermined verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_587c7458",
   "title": "Inventory sdkconfig.h references in tracker firmware (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432333,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_dbd7c380",
   "title": "Inventory CONFIG_* users and sample usage lines in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789432333,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_ad0d6541",
   "title": "Record git refs and tollgate call-site inventory in app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,

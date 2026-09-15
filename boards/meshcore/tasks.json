@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
@@ -6038,7 +6038,7 @@
  {
   "id": "t_d49f3c6b",
   "title": "Enumerate .git dirs under root filesystem",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473967,
@@ -6050,7 +6050,7 @@
  {
   "id": "t_60a9bffa",
   "title": "Enumerate .git dirs under workspace roots",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473967,
@@ -6074,7 +6074,7 @@
  {
   "id": "t_0417926c",
   "title": "Resolve fips OTA rev and enumerate doc roots (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789474322,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_a9be015c",
   "title": "Pin firmware commit and trace `cal` dispatch + input ingestion path",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789474500,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_9a9aaf86",
   "title": "Capture and characterize chamber temperature history log",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789474791,
@@ -6194,7 +6194,7 @@
  {
   "id": "t_922d897c",
   "title": "Scan esp32-mesh master for gate/shadow-card hits",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789475044,
@@ -6206,7 +6206,7 @@
  {
   "id": "t_bfc4f945",
   "title": "Inventory sibling esp32-* directories",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475044,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_e3ee6744",
   "title": "Enumerate MARKET worktrees and flag fix/security branches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789475060,
@@ -6242,7 +6242,7 @@
  {
   "id": "t_2c99186e",
   "title": "Inventory doc surfaces in market repo",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789475060,
@@ -6266,7 +6266,7 @@
  {
   "id": "t_bd85332e",
   "title": "Inventory configurationwizzard worktrees and doc surfaces",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789475341,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_3bd737f9",
   "title": "Implement conversions module from contract",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475479,
@@ -6326,7 +6326,7 @@
  {
   "id": "t_40a13e6c",
   "title": "Extract firmware numeric parse/round spec from contract",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475494,
