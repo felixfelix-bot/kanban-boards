@@ -1046,7 +1046,7 @@
  {
   "id": "t_6c0fc120",
   "title": "Verify defects-d1-d5.md file structure",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit tollgate LAN-move verdict against docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back provenance verdict vs tollgate-lan-move note",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,

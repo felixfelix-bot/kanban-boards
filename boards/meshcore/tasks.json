@@ -3482,7 +3482,7 @@
  {
   "id": "t_88a32933",
   "title": "Forensic dump: Hermes scheduler config dirs and cron registry",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_4a323fdc",
   "title": "Merge topology and doc-surface evidence into per-repo inventory",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_2c7b7d95",
   "title": "Read-only inventory of git worktrees and sibling checkout dirs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Read-only inventory of local note stores and mounts (single pass)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,

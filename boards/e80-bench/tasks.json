@@ -2834,7 +2834,7 @@
  {
   "id": "t_eafd084b",
   "title": "Add tools/test_nostr_giftwrap.py proving kind-1059 passes and 30315 raises",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789433197,
@@ -2858,7 +2858,7 @@
  {
   "id": "t_3501e93b",
   "title": "Prove in-process publish determinism: same input, same event id",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789436783,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_85604c34",
   "title": "Analyze determinism source and privacy trade-off",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789436783,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_b52da1ed",
   "title": "Implement deterministic NIP-59 ephemeral key via HKDF",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440542,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_28a6e4c0",
   "title": "Sweep CVM docs for privacy trade-off acknowledgements",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478578,
@@ -4046,7 +4046,7 @@
  {
   "id": "t_044d4276",
   "title": "Verify ephemeral key stability and wrap correlatability in code",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478578,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_9bffb5b5",
   "title": "Inventory & read CVM wrap docs for created_at strategy rationale",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478588,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_2fabb50f",
   "title": "Cross-check wrap event created_at implementation in market code",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789478588,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_96c6c0de",
   "title": "Trace NIP-59 gift-wrap construction in tools tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,

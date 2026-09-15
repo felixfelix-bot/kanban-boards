@@ -6290,26 +6290,27 @@
  },
  "conwrt:t_4149002c": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789481570.0399332,
+  "status": "failed",
+  "updated": 1789481638.8778474,
   "ts": 1789480440.9285324,
   "repo": "conwrt",
   "run_id": "cobrador-1789481570"
  },
  "conwrt:t_a1c8c7ee": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789481571.8819492,
+  "status": "failed",
+  "updated": 1789481640.5905805,
   "ts": 1789480440.945475,
   "repo": "conwrt",
   "run_id": "cobrador-1789481571"
  },
  "conwrt:t_2d78fd12": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789480693.8325548,
+  "status": "failed",
+  "updated": 1789481833.6120276,
   "ts": 1789480440.9631793,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789481765"
  },
  "balloon:t_0b6c3f08": {
   "node": "dq05",
@@ -6403,6 +6404,14 @@
   "updated": 1789373810.033035,
   "ts": 1789373810.033035,
   "repo": "conwrt"
+ },
+ "conwrt:t_6c0fc120": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1789481835.1925375,
+  "ts": 1789481767.3768222,
+  "repo": "conwrt",
+  "run_id": "cobrador-1789481767"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
