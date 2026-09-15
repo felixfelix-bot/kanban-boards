@@ -1621,8 +1621,8 @@
  },
  {
   "id": "t_13799503",
-  "title": "Document relay_types.h enum constants and relay packet framing",
-  "status": "triage",
+  "title": "Document relay_types.h enums and relay packet framing",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342406,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_0ff4d6ed",
   "title": "Write docs/recon/tollgate_proto_framing_config.md synthesis",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call-site citations against live main/app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/transmit tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2665,7 +2665,7 @@
  },
  {
   "id": "t_19adaa00",
-  "title": "Reconcile PAY/ACK classifications into one authoritative verdict",
+  "title": "Reconcile PAY/ACK sweep reports into one authoritative verdict",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
@@ -2677,7 +2677,7 @@
  },
  {
   "id": "t_4b2ba0b5",
-  "title": "Compile six-symbol grep evidence table from parent sweep artifacts",
+  "title": "Compile six-symbol tollgate grep evidence table (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
@@ -2785,7 +2785,7 @@
  },
  {
   "id": "t_474af18c",
-  "title": "Read-only audit of TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
+  "title": "Read-only audit: TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Sweep tollgate-rs repos for PAY/ACK wire format definitions (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_cb852ca9",
   "title": "Census CONFIG_* guard idioms in balloon-fresh firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Read-only inventory of sibling tollgate repos: branch + HEAD sha",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Read-only audit: pin balloon-firmware HEAD and inventory CONFIG_ENABLE_*",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Read-only: inspect generated sdkconfig and list CONFIG_ENABLE_* entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory decode/RX/ack tollgate call sites in main/app_task.cpp (read-only, revision-pinned)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_776ae2a2",
   "title": "Verify declaration sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432333,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_468339f2",
   "title": "Infer tollgate_proto_decode signature with cited call sites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432394,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_04c5f044",
   "title": "List tollgate symbols undefined in app_task.cpp via read-only search",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe versioned docs/spec dirs at HEAD for contradictions",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Probe release and annotated tag snapshots for contradictions",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_7cc3931a",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire defs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789432548,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_fd17bd1c",
   "title": "Survey PAY-ACK code in fix/upstream-autopay-gate-open-retry worktree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789432559,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_1325d61b",
   "title": "Survey PAY/ACK wire format in tollgate-module-basic-go feat/portal-packaging",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789432559,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Locate include line and inventory all tollgate_proto_encode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Inventory all tollgate_proto_decode call sites in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit every TG_MSG_* constant use in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_a4ecb075",
   "title": "Audit all tollgate_msg_hdr_t field accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_a6217304",
   "title": "Audit tollgate_ack_payload_t field accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4754,7 +4754,7 @@
  {
   "id": "t_7a3c1ff6",
   "title": "Enumerate and categorize seq hits in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_a206c90b",
   "title": "Enumerate tollgate_/TG_PROTO_ consumer sites in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_91b427c5",
   "title": "Produce PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_a8770ebe",
   "title": "Enumerate deduped CONFIG_ENABLE_* symbols and declaration sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789440391,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_d33e1501",
   "title": "Map real #if/#ifdef guard sites for CONFIG_ENABLE_* symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789440391,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_126b0941",
   "title": "Enumerate and count CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4922,7 +4922,7 @@
  {
   "id": "t_4c471c69",
   "title": "Sweep all CONFIG_ENABLE_* usage sites in firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -4934,7 +4934,7 @@
  {
   "id": "t_99b727c7",
   "title": "Negative check: CONFIG_ENABLE_ hits outside source/CMake/Kconfig",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789448085,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_adbdc101",
   "title": "Extract all staleness/recency claims verbatim from the verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_6ff4a9f6",
   "title": "Merge command and claim inventories with cross-links and coverage notes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,

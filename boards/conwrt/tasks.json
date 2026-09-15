@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
@@ -734,7 +734,7 @@
  {
   "id": "t_b7afb5d4",
   "title": "Reconcile net4sats findings and emit verdict report",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_4d9187ea",
   "title": "Extract D-ID set from runbook with inventory cross-check",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_76f487d5",
   "title": "Reconcile D-ID sets and build questionable-row table from runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477825,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_2d78fd12",
   "title": "Review secret handling in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_4149002c",
   "title": "Review kill-switch and leak behavior in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_e5114051",
   "title": "Assess tested vs proposed honesty in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,

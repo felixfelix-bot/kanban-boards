@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture +25 C die-temp soak evidence via calshow",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture 0 C die-temp soak evidence (>=15 min in 0.5 C band)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Run -40 C die-temp soak and capture calshow evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Chamber pre-flight: verify comms + own-sensor telemetry, record ambient baseline, start raw logging",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789359944,

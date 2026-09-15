@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Assemble docs/_recon/range-check.md with citations + real example",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Add failover relay publisher with per-relay timeout + aggregate",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness on the kind-1059 gift-wrap derivation path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run two-process determinism smoke test for giftwrap event-id generation and report PASS/FAIL",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Static-verify bare relay.contextvm.org absent from firmware/e80-stm32-bench/tools/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Verify runtime relay host set equals five allowed hosts",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_a05262ce",
   "title": "Implement tools/keymaterial.py env-only key accessor",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440487,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_5f22dbd5",
   "title": "Inventory proof for subset-accept partial-quorum success",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440754,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_70477886",
   "title": "Inventory proof for dead-relay timeout and hard-error resilience",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440754,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_f28dff5f",
   "title": "Audit tools tree for duplicate wrap paths or plaintext fallbacks",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_4a9a36c7",
   "title": "Inventory RNG crate versions from Cargo.toml and Cargo.lock",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478821,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_da6a66df",
   "title": "Sweep source for RNG import paths and API call sites",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789478821,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_e7d09900",
   "title": "Inventory Python dependency manifests and lockfiles in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_848c8968",
   "title": "Sweep e80-stm32-bench/tools source for randomness API usage",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_740a6a94",
   "title": "Read package.json and lockfiles in tools/",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478970,
