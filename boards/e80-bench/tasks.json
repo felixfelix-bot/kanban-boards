@@ -3494,7 +3494,7 @@
  {
   "id": "t_4c814646",
   "title": "Parse pytest log and report failure count and node ids",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
