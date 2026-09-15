@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_0b113188",
   "title": "Raw gating-term sweep: second half of tollgate-rs revs (read-only, report in completion message)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_371b7a7a",
   "title": "Union and date tollgate-rs gating findings into one per-rev report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_196899e3",
   "title": "Merge Slack and Matrix custodian evidence into cited results",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6470,7 +6470,7 @@
  {
   "id": "t_956f76f6",
   "title": "Compile final findings list for controller/booking admins",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6494,7 +6494,7 @@
  {
   "id": "t_78a79632",
   "title": "Extract booking metadata for thermal chamber entries",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_7bb5e2ee",
   "title": "Extract audit logs and edit history for bookings",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6554,7 +6554,7 @@
  {
   "id": "t_368f7537",
   "title": "Consolidate findings into categorized actor report",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
