@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit synthesis report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_99d44349",
   "title": "Record exact occurrences of six tollgate PAY/ACK symbols in docs/recon/raw_symbol_grep.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_09201955",
   "title": "Audit tollgate_payment_proto.h: verbatim symbol/signature table (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_5f83c272",
   "title": "Audit tollgate_payment_proto.h consumers for convention drift (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789407847,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789408198,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789408661,

@@ -2258,7 +2258,7 @@
  {
   "id": "t_9622baef",
   "title": "Capture verbatim RED pytest baseline for relay-failover tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_7c9268b7",
   "title": "Add FAILOVER_RELAYS single-source constant in e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_69c76243",
   "title": "Add fake relay transport double (ACCEPT/TIMEOUT/HARD_ERROR) for e80-stm32-bench relay tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
