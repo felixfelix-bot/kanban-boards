@@ -434,7 +434,7 @@
  {
   "id": "t_111fb200",
   "title": "Establish conwrt repo root, branch, and canonical D3-D5 spec context file",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789361152,
