@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Read-only audit of TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
