@@ -7027,6 +7027,90 @@
   "updated": 1789493836.539292,
   "ts": 1789493836.539292
  },
+ "meshcore:t_368f7537": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.799407,
+  "ts": 1789494857.799407
+ },
+ "meshcore:t_7bb5e2ee": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8097992,
+  "ts": 1789494857.8097992
+ },
+ "meshcore:t_78a79632": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.819311,
+  "ts": 1789494857.819311
+ },
+ "meshcore:t_956f76f6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8290162,
+  "ts": 1789494857.8290162
+ },
+ "meshcore:t_196899e3": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8389184,
+  "ts": 1789494857.8389184
+ },
+ "meshcore:t_256eab83": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8486407,
+  "ts": 1789494857.8486407
+ },
+ "meshcore:t_6d7feb6d": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.858194,
+  "ts": 1789494857.858194
+ },
+ "meshcore:t_b6144fc6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8677332,
+  "ts": 1789494857.8677332
+ },
+ "meshcore:t_31a29126": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.8769534,
+  "ts": 1789494857.8769534
+ },
+ "meshcore:t_7c8cde00": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.886348,
+  "ts": 1789494857.886348
+ },
+ "e80-bench:t_bf3e2f32": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.896368,
+  "ts": 1789494857.896368
+ },
+ "e80-bench:t_bad4c056": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.9055212,
+  "ts": 1789494857.9055212
+ },
+ "e80-bench:t_fd869618": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.914668,
+  "ts": 1789494857.914668
+ },
+ "e80-bench:t_8737548e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789494857.9242787,
+  "ts": 1789494857.9242787
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
