@@ -1766,7 +1766,7 @@
  {
   "id": "t_3437ea0c",
   "title": "Classify IP interpolation source for each wizard-bundle writer/renderer",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_dd545800",
   "title": "Inventory DNS artifacts in PR #55 diff and PIA OpenVPN module",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,

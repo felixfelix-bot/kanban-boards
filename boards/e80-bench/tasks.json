@@ -3758,7 +3758,7 @@
  {
   "id": "t_b9ae813a",
   "title": "Inventory Rust test config for e80-stm32-bench/tools",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_83ecf68b",
   "title": "Search Rust event-builder construction sites",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_a147117d",
   "title": "Search JSON serialization and raw payload sites",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
