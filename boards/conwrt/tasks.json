@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection from wizard-bundle recipe",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,

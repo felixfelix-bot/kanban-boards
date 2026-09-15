@@ -1898,7 +1898,7 @@
  {
   "id": "t_80950496",
   "title": "Run +25/0/-20/-40 C holds, log >=10 min raw per setpoint",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,

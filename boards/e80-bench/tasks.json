@@ -2906,7 +2906,7 @@
  {
   "id": "t_8366a8de",
   "title": "Inventory key-material env vars and params under firmware/e80-stm32-bench/tools/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440487,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_ef0e23fe",
   "title": "Pin exact pytest command for STM32 bench publisher/relay failover suite",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440754,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_bcc5ca2a",
   "title": "Grep-sweep firmware/e80-stm32-bench/tools for kind 1059 / gift-wrap symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_09495a6d",
   "title": "Produce verbatim grep evidence that gift-wrap path emits no plaintext/kind-1 event",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_950d3ba1",
   "title": "Grep sweep: raw inventory of randomness call sites in tools tree",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_3cf5ff7f",
   "title": "Inventory conftest.py, fixtures, and test helpers under e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_bffdf456",
   "title": "Pin repo revision and capture required grep evidence (verbatim)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_561d73a6",
   "title": "Audit CVM wrap docs: is the deterministic ephemeral wrap key documented?",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789472154,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_9f7391cb",
   "title": "Grep e80-stm32-bench tools for publish/idempotency/key-derivation symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_30ac8a92",
   "title": "Locate existing idempotency/determinism tests in e80-stm32-bench tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_dc8ad79c",
   "title": "Verbatim-extract GIFTWRAP_DETERMINISM.md spec points (a)-(d)",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472453,
