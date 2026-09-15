@@ -2966,7 +2966,7 @@
  {
   "id": "t_caa6d7c8",
   "title": "Audit shell and CI tracing for secret leakage",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_f1884b5c",
   "title": "Audit hardcoded secrets and credential file instructions",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_d840f35e",
   "title": "Audit CLI flag and shell profile secret exposure",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_ad641556",
   "title": "Audit secret transmission and image/build arg practices",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_0e9f37b1",
   "title": "Enumerate all tunnel lifecycle hooks in PR #55",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_19032745",
   "title": "Audit IPv6 kill-switch coverage in conwrt PR #55 (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_f27adf7f",
   "title": "Audit DoH/DoT and port-53 bypass surface in PR #55 (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789505987,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_35d4ea0d",
   "title": "Locate PIA OpenVPN module root and entry points",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_6e3bd818",
   "title": "Trace PIA OpenVPN config parsing",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_8b13a026",
   "title": "Map PIA OpenVPN connection lifecycle states",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_fd595134",
   "title": "Inventory iptables/ip6tables/nftables kill-switch rules at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_6965ed5b",
   "title": "Inventory routing/DNS leak-prevention mechanisms at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_aa2a61cc",
   "title": "Inventory lifecycle, namespaces and teardown for kill-switch at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_350f20bc",
   "title": "Trace fail-closed behavior on tunnel drop at conwrt ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_7fe47de9",
   "title": "Trace auth-failure path and kill-switch state at initial connect",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_062150cb",
   "title": "Trace reconnect and retry-loop behavior after a failed or dropped tunnel",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_a9db1d82",
   "title": "Audit kill-switch install/teardown ordering vs tunnel up/down",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
@@ -3674,7 +3674,7 @@
  {
   "id": "t_656d868b",
   "title": "Audit kill-switch toggles and their defaults at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506075,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_0ac65d07",
   "title": "Audit VPN-on-boot enable/disable defaults at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506075,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_d37345a8",
   "title": "Merge audits into final defaults table and flag mismatches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506075,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_2d3176b7",
   "title": "Set up scratch clone and inventory PIA/OpenVPN module at ec5c60d9",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_4d62b081",
   "title": "Trace IPv6 disable/block mechanisms in PIA OpenVPN module",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_d19c9104",
   "title": "Trace IPv6 escape paths and kill-switch absence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_4da10958",
   "title": "Identify undocumented IPv6 protections in code",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_50259413",
   "title": "Trace non-tunnel egress paths in PIA OpenVPN module",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_c4c4bbd0",
   "title": "Trace firewall default policies and interface zones for WAN",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8ec1edf1",
   "title": "Identify undocumented leak protection in PIA OpenVPN module",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,

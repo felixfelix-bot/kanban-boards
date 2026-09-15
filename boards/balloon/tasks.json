@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe HEAD versioned docs/spec dirs for claim contradictions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Read-only probe of release/annotated tags for claim contradictions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_c9ffea68",
   "title": "Consolidate tollgate_proto_encode/decode audit into one verbatim report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432614,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_f308d3e6",
   "title": "Independently re-extract and byte-diff the Mock protocol transcript",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496309,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_927ba0fb",
   "title": "Per-flag rollup of CONFIG_ENABLE_* consumption sites incl. zero-usage flags",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6578,7 +6578,7 @@
  {
   "id": "t_24edf306",
   "title": "Audit guard sites for flag #1 (grep + verbatim sed quote)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496981,
@@ -6590,7 +6590,7 @@
  {
   "id": "t_481fc29e",
   "title": "Audit guard sites for flag #2 (grep + verbatim sed quote)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496981,
