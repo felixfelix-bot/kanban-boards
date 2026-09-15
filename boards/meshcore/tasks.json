@@ -1814,7 +1814,7 @@
  {
   "id": "t_e50c68a2",
   "title": "Catalog bench frequency-reference candidates and instrument labels",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789357637,
@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Chamber pre-flight: verify comms + own-sensor telemetry, record ambient baseline, start raw logging",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
@@ -1922,7 +1922,7 @@
  {
   "id": "t_f2b50f53",
   "title": "Measure and source-cite all chamber penetrations + door gasket geometry",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360087,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_923c4eca",
   "title": "Inspect chamber RF feedthroughs: type, population, mounting, cabling",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789360099,
