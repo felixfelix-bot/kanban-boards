@@ -2474,7 +2474,7 @@
  {
   "id": "t_d8cdddb6",
   "title": "Create tools/keymaterial.py env-only key accessor",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789387619,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_7a8979a2",
   "title": "Make NIP-59 gift-wrap ephemeral key deterministic via HKDF in the choke-point module",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789396722,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q in e80-stm32-bench/tools and report pass/fail summary",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness usage in the kind-1059 choke-point file",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2593,8 +2593,8 @@
  },
  {
   "id": "t_de89bfda",
-  "title": "Verify single construction path for kind 1059",
-  "status": "triage",
+  "title": "Audit: kind 1059 has exactly one construction path with no plaintext fallback",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2605,8 +2605,8 @@
  },
  {
   "id": "t_80de2076",
-  "title": "Run determinism smoke test across process restart",
-  "status": "triage",
+  "title": "Run process-restart determinism smoke test and report PASS/FAIL",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2617,8 +2617,8 @@
  },
  {
   "id": "t_0288d9c8",
-  "title": "Check documentation for determinism and privacy trade-off",
-  "status": "triage",
+  "title": "Verify docs: deterministic ephemeral key, unlinkability trade-off, created_at",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2641,8 +2641,8 @@
  },
  {
   "id": "t_9d170792",
-  "title": "Pin exact failover test command and inventory tests covering subset-accept and dead-relay paths",
-  "status": "triage",
+  "title": "Pin exact failover test command and inventory subset-accept / dead-relay coverage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2689,8 +2689,8 @@
  },
  {
   "id": "t_ad1690e0",
-  "title": "Boundary-grep proof: bare relay.contextvm.org absent from tools tree",
-  "status": "triage",
+  "title": "Verify bare relay.contextvm.org absent from firmware tools tree",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2701,8 +2701,8 @@
  },
  {
   "id": "t_a5c84ae6",
-  "title": "Assert runtime relay set equals the five allowed hosts",
-  "status": "triage",
+  "title": "Verify runtime relay host set equals the five allowed hosts",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
