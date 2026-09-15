@@ -3769,7 +3769,7 @@
  },
  {
   "id": "t_a202b45f",
-  "title": "Recon fix/upstream-autopay-gate-open-retry: gating-mechanism hit table",
+  "title": "Produce gating-mechanism hit table for fix/upstream-autopay-gate-open-retry",
   "status": "ready",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
@@ -3806,7 +3806,7 @@
  {
   "id": "t_42049035",
   "title": "Inventory all sibling tollgate-* roots and their refs (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_d8ee6c56",
   "title": "Recon shadow-card / human-gate / board-gate mentions in tollgate-quaterly-reports",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789388328,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_020235bf",
   "title": "Recon shadow-card/human-gate mentions in tollgate-release-explorer-site",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789388328,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_c5504dfa",
   "title": "Inventory esp-miner doc roots and resolve local rev names (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_7e363e57",
   "title": "Read-only recon: scan esp32-mesh feature/redeem-ecash for shadow-card/gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789388477,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_b0cba6fd",
   "title": "Recon feature/meshcore-lr2021-upstream-pr for gate-mechanism hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789388545,
@@ -4382,9 +4382,9 @@
  {
   "id": "t_b8db9cb1",
   "title": "Implement firmware digit-limit and rounding rule exactly",
-  "status": "triage",
+  "status": "todo",
   "priority": 0,
-  "assignee": "worker-heavy",
+  "assignee": "manager",
   "created_at": 1789388971,
   "started_at": null,
   "completed_at": null,
@@ -6318,6 +6318,42 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789475479,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_40a13e6c",
+  "title": "Extract firmware numeric parse/round spec from contract",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789475494,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_441e54a0",
+  "title": "Implement firmware-exact parse/round/format primitive",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-heavy",
+  "created_at": 1789475494,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a0baac2b",
+  "title": "Write acceptance tests for firmware numeric parse/round",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789475494,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

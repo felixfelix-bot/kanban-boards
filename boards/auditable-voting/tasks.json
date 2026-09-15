@@ -326,7 +326,7 @@
  {
   "id": "t_cddeda7a",
   "title": "P2-T2: Cross-feature integration tests",
-  "status": "running",
+  "status": "ready",
   "priority": 11,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162152,

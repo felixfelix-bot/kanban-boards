@@ -3710,7 +3710,7 @@
  {
   "id": "t_30479c58",
   "title": "Catalog Rust RNG crates and pinned versions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472574,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_994d12c1",
   "title": "Catalog Python RNG libraries and pinned versions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472574,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_3cdf47a1",
   "title": "Catalog JS/Node RNG libraries and pinned versions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472574,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_bc390234",
   "title": "Inventory Python test config for e80-stm32-bench/tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_b9ae813a",
   "title": "Inventory Rust test config for e80-stm32-bench/tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_598289a2",
   "title": "Inventory task runners for e80-stm32-bench/tools tests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_4ed5a438",
   "title": "Inventory CI test steps for e80-stm32-bench/tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_4b7e093d",
   "title": "Enumerate test env vars and skip conditions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472650,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_a218df21",
   "title": "Enumerate external network/service dependencies",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472650,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_8179d41d",
   "title": "Enumerate hardware and flashing tool requirements",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472650,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_d4736d25",
   "title": "Enumerate toolchain and version constraints",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472650,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_83ecf68b",
   "title": "Search Rust event-builder construction sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_a147117d",
   "title": "Search JSON serialization and raw payload sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_a8295c2a",
   "title": "Search kind constants and non-Rust event construction",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_0ff3cea1",
   "title": "Extract public API contract from test_rx_armed_publisher.py",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472819,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_88b0f4dc",
   "title": "Capture RED pytest output for test_rx_armed_publisher.py",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472819,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_def33c95",
   "title": "Discover deps and grep tools tree for signing paths",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789473042,
