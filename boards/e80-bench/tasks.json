@@ -1442,7 +1442,7 @@
  {
   "id": "t_63dc5024",
   "title": "Name GO-mode log dirs s<session_id>-go<epoch>, keep legacy intact",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1789,8 +1789,8 @@
  },
  {
   "id": "t_1c17093f",
-  "title": "Recon: e80 range_check session_id join, GO-dir parse, writer key format",
-  "status": "triage",
+  "title": "Recon e80 range_check: session_id join, GO-dir parse, legacy dir, fixtures, runner",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -1885,8 +1885,8 @@
  },
  {
   "id": "t_5b90f450",
-  "title": "Reproduce e80 range-split RED suite; record real failure count + full log",
-  "status": "triage",
+  "title": "Reproduce e80 range-split RED suite read-only; report real failure count, node ids, and full log",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359345,
@@ -1945,8 +1945,8 @@
  },
  {
   "id": "t_a0752149",
-  "title": "Recon tools/range_check.py per-config verdict result contract (read-only, findings inline)",
-  "status": "triage",
+  "title": "Recon tools/range_check.py per-config verdict result contract (read-only)",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_5f9c18f9",
   "title": "Recon resend-<stop>.json writer in firmware/e80-stm32-bench (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359402,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_6e9a43d2",
   "title": "Verify rx_armed_publisher tests red-to-green and commit locally",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789361695,
@@ -2425,8 +2425,8 @@
  },
  {
   "id": "t_cec3b30d",
-  "title": "Transcribe verbatim recon specs for boundary-mode regression test (path, command, fixtures, clock-freeze)",
-  "status": "triage",
+  "title": "Transcribe verbatim recon specs (path, run command, fixtures, clock-freeze) from e80-stm32-bench boundary-test note",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2437,8 +2437,8 @@
  },
  {
   "id": "t_7b98e49c",
-  "title": "Read-only audit: confirm --sync=cvm / derive_t0 core is merged and record off-limits paths",
-  "status": "triage",
+  "title": "Read-only audit: confirm --sync=cvm / derive_t0 core is merged, list off-limits paths",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,

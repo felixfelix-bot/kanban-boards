@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build character-exact D-ID inventory from Issue-32 runbook (artifact-blind)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -794,7 +794,7 @@
  {
   "id": "t_c345f02f",
   "title": "Audit defect quotes and locations in defects-d1-d5.md",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -806,7 +806,7 @@
  {
   "id": "t_dedc64e7",
   "title": "Audit workarounds, D-ID set, and structure of defects-d1-d5.md",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

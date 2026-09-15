@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Classify all PAY/ACK candidates from sibling-tollgate sweep (read-only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
