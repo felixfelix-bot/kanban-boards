@@ -1886,7 +1886,7 @@
  {
   "id": "t_42dadf86",
   "title": "Chamber pre-flight: verify comms + own-sensor telemetry, record ambient baseline, start raw logging",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789359944,
