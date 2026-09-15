@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "GO-mode session_id copied verbatim from ARMED payload (legacy + derive_t0 untouched)",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "Add RED test: GO-mode session_id exactly equals ARMED value",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_e0b80a67",
   "title": "Implement tools/rx_armed_publisher.py until its pytest suite is GREEN",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789361695,

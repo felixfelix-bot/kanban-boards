@@ -5050,6 +5050,36 @@
   "updated": 1789445223.4896834,
   "ts": 1789445223.4896834
  },
+ "meshcore:t_ba8e0f13": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789446504.0305588,
+  "ts": 1789446504.0305588
+ },
+ "meshcore:t_9b6dd556": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789446504.0447223,
+  "ts": 1789446504.0447223
+ },
+ "meshcore:t_75ddf77a": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789446504.06543,
+  "ts": 1789446504.06543
+ },
+ "e80-bench:t_6e9a43d2": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789446504.0951536,
+  "ts": 1789446504.0951536
+ },
+ "e80-bench:t_63dc5024": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789446504.1363323,
+  "ts": 1789446504.1363323
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",

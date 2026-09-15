@@ -2762,7 +2762,7 @@
  {
   "id": "t_7d49f213",
   "title": "Reconcile PR #1232 outstanding gates into final report (read-only)",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_9d7ed60f",
   "title": "Inventory SSR OG/Twitter metadata code at PR #1232 head (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355928,
