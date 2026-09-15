@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_8737548e",
   "title": "Verify GO-mode session_id tests pass and collect evidence",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_fd869618",
   "title": "Run boundary path twice and capture deterministic run-log basename",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_bad4c056",
   "title": "Record assertion+host sites for first chunk of first-half failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_bf3e2f32",
   "title": "Record assertion+host sites for second chunk of first-half failures",
-  "status": "todo",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

@@ -1550,7 +1550,7 @@
  {
   "id": "t_0d2ffaf2",
   "title": "Audit tollgate upstream repos for a normative PAY/ACK protocol spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342382,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_8e8296e7",
   "title": "Reconcile PAY/ACK candidate reports and issue one spec verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_25ee4a10",
   "title": "Verify raw_symbol_grep.md completeness against six-symbol spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379056,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_878b6372",
   "title": "Widen and re-verify every 'no matches' symbol with logged read-only searches",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789384434,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_e706f207",
   "title": "Extract numbered verbatim claim list from reconciliation verdict",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_db83526f",
   "title": "Analyze assumptions at each category-(a) seq consumer site",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_de7a3f5d",
   "title": "Capture read-only git baselines for each candidate repo root",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_26101640",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e0947ab6",
   "title": "Sweep feat/portal-packaging worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789478203,

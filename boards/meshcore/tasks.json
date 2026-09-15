@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_7c8cde00",
   "title": "Classify ramps and write inventory.json + inventory.md",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_31a29126",
   "title": "Read context and collect dates and verbatim quotes for every hit",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_b6144fc6",
   "title": "Compile consolidated bench frequency inventory markdown table",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_6d7feb6d",
   "title": "Compile and cross-check the calibration evidence table",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789371446,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_65540377",
   "title": "Recon gating/approval mentions in awesome-tollgate (all branches)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789388309,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_bc299463",
   "title": "Recon gating/approval mentions in tollgate-bash-client (all branches)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789388309,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_132bbc3b",
   "title": "Recon gating/approval mentions in tollgate-community-calls (all branches)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789388309,
@@ -6398,7 +6398,7 @@
  {
   "id": "t_256eab83",
   "title": "Synthesize custodian evidence into structured results",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_196899e3",
   "title": "Merge Slack and Matrix custodian evidence into cited results",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6470,7 +6470,7 @@
  {
   "id": "t_956f76f6",
   "title": "Compile final findings list for controller/booking admins",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6494,7 +6494,7 @@
  {
   "id": "t_78a79632",
   "title": "Extract booking metadata for thermal chamber entries",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_7bb5e2ee",
   "title": "Extract audit logs and edit history for bookings",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6554,7 +6554,7 @@
  {
   "id": "t_368f7537",
   "title": "Consolidate findings into categorized actor report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
