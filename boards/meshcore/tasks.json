@@ -4262,7 +4262,7 @@
  {
   "id": "t_08bc9e17",
   "title": "Merge shard-A recon into the deliverable table and post comment",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388786,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_7f6357be",
   "title": "Merge shard-B recon findings into final table for t_e5b0a5ed",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388847,
