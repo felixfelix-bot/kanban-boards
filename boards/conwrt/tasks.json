@@ -962,7 +962,7 @@
  {
   "id": "t_2f7f8778",
   "title": "Power on CF-WR632AX and verify SSH + OpenWrt version",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
