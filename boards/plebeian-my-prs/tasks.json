@@ -2654,7 +2654,7 @@
  {
   "id": "t_7b4397f3",
   "title": "Analyze preview-deploy.yml at head SHA for new workflow defects",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Extract PR #1232 top-level reviews + verbatim digests (read-only artifact)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,

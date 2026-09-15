@@ -5009,6 +5009,13 @@
   "updated": 1789365067.7316656,
   "ts": 1789365067.7316656
  },
+ "conwrt:t_7605c05e": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789436423.6783407,
+  "ts": 1789436423.6783407,
+  "repo": "conwrt"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
