@@ -2678,7 +2678,7 @@
  {
   "id": "t_4b2ba0b5",
   "title": "Compile six-symbol grep evidence table from parent sweep artifacts (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Read-only audit of TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
