@@ -5342,7 +5342,7 @@
  {
   "id": "t_8f34a07f",
   "title": "Audit msg_type consumers and declarations in C/C++ sources",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5354,7 +5354,7 @@
  {
   "id": "t_cad059ae",
   "title": "Analyze non-C/C++ and vendor msg_type consumers into rows_other.md",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_8a94325b",
   "title": "Synthesize five bucket-A PAY/ACK sweep reports into final consolidated report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_c17f0ce9",
   "title": "Pin balloon firmware revision and report sweep + negative-check evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_b0948fe0",
   "title": "Classify every CONFIG_ENABLE_* hit as GUARD / BUILD-SYSTEM / COMMENT-ONLY / STRING-LITERAL",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -7334,7 +7334,7 @@
  {
   "id": "t_0f60b8fe",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789500955,
@@ -7346,7 +7346,7 @@
  {
   "id": "t_d8ad0368",
   "title": "Enumerate and sweep remaining tollgate repos for PAY/ACK",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500955,

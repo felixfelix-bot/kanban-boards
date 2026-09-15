@@ -3278,7 +3278,7 @@
  {
   "id": "t_8737548e",
   "title": "Verify GO-mode session_id tests pass and collect evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_06c702c1",
   "title": "Reproduce e80 range-split RED suite and capture log",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
