@@ -2270,7 +2270,7 @@
  {
   "id": "t_cfd777d1",
   "title": "Re-verify Report A tollgate call-site citations against live main/app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789360966,
@@ -2678,7 +2678,7 @@
  {
   "id": "t_4b2ba0b5",
   "title": "Compile six-symbol grep evidence table from upstream sweeps",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
