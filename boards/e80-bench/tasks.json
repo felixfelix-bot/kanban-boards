@@ -3458,7 +3458,7 @@
  {
   "id": "t_ac4dcbbe",
   "title": "Create __main__.py stub and verify package import",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_fd869618",
   "title": "Run boundary path twice and capture deterministic run-log basename",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_bad4c056",
   "title": "Record assertion+host sites for first chunk of first-half failures",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_bf3e2f32",
   "title": "Record assertion+host sites for second chunk of first-half failures",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

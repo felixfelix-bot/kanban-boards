@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_31a29126",
   "title": "Read context and collect dates and verbatim quotes for every hit",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_6d7feb6d",
   "title": "Compile and cross-check the calibration evidence table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789371446,
