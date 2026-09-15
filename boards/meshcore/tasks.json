@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files, read-only, write candidates.json + candidates.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope; publish doc manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_f0ed35a0",
   "title": "Map workspace repos, worktrees, and plain dirs (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789388077,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_6a9d342c",
   "title": "Recon: enumerate doc roots, .md files, and ADR/RFC/design-review-notes paths (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789388077,
