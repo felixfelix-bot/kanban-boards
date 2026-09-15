@@ -158,7 +158,7 @@
  {
   "id": "t_ea83ba0a",
   "title": "Triage D1-D5 defects with file:line and minimal fixes",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339296,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_7a4f8157",
   "title": "Request review from upstream maintainers on PR #55",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
