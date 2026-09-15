@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789360361,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_47b10787",
   "title": "Merge both rev scan tables into the final esp-miner gate recon report",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,

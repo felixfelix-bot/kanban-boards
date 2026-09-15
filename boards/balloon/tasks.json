@@ -2713,8 +2713,8 @@
  },
  {
   "id": "t_a71964c3",
-  "title": "Verify every verbatim quote and path/line cited in the verdict",
-  "status": "triage",
+  "title": "Audit verdict citations: verify every quote, path, and line number (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bdf2e0b9",
   "title": "Cross-check both parent sweep lists against the deduplicated list",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Audit parent A/B lists against dedup list and report all discrepancies",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3362,7 +3362,7 @@
  {
   "id": "t_e46964bf",
   "title": "Verify cargo check -p microfips-esp-common for riscv32imc-unknown-none-elf",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_24ccf7d1",
   "title": "Verify host cargo check -p microfips-esp-common",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_e240f2e4",
   "title": "Consolidate independent build verification report (PASS/FAIL)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_91b37ab4",
   "title": "Reconcile findings, adjudicate conflicts, deliver authoritative-spec verdict",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400792,
@@ -3493,8 +3493,8 @@
  },
  {
   "id": "t_bc19acb1",
-  "title": "Trace the include or build flag bringing CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
-  "status": "triage",
+  "title": "Trace the include/build flag that brings CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3805,8 +3805,8 @@
  },
  {
   "id": "t_367ba516",
-  "title": "Collect git metadata for each discovered tollgate-rs path",
-  "status": "triage",
+  "title": "Collect read-only git metadata for all discovered tollgate-rs paths",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8dde3190",
   "title": "Scan tollgate-rs repo refs for design-review/notes/rfc/adr/spec names",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
@@ -4334,9 +4334,9 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-heavy",
+  "assignee": "manager",
   "created_at": 1789432333,
   "started_at": null,
   "completed_at": null,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_b587d35d",
   "title": "Classify hits, build per-flag rollup, assemble STEP 4 catalog",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -5810,7 +5810,7 @@
  {
   "id": "t_c8f59b9d",
   "title": "Freeze verdict claims verbatim into a numbered list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_f50da0a5",
   "title": "Inventory vendored / submodule / fork duplicate location classes",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5858,7 +5858,7 @@
  {
   "id": "t_8c6afff2",
   "title": "Collect and verify Go tollgate module repo inventory (paths, refs, SHAs)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_1e9d2974",
   "title": "Sweep tollgate-module-basic-go worktrees for proto/OpenAPI/YAML/docs",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789481178,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_761efc3b",
   "title": "Sweep client/sibling tollgate Go+Rust repos for specs and docs",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789481178,
@@ -5942,7 +5942,7 @@
  {
   "id": "t_ce738669",
   "title": "Sweep tollgate docs/content repos for ADRs, specs, and YAML",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789481178,
@@ -5966,7 +5966,7 @@
  {
   "id": "t_26a521e6",
   "title": "Enumerate tollgate_* consumer sites in balloon firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -5978,7 +5978,7 @@
  {
   "id": "t_38880b90",
   "title": "Enumerate TG_PROTO_* consumer sites in balloon firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789481730,
@@ -6390,6 +6390,78 @@
   "priority": 1,
   "assignee": "worker-curator",
   "created_at": 1789496025,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2fe8c389",
+  "title": "Extract ## Mock protocol section verbatim to /tmp/t_290bb39f_section_mock.md",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496309,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_f308d3e6",
+  "title": "Independently re-extract and byte-diff the Mock protocol transcript",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496309,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_517bdd43",
+  "title": "Enumerate all CONFIG_* user files in tracker/firmware",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496337,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2ff835fc",
+  "title": "Enumerate files with a direct ACTIVE sdkconfig.h include",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496337,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_f5c74797",
+  "title": "Diff the two file lists to produce the gap set",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496337,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_23e78080",
+  "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789496337,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

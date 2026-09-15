@@ -3254,7 +3254,7 @@
  {
   "id": "t_b6bdd79d",
   "title": "Locate GO-mode session_id sourcing site in e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
