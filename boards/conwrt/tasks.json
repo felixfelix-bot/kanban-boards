@@ -1766,7 +1766,7 @@
  {
   "id": "t_3437ea0c",
   "title": "Classify IP interpolation source for each wizard-bundle writer/renderer",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_dd545800",
   "title": "Inventory DNS artifacts in PR #55 diff and PIA OpenVPN module",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d1bef0e8",
   "title": "Audit firewall ruleset and tunnel teardown for port-53 escape",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_fc56854f",
   "title": "Extract proposal-doc DNS/kill-switch claims vs implemented code",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789487496,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_a39d4d6e",
   "title": "Synthesize DNS-leak verdict with file:line evidence and fixes",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_7595eeea",
   "title": "Enumerate every normative claim in the PR #55 proposal doc",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_69851911",
   "title": "Trace kill-switch, fail-closed, and enable/disable defaults in PIA OpenVPN module",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,
@@ -1862,7 +1862,7 @@
  {
   "id": "t_06cd201f",
   "title": "Trace DNS, IPv6, and leak-prevention paths in PIA OpenVPN module",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487516,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9f853058",
   "title": "Reconcile doc claims vs code and produce the gap table",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,

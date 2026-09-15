@@ -3218,7 +3218,7 @@
  {
   "id": "t_07f88d67",
   "title": "Verify each citation against actual files",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Transcribe parent sweep list B verbatim into one structured Markdown table (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_367ba516",
   "title": "Collect git metadata for each discovered tollgate-rs path",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8dde3190",
   "title": "Scan tollgate-rs repo refs for design-review/notes/rfc/adr/spec names",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_762d13c0",
   "title": "Assemble final tollgate-rs repo inventory report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
@@ -5222,7 +5222,7 @@
  {
   "id": "t_666a9283",
   "title": "Enumerate candidate interface and persistence artifact files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
@@ -5234,7 +5234,7 @@
  {
   "id": "t_0a7c66ce",
   "title": "Collect inventory table across repos",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5246,7 +5246,7 @@
  {
   "id": "t_8c1d9c8a",
   "title": "Collect filename-sweep hits with verbatim quotes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,

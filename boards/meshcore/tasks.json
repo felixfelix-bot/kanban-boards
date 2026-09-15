@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
