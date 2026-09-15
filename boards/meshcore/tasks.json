@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Physically inspect and classify thermal chamber controller, record labels, photograph interface",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep evidence report: escalation-digest identifiers in app source tree",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits (read-only recon)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Read-only recon: scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_bc4c6635",
   "title": "Recon ci/e2e-grep-input for gate/shadow-card hits (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789388644,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Read-only recon: shadow-card/gate hits in feat/applesauce-wave-a",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,

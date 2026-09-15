@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -866,7 +866,7 @@
  {
   "id": "t_77f25b09",
   "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789393446,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit LAN-move verdict vs tollgate note",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back verdict vs tollgate note",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
