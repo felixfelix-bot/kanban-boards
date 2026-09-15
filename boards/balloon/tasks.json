@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Read-only PAY/ACK protocol sweep of balloon-fresh tracker firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789386211,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Audit parent A/B lists against dedup list and report all discrepancies",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396400,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401082,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_04470a31",
   "title": "Consolidate PAY/ACK wire-format candidates across both refs",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432548,
@@ -5138,7 +5138,7 @@
  {
   "id": "t_aa243451",
   "title": "Collect git metadata for ADDITIONAL tollgate repos",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5198,7 +5198,7 @@
  {
   "id": "t_db7ba282",
   "title": "Compute guard overlap and write census summary",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477699,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_12dd2916",
   "title": "Verify report artifact metadata",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5678,7 +5678,7 @@
  {
   "id": "t_e7bd6eb4",
   "title": "Write /tmp/p1_result.json with retrieval metadata",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_9667157d",
   "title": "Merge sweep shards, finalize classifications, emit filename-sweep report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789481141,
@@ -6014,7 +6014,7 @@
  {
   "id": "t_ae2358b6",
   "title": "Produce ordered PAY/ACK candidate inventory from sweep results",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481771,
@@ -6050,7 +6050,7 @@
  {
   "id": "t_43315bce",
   "title": "List TOLLGATE-adjacent CONFIG_ENABLE_* symbols with file:line evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_afd46f54",
   "title": "Consolidate PAY/ACK findings; decide wire-format ownership",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496648,
@@ -7370,7 +7370,7 @@
  {
   "id": "t_d4218586",
   "title": "Record esp32-mesh metadata and filename sweep",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7382,7 +7382,7 @@
  {
   "id": "t_87f73158",
   "title": "Content-grep esp32-mesh for PAY/ACK wire-format terms",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7394,7 +7394,7 @@
  {
   "id": "t_72e3a88b",
   "title": "Inspect esp32-mesh config/docs for protocol hints",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7418,7 +7418,7 @@
  {
   "id": "t_65127856",
   "title": "Record esp32-balloon-integration git state and branch inventory",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7430,7 +7430,7 @@
  {
   "id": "t_32293fb3",
   "title": "Sweep esp32-balloon-integration filenames and content for PAY/ACK terms",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7442,7 +7442,7 @@
  {
   "id": "t_6f34bbbe",
   "title": "Inspect ESP32 build config and docs for vendored tollgate protocol hints",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7454,7 +7454,7 @@
  {
   "id": "t_6829464e",
   "title": "Check tollgate PAY/ACK hits across esp32-balloon branches",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7478,7 +7478,7 @@
  {
   "id": "t_44ee8d89",
   "title": "Read batch A even-subset PAY/ACK candidates (indices 0,6,12,...)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501119,
@@ -7490,7 +7490,7 @@
  {
   "id": "t_1d4687c7",
   "title": "Read batch A odd-subset PAY/ACK candidates (indices 3,9,15,...)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501119,
@@ -7514,7 +7514,7 @@
  {
   "id": "t_a1ebc463",
   "title": "Resolve batch B candidate manifest",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501147,
@@ -7562,7 +7562,7 @@
  {
   "id": "t_791e2085",
   "title": "Locate Mock protocol section and record source metadata",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501289,
@@ -7622,7 +7622,7 @@
  {
   "id": "t_339d6fc2",
   "title": "Reproduce sorted CONFIG_* user file list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501481,
@@ -7634,7 +7634,7 @@
  {
   "id": "t_3912c38d",
   "title": "Reproduce sorted active direct sdkconfig.h includer list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501481,
@@ -7658,7 +7658,7 @@
  {
   "id": "t_ec3063a0",
   "title": "Audit feat/cli-json-config-rebased worktree for PAY/ACK",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789501560,
@@ -7670,7 +7670,7 @@
  {
   "id": "t_f29fa099",
   "title": "Audit all other remaining in-scope tollgate-module-basic-go paths for PAY/ACK",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501560,

@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move + read-back provenance against docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1286,7 +1286,7 @@
  {
   "id": "t_05bc6a7b",
   "title": "Locate net4sats LAN-move IPv4 token in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_f2aba95e",
   "title": "Read-only audit of derive_device_secret.py: emitted keys, write targets, IPv4/LAN exposure",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789478386,
