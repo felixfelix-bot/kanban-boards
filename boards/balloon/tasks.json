@@ -1742,7 +1742,7 @@
  {
   "id": "t_d7b46e33",
   "title": "Write final tollgate PAY/ACK upstream audit synthesis report",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789348266,
@@ -2005,8 +2005,8 @@
  },
  {
   "id": "t_67c2e1bc",
-  "title": "Assemble relay_types.h markdown section with worked byte-offset example",
-  "status": "triage",
+  "title": "Assemble relay_types.h markdown section with byte-offset example",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2161,7 +2161,7 @@
  },
  {
   "id": "t_b3e92fd9",
-  "title": "Recon relay_types.h enum + relay packet framing; write docs/recon/.tollgate_framing_notes.md",
+  "title": "Recon relay_types.h enum + framing; write docs/recon/.tollgate_framing_notes.md",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -2173,7 +2173,7 @@
  },
  {
   "id": "t_e785bf7d",
-  "title": "Recon CONFIG_ENABLE_TOLLGATE status and CONFIG_ENABLE_* guard conventions",
+  "title": "Recon CONFIG_ENABLE_TOLLGATE and guard conventions",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_41e82450",
   "title": "Inventory encode/transmit tollgate call sites in main/app_task.cpp (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789365354,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_99d44349",
   "title": "Record exact occurrences of six tollgate PAY/ACK symbols in docs/recon/raw_symbol_grep.md",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_19adaa00",
   "title": "Reconcile PAY/ACK classifications into one authoritative verdict",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789384358,
@@ -2677,8 +2677,8 @@
  },
  {
   "id": "t_4b2ba0b5",
-  "title": "Compile six-symbol grep evidence table from parent sweep artifacts (read-only)",
-  "status": "triage",
+  "title": "Compile six-symbol grep evidence table from parent sweep artifacts",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789384434,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_474af18c",
   "title": "Read-only audit of TOLLGATE_PROTO_CONTRACT.md into a tagged claim checklist",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789384864,
@@ -2833,8 +2833,8 @@
  },
  {
   "id": "t_d6a19903",
-  "title": "Read-only sweep tollgate-rs repos for PAY/ACK wire format definitions",
-  "status": "triage",
+  "title": "Sweep tollgate-rs repos for PAY/ACK wire format definitions (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire spec",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Read-only PAY/ACK protocol sweep of balloon-fresh tracker firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Read-only inventory of sibling tollgate repos: branch + 40-char HEAD sha",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "Prep env: read FIPS-FIX-PLAN.md, verify riscv32imc target (READ-ONLY, no source changes)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract '## Mock protocol' section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_48acd12f",
   "title": "Audit balloon-fresh firmware CMake/Kconfig for sdkconfig export and ENABLE_ symbols",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_c7567c99",
   "title": "Grep tree-root sdkconfig and sdkconfig.defaults for CONFIG_ENABLE_*",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402532,
@@ -3638,7 +3638,7 @@
  {
   "id": "t_d0116ce5",
   "title": "Read-only audit: pin balloon-firmware HEAD/branch and inventory CONFIG_ENABLE_* in sdkconfig.defaults.esp32s3",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_ee0c25f2",
   "title": "Inspect generated sdkconfig and list CONFIG_ENABLE_* entries (read-only)",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware (read-only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789403662,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_4a9f4330",
   "title": "Inventory tollgate decode/RX/ack call sites in main/app_task.cpp",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789404037,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_f6afccee",
   "title": "Enumerate tollgate_msg_hdr_t / tollgate_ack_payload_t usage in app_task.cpp",
-  "status": "done",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789404037,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3be12518",
   "title": "Read-only probe: stale/divergent vendored, submodule, and fork copies of the reconciled artifact",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_d4a62f89",
   "title": "Read-only inventory of all tollgate-rs repo paths and linked worktrees",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_367ba516",
   "title": "Collect git metadata for each discovered tollgate-rs path",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_8dde3190",
   "title": "Scan tollgate-rs repo refs for design-review/notes/rfc/adr/spec names",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404805,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_ac560089",
   "title": "Record repo/branch/SHA env header and master CONFIG guard-enumeration total",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_0a1b3775",
   "title": "Count CONFIG_ENABLE_* guard forms A-D (read-only census + overlap evidence)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_e9be6dbc",
   "title": "Trace CONFIG_ENABLE_ include chain in balloon firmware (read-only evidence)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_2832173b",
   "title": "Audit firmware build defines/Kconfig headers for CONFIG_ENABLE_*",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_f58160fa",
   "title": "Synthesize CONFIG_ENABLE_* proof chain or 'undetermined' verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_587c7458",
   "title": "Inventory direct sdkconfig.h references in tracker firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432333,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_dbd7c380",
   "title": "Inventory CONFIG_* users and sample usage lines in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789432333,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_ad0d6541",
   "title": "Record git refs + complete tollgate call-site inventory in app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_e706f207",
   "title": "Extract numbered verbatim claim list from reconciliation verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_40af10d9",
   "title": "Extract verdict claims and enumerate candidate artifact files",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432422,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_66606072",
   "title": "Inventory tollgate Go repos: branch, HEAD, remote, worktree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_a303b722",
   "title": "Consolidate inventory + sweeps into one classified report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_e04c5f76",
   "title": "Sweep tollgate-module-basic-go HEAD for PAY/ACK wire-format defs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,

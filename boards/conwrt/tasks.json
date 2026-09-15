@@ -302,7 +302,7 @@
  {
   "id": "t_fa3c1eb0",
   "title": "Validate preflight run log against acceptance criteria",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789348614,
@@ -578,7 +578,7 @@
  {
   "id": "t_e30d9a00",
   "title": "Verify tollgate-subsection.md byte-exactness and constraints",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789362852,
@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -734,7 +734,7 @@
  {
   "id": "t_b7afb5d4",
   "title": "Reconcile net4sats findings with worker note and emit verdict report",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -770,7 +770,7 @@
  {
   "id": "t_3f7d705a",
   "title": "Reconcile tollgate audit verdicts vs worker note; emit CORRECTION lines",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789380019,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build character-exact D-ID inventory from Issue-32 runbook (artifact-blind)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
