@@ -5270,7 +5270,7 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -6602,7 +6602,7 @@
  {
   "id": "t_7b0f84be",
   "title": "Audit guard sites for flag #3 if present, else report NO-THIRD-FLAG",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496981,
@@ -6626,7 +6626,7 @@
  {
   "id": "t_072b0696",
   "title": "Re-verify esp32-balloon-integration in-repo PAY/ACK candidate quotes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499439,
@@ -6638,7 +6638,7 @@
  {
   "id": "t_60fafc57",
   "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789499439,
@@ -6662,7 +6662,7 @@
  {
   "id": "t_60394080",
   "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6674,7 +6674,7 @@
  {
   "id": "t_65695d2f",
   "title": "Widened read-only search: TG_MSG_PAY, TG_MSG_ACK",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6686,7 +6686,7 @@
  {
   "id": "t_87f95bad",
   "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6710,7 +6710,7 @@
  {
   "id": "t_132e6575",
   "title": "Re-grep category-(a) seq sites and diff vs upstream list",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6722,7 +6722,7 @@
  {
   "id": "t_60b9cbad",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6734,7 +6734,7 @@
  {
   "id": "t_e567f245",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6758,7 +6758,7 @@
  {
   "id": "t_e640451e",
   "title": "Enumerate in-scope tollgate-module-basic-go worktrees (path, branch, SHA)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499638,
@@ -6770,7 +6770,7 @@
  {
   "id": "t_1ddb8336",
   "title": "Scan feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499638,
@@ -6806,7 +6806,7 @@
  {
   "id": "t_86fee389",
   "title": "Freeze exact CONFIG_ENABLE_* flag list from parent task output",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499737,
@@ -6854,7 +6854,7 @@
  {
   "id": "t_0c7e76e3",
   "title": "Sweep HEAD ref for PAY/ACK wire-format candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789499875,
@@ -6866,7 +6866,7 @@
  {
   "id": "t_277d1f3b",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire-format candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499875,
@@ -6890,7 +6890,7 @@
  {
   "id": "t_e7483ea5",
   "title": "Scan verdict text for git command patterns",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499951,
@@ -6914,7 +6914,7 @@
  {
   "id": "t_f191919c",
   "title": "Normalize docs/spec sweep findings into verified hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6926,7 +6926,7 @@
  {
   "id": "t_f05e1193",
   "title": "Normalize firmware code sweep findings into verified hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6950,7 +6950,7 @@
  {
   "id": "t_694df0c3",
   "title": "Locate and reconstruct parent A, parent B, and dedup list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500014,
@@ -6998,7 +6998,7 @@
  {
   "id": "t_68802b59",
   "title": "Collect per-path git log recency evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
@@ -7010,7 +7010,7 @@
  {
   "id": "t_8d191b45",
   "title": "Collect branch containment and rename-duplicate evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
@@ -7034,7 +7034,7 @@
  {
   "id": "t_3067d9d2",
   "title": "Validate repo branch, commit SHA, and clean tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7046,7 +7046,7 @@
  {
   "id": "t_b510637a",
   "title": "Re-extract recorded section and byte-diff against transcript",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7058,7 +7058,7 @@
  {
   "id": "t_aa579a5a",
   "title": "Self-verify quotes and re-run transcription sanity checks",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7082,7 +7082,7 @@
  {
   "id": "t_b05b78e9",
   "title": "Deduplicate and validate tollgate-rs path list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500321,
@@ -7130,7 +7130,7 @@
  {
   "id": "t_167fe068",
   "title": "Resolve tollgate-bash-client repo identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7142,7 +7142,7 @@
  {
   "id": "t_844e7e43",
   "title": "Sweep code/config files for PAY/ACK protocol evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7154,7 +7154,7 @@
  {
   "id": "t_58d8da1a",
   "title": "Inspect docs and schemas for PAY/ACK message exchange",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7166,7 +7166,7 @@
  {
   "id": "t_5ca0b03c",
   "title": "Resolve tollgate-rs repo identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7178,7 +7178,7 @@
  {
   "id": "t_e2633097",
   "title": "Sweep tollgate-rs filenames for PAY/ACK candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7190,7 +7190,7 @@
  {
   "id": "t_6a15c2b9",
   "title": "Grep tollgate-rs content for PAY/ACK wire-format terms",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7202,7 +7202,7 @@
  {
   "id": "t_9ad6d7b9",
   "title": "Inspect tollgate-rs Rust structs and design notes for PAY/ACK",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7226,7 +7226,7 @@
  {
   "id": "t_c829db53",
   "title": "Resolve tollgate-infrastructure-kit repo path and record identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789500856,
@@ -7274,7 +7274,7 @@
  {
   "id": "t_c65d457c",
   "title": "Resolve tollgate-community-calls repo path and record git identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789500881,
@@ -7322,7 +7322,7 @@
  {
   "id": "t_020f2c8a",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789500955,
@@ -7334,7 +7334,7 @@
  {
   "id": "t_0f60b8fe",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789500955,
@@ -7346,7 +7346,7 @@
  {
   "id": "t_d8ad0368",
   "title": "Enumerate and sweep remaining tollgate repos for PAY/ACK",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500955,
@@ -7370,7 +7370,7 @@
  {
   "id": "t_d4218586",
   "title": "Record esp32-mesh metadata and filename sweep",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7382,7 +7382,7 @@
  {
   "id": "t_87f73158",
   "title": "Content-grep esp32-mesh for PAY/ACK wire-format terms",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7394,7 +7394,7 @@
  {
   "id": "t_72e3a88b",
   "title": "Inspect esp32-mesh config/docs for protocol hints",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7418,7 +7418,7 @@
  {
   "id": "t_65127856",
   "title": "Record esp32-balloon-integration git state and branch inventory",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7430,7 +7430,7 @@
  {
   "id": "t_32293fb3",
   "title": "Sweep esp32-balloon-integration filenames and content for PAY/ACK terms",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7442,7 +7442,7 @@
  {
   "id": "t_6f34bbbe",
   "title": "Inspect ESP32 build config and docs for vendored tollgate protocol hints",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7454,7 +7454,7 @@
  {
   "id": "t_6829464e",
   "title": "Check tollgate PAY/ACK hits across esp32-balloon branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7478,7 +7478,7 @@
  {
   "id": "t_44ee8d89",
   "title": "Read batch A even-subset PAY/ACK candidates (indices 0,6,12,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501119,
@@ -7490,7 +7490,7 @@
  {
   "id": "t_1d4687c7",
   "title": "Read batch A odd-subset PAY/ACK candidates (indices 3,9,15,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501119,
@@ -7514,7 +7514,7 @@
  {
   "id": "t_a1ebc463",
   "title": "Resolve batch B candidate manifest",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501147,
@@ -7562,7 +7562,7 @@
  {
   "id": "t_791e2085",
   "title": "Locate Mock protocol section and record source metadata",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501289,
@@ -7622,7 +7622,7 @@
  {
   "id": "t_339d6fc2",
   "title": "Reproduce sorted CONFIG_* user file list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501481,
@@ -7634,7 +7634,7 @@
  {
   "id": "t_3912c38d",
   "title": "Reproduce sorted active direct sdkconfig.h includer list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501481,
@@ -7658,7 +7658,7 @@
  {
   "id": "t_ec3063a0",
   "title": "Audit feat/cli-json-config-rebased worktree for PAY/ACK",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789501560,
@@ -7670,7 +7670,7 @@
  {
   "id": "t_f29fa099",
   "title": "Audit all other remaining in-scope tollgate-module-basic-go paths for PAY/ACK",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501560,
@@ -7682,7 +7682,7 @@
  {
   "id": "t_725b19bc",
   "title": "Build consolidated path table from parent reports",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501576,
@@ -7694,7 +7694,7 @@
  {
   "id": "t_1e6247fd",
   "title": "Build consolidated hit table with verbatim quotes and classifications",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501576,
@@ -7718,7 +7718,7 @@
  {
   "id": "t_de1dc650",
   "title": "Probe versioned docs/spec dirs in HEAD tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,
@@ -7730,7 +7730,7 @@
  {
   "id": "t_5e2a608e",
   "title": "Probe release tags for contradictions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,

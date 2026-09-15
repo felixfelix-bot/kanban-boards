@@ -1598,7 +1598,7 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo on disk and record git root, branch, HEAD SHA",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_93353722",
   "title": "Extract quote/location verdicts from quote-location-findings.md into drafts/quote-location-draft.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_471e0423",
   "title": "Export diff artifacts for PR #55",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_5de41923",
   "title": "Parse source report and extract structured findings",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_ff096ec1",
   "title": "Verify draft coverage and extract per-check data",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_727554b8",
   "title": "Extract artifact D-ID set from inventory",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_ac26cd15",
   "title": "Extract runbook D-ID set from raw runbook",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_fce35c42",
   "title": "Extract env vars from design doc sections 1-3",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_43c49c71",
   "title": "Scan design docs for credential examples",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506594,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_bdf6b513",
   "title": "Audit runtime cleanup of temp credential files in PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508587,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_91eaff15",
   "title": "Audit CI workflow files for secret leakage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
