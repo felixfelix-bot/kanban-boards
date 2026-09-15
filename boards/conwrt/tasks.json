@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc's credential model against threat model",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Run repo-wide grep sweep for wizard-bundle writers and IP/LAN tokens",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1826,7 +1826,7 @@
  {
   "id": "t_a39d4d6e",
   "title": "Synthesize DNS-leak verdict with file:line evidence and fixes",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9f853058",
   "title": "Reconcile doc claims vs code and produce the gap table",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,

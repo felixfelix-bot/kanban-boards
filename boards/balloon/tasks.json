@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report for t_77f5b39d, write /tmp/p2_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store; write /tmp/p3_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (report in result text only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Read-only PAY/ACK wire-format sweep of esp-miner tollgate branch",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Audit tollgate-bash-client for an authoritative PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Read-only PAY/ACK wire-format spec sweep of tollgate-infrastructure-kit",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Sweep tollgate-community-calls for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_7cc3931a",
   "title": "Read-only sweep of feat/cli-json-config-rebased worktree for PAY/ACK wire definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789432548,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_fd17bd1c",
   "title": "Survey PAY/ACK code and wire format in fix/upstream-autopay-gate-open-retry",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789432559,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_1325d61b",
   "title": "Survey PAY/ACK wire format in tollgate-module-basic-go @ feat/portal-packaging (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789432559,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Audit app_task.cpp: locate tollgate_payment_proto.h include and inventory every tollgate_proto_encode call site",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Audit all tollgate_proto_decode call sites in app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit all TG_MSG_* constant uses in tracker/firmware app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_a4ecb075",
   "title": "Read-only audit: all tollgate_msg_hdr_t field accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,

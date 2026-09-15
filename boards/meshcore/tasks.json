@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Read-only inventory of local note stores and mounts (single pass)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
