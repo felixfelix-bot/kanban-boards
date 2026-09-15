@@ -2330,7 +2330,7 @@
  {
   "id": "t_8e8296e7",
   "title": "Reconcile PAY/ACK candidate reports and issue one spec verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2510,7 +2510,7 @@
  {
   "id": "t_77fa4dd6",
   "title": "Merge PAY/ACK sweep findings and issue authoritative-vs-stale verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2630,7 +2630,7 @@
  {
   "id": "t_25ee4a10",
   "title": "Verify raw_symbol_grep.md completeness against six-symbol spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379056,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_878b6372",
   "title": "Widen and re-verify every 'no matches' symbol with logged read-only searches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789384434,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_07f88d67",
   "title": "Verify each citation against actual files",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe versioned docs/spec dirs at HEAD for contradictions",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Probe release and annotated tag snapshots for contradictions",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_04470a31",
   "title": "Consolidate PAY/ACK wire-format candidates across both refs",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_c9ffea68",
   "title": "Consolidate tollgate_proto_encode/decode audit into one verbatim report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432614,
@@ -5222,7 +5222,7 @@
  {
   "id": "t_666a9283",
   "title": "Enumerate candidate interface and persistence artifact files",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
@@ -5234,7 +5234,7 @@
  {
   "id": "t_0a7c66ce",
   "title": "Collect inventory table across repos",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5246,7 +5246,7 @@
  {
   "id": "t_8c1d9c8a",
   "title": "Collect filename-sweep hits with verbatim quotes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5258,7 +5258,7 @@
  {
   "id": "t_1df693c2",
   "title": "Collect docs/definitions inventory hits",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5282,7 +5282,7 @@
  {
   "id": "t_3a4bf1b2",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY-ACK wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789472812,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_ab710dc5",
   "title": "Run price_sats grep sweeps and record branch",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5330,7 +5330,7 @@
  {
   "id": "t_97238119",
   "title": "Run msg_type greps and produce hit list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_895425ee",
   "title": "Extract git log commands from verdict text",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_a052210f",
   "title": "Extract merged/other git commands from verdict text",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_0e7859c9",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,

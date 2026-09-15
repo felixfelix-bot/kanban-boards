@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_de234528",
   "title": "Extract ordered failing node-id list and half boundary from pytest log",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

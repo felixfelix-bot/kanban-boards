@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_75ddf77a",
   "title": "Load and probe each candidate ramp log (raw, no modification)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_9b6dd556",
   "title": "Grep sweep for shadow-card / human-gate / board / gate hits",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_ba8e0f13",
   "title": "Scan ADR/RFC/decision-named files regardless of extension",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_88a32933",
   "title": "Forensic dump: Hermes scheduler config dirs and cron registry",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_65540377",
   "title": "Recon gating/approval mentions in awesome-tollgate (all branches)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789388309,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_bc299463",
   "title": "Recon gating/approval mentions in tollgate-bash-client (all branches)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789388309,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_132bbc3b",
   "title": "Recon gating/approval mentions in tollgate-community-calls (all branches)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789388309,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_f9f75bd0",
   "title": "Search lab wiki/docs for thermal chamber ownership",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_c547fb46",
   "title": "Search shared calendars for thermal chamber events",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7ea22bcf",
   "title": "Search booking sheets/schedulers for thermal chamber reservations",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_d4f21d6a",
   "title": "Search Slack history for thermal chamber custodian evidence",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
