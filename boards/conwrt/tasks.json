@@ -2942,7 +2942,7 @@
  {
   "id": "t_6114fc25",
   "title": "Audit OpenVPN verbosity and log file settings",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_d2e0efba",
   "title": "Audit exception and error handlers for secret leakage",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_093151ee",
   "title": "Audit PIA module HTTP/HTTPS calls for plaintext and TLS issues",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506278,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_1adbf000",
   "title": "Audit PR #55 diff for plaintext and TLS issues",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506278,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_d373baa3",
   "title": "Audit PIA token persistence and file permissions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_abb266f9",
   "title": "Audit PIA token revocation and overwrite on exit",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_6336eacd",
   "title": "Locate design doc and identify credential sections",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,

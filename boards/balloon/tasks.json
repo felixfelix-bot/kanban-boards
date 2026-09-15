@@ -4706,7 +4706,7 @@
  {
   "id": "t_62a70b76",
   "title": "Merge and verify three audit tables into final app_task.cpp report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432629,
@@ -5222,7 +5222,7 @@
  {
   "id": "t_666a9283",
   "title": "Inventory candidate interface/persistence artifact files (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
@@ -5234,7 +5234,7 @@
  {
   "id": "t_0a7c66ce",
   "title": "Collect read-only multi-repo inventory table (path/branch/HEAD/remotes/worktree-of)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5246,7 +5246,7 @@
  {
   "id": "t_8c1d9c8a",
   "title": "Collect filename-sweep hits with verbatim quotes",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789472304,
@@ -5258,7 +5258,7 @@
  {
   "id": "t_1df693c2",
   "title": "Inventory docs/definitions hits across repos, verbatim, read-only",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5282,7 +5282,7 @@
  {
   "id": "t_3a4bf1b2",
   "title": "Inventory PAY/ACK wire-format candidates in tollgate-module-basic-go HEAD worktree",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789472812,
