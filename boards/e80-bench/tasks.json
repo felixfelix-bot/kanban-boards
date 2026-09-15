@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789365851,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Add concurrent per-relay-failover relay publisher with timeout + aggregate",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_de89bfda",
   "title": "Audit: kind 1059 has exactly one construction path with no plaintext fallback",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run process-restart determinism smoke test and report PASS/FAIL",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_0288d9c8",
   "title": "Verify docs: deterministic ephemeral key, unlinkability trade-off, created_at",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2642,7 +2642,7 @@
  {
   "id": "t_9d170792",
   "title": "Pin exact failover test command and inventory subset-accept / dead-relay coverage",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397045,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Verify bare relay.contextvm.org absent from firmware tools tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Verify runtime relay host set equals the five allowed hosts",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,

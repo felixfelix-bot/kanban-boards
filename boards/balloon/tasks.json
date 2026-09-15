@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
