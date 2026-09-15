@@ -4562,7 +4562,7 @@
  {
   "id": "t_7cc3931a",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire defs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789432548,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_fd17bd1c",
   "title": "Survey autopay/gate PAY-ACK code in fix/upstream-autopay-gate-open-retry worktree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789432559,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_1325d61b",
   "title": "Survey portal/payment PAY-ACK code in feat/portal-packaging worktree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789432559,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_ce95c1ed",
   "title": "Sweep all other ~/repos/tollgate-module-basic-go* paths for PAY-ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432559,

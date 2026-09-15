@@ -794,7 +794,7 @@
  {
   "id": "t_c345f02f",
   "title": "Audit defect quotes and locations in defects-d1-d5.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -818,7 +818,7 @@
  {
   "id": "t_7bd17fa3",
   "title": "Assemble the defects-d1-d5-review.md verdict document",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -974,7 +974,7 @@
  {
   "id": "t_c67f34c1",
   "title": "Prove config-snapshot + revert recovery path",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -986,7 +986,7 @@
  {
   "id": "t_6498840e",
   "title": "Capture pre-flight snapshot and baselines",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -998,7 +998,7 @@
  {
   "id": "t_d227db2a",
   "title": "Capture clock-sync evidence and go/no-go",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
