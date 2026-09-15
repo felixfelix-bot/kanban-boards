@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402314,
