@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Read-only PAY/ACK protocol sweep of balloon-fresh tracker firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789386211,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Audit parent A/B lists against dedup list and report all discrepancies",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396400,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401082,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_04470a31",
   "title": "Consolidate PAY/ACK wire-format candidates across both refs",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432548,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477699,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_12dd2916",
   "title": "Verify report artifact metadata",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_9667157d",
   "title": "Merge sweep shards, finalize classifications, emit filename-sweep report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789481141,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_afd46f54",
   "title": "Consolidate PAY/ACK findings; decide wire-format ownership",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496648,
