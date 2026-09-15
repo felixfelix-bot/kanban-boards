@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Read-only inventory of sibling tollgate repos: branch + 40-char HEAD sha",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
