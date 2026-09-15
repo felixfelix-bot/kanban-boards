@@ -5750,7 +5750,7 @@
  {
   "id": "t_080d29d8",
   "title": "List uncovered tollgate-* sibling roots (read-only recon)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789467083,
@@ -5762,7 +5762,7 @@
  {
   "id": "t_f338fd32",
   "title": "Recon shadow-card/human-gate mentions in tollgate-infrastructure-kit",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789467083,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_40b31055",
   "title": "Sweep roots and raw shadow-card/gate/board hits on master",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5786,7 +5786,7 @@
  {
   "id": "t_571ddc63",
   "title": "Inventory design-review-notes / ADR / decision / RFC docs on master",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_c4784391",
   "title": "Sweep git worktrees and flag MARKET feat/* branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789467406,
@@ -5834,7 +5834,7 @@
  {
   "id": "t_5a045e74",
   "title": "Enumerate doc roots and markdown files across MARKET repo",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789467406,
@@ -5846,7 +5846,7 @@
  {
   "id": "t_9e351ad0",
   "title": "Flag high-value design/ADR/RFC/gate markdown files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789467406,
@@ -5870,7 +5870,7 @@
  {
   "id": "t_4d02eadc",
   "title": "Harvest shadow-card/gate regex hits on feat/cvm-worker-nip53-status",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-cvm-worker-nip53-status",
   "created_at": 1789467470,
@@ -5882,7 +5882,7 @@
  {
   "id": "t_cdacd4a6",
   "title": "Inventory ADR/rfc/decision/design-review-notes files on the rev",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789467470,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_443453b2",
   "title": "Inventory doc roots and .md files on feat/nip53-improvements",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_dc3c3197",
   "title": "Sweep raw shadow-card/gate regex hits on feat/nip53-improvements",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_e782216e",
   "title": "Collect design-review/ADR/RFC docs from feat/nip53-improvements",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
