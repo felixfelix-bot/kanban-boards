@@ -3157,7 +3157,7 @@
  },
  {
   "id": "t_71c04a28",
-  "title": "Read-only sweep of tollgate-release-explorer-site for authoritative PAY/ACK wire-format spec",
+  "title": "Read-only sweep of tollgate-release-explorer-site for PAY/ACK wire-format spec",
   "status": "ready",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
@@ -3205,7 +3205,7 @@
  },
  {
   "id": "t_0f8b506c",
-  "title": "Extract citation + quote inventory from reconciliation/verdict result",
+  "title": "Extract citation and quote inventory from reconciliation/verdict result",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -3265,7 +3265,7 @@
  },
  {
   "id": "t_05ff9310",
-  "title": "Transcribe first parent sweep list (parent A) into a structured table with verbatim source lines",
+  "title": "Transcribe parent A sweep list into structured table with verbatim lines",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -4802,7 +4802,7 @@
  {
   "id": "t_91b427c5",
   "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_a8770ebe",
   "title": "Enumerate deduped CONFIG_ENABLE_* symbols and their declaration sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789440391,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_d33e1501",
   "title": "Map real #if/#ifdef guard sites for CONFIG_ENABLE_* symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789440391,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_126b0941",
   "title": "Enumerate and count every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
