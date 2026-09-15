@@ -3362,7 +3362,7 @@
  {
   "id": "t_e46964bf",
   "title": "Verify riscv32imc-unknown-none-elf cargo check for microfips-esp-common",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_24ccf7d1",
   "title": "Verify host cargo check for microfips-esp-common",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Locate include line and inventory all tollgate_proto_encode call sites in app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Inventory all tollgate_proto_decode call sites in app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit every TG_MSG_* constant use in app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
