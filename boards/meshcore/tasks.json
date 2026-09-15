@@ -2750,7 +2750,7 @@
  {
   "id": "t_51b4e2d9",
   "title": "Recon esp32-tollgate master for shadow-card / human-gate / board-approval mechanisms (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789366684,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_8f776e31",
   "title": "Re-derive cal <k> <T0> parser contract from firmware source with file:line citations",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789370705,
