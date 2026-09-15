@@ -6564,14 +6564,6 @@
   "repo": "balloon",
   "run_id": "dq05-1789342526"
  },
- "conwrt:t_3437ea0c": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789488817.6645138,
-  "ts": 1789487849.0367725,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789488753"
- },
  "balloon:t_878b6372": {
   "node": "dq05",
   "status": "claimed",
