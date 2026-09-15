@@ -1802,7 +1802,7 @@
  {
   "id": "t_23fdb6f3",
   "title": "Add GO-mode + legacy T0 fixtures and RED session-dir naming test",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789352682,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_8737548e",
   "title": "Verify GO-mode session_id tests pass and collect evidence",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_fd869618",
   "title": "Run boundary path twice and capture deterministic run-log basename",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_bad4c056",
   "title": "Record assertion+host sites for first chunk of first-half failures",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_bf3e2f32",
   "title": "Record assertion+host sites for second chunk of first-half failures",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,
