@@ -4681,7 +4681,7 @@
  },
  {
   "id": "t_a4ecb075",
-  "title": "Audit every tollgate_msg_hdr_t field access in app_task.cpp",
+  "title": "Audit all tollgate_msg_hdr_t field accesses in app_task.cpp",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -4693,7 +4693,7 @@
  },
  {
   "id": "t_a6217304",
-  "title": "Audit every tollgate_ack_payload_t field access in app_task.cpp",
+  "title": "Audit tollgate_ack_payload_t field accesses in app_task.cpp",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -4718,7 +4718,7 @@
  {
   "id": "t_a06764cc",
   "title": "Enumerate all price_sats consumers and their type/unit assumptions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432733,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432733,
@@ -4754,7 +4754,7 @@
  {
   "id": "t_7a3c1ff6",
   "title": "Enumerate and categorize all \\bseq\\b hits in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_a206c90b",
   "title": "Enumerate tollgate_/TG_PROTO_ consumer sites in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -4922,7 +4922,7 @@
  {
   "id": "t_4c471c69",
   "title": "Sweep: capture every CONFIG_ENABLE_* hit with guard form and context",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789448085,
@@ -4934,7 +4934,7 @@
  {
   "id": "t_99b727c7",
   "title": "Negative check: CONFIG_ENABLE_ hits outside .c/.h/CMake/Kconfig",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789448085,
@@ -4958,7 +4958,7 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_adbdc101",
   "title": "Extract all staleness and recency claims verbatim from the verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_6ff4a9f6",
   "title": "Merge command and claim inventories with cross-links and coverage notes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
