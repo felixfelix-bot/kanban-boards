@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789360361,

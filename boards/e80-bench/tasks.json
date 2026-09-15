@@ -3278,7 +3278,7 @@
  {
   "id": "t_8737548e",
   "title": "Verify GO-mode session_id tests pass and collect evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,

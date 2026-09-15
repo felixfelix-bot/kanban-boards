@@ -2713,7 +2713,7 @@
  },
  {
   "id": "t_a71964c3",
-  "title": "Audit verdict citations: verify every quote, path, and line number (read-only)",
+  "title": "Audit reconciliation/verdict citations: re-verify every path, line number, and quote (read-only)",
   "status": "ready",
   "priority": 1,
   "assignee": "manager",
@@ -3962,7 +3962,7 @@
  {
   "id": "t_16ae7427",
   "title": "Map TG_MSG_* constants and tollgate struct field accesses in app_task.cpp",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_158db7db",
   "title": "Classify all PAY-ACK hits and answer whether these paths own a wire format",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432559,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_62a70b76",
   "title": "Merge and verify three audit tables into final app_task.cpp report",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432629,
@@ -5330,7 +5330,7 @@
  {
   "id": "t_97238119",
   "title": "Run msg_type greps in balloon firmware and emit consolidated hit list",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477525,
@@ -5342,7 +5342,7 @@
  {
   "id": "t_8f34a07f",
   "title": "Analyze msg_type consumers in C/C++ files",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5354,7 +5354,7 @@
  {
   "id": "t_cad059ae",
   "title": "Analyze msg_type consumers in non-C/C++ and vendor dirs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5366,7 +5366,7 @@
  {
   "id": "t_36bf9cf2",
   "title": "Consolidate msg_type audit and write final report",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_895425ee",
   "title": "Extract and catalog every git log command from verdict text",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477699,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_a052210f",
   "title": "Inventory all merged/no-merged and other non-excluded git commands in verdict text",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_0e7859c9",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_26101640",
   "title": "Read-only sweep of tollgate-module-basic-go feat/cli-json-config-rebased for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e0947ab6",
   "title": "Read-only sweep of feat/portal-packaging worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789478203,
@@ -5462,7 +5462,7 @@
  {
   "id": "t_0984302a",
   "title": "Read-only PAY/ACK wire-format discovery in tollgate-module-basic-go (fix/upstream-autopay-gate-open-retry)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789478203,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_8a94325b",
   "title": "Synthesize PAY/ACK wire-format findings into final bucket A report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -6373,8 +6373,8 @@
  },
  {
   "id": "t_02b1e439",
-  "title": "Deep-read balloon PAY/ACK candidates batch C (indices 2,5,8,...)",
-  "status": "triage",
+  "title": "Deep-read balloon PAY/ACK candidates batch C (positions 2,5,8,11,...)",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789496025,
@@ -6421,8 +6421,8 @@
  },
  {
   "id": "t_517bdd43",
-  "title": "Enumerate CONFIG_* user files in tracker/firmware",
-  "status": "triage",
+  "title": "List files under tracker/firmware referencing CONFIG_* macros (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6433,8 +6433,8 @@
  },
  {
   "id": "t_2ff835fc",
-  "title": "Enumerate active direct sdkconfig.h includes in tracker/firmware",
-  "status": "triage",
+  "title": "Enumerate and classify active direct sdkconfig.h includes in tracker/firmware (read-only)",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_23e78080",
   "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
