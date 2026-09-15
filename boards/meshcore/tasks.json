@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits (read-only recon)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Read-only recon: scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_a1c8d252",
   "title": "Read-only recon: shadow-card/gate hits in feat/applesauce-wave-a",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789388685,

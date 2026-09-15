@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "READ-ONLY prep: capture microfips baseline + verify riscv32imc target",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract '## Mock protocol' section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_a6217304",
   "title": "Audit tollgate_ack_payload_t field accesses in app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,
@@ -4754,7 +4754,7 @@
  {
   "id": "t_7a3c1ff6",
   "title": "Enumerate and categorize 'seq' hits in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432748,
@@ -5294,7 +5294,7 @@
  {
   "id": "t_509864e8",
   "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY-ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472812,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_ab710dc5",
   "title": "Run price_sats grep sweeps and record branch",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5330,7 +5330,7 @@
  {
   "id": "t_97238119",
   "title": "Run msg_type greps and produce hit list",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_895425ee",
   "title": "Extract git log commands from verdict text",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_a052210f",
   "title": "Extract merged/other git commands from verdict text",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_0e7859c9",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_26101640",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e0947ab6",
   "title": "Sweep feat/portal-packaging worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789478203,
