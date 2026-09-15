@@ -3458,7 +3458,7 @@
  {
   "id": "t_ac4dcbbe",
   "title": "Create __main__.py stub and verify package import",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a450e70",
   "title": "Merge chunk tables into final first-half sites inventory and verify counts",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-merchant-qa",
   "created_at": 1789483898,

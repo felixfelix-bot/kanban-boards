@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Audit verdict citations: verify every quote, path, and line number (read-only)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_c00ad874",
   "title": "Audit and format the final decode-side report",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432394,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_ce95c1ed",
   "title": "Sweep all other ~/repos/tollgate-module-basic-go* paths for PAY-ACK wire format",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432559,
@@ -5125,8 +5125,8 @@
  },
  {
   "id": "t_6605608c",
-  "title": "Enumerate ~/repos/*tollgate* and partition into COVERED / SKIPPED / ADDITIONAL buckets",
-  "status": "triage",
+  "title": "Inventory ~/repos/*tollgate* and bucket into COVERED / SKIPPED / ADDITIONAL",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5149,8 +5149,8 @@
  },
  {
   "id": "t_ffca2b94",
-  "title": "Capture CONFIG_ guard grep in balloon-fresh firmware to /tmp",
-  "status": "triage",
+  "title": "Audit CONFIG_ preprocessor guards in balloon-fresh firmware, capture to /tmp",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5161,8 +5161,8 @@
  },
  {
   "id": "t_3012ce9b",
-  "title": "Run grep B and capture CONFIG_ ifdef matches",
-  "status": "triage",
+  "title": "Grep firmware tree for CONFIG_ #ifdef guards and record counts",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5173,8 +5173,8 @@
  },
  {
   "id": "t_f2c61768",
-  "title": "Capture defined(CONFIG_) grep matches from balloon firmware C sources",
-  "status": "triage",
+  "title": "Snapshot defined(CONFIG_) preprocessor guards in balloon firmware C sources",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5185,8 +5185,8 @@
  },
  {
   "id": "t_e87e7704",
-  "title": "Run CONFIG_ ifndef guard grep and capture count + keys",
-  "status": "triage",
+  "title": "Grep CONFIG_ ifndef guards in balloon-fresh firmware and report count + keys",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5401,8 +5401,8 @@
  },
  {
   "id": "t_a052210f",
-  "title": "Extract all merged/no-merged and other git commands from verdict text",
-  "status": "triage",
+  "title": "Inventory all merged/no-merged and other non-excluded git commands in verdict text",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5425,8 +5425,8 @@
  },
  {
   "id": "t_0e7859c9",
-  "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire format",
-  "status": "triage",
+  "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire-format spec",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,
@@ -5437,8 +5437,8 @@
  },
  {
   "id": "t_26101640",
-  "title": "Sweep feat/cli-json-config-rebased tollgate-module-basic-go for PAY/ACK wire format",
-  "status": "triage",
+  "title": "Read-only sweep of tollgate-module-basic-go feat/cli-json-config-rebased for PAY/ACK wire format",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -6038,7 +6038,7 @@
  {
   "id": "t_dea16b79",
   "title": "Map Kconfig `config ENABLE_*` lines to `CONFIG_ENABLE_*` symbols with file:line evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6086,7 +6086,7 @@
  {
   "id": "t_4be0894d",
   "title": "Enumerate all CONFIG_ENABLE_* symbols in firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6134,7 +6134,7 @@
  {
   "id": "t_4b0489bc",
   "title": "Verify branch and capture repo state",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6182,7 +6182,7 @@
  {
   "id": "t_62f9bd9c",
   "title": "Exact grep for symbols 1-3: tollgate_msg_hdr_t, ack_payload, TG_MSG_PAY",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6194,7 +6194,7 @@
  {
   "id": "t_6f639f0d",
   "title": "Exact grep for symbols 4-6: TG_MSG_ACK, tollgate_proto_encode/decode",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6350,7 +6350,7 @@
  {
   "id": "t_fc9e6af7",
   "title": "Deep-read balloon PAY/ACK candidates (batch A: indices 0,3,6,...)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496025,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_ad0c7f06",
   "title": "Deep-read balloon PAY/ACK candidates (batch B: indices 1,4,7,...)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496025,

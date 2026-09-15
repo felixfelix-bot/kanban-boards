@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc credential model against threat model",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_7595eeea",
   "title": "Inventory every normative claim in the conwrt PR #55 proposal doc",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_f977d7e6",
   "title": "Consolidate DNS-leak audit findings into numbered file:line report",
-  "status": "todo",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497488,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
