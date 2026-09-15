@@ -446,7 +446,7 @@
  {
   "id": "t_8f4b68e5",
   "title": "Triage conwrt defect D3: cite file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -458,7 +458,7 @@
  {
   "id": "t_f190ff39",
   "title": "Triage conwrt defect D4: file:line, impact, blocking verdict, minimal fix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -470,7 +470,7 @@
  {
   "id": "t_71648d2f",
   "title": "Triage conwrt defect D5: cite file:line, runtime impact, SSH-run blocking verdict, minimal fix",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -590,7 +590,7 @@
  {
   "id": "t_43986c9f",
   "title": "Extract net4sats LAN-move recipe key path and verbatim commands from docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "configurationwizzard-feature-upstream-wi",
   "created_at": 1789365999,
@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

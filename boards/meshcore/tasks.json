@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
