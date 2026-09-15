@@ -2318,7 +2318,7 @@
  {
   "id": "t_3e85646d",
   "title": "Classify all PAY/ACK candidates from sibling-tollgate sweep (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_8281c7f5",
   "title": "Enumerate sibling tollgate repos with branch and HEAD sha (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789386211,
