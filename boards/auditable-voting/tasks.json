@@ -326,19 +326,19 @@
  {
   "id": "t_cddeda7a",
   "title": "P2-T2: Cross-feature integration tests",
-  "status": "running",
+  "status": "done",
   "priority": 11,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162152,
   "started_at": 1789473652,
-  "completed_at": 1789483153,
+  "completed_at": 1789506230,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_af37c6c9",
   "title": "P2-T3: E2E smoke test",
-  "status": "todo",
+  "status": "ready",
   "priority": 12,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,
