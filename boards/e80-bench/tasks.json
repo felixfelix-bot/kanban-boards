@@ -1802,7 +1802,7 @@
  {
   "id": "t_23fdb6f3",
   "title": "Add fixtures + RED test pinning frozen session-dir naming (GO-mode `s<sid>-go<epoch>`, legacy T0 unchanged)",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789352682,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "Add RED test: GO-mode session_id equals ARMED value",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,

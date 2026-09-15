@@ -1190,7 +1190,7 @@
  {
   "id": "t_7c2b677e",
   "title": "Merge three search shards into recon/human-gate-board-decision-notes.md",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351028,
@@ -1202,7 +1202,7 @@
  {
   "id": "t_83fa11ee",
   "title": "Read-only BFS trace of kanban graph anchored at t_aaf1cda6 (depth<=3, <=40 rows)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_fdc51e76",
   "title": "Walk bench once, emit INST-nn frequency-instrument roster with Excluded items and Flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3314,7 +3314,7 @@
  {
   "id": "t_08f0587e",
   "title": "Compute added DUT-to-instrument insertion loss and rule on recalibration",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789372904,

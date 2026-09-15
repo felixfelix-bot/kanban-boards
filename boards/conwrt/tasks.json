@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit tollgate LAN-move verdict against docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back provenance verdict vs tollgate-lan-move note",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_4d9187ea",
   "title": "Extract D-ID set from runbook with inventory cross-check",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,

@@ -3146,7 +3146,7 @@
  {
   "id": "t_644f0cc7",
   "title": "Sweep tollgate-quaterly-reports for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789396021,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71c04a28",
   "title": "Read-only sweep of tollgate-release-explorer-site for PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789396021,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_0f8b506c",
   "title": "Extract citation and quote inventory from reconciliation/verdict result",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
