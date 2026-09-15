@@ -434,7 +434,7 @@
  {
   "id": "t_de1259b2",
   "title": "Gate: verify serial link + MeshCore fork branch/SHA on Board A",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339677,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_5296975e",
   "title": "Merge recon tables into one normalised gating report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,

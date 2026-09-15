@@ -2222,7 +2222,7 @@
  {
   "id": "t_9a7b4e9d",
   "title": "Code-check DNS claims (resolver pinning, leak prevention, port-53 block)",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,
@@ -2234,9 +2234,9 @@
  {
   "id": "t_e87493a5",
   "title": "Code-check kill-switch claims (behavior on tunnel drop)",
-  "status": "triage",
+  "status": "todo",
   "priority": 3,
-  "assignee": "worker-base",
+  "assignee": "manager",
   "created_at": 1789497502,
   "started_at": null,
   "completed_at": null,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_d1541ce3",
   "title": "Assemble final credential model review markdown",
-  "status": "todo",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501738,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_cb75393a",
   "title": "Checkout PR #55 in conwrt and verify pinned commit ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505726,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_e8f88f2f",
   "title": "Compile categorized changed-file inventory",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505726,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_06b8290b",
   "title": "Capture PR #55 diff and merge-base stat to /tmp",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505733,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_a0b5b36f",
   "title": "Identify DNS-relevant files in PR #55 diff",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505733,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_902dac55",
   "title": "Grep resolver config patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_fdaa2cb8",
   "title": "Grep conwrt@ec5c60d9 for DNS/DHCP resolver patterns",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_c9f42ce0",
   "title": "Grep tunnel lifecycle patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_0e9f37b1",
   "title": "Enumerate all tunnel lifecycle hooks in PR #55",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_c6ed9ca0",
   "title": "Identify DNS mutation points in tunnel hooks",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_fd595134",
   "title": "Inventory iptables/ip6tables/nftables kill-switch rules at ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_6965ed5b",
   "title": "Inventory routing/DNS leak-prevention mechanisms at ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
@@ -4494,6 +4494,42 @@
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789509861,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a65e0d3c",
+  "title": "Trace kill-switch traffic-blocking & route-table code at PR #55 head",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789510343,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_57948e59",
+  "title": "Trace kill-switch watchdog, reconnect & shutdown-path code",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "worker-reviewer-qwen",
+  "created_at": 1789510343,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_1359b8f3",
+  "title": "Assemble final kill-switch property/status table from evidence",
+  "status": "todo",
+  "priority": 3,
+  "assignee": "worker-reviewer-kimi",
+  "created_at": 1789510343,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

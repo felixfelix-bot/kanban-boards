@@ -1682,7 +1682,7 @@
  {
   "id": "t_ca11448d",
   "title": "Assemble six-symbol tollgate grep accounting report (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789346669,
@@ -1790,7 +1790,7 @@
  {
   "id": "t_96ea4fcf",
   "title": "Recon relay_types.h framing + CONFIG_ENABLE_TOLLGATE guard conventions",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789348587,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_b3e60bd1",
   "title": "Grep $HOME/repos for six tollgate PAY/ACK symbols; record hits in docs/recon/raw_symbol_grep.md",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789353577,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_cef4342d",
   "title": "Sweep balloon-fresh repo read-only for existing PAY/ACK protocol artifacts",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_1d90863e",
   "title": "Assemble and deliver the final six-symbol tollgate grep accounting report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789384434,
@@ -2822,7 +2822,7 @@
  {
   "id": "t_b2534cf7",
   "title": "Inventory tollgate-rs repos: paths, branch, HEAD, remotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385366,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_762d13c0",
   "title": "Assemble final tollgate-rs repo inventory report",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404805,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute sdkconfig.h gap set and trace include chains (steps 3-4)",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432333,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f2a71963",
   "title": "Assemble final sdkconfig.h evidence report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432333,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_468339f2",
   "title": "Infer tollgate_proto_decode signature from app_task.cpp call sites",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432394,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_04c5f044",
   "title": "Inventory tollgate symbols referenced but not defined in app_task.cpp",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432394,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_c00ad874",
   "title": "Audit and format the final decode-side report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432394,
@@ -6157,8 +6157,8 @@
  },
  {
   "id": "t_62489538",
-  "title": "Compute per-symbol CONFIG_ENABLE_* counts",
-  "status": "triage",
+  "title": "Count per-symbol CONFIG_ENABLE_* occurrences in balloon-fresh firmware",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6278,7 +6278,7 @@
  {
   "id": "t_a7ebdfc8",
   "title": "Audit awesome-tollgate for normative PAY/ACK spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789486556,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize upstream PAY/ACK spec audit and issue bottom-line call",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,
@@ -6326,7 +6326,7 @@
  {
   "id": "t_0d1323ad",
   "title": "Infer tollgate_ack_payload_t struct layout from app_task.cpp usage",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789487004,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_f01441e6",
   "title": "Assemble STEP 3 block and merged FIELDS_TO_RESOLVE list",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,
