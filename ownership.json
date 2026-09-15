@@ -5141,6 +5141,27 @@
   "ts": 1789361542.8957248,
   "repo": "conwrt"
  },
+ "conwrt:t_71648d2f": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789450610.1511724,
+  "ts": 1789450610.1511724,
+  "repo": "conwrt"
+ },
+ "conwrt:t_f190ff39": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789450611.6334722,
+  "ts": 1789450611.6334722,
+  "repo": "conwrt"
+ },
+ "conwrt:t_8f4b68e5": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789450613.0617664,
+  "ts": 1789450613.0617664,
+  "repo": "conwrt"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
