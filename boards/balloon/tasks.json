@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_03b6c934",
   "title": "Grep wire-format keywords across HEAD and CLI/JSON worktrees",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_d5a1daec",
   "title": "Inventory tollgate_proto_encode/decode call sites in app_task.cpp",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe HEAD versioned docs/spec dirs for claim contradictions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Read-only probe of release/annotated tags for claim contradictions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_04470a31",
   "title": "Consolidate PAY/ACK wire-format candidates across both refs",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432548,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_c9ffea68",
   "title": "Consolidate tollgate_proto_encode/decode audit into one verbatim report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432614,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_c17f0ce9",
   "title": "Pin revision, restate sweep grep, report negative-check output",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6529,8 +6529,8 @@
  },
  {
   "id": "t_b0948fe0",
-  "title": "Classify every CONFIG_ENABLE_* hit as GUARD / BUILD / COMMENT / STRING",
-  "status": "triage",
+  "title": "Classify every CONFIG_ENABLE_* hit as GUARD / BUILD-SYSTEM / COMMENT-ONLY / STRING-LITERAL",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,

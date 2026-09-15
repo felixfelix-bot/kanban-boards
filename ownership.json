@@ -7682,33 +7682,35 @@
  },
  "conwrt:t_c4228a1e": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789501630.685917,
+  "status": "done",
+  "updated": 1789501700.3533585,
   "ts": 1789500090.0437794,
   "repo": "conwrt",
   "run_id": "cobrador-1789501630"
  },
  "conwrt:t_f34e1ecd": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789501632.5342093,
+  "status": "failed",
+  "updated": 1789501702.529025,
   "ts": 1789500090.0549788,
   "repo": "conwrt",
   "run_id": "cobrador-1789501632"
  },
  "conwrt:t_01250dd9": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789500257.1495335,
+  "status": "running",
+  "updated": 1789501905.0497696,
   "ts": 1789500090.065031,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789501905"
  },
  "conwrt:t_8eea4655": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789500259.053094,
+  "status": "running",
+  "updated": 1789501907.0326986,
   "ts": 1789500090.0752373,
-  "repo": "conwrt"
+  "repo": "conwrt",
+  "run_id": "cobrador-1789501907"
  },
  "conwrt:t_ad028364": {
   "node": "cobrador",

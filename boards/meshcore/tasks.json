@@ -3482,7 +3482,7 @@
  {
   "id": "t_88a32933",
   "title": "Forensic dump: Hermes scheduler config dirs and cron registry",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_f9f75bd0",
   "title": "Search lab wiki/docs for thermal chamber ownership",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_c547fb46",
   "title": "Search shared calendars for thermal chamber events",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7ea22bcf",
   "title": "Search booking sheets/schedulers for thermal chamber reservations",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6398,7 +6398,7 @@
  {
   "id": "t_256eab83",
   "title": "Synthesize custodian evidence into structured results",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_d4f21d6a",
   "title": "Search Slack history for thermal chamber custodian evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
