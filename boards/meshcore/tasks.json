@@ -1358,7 +1358,7 @@
  {
   "id": "t_56718709",
   "title": "Inventory doc surfaces (docs roots, .md, ADR/RFC) per repo/worktree",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351146,

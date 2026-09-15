@@ -1802,7 +1802,7 @@
  {
   "id": "t_23fdb6f3",
   "title": "Add fixtures + RED tests pinning frozen session-dir naming contract",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789352682,
