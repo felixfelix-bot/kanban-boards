@@ -6098,8 +6098,8 @@
  },
  "conwrt:t_3f50216e": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789474603.8144712,
+  "status": "done",
+  "updated": 1789475160.8699837,
   "ts": 1789473853.3456933,
   "repo": "conwrt",
   "run_id": "cobrador-1789474603"
@@ -6152,11 +6152,19 @@
  },
  "conwrt:t_dedc85ff": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789474824.7689025,
+  "status": "failed",
+  "updated": 1789474891.3587437,
   "ts": 1789474824.7689025,
   "repo": "conwrt",
   "run_id": "cobrador-1789474824"
+ },
+ "conwrt:t_c05e8747": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1789475162.7065403,
+  "ts": 1789475093.0025725,
+  "repo": "conwrt",
+  "run_id": "cobrador-1789475092"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

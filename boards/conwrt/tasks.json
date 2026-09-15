@@ -914,7 +914,7 @@
  {
   "id": "t_c05e8747",
   "title": "Locate and classify the net4sats LAN-move IP token in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -938,7 +938,7 @@
  {
   "id": "t_dedc85ff",
   "title": "Enumerate writers of docs/wizard-bundle.json and classify the IP sources feeding the net4sats LAN-move block",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -986,7 +986,7 @@
  {
   "id": "t_6498840e",
   "title": "Capture pre-flight snapshot and baselines",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -998,7 +998,7 @@
  {
   "id": "t_d227db2a",
   "title": "Capture clock-sync evidence and go/no-go",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1058,7 +1058,7 @@
  {
   "id": "t_3f50216e",
   "title": "Merge audit findings into final report",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
