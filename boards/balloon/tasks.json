@@ -3494,7 +3494,7 @@
  {
   "id": "t_bc19acb1",
   "title": "Trace the include or build flag bringing CONFIG_ENABLE_* into scope in balloon firmware (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_09201955",
   "title": "Read-only audit of tollgate_payment_proto.h: verbatim symbol table",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_5f83c272",
   "title": "Audit tollgate_payment_proto.h consumers for convention drift",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789407847,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432333,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_468339f2",
   "title": "Infer tollgate_proto_decode signature with cited call sites",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432394,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_04c5f044",
   "title": "List tollgate symbols undefined in app_task.cpp via read-only search",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
@@ -5294,7 +5294,7 @@
  {
   "id": "t_509864e8",
   "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY-ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472812,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_ab710dc5",
   "title": "Run price_sats grep sweeps and record branch",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5330,7 +5330,7 @@
  {
   "id": "t_97238119",
   "title": "Run msg_type greps and produce hit list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_895425ee",
   "title": "Extract git log commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5402,7 +5402,7 @@
  {
   "id": "t_a052210f",
   "title": "Extract merged/other git commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_0e7859c9",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,

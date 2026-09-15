@@ -1814,7 +1814,7 @@
  {
   "id": "t_eb083ec2",
   "title": "Verify RED/GREEN evidence and clean tree for Gate1",
-  "status": "todo",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_9c5019f0",
   "title": "Implement GO-mode session_id from ARMED payload",
-  "status": "todo",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_de234528",
   "title": "Extract ordered failing node-id list and half boundary from pytest log",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

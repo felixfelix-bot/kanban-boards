@@ -2270,7 +2270,7 @@
  {
   "id": "t_75ddf77a",
   "title": "Load and probe each candidate ramp log (raw, no modification)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_9b6dd556",
   "title": "Grep sweep for shadow-card / human-gate / board / gate hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_ba8e0f13",
   "title": "Scan ADR/RFC/decision-named files regardless of extension",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_4c2d42fe",
   "title": "Search Matrix history for thermal chamber custodian evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_edec6674",
   "title": "Search Slack/Matrix history for calibration/maintenance actors",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,
