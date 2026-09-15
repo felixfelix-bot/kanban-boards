@@ -290,7 +290,7 @@
  {
   "id": "t_7605c05e",
   "title": "Capture pre-flight snapshots, reboot-surviving baselines and clock evidence",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
