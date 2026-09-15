@@ -2738,7 +2738,7 @@
  {
   "id": "t_982c341b",
   "title": "Inventory randomness sources on the gift-wrap key-derivation path",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_cfa1c67e",
   "title": "Document exact test invocation, conftest, and env for e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401613,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e59cdfe9",
   "title": "Audit failover/publisher tests for real network primitives",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,

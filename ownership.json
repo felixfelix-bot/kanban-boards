@@ -5008,14 +5008,6 @@
   "updated": 1789436642.6574605,
   "ts": 1789436642.6574605
  },
- "conwrt:t_fa3c1eb0": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789440340.8803728,
-  "ts": 1789438835.7012792,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789439049"
- },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
