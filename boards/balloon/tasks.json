@@ -2834,7 +2834,7 @@
  {
   "id": "t_d6a19903",
   "title": "Read-only sweep tollgate-rs repos for PAY/ACK wire format definitions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385366,
@@ -2846,7 +2846,7 @@
  {
   "id": "t_88a37cad",
   "title": "Audit tollgate-rs design-review/RFC/ADR refs for PAY/ACK wire spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789385366,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_cb852ca9",
   "title": "Census CONFIG_* guard idioms (#if/#ifdef/#if defined) in balloon-fresh firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789385488,

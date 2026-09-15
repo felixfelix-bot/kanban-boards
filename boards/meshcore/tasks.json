@@ -1202,7 +1202,7 @@
  {
   "id": "t_83fa11ee",
   "title": "Read-only BFS trace of kanban graph anchored at t_aaf1cda6 (depth<=3, <=40 rows)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_982de6da",
   "title": "Read-only sweep of all board rows for human-gate/shadow-card terms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351050,
@@ -1298,7 +1298,7 @@
  {
   "id": "t_d9354cfc",
   "title": "Read-only recon: enumerate all local git repos with metadata, split into 3 contiguous buckets",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351127,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_a537662d",
   "title": "Read-only recon: gate/shadow-card/approval hits on fips OTA branch",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "fips-feature-three-node-ota-antenna-vali",
   "created_at": 1789366684,
@@ -2798,7 +2798,7 @@
  {
   "id": "t_4f4d56b0",
   "title": "Read-only recon sx1280-testing@master for gate/shadow-card hits",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "sx1280-testing-master",
   "created_at": 1789366684,
