@@ -2954,11 +2954,11 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232 (reviews + triage)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
-  "started_at": null,
+  "started_at": 1789456017,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
