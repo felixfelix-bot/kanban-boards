@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host sites for second half of failures in e80 log",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Write docs/_recon/range-check.md: verified citations + real example",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,

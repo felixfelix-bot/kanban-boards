@@ -2774,7 +2774,7 @@
  {
   "id": "t_0a983be4",
   "title": "Audit PIA network transport for plaintext and TLS issues",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501883,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_aba88b86",
   "title": "Audit PIA token caching and persistence",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501883,

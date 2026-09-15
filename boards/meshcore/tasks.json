@@ -3122,7 +3122,7 @@
  {
   "id": "t_b6144fc6",
   "title": "Compile consolidated bench frequency inventory markdown table",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,

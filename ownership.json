@@ -7616,16 +7616,16 @@
  },
  "conwrt:t_aba88b86": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789505264.3176947,
+  "status": "failed",
+  "updated": 1789505336.97439,
   "ts": 1789502419.114093,
   "repo": "conwrt",
   "run_id": "cobrador-1789505264"
  },
  "conwrt:t_0a983be4": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789505266.9784048,
+  "status": "failed",
+  "updated": 1789505339.0308578,
   "ts": 1789502420.7033644,
   "repo": "conwrt",
   "run_id": "cobrador-1789505266"
