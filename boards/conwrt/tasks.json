@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc's credential model against threat model",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Hunt templates, heredocs, and build hooks rendering the LAN-move block",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
