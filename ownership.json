@@ -10491,6 +10491,13 @@
   "ts": 1789513023.092671,
   "repo": "market"
  },
+ "auditable-voting:t_af37c6c9": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789515082.2777152,
+  "ts": 1789515082.2777152,
+  "repo": "auditable-voting"
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",

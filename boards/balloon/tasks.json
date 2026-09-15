@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -5366,7 +5366,7 @@
  {
   "id": "t_36bf9cf2",
   "title": "Consolidate msg_type audit and write final report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -6542,7 +6542,7 @@
  {
   "id": "t_927ba0fb",
   "title": "Per-flag rollup of CONFIG_ENABLE_* consumption sites incl. zero-usage flags",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6890,7 +6890,7 @@
  {
   "id": "t_e7483ea5",
   "title": "Scan verdict text for git command patterns",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499951,
@@ -6914,7 +6914,7 @@
  {
   "id": "t_f191919c",
   "title": "Normalize docs/spec sweep findings into verified hits",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6926,7 +6926,7 @@
  {
   "id": "t_f05e1193",
   "title": "Normalize firmware code sweep findings into verified hits",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6950,7 +6950,7 @@
  {
   "id": "t_694df0c3",
   "title": "Locate and reconstruct parent A, parent B, and dedup list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500014,
@@ -6998,7 +6998,7 @@
  {
   "id": "t_68802b59",
   "title": "Collect per-path git log recency evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
@@ -7010,7 +7010,7 @@
  {
   "id": "t_8d191b45",
   "title": "Collect branch containment and rename-duplicate evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
@@ -7034,7 +7034,7 @@
  {
   "id": "t_3067d9d2",
   "title": "Validate repo branch, commit SHA, and clean tree",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7046,7 +7046,7 @@
  {
   "id": "t_b510637a",
   "title": "Re-extract recorded section and byte-diff against transcript",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7058,7 +7058,7 @@
  {
   "id": "t_aa579a5a",
   "title": "Self-verify quotes and re-run transcription sanity checks",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7082,7 +7082,7 @@
  {
   "id": "t_b05b78e9",
   "title": "Deduplicate and validate tollgate-rs path list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500321,
@@ -7130,7 +7130,7 @@
  {
   "id": "t_167fe068",
   "title": "Resolve tollgate-bash-client repo identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7142,7 +7142,7 @@
  {
   "id": "t_844e7e43",
   "title": "Sweep code/config files for PAY/ACK protocol evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7154,7 +7154,7 @@
  {
   "id": "t_58d8da1a",
   "title": "Inspect docs and schemas for PAY/ACK message exchange",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7166,7 +7166,7 @@
  {
   "id": "t_5ca0b03c",
   "title": "Resolve tollgate-rs repo identity",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7178,7 +7178,7 @@
  {
   "id": "t_e2633097",
   "title": "Sweep tollgate-rs filenames for PAY/ACK candidates",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7190,7 +7190,7 @@
  {
   "id": "t_6a15c2b9",
   "title": "Grep tollgate-rs content for PAY/ACK wire-format terms",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7202,7 +7202,7 @@
  {
   "id": "t_9ad6d7b9",
   "title": "Inspect tollgate-rs Rust structs and design notes for PAY/ACK",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7226,7 +7226,7 @@
  {
   "id": "t_c829db53",
   "title": "Resolve tollgate-infrastructure-kit repo path and record identity",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789500856,
@@ -7274,7 +7274,7 @@
  {
   "id": "t_c65d457c",
   "title": "Resolve tollgate-community-calls repo path and record git identity",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789500881,
@@ -7322,7 +7322,7 @@
  {
   "id": "t_020f2c8a",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789500955,
@@ -7334,7 +7334,7 @@
  {
   "id": "t_0f60b8fe",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789500955,
@@ -7346,7 +7346,7 @@
  {
   "id": "t_d8ad0368",
   "title": "Enumerate and sweep remaining tollgate repos for PAY/ACK",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500955,

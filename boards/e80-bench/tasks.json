@@ -1430,7 +1430,7 @@
  {
   "id": "t_4b3c740b",
   "title": "GO-mode session_id copied verbatim from ARMED payload (legacy + derive_t0 untouched)",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789344272,
@@ -3494,7 +3494,7 @@
  {
   "id": "t_4c814646",
   "title": "Parse pytest log and report failure count and node ids",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,

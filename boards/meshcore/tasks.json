@@ -1178,7 +1178,7 @@
  {
   "id": "t_cf3b6c77",
   "title": "Scan sibling worktrees and adjacent note stores for gate artifacts",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351028,
