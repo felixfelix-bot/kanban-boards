@@ -3674,7 +3674,7 @@
  {
   "id": "t_84588e4a",
   "title": "Audit Kconfig/Kconfig.projbuild for ENABLE_* declarations in balloon firmware (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3be12518",
   "title": "Read-only probe: stale/divergent vendored, submodule, and fork copies of the reconciled artifact",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789404772,
@@ -3794,7 +3794,7 @@
  {
   "id": "t_d4a62f89",
   "title": "Read-only inventory of all tollgate-rs repo paths and linked worktrees",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789404805,

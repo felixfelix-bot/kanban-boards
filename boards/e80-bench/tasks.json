@@ -2198,7 +2198,7 @@
  {
   "id": "t_a914aae0",
   "title": "Add failover relay publisher with per-relay timeout + aggregate",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_de89bfda",
   "title": "Audit: kind 1059 has exactly one production construction path and no plaintext/kind-1 fallback",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_80de2076",
   "title": "Run two-process determinism smoke test for giftwrap event-id generation, report PASS/FAIL",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_0288d9c8",
   "title": "Audit CVM wrap docs: deterministic eph key, unlinkability cost, created_at",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2690,7 +2690,7 @@
  {
   "id": "t_ad1690e0",
   "title": "Static-verify bare relay.contextvm.org absent from firmware/e80-stm32-bench/tools/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2702,7 +2702,7 @@
  {
   "id": "t_a5c84ae6",
   "title": "Verify runtime relay host set equals the five allowed hosts",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_8366a8de",
   "title": "Inventory key-material env vars and key params under firmware/e80-stm32-bench/tools/",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440487,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_a882b2b1",
   "title": "Locate NIP-59 gift-wrap choke-point and extract canonical spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440542,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_ef0e23fe",
   "title": "Pin exact pytest command for STM32 bench publisher/relay failover suite",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789440754,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_bcc5ca2a",
   "title": "Grep-sweep firmware/e80-stm32-bench/tools for kind 1059 / gift-wrap symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_09495a6d",
   "title": "Produce verbatim grep evidence that gift-wrap path emits no plaintext/kind-1 event",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-inspector",
   "created_at": 1789440818,

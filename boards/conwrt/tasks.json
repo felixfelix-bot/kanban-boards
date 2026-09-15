@@ -734,7 +734,7 @@
  {
   "id": "t_b7afb5d4",
   "title": "Reconcile net4sats findings with worker note and emit verdict report",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -770,7 +770,7 @@
  {
   "id": "t_3f7d705a",
   "title": "Reconcile tollgate audit verdicts vs worker note; emit CORRECTION lines",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789380019,
@@ -926,7 +926,7 @@
  {
   "id": "t_cb02d695",
   "title": "Analyze derive_device_secret.py emitted fields and outputs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -938,7 +938,7 @@
  {
   "id": "t_dedc85ff",
   "title": "Enumerate writers/templates that produce docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
