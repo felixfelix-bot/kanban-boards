@@ -3854,7 +3854,7 @@
  {
   "id": "t_5296975e",
   "title": "Merge recon tables into one normalised gating report",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,

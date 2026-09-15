@@ -4518,7 +4518,7 @@
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789505055,
-  "started_at": null,
+  "started_at": 1789511527,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"

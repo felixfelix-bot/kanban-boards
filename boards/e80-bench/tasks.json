@@ -2378,7 +2378,7 @@
  {
   "id": "t_0e7a2959",
   "title": "Verify relay host set: boundary grep + runtime five-host assert",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789380049,
