@@ -6362,7 +6362,7 @@
  {
   "id": "t_f9f75bd0",
   "title": "Search lab wiki/docs for thermal chamber ownership",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_c547fb46",
   "title": "Search shared calendars for thermal chamber events",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7ea22bcf",
   "title": "Search booking sheets/schedulers for thermal chamber reservations",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477104,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_89de3177",
   "title": "Search wiki/docs for controller software admin info",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_20036ff6",
   "title": "Search booking/admin panels for admin info",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477167,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_25f935b8",
   "title": "Locate thermal chamber calendars and booking tools",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_43a2de9b",
   "title": "Review physical logbook for maintenance/calibration actors",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477199,

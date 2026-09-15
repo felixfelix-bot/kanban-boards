@@ -3218,7 +3218,7 @@
  {
   "id": "t_07f88d67",
   "title": "Verify each citation against actual files",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_e9be6dbc",
   "title": "Trace CONFIG_ENABLE_ include chain in balloon firmware (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432315,
@@ -5006,7 +5006,7 @@
  {
   "id": "t_2a3627f7",
   "title": "Analyze sweep output and produce PAY/ACK classification report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5090,7 +5090,7 @@
  {
   "id": "t_cacc743c",
   "title": "Detail struct/union/enum layouts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5222,7 +5222,7 @@
  {
   "id": "t_666a9283",
   "title": "Enumerate candidate interface and persistence artifact files",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,
@@ -5234,7 +5234,7 @@
  {
   "id": "t_0a7c66ce",
   "title": "Collect inventory table across repos",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5246,7 +5246,7 @@
  {
   "id": "t_8c1d9c8a",
   "title": "Collect filename-sweep hits with verbatim quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5258,7 +5258,7 @@
  {
   "id": "t_1df693c2",
   "title": "Collect docs/definitions inventory hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5282,7 +5282,7 @@
  {
   "id": "t_3a4bf1b2",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY-ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789472812,
@@ -6038,7 +6038,7 @@
  {
   "id": "t_dea16b79",
   "title": "Map Kconfig config ENABLE_* to CONFIG_ENABLE_*",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481777,
@@ -6086,7 +6086,7 @@
  {
   "id": "t_4be0894d",
   "title": "Enumerate all CONFIG_ENABLE_* symbols in firmware tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6134,7 +6134,7 @@
  {
   "id": "t_4b0489bc",
   "title": "Verify branch and capture repo state",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,
@@ -6182,7 +6182,7 @@
  {
   "id": "t_62f9bd9c",
   "title": "Exact grep for symbols 1-3: tollgate_msg_hdr_t, ack_payload, TG_MSG_PAY",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6194,7 +6194,7 @@
  {
   "id": "t_6f639f0d",
   "title": "Exact grep for symbols 4-6: TG_MSG_ACK, tollgate_proto_encode/decode",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6206,7 +6206,7 @@
  {
   "id": "t_ce1183c3",
   "title": "Case-insensitive near-miss sweep for tollgate PAY/ACK variants",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789485224,
@@ -6254,7 +6254,7 @@
  {
   "id": "t_cfc4f557",
   "title": "Audit esp32-tollgate for normative PAY/ACK spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789486556,
@@ -6266,7 +6266,7 @@
  {
   "id": "t_66bd890c",
   "title": "Audit tollgate-module-basic-go for normative PAY/ACK spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789486556,
@@ -6278,7 +6278,7 @@
  {
   "id": "t_a7ebdfc8",
   "title": "Audit awesome-tollgate for normative PAY/ACK spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789486556,
@@ -6290,7 +6290,7 @@
  {
   "id": "t_836254e8",
   "title": "Audit tollgate-rs for normative PAY/ACK spec",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789486556,
@@ -6314,7 +6314,7 @@
  {
   "id": "t_bf3fed20",
   "title": "Infer tollgate_msg_hdr_t struct layout from app_task.cpp usage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789487004,
@@ -6326,7 +6326,7 @@
  {
   "id": "t_0d1323ad",
   "title": "Infer tollgate_ack_payload_t struct layout from app_task.cpp usage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789487004,

@@ -7015,6 +7015,18 @@
   "updated": 1789492070.7599404,
   "ts": 1789492070.7599404
  },
+ "balloon:t_cacc743c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789493836.5288277,
+  "ts": 1789493836.5288277
+ },
+ "balloon:t_2a3627f7": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789493836.539292,
+  "ts": 1789493836.539292
+ },
  "tollgate:t_fdd603ef": {
   "node": "dq05",
   "status": "done",
