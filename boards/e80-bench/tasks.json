@@ -1814,7 +1814,7 @@
  {
   "id": "t_eb083ec2",
   "title": "Verify RED/GREEN evidence and clean tree for Gate1",
-  "status": "done",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_3e6d33e0",
   "title": "Consolidate criterion (c) verification report with raw evidence",
-  "status": "done",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397061,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_9c5019f0",
   "title": "Implement GO-mode session_id from ARMED payload",
-  "status": "done",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_6ef787ae",
   "title": "Confirm merge status and write audit report",
-  "status": "done",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789471497,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_d057823e",
   "title": "Push branch and verify tracking",
-  "status": "todo",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471517,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_fea6d6cd",
   "title": "Analyze kind 1059 choke-point",
-  "status": "todo",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_e82ffda3",
   "title": "Pinpoint publish entry point, idempotency logic, key derivation and construct fixture recipe",
-  "status": "todo",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_b9ae813a",
   "title": "Inventory Rust test config for e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472592,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_83ecf68b",
   "title": "Search Rust event-builder construction sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_a147117d",
   "title": "Search JSON serialization and raw payload sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472706,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "done",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_de234528",
   "title": "Extract ordered failing node-id list and half boundary from pytest log",
-  "status": "done",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,
