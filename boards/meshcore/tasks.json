@@ -3026,7 +3026,7 @@
  {
   "id": "t_2d091a54",
   "title": "Probe boundary and no-fit branches for cal parser",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789370705,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3734,7 +3734,7 @@
  {
   "id": "t_a351c48f",
   "title": "Read-only recon of gating/board-approval mentions at tollgate-module-basic-go HEAD",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_a202b45f",
   "title": "Recon fix/upstream-autopay-gate-open-retry: gating-mechanism hit table",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789388280,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_2247686d",
   "title": "Enumerate and scan all uncovered tollgate-module-basic-go revs",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_42049035",
   "title": "Inventory all sibling tollgate-* roots and their refs (read-only)",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_65540377",
   "title": "Recon gating/approval mentions in awesome-tollgate (all branches)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789388309,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_bc299463",
   "title": "Recon gating/approval mentions in tollgate-bash-client (all branches)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789388309,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_132bbc3b",
   "title": "Recon gating/approval mentions in tollgate-community-calls (all branches)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789388309,
@@ -3878,7 +3878,7 @@
  {
   "id": "t_d8ee6c56",
   "title": "Recon shadow-card / human-gate / board-gate mentions in tollgate-quaterly-reports",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789388328,
@@ -3890,7 +3890,7 @@
  {
   "id": "t_020235bf",
   "title": "Recon shadow-card/human-gate mentions in tollgate-release-explorer-site",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789388328,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_c5504dfa",
   "title": "Inventory esp-miner doc roots and resolve local rev names (read-only)",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_d00f4ed5",
   "title": "Scan esp-miner master rev for gate/shadow-card/board-approval hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_91454856",
   "title": "Scan esp-miner feature/tollgate-component-integration rev for gate hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789388386,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_7e363e57",
   "title": "Read-only recon: scan esp32-mesh feature/redeem-ecash for shadow-card/gate hits",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789388477,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_c2957215",
   "title": "READ-ONLY: scan esp32-mesh master for gate/shadow-card hits + sibling dir inventory",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789388477,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_ea86f3e8",
   "title": "Narrow and assemble esp32-mesh gate-mechanism recon report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789388477,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_b0cba6fd",
   "title": "Recon feature/meshcore-lr2021-upstream-pr for gate-mechanism hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-feature-meshco",
   "created_at": 1789388545,
@@ -4022,7 +4022,7 @@
  {
   "id": "t_f113919d",
   "title": "Recon hardware/flight-board-v0.1 for shadow-card/gate/board hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789388545,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_16c8c61c",
   "title": "Locate official datasheet or manual for identified chamber",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789462909,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_ca8bc457",
   "title": "Probe calshow and define die-temp parser",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463052,
@@ -5474,7 +5474,7 @@
  {
   "id": "t_ad3aee13",
   "title": "Measure and document all chamber penetrations",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463220,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_cad6b6e8",
   "title": "Characterize door gasket geometry and compression",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463220,
@@ -5510,7 +5510,7 @@
  {
   "id": "t_67f6d460",
   "title": "Inventory and raw grep for nutband gate hits",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789463886,
@@ -5546,7 +5546,7 @@
  {
   "id": "t_8c5a3691",
   "title": "Catch-all workspace sweep and scan leftover roots",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463995,
@@ -5558,7 +5558,7 @@
  {
   "id": "t_440616c5",
   "title": "Scan physical-router-test-automation for gating mechanisms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789463995,
@@ -5570,7 +5570,7 @@
  {
   "id": "t_fd62e72e",
   "title": "Scan setup-android-screen-sharing for gating mechanisms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "setup-android-screen-sharing-master",
   "created_at": 1789463995,
@@ -5582,7 +5582,7 @@
  {
   "id": "t_911d341e",
   "title": "Scan vanity-npub-ghdl for gating mechanisms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "vanity-npub-ghdl-master",
   "created_at": 1789463995,
@@ -5594,7 +5594,7 @@
  {
   "id": "t_2fe42abc",
   "title": "Scan backups for gating mechanisms",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "backups",
   "created_at": 1789463995,
@@ -5618,7 +5618,7 @@
  {
   "id": "t_095550f1",
   "title": "Transcribe chamber nameplate and check equipment binder for rate specs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5630,7 +5630,7 @@
  {
   "id": "t_5102db20",
   "title": "Extract ramp rates from vendor datasheet and operator/installation manual",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5642,7 +5642,7 @@
  {
   "id": "t_59e258db",
   "title": "Check commissioning, install, and calibration records for ramp-rate specs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_aa491972",
   "title": "Enumerate tollgate-rs rev list excluding design-review-notes",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464734,
@@ -5678,7 +5678,7 @@
  {
   "id": "t_1eaa0b60",
   "title": "Inventory doc surface at tollgate-rs HEAD",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464734,
@@ -5702,7 +5702,7 @@
  {
   "id": "t_be650efa",
   "title": "Discover repos and worktrees via find",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465036,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_b4ee272e",
   "title": "Enumerate doc roots, .md files, and special doc paths (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465073,
@@ -5750,7 +5750,7 @@
  {
   "id": "t_080d29d8",
   "title": "List uncovered tollgate-* sibling roots (read-only recon)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789467083,
@@ -5762,7 +5762,7 @@
  {
   "id": "t_f338fd32",
   "title": "Recon shadow-card/human-gate mentions in tollgate-infrastructure-kit",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789467083,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_40b31055",
   "title": "Sweep roots and raw shadow-card/gate/board hits on master",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5786,7 +5786,7 @@
  {
   "id": "t_571ddc63",
   "title": "Inventory design-review-notes / ADR / decision / RFC docs on master",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_c4784391",
   "title": "Sweep git worktrees and flag MARKET feat/* branches",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789467406,
@@ -5834,7 +5834,7 @@
  {
   "id": "t_5a045e74",
   "title": "Enumerate doc roots and markdown files across MARKET repo",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789467406,
@@ -5846,7 +5846,7 @@
  {
   "id": "t_9e351ad0",
   "title": "Flag high-value design/ADR/RFC/gate markdown files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789467406,
@@ -5870,7 +5870,7 @@
  {
   "id": "t_4d02eadc",
   "title": "Harvest shadow-card/gate regex hits on feat/cvm-worker-nip53-status",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-cvm-worker-nip53-status",
   "created_at": 1789467470,
@@ -5882,7 +5882,7 @@
  {
   "id": "t_cdacd4a6",
   "title": "Inventory ADR/rfc/decision/design-review-notes files on the rev",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789467470,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_443453b2",
   "title": "Inventory doc roots and .md files on feat/nip53-improvements",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_dc3c3197",
   "title": "Sweep raw shadow-card/gate regex hits on feat/nip53-improvements",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_e782216e",
   "title": "Collect design-review/ADR/RFC docs from feat/nip53-improvements",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-nip53-improvements",
   "created_at": 1789467493,

@@ -2630,7 +2630,7 @@
  {
   "id": "t_25ee4a10",
   "title": "Independently verify raw_symbol_grep.md completeness against the six-symbol spec",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379056,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report for t_77f5b39d and write /tmp/p1_result.json",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report in kanban store and write /tmp/p2_result.json",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (quoted report, result text only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Read-only sweep of esp-miner feature/tollgate-component-integration for an authoritative PAY/ACK wire-format spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Read-only PAY/ACK wire-format spec audit of tollgate-bash-client",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Read-only sweep of tollgate-infrastructure-kit for authoritative PAY/ACK wire-format spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Read-only PAY/ACK wire-format spec sweep of tollgate-community-calls",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_644f0cc7",
   "title": "Sweep tollgate-quaterly-reports for authoritative PAY/ACK wire-format spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789396021,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71c04a28",
   "title": "Read-only sweep of tollgate-release-explorer-site for authoritative PAY/ACK wire-format spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789396021,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep ~/repos/awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789396021,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_0f8b506c",
   "title": "Extract citation + quote inventory from reconciliation/verdict result",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract verbatim git commands and staleness claims from reconciliation verdict",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396379,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_05ff9310",
   "title": "Transcribe first parent sweep list (parent A) into a structured table with verbatim source lines",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_a8b3350b",
   "title": "Read-only verbatim transcription of parent sweep list B into one structured table",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_cbfe53c0",
   "title": "Transcribe dedup candidate list into table + verbatim blocks (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396400,
@@ -3350,7 +3350,7 @@
  {
   "id": "t_ba9d5dae",
   "title": "Prep env: read FIPS-FIX-PLAN.md, verify riscv32imc target (READ-ONLY, no source changes)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400471,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_ad1fc0fc",
   "title": "Freeze numbered PAY/ACK candidate list from parent balloon sweep (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789400792,
@@ -3446,7 +3446,7 @@
  {
   "id": "t_7a7fc270",
   "title": "Extract '## Mock protocol' section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789401082,
@@ -4406,7 +4406,7 @@
  {
   "id": "t_e706f207",
   "title": "Extract numbered verbatim claim list from reconciliation verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_40af10d9",
   "title": "Extract verdict claims and enumerate candidate artifact files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432422,
@@ -4502,7 +4502,7 @@
  {
   "id": "t_66606072",
   "title": "Inventory tollgate Go repos: branch, HEAD, remote, worktree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_a303b722",
   "title": "Consolidate inventory + sweeps into one classified report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432533,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_e04c5f76",
   "title": "Sweep tollgate-module-basic-go HEAD for PAY/ACK wire-format defs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432548,

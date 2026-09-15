@@ -5492,19 +5492,185 @@
  },
  "conwrt:t_4bf8bdf2": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789468124.4211736,
+  "status": "done",
+  "updated": 1789468192.5632951,
   "ts": 1789468124.4211736,
   "repo": "conwrt",
   "run_id": "cobrador-1789468124"
  },
  "tollgate:t_b0dc7c5a": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789468126.032392,
+  "status": "done",
+  "updated": 1789468194.0793803,
   "ts": 1789468126.032392,
   "repo": "tollgate",
   "run_id": "cobrador-1789468126"
+ },
+ "balloon:t_8991e7a0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.315472,
+  "ts": 1789468385.315472
+ },
+ "meshcore:t_571ddc63": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.323037,
+  "ts": 1789468385.323037
+ },
+ "meshcore:t_f338fd32": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3309655,
+  "ts": 1789468385.3309655
+ },
+ "meshcore:t_40b31055": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3384435,
+  "ts": 1789468385.3384435
+ },
+ "meshcore:t_080d29d8": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.345987,
+  "ts": 1789468385.345987
+ },
+ "meshcore:t_bc299463": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3534825,
+  "ts": 1789468385.3534825
+ },
+ "meshcore:t_132bbc3b": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3611379,
+  "ts": 1789468385.3611379
+ },
+ "meshcore:t_65540377": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3724344,
+  "ts": 1789468385.3724344
+ },
+ "meshcore:t_4d02eadc": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.3915517,
+  "ts": 1789468385.3915517
+ },
+ "meshcore:t_9e351ad0": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4001808,
+  "ts": 1789468385.4001808
+ },
+ "meshcore:t_5a045e74": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4109857,
+  "ts": 1789468385.4109857
+ },
+ "meshcore:t_c4784391": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4198346,
+  "ts": 1789468385.4198346
+ },
+ "meshcore:t_91454856": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4281769,
+  "ts": 1789468385.4281769
+ },
+ "meshcore:t_ea86f3e8": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4358377,
+  "ts": 1789468385.4358377
+ },
+ "meshcore:t_d00f4ed5": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468385.4434972,
+  "ts": 1789468385.4434972
+ },
+ "tollgate:t_563518e2": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1789468453.0149286,
+  "ts": 1789468385.456021,
+  "repo": "tollgate",
+  "run_id": "cobrador-1789468385"
+ },
+ "meshcore:t_e782216e": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468386.9330807,
+  "ts": 1789468386.9330807
+ },
+ "meshcore:t_dc3c3197": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468386.9392197,
+  "ts": 1789468386.9392197
+ },
+ "meshcore:t_443453b2": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468386.946686,
+  "ts": 1789468386.946686
+ },
+ "meshcore:t_cdacd4a6": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468386.9527218,
+  "ts": 1789468386.9527218
+ },
+ "balloon:t_40af10d9": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468386.9590516,
+  "ts": 1789468386.9590516
+ },
+ "conwrt:t_960feef0": {
+  "node": "cobrador",
+  "status": "done",
+  "updated": 1789468454.5112467,
+  "ts": 1789468386.9768617,
+  "repo": "conwrt",
+  "run_id": "cobrador-1789468386"
+ },
+ "balloon:t_e04c5f76": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468388.4752452,
+  "ts": 1789468388.4752452
+ },
+ "balloon:t_a303b722": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468388.4891603,
+  "ts": 1789468388.4891603
+ },
+ "balloon:t_57bc3589": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468388.5012841,
+  "ts": 1789468388.5012841
+ },
+ "balloon:t_7a18687c": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468388.5102239,
+  "ts": 1789468388.5102239
+ },
+ "balloon:t_66606072": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789468388.523819,
+  "ts": 1789468388.523819
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

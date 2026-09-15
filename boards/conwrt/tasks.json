@@ -422,7 +422,7 @@
  {
   "id": "t_ec3046f3",
   "title": "Assemble triage-d1-d2.md table + lan_ip/guard interactions note",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789361129,
@@ -566,7 +566,7 @@
  {
   "id": "t_a31dce33",
   "title": "Compose drafts/tollgate-subsection.md from extraction + provenance",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362852,
@@ -650,7 +650,7 @@
  {
   "id": "t_26708a48",
   "title": "Write net4sats-binding.fragment.md verdict with concrete evidence",
-  "status": "done",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -710,7 +710,7 @@
  {
   "id": "t_7128d4b0",
   "title": "Audit net4sats LAN-move ipv4 binding in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -722,7 +722,7 @@
  {
   "id": "t_db7a6ca1",
   "title": "Audit net4sats read-back source in docs/wizard-bundle.json (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789379776,
@@ -746,7 +746,7 @@
  {
   "id": "t_960feef0",
   "title": "Audit tollgate LAN-move IP provenance in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789380019,
@@ -890,7 +890,7 @@
  {
   "id": "t_4bf8bdf2",
   "title": "Request upstream maintainer review on Amperstrand/conwrt PR #55",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789398071,
