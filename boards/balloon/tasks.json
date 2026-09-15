@@ -4705,7 +4705,7 @@
  },
  {
   "id": "t_62a70b76",
-  "title": "Merge audit tables into final app_task.cpp report",
+  "title": "Merge and verify three audit tables into final app_task.cpp report",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -5437,8 +5437,8 @@
  },
  {
   "id": "t_26101640",
-  "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "triage",
+  "title": "Sweep feat/cli-json-config-rebased tollgate-module-basic-go for PAY/ACK wire format",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e0947ab6",
   "title": "Sweep feat/portal-packaging worktree for PAY/ACK wire format",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789478203,
@@ -5461,8 +5461,8 @@
  },
  {
   "id": "t_0984302a",
-  "title": "Sweep fix/upstream-autopay-gate-open-retry for PAY/ACK wire format",
-  "status": "triage",
+  "title": "Read-only PAY/ACK wire-format discovery in tollgate branch",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789478203,
@@ -5473,8 +5473,8 @@
  },
  {
   "id": "t_2e8c058d",
-  "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY/ACK format",
-  "status": "triage",
+  "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY/ACK wire format",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -5498,9 +5498,9 @@
  {
   "id": "t_d812abbe",
   "title": "Sweep tollgate-bash-client for PAY/ACK wire format (read-only)",
-  "status": "triage",
+  "status": "todo",
   "priority": 1,
-  "assignee": "tollgate-bash-client-main",
+  "assignee": "manager",
   "created_at": 1789478239,
   "started_at": null,
   "completed_at": null,
@@ -6350,7 +6350,7 @@
  {
   "id": "t_fc9e6af7",
   "title": "Deep-read balloon PAY/ACK candidates (batch A: indices 0,3,6,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496025,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_ad0c7f06",
   "title": "Deep-read balloon PAY/ACK candidates (batch B: indices 1,4,7,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789496025,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_02b1e439",
   "title": "Deep-read balloon PAY/ACK candidates (batch C: indices 2,5,8,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789496025,
@@ -6398,7 +6398,7 @@
  {
   "id": "t_2fe8c389",
   "title": "Extract ## Mock protocol section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496309,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_517bdd43",
   "title": "Enumerate all CONFIG_* user files in tracker/firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_2ff835fc",
   "title": "Enumerate files with a direct ACTIVE sdkconfig.h include",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_f5c74797",
   "title": "Diff the two file lists to produce the gap set",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_23e78080",
   "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -7122,6 +7122,42 @@
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500321,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_167fe068",
+  "title": "Resolve tollgate-bash-client repo identity",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "tollgate-bash-client-main",
+  "created_at": 1789500650,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_844e7e43",
+  "title": "Sweep code/config files for PAY/ACK protocol evidence",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "tollgate-bash-client-main",
+  "created_at": 1789500650,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_58d8da1a",
+  "title": "Inspect docs and schemas for PAY/ACK message exchange",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "tollgate-bash-client-main",
+  "created_at": 1789500650,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,

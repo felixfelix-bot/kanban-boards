@@ -2162,7 +2162,7 @@
  {
   "id": "t_6c6441a6",
   "title": "Inventory firewall rulesets at ec5c60d9 and rule on port-53 WAN egress",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497488,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_7562efb4",
   "title": "Trace tunnel up/down lifecycle hooks and DNS mutation/revert behavior",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497488,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_b1fed363",
   "title": "Audit IPv6 kill-switch coverage and DoH/DoT port-53 bypass surface",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497488,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_5c63bca0",
   "title": "Locate PIA OpenVPN module: entry points, config parsing, lifecycle",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497658,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_5f078c01",
   "title": "Inventory kill-switch mechanisms in PIA OpenVPN at ec5c60d9",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789497658,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_ca868fbf",
   "title": "Trace fail-closed behavior on tunnel drop, auth failure, reconnect",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789497658,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_e9ec98c6",
   "title": "Inventory kill-switch and VPN-on-boot enable/disable defaults",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497658,
@@ -2318,7 +2318,7 @@
  {
   "id": "t_38b46e0d",
   "title": "Trace DNS resolution and DNS-leak guards in PIA OpenVPN module (ec5c60d9)",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -2330,7 +2330,7 @@
  {
   "id": "t_f8524a75",
   "title": "Trace IPv6 handling and v6 leak paths in PIA OpenVPN module (ec5c60d9)",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_b7390d10",
   "title": "Inventory non-DNS egress leak vectors in PIA OpenVPN module (ec5c60d9)",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_897ef95c",
   "title": "Extract verbatim D3 defect definition from evidence file",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_5a20067f",
   "title": "Extract verbatim D4 defect definition from evidence file",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_a8f42f8d",
   "title": "Extract verbatim D5 defect definition from evidence file",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
