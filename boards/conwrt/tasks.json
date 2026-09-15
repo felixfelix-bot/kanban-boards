@@ -62,7 +62,7 @@
  {
   "id": "t_f08a9590",
   "title": "Preflight CF-WR632AX access, prove recovery path, capture baselines",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789332951,
@@ -458,7 +458,7 @@
  {
   "id": "t_f190ff39",
   "title": "Triage conwrt defect D4: file:line, impact, blocking verdict, minimal fix",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -782,7 +782,7 @@
  {
   "id": "t_45991d42",
   "title": "Build character-exact D-ID inventory from Issue-32 runbook (artifact-blind)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789385589,
@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,
