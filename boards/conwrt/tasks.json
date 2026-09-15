@@ -457,8 +457,8 @@
  },
  {
   "id": "t_f190ff39",
-  "title": "Triage D4: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "triage",
+  "title": "Triage conwrt defect D4: file:line, impact, blocking verdict, minimal fix",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -469,8 +469,8 @@
  },
  {
   "id": "t_71648d2f",
-  "title": "Triage D5: file:line, runtime impact, blocking verdict, minimal fix",
-  "status": "triage",
+  "title": "Triage conwrt defect D5: cite file:line, runtime impact, SSH-run blocking verdict, minimal fix",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -854,7 +854,7 @@
  {
   "id": "t_b1bdc408",
   "title": "Write triage-d3-d5-context.md from repo facts and D3-D5 spec",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789386064,

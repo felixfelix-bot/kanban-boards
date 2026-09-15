@@ -1261,8 +1261,8 @@
  },
  {
   "id": "t_2ad3a088",
-  "title": "Gate5: secret-scan the phase-1 diff and push the branch",
-  "status": "triage",
+  "title": "Gate5: secret-scan the phase-1 diff, then push the branch",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
@@ -1981,8 +1981,8 @@
  },
  {
   "id": "t_2574a09d",
-  "title": "Recon nostr transport surface of tools/cvm_board_server.py (read-only)",
-  "status": "triage",
+  "title": "Recon nostr transport in tools/cvm_board_server.py (read-only)",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
@@ -1993,8 +1993,8 @@
  },
  {
   "id": "t_4fb74c0f",
-  "title": "Capture relay failover list verbatim from cvm_board_server.py + grep evidence",
-  "status": "triage",
+  "title": "Recon: capture relay failover list verbatim from tools/cvm_board_server.py + enumerated relay grep evidence",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789359547,
