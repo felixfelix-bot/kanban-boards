@@ -2006,7 +2006,7 @@
  {
   "id": "t_67c2e1bc",
   "title": "Build worked byte-offset example and assemble final markdown section",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354127,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_1320e8f4",
   "title": "Extract relay_types.h framing doc section verbatim to /tmp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789354162,

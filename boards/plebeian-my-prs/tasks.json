@@ -2738,7 +2738,7 @@
  {
   "id": "t_bf13f824",
   "title": "Verify e2e.yml:148 revert status on PlebeianApp/market PR #1232 (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789355618,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_45cda997",
   "title": "Read-only: enumerate complete CI check set for PlebeianApp/market PR #1232",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2762,11 +2762,11 @@
  {
   "id": "t_7d49f213",
   "title": "Reconcile PR #1232 outstanding gates into final report (read-only)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
-  "started_at": null,
+  "started_at": 1789445969,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
