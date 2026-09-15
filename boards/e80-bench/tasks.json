@@ -1838,7 +1838,7 @@
  {
   "id": "t_dadbd9ca",
   "title": "Add RED test: GO-mode session_id exactly equals ARMED value",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -1850,7 +1850,7 @@
  {
   "id": "t_1b922c52",
   "title": "RED test: GO run log dir basename == `s<session_id>-go<epoch>`",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789355764,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_dbea0ad0",
   "title": "Capture raw pre-change git baseline in firmware/e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
