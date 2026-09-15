@@ -2294,7 +2294,7 @@
  {
   "id": "t_e795e543",
   "title": "Verify inventory completeness and spot-check raw files",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789361766,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_8dca3b31",
   "title": "Assemble final findings table with dates, classifications, zero-hit dirs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_8a548baa",
   "title": "Independently verify inventory table against the physical bench",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_454905dd",
   "title": "Compile findings table and identify owner candidates",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,

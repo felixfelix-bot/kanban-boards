@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host sites for second half of failures in e80 log",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Write docs/_recon/range-check.md: verified citations + real example",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -3458,7 +3458,7 @@
  {
   "id": "t_ac4dcbbe",
   "title": "Create __main__.py stub and verify package import",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471583,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_06c702c1",
   "title": "Reproduce e80 range-split RED suite and capture log",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789471595,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a450e70",
   "title": "Merge chunk tables into final first-half sites inventory and verify counts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-merchant-qa",
   "created_at": 1789483898,
