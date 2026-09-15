@@ -1814,7 +1814,7 @@
  {
   "id": "t_eb083ec2",
   "title": "Verify RED/GREEN evidence and clean tree for Gate1",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789352682,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_de234528",
   "title": "Extract ordered failing node-id list and half boundary from pytest log",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789483898,

@@ -1430,7 +1430,7 @@
  {
   "id": "t_abd4c0ce",
   "title": "Issue gate verdict for Board A firmware/serial evidence",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789352877,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_fbfead68",
   "title": "Physically inspect and classify thermal chamber controller, record labels, photograph interface",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -2606,7 +2606,7 @@
  {
   "id": "t_5a61e979",
   "title": "Document step-by-step setpoint commanding sequence with interface photos",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789362928,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_2cf8a9f0",
   "title": "Read-only grep evidence report: escalation-digest identifiers in app source tree",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375128,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_a202b45f",
   "title": "Produce gating-mechanism hit table for fix/upstream-autopay-gate-open-retry",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789388280,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_2247686d",
   "title": "Enumerate and scan all uncovered tollgate-module-basic-go revs",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789388280,
