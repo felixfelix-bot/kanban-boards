@@ -470,7 +470,7 @@
  {
   "id": "t_71648d2f",
   "title": "Triage conwrt defect D5: cite file:line, runtime impact, SSH-run blocking verdict, minimal fix",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361152,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_b00b723a",
   "title": "Audit stated_workaround column against runbook",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1034,7 +1034,7 @@
  {
   "id": "t_6015d54d",
   "title": "Reconcile D-ID set in Discrepancies section",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1046,7 +1046,7 @@
  {
   "id": "t_6c0fc120",
   "title": "Verify defects-d1-d5.md file structure",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
