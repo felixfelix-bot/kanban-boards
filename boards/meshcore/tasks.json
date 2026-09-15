@@ -3590,7 +3590,7 @@
  {
   "id": "t_3a304ef7",
   "title": "Consolidate definitive store inventory table for the two searchers",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_1ad60b90",
   "title": "Scan chore/cvm-key-management for gate/shadow-card hits (read-only recon)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-chore-cvm-key-management",
   "created_at": 1789388644,
@@ -4082,7 +4082,7 @@
  {
   "id": "t_63a27028",
   "title": "Read-only recon: scan chore/pr1003-review-plan for gate/shadow-card hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789388644,

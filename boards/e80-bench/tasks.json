@@ -1274,7 +1274,7 @@
  {
   "id": "t_c6369eac",
   "title": "Set task status to review and post full evidence summary",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789333273,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_982c341b",
   "title": "Inventory randomness sources on the gift-wrap key-derivation path",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789401613,
@@ -2786,7 +2786,7 @@
  {
   "id": "t_e59cdfe9",
   "title": "Read-only audit: prove failover/publisher tests use no live network primitives",
-  "status": "ready",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789401676,

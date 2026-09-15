@@ -2510,7 +2510,7 @@
  {
   "id": "t_77fa4dd6",
   "title": "Merge PAY/ACK sweep findings and issue authoritative-vs-stale verdict",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report for t_77f5b39d and write /tmp/p1_result.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep ~/repos/awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789396021,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_7cc3931a",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire defs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789432548,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_fd17bd1c",
   "title": "Survey autopay/gate PAY-ACK code in fix/upstream-autopay-gate-open-retry worktree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-fix-upstream-au",
   "created_at": 1789432559,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_1325d61b",
   "title": "Survey portal/payment PAY-ACK code in feat/portal-packaging worktree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789432559,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_ce95c1ed",
   "title": "Sweep all other ~/repos/tollgate-module-basic-go* paths for PAY-ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789432559,
