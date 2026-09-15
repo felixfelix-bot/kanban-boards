@@ -2714,7 +2714,7 @@
  {
   "id": "t_a71964c3",
   "title": "Audit verdict citations: verify every quote, path, and line number (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_07f88d67",
   "title": "Verify each citation against files on disk; emit command-backed PASS/FAIL report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789396318,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_03b6c934",
   "title": "Grep wire-format keywords across HEAD and CLI/JSON worktrees",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_d5a1daec",
   "title": "Inventory tollgate_proto_encode/decode call sites in app_task.cpp",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_16ae7427",
   "title": "Map TG_MSG_* constants and tollgate struct field accesses in app_task.cpp",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -4417,8 +4417,8 @@
  },
  {
   "id": "t_824f45d5",
-  "title": "Probe HEAD versioned docs/spec dirs for claim contradictions",
-  "status": "triage",
+  "title": "Probe HEAD versioned docs/spec dirs for claim-contradicting artifacts",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Read-only probe of release/annotated tags for claim contradictions",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_158db7db",
   "title": "Classify all PAY-ACK hits and answer whether these paths own a wire format",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432559,
@@ -4657,8 +4657,8 @@
  },
  {
   "id": "t_c9ffea68",
-  "title": "Consolidate tollgate_proto_encode/decode audit into one verbatim report",
-  "status": "triage",
+  "title": "Consolidate tollgate_proto_encode/decode call-site audit into one verbatim report",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432614,
@@ -5270,7 +5270,7 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_ab710dc5",
   "title": "Run price_sats symbol audit in tracker/firmware (read-only, no repo writes)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5318,7 +5318,7 @@
  {
   "id": "t_17220695",
   "title": "Classify price_sats consumers and write audit report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5474,7 +5474,7 @@
  {
   "id": "t_2e8c058d",
   "title": "Sweep non-sibling tollgate-module-basic-go worktrees for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478203,
@@ -6374,7 +6374,7 @@
  {
   "id": "t_02b1e439",
   "title": "Deep-read balloon PAY/ACK candidates batch C (indices 2,5,8,...)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-hardware-fligh",
   "created_at": 1789496025,
@@ -6422,7 +6422,7 @@
  {
   "id": "t_517bdd43",
   "title": "Enumerate CONFIG_* user files in tracker/firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6434,7 +6434,7 @@
  {
   "id": "t_2ff835fc",
   "title": "Enumerate active direct sdkconfig.h includes in tracker/firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,
@@ -6458,7 +6458,7 @@
  {
   "id": "t_23e78080",
   "title": "Trace <=2-hop sdkconfig.h include chains for each gap file",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496337,

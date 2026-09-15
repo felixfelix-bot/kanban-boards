@@ -3266,7 +3266,7 @@
  {
   "id": "t_9c5019f0",
   "title": "Implement GO-mode session_id from ARMED payload",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,

@@ -2894,7 +2894,7 @@
  {
   "id": "t_bf503eb8",
   "title": "Audit env var secrets in openvpn invocations",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_ef7cf473",
   "title": "Audit temp-file and stdin secret handling",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_822b5028",
   "title": "Audit shell tracing and log exposure of secrets",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_cac9ac91",
   "title": "Audit PIA OpenVPN module logging for secret leakage",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_5de41923",
   "title": "Parse source report and extract structured findings",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_ff096ec1",
   "title": "Verify draft coverage and extract per-check data",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_727554b8",
   "title": "Extract artifact D-ID set from inventory",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_ac26cd15",
   "title": "Extract runbook D-ID set from raw runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_fce35c42",
   "title": "Extract env vars from design doc sections 1-3",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_43c49c71",
   "title": "Scan design docs for credential examples",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506594,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_c5fdad8a",
   "title": "Extract questionable rows from quote-location findings",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
@@ -4166,7 +4166,7 @@
  {
   "id": "t_3dfe8a2d",
   "title": "Extract questionable rows from workaround-did findings",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_c59cef33",
   "title": "Sweep kill-switch normative claims in PR #55 docs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_44f483ba",
   "title": "Sweep leak-prevention normative claims in PR #55 docs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
