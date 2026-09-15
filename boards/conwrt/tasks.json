@@ -794,7 +794,7 @@
  {
   "id": "t_c345f02f",
   "title": "Audit defect quotes and locations in defects-d1-d5.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
@@ -806,7 +806,7 @@
  {
   "id": "t_dedc64e7",
   "title": "Audit workarounds, D-ID set, and structure of defects-d1-d5.md",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789385589,
