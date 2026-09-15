@@ -3554,7 +3554,7 @@
  {
   "id": "t_fea6d6cd",
   "title": "Analyze kind 1059 choke-point",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472104,
@@ -3650,7 +3650,7 @@
  {
   "id": "t_e82ffda3",
   "title": "Pinpoint publish entry point, idempotency logic, key derivation and construct fixture recipe",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789472428,

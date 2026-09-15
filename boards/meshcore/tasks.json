@@ -2294,7 +2294,7 @@
  {
   "id": "t_e795e543",
   "title": "Verify inventory completeness and spot-check raw files",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789361766,
@@ -2354,7 +2354,7 @@
  {
   "id": "t_8dca3b31",
   "title": "Assemble final findings table with dates, classifications, zero-hit dirs",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_8a548baa",
   "title": "Independently verify inventory table against the physical bench",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -4274,7 +4274,7 @@
  {
   "id": "t_3287821a",
   "title": "Recon gitworkshop for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "gitworkshop-main",
   "created_at": 1789388847,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_b7ee98a0",
   "title": "Recon opencode-setup for human-gate/board mechanisms across all branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "opencode-setup-master",
   "created_at": 1789388847,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_efd504d0",
   "title": "Recon openrouter-automation for human-gate/board mechanisms",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "openrouter-automation-master",
   "created_at": 1789388847,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_d3c60dcb",
   "title": "Recon direwolf-setup for shadow-card and human-gate mentions",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_59086e73",
   "title": "Recon rana: every branch/worktree for shadow-card + human-gate hits",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -4358,7 +4358,7 @@
  {
   "id": "t_1f938710",
   "title": "Consolidate shard C recon outputs and post merged comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388867,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_454905dd",
   "title": "Compile findings table and identify owner candidates",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477185,
