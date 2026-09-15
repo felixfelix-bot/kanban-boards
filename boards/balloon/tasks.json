@@ -2354,7 +2354,7 @@
  {
   "id": "t_05ebfd03",
   "title": "Verify portable-atomic swap in microfips-esp-common (read-only PASS/FAIL report)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789363358,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_99d44349",
   "title": "Record exact occurrences of six tollgate PAY/ACK symbols in recon artifact",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789379056,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_09201955",
   "title": "Audit tollgate_payment_proto.h and produce verbatim symbol table",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789407847,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_5f83c272",
   "title": "Audit tollgate_payment_proto.h consumers for convention drift",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789407847,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_824f45d5",
   "title": "Probe versioned docs/spec dirs at HEAD for contradictions",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_f0699234",
   "title": "Probe release and annotated tag snapshots for contradictions",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432406,
@@ -4994,7 +4994,7 @@
  {
   "id": "t_966ddb98",
   "title": "Run read-only PAY/ACK sweep commands and capture raw output",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5018,7 +5018,7 @@
  {
   "id": "t_11c0204c",
   "title": "Enumerate all tollgate_msg_hdr_t / tollgate_ack_payload_t accesses in app_task.cpp",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5030,7 +5030,7 @@
  {
   "id": "t_ba1ec2d9",
   "title": "Tree-wide search for tollgate_msg_hdr_t / tollgate_ack_payload_t definitions",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5042,7 +5042,7 @@
  {
   "id": "t_4470c08b",
   "title": "Infer struct definitions implied by app_task.cpp usage, flag UNDETERMINED fields",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5054,7 +5054,7 @@
  {
   "id": "t_be4e0258",
   "title": "Assemble final read-only report: STEP 1-4 plus git status confirmation",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470539,
@@ -5066,7 +5066,7 @@
  {
   "id": "t_3de9e5eb",
   "title": "Record environment facts for firmware tree",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5078,7 +5078,7 @@
  {
   "id": "t_9eb4d76d",
   "title": "Grep definitions of tollgate protocol symbols",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5102,7 +5102,7 @@
  {
   "id": "t_bac78e4b",
   "title": "Cross-check generated/build artefacts",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -5126,7 +5126,7 @@
  {
   "id": "t_6605608c",
   "title": "Enumerate and partition ~/repos/*tollgate* directories",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5150,7 +5150,7 @@
  {
   "id": "t_ffca2b94",
   "title": "Run grep A and capture CONFIG_ if matches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5162,7 +5162,7 @@
  {
   "id": "t_3012ce9b",
   "title": "Run grep B and capture CONFIG_ ifdef matches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5174,7 +5174,7 @@
  {
   "id": "t_f2c61768",
   "title": "Run grep C and capture defined(CONFIG_) matches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5186,7 +5186,7 @@
  {
   "id": "t_e87e7704",
   "title": "Run grep D and capture CONFIG_ ifndef matches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5210,7 +5210,7 @@
  {
   "id": "t_b02f0056",
   "title": "Extract verbatim numbered claims from reconciliation verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472208,

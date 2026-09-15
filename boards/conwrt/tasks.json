@@ -254,7 +254,7 @@
  {
   "id": "t_ba448eb4",
   "title": "Merge triage rows into checklist.md and flag lan_ip/guard interactions",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789344248,
@@ -686,7 +686,7 @@
  {
   "id": "t_6896af59",
   "title": "Audit tollgate LAN-move and read-back provenance claims",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -1094,7 +1094,7 @@
  {
   "id": "t_c5842c60",
   "title": "Merge tollgate audit findings into final report",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1178,7 +1178,7 @@
  {
   "id": "t_7a4f8157",
   "title": "Request review from upstream maintainers on PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1190,7 +1190,7 @@
  {
   "id": "t_d021eeb5",
   "title": "Verify PR #55 branch name against D-135",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789476693,
@@ -1406,7 +1406,7 @@
  {
   "id": "t_9cea8c1c",
   "title": "Audit PIA OpenVPN module secret handling in PR #55",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_cfdaf6f5",
   "title": "Audit repo-side proposal doc secret handling in PR #55",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483216,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_e664a415",
   "title": "Fetch PR #55 (ec5c60d9) and extract reviewable artifacts",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483267,
@@ -1490,7 +1490,7 @@
  {
   "id": "t_9bd6fdaa",
   "title": "Review kill-switch / fail-open logic in PR #55 (conwrt)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789483283,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_280dd175",
   "title": "Analyze DNS-leak exposure in PR #55 kill-switch design",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789483283,

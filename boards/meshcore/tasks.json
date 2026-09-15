@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_88a32933",
   "title": "Forensic dump: Hermes scheduler config dirs and cron registry",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789375584,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Read-only gating-term grep sweep: tollgate-rs revs, first half",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_d4f21d6a",
   "title": "Search Slack history for thermal chamber custodian evidence",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477113,
