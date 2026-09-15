@@ -2582,7 +2582,7 @@
  {
   "id": "t_846739cd",
   "title": "Read-only inventory of CONFIG_ENABLE_TOLLGATE in balloon firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789370273,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_7b1da30d",
   "title": "Locate P2 recon report for t_77f5b39d and write /tmp/p2_result.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_760a566e",
   "title": "Locate P3 recon report in kanban store and write /tmp/p3_result.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3062,7 +3062,7 @@
  {
   "id": "t_b2d0ef24",
   "title": "Read-only PAY/ACK wire-format evidence sweep of esp32-tollgate (quoted report as task result text only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789395956,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_fcb22ab5",
   "title": "Read-only sweep of esp-miner @ feature/tollgate-component-integration for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789395956,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_acf2fa1e",
   "title": "Audit tollgate-bash-client for an authoritative PAY/ACK wire-format spec (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789396021,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_62ada03f",
   "title": "Read-only sweep of tollgate-infrastructure-kit for PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789396021,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_18fe947a",
   "title": "Read-only sweep for authoritative PAY/ACK wire-format spec in tollgate-community-calls",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789396021,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_776ae2a2",
   "title": "Verify declaration sites for selected CONFIG_ENABLE_* flags",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432333,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_468339f2",
   "title": "Infer tollgate_proto_decode signature with cited call sites",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432394,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_04c5f044",
   "title": "List tollgate symbols undefined in app_task.cpp via read-only search",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,

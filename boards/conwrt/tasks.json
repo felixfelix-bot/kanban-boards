@@ -350,7 +350,7 @@
  {
   "id": "t_bfd759f1",
   "title": "Draft tollgate LAN-move evidence subsection from wizard-bundle recipe",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -674,7 +674,7 @@
  {
   "id": "t_0db786fa",
   "title": "Audit net4sats LAN-move and read-back provenance claims",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789374915,
@@ -962,7 +962,7 @@
  {
   "id": "t_2f7f8778",
   "title": "Power on CF-WR632AX, verify SSH and capture OpenWrt version",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1022,7 +1022,7 @@
  {
   "id": "t_b00b723a",
   "title": "Audit stated_workaround column against runbook",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_2d78fd12",
   "title": "Review secret handling in PR #55",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_4149002c",
   "title": "Review kill-switch and leak behavior in PR #55",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,
@@ -1370,7 +1370,7 @@
  {
   "id": "t_e5114051",
   "title": "Assess tested vs proposed honesty in PR #55",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789479617,

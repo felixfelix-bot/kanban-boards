@@ -1970,7 +1970,7 @@
  {
   "id": "t_c86038e3",
   "title": "Assemble docs/_recon/range-check.md with citations + real example",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359402,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_a05262ce",
   "title": "Implement tools/keymaterial.py env-only key accessor",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440487,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_5f22dbd5",
   "title": "Inventory proof for subset-accept partial-quorum success",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440754,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_70477886",
   "title": "Inventory proof for dead-relay timeout and hard-error resilience",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789440754,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_b6bdd79d",
   "title": "Locate GO-mode session_id sourcing site in e80-stm32-bench",
-  "status": "ready",
+  "status": "triage",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4118,7 +4118,7 @@
  {
   "id": "t_f28dff5f",
   "title": "Audit tools tree for duplicate wrap paths or plaintext fallbacks",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478668,
@@ -4142,7 +4142,7 @@
  {
   "id": "t_4a9a36c7",
   "title": "Inventory RNG crate versions from Cargo.toml and Cargo.lock",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478821,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_da6a66df",
   "title": "Sweep source for RNG import paths and API call sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789478821,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_e7d09900",
   "title": "Inventory Python dependency manifests and lockfiles in e80-stm32-bench/tools",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4190,7 +4190,7 @@
  {
   "id": "t_848c8968",
   "title": "Sweep e80-stm32-bench/tools source for randomness API usage",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478835,
@@ -4214,7 +4214,7 @@
  {
   "id": "t_740a6a94",
   "title": "Read package.json and lockfiles in tools/",
-  "status": "blocked",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478970,
