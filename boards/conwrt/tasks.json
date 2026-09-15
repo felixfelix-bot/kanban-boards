@@ -1010,7 +1010,7 @@
  {
   "id": "t_6534c835",
   "title": "Write consolidated preflight run log",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789471337,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_14cf06ab",
   "title": "Sweep PR #55 diff for secret patterns and inventory secret touchpoints",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483216,
@@ -1502,7 +1502,7 @@
  {
   "id": "t_280dd175",
   "title": "Analyze DNS-leak exposure in PR #55 kill-switch design",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789483283,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_7a87e63d",
   "title": "Analyze IPv6-leak exposure in PR #55 kill-switch design",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789483283,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_4bb18d78",
   "title": "Map proposal doc vs PIA OpenVPN module for kill-switch gaps",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789483283,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_cf168f56",
   "title": "Locate the ipv4 token in the net4sats LAN-move recipe in docs/wizard-bundle.json",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo root, branch, and HEAD SHA on disk",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1610,7 +1610,7 @@
  {
   "id": "t_6858f1f8",
   "title": "Extract verbatim D3-D5 definitions and lan_ip/guard context",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1622,7 +1622,7 @@
  {
   "id": "t_3476fcf5",
   "title": "Compose triage-d3-d5.recon.md from repo pins and defect quotes",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1634,7 +1634,7 @@
  {
   "id": "t_93353722",
   "title": "Extract quote/location verdicts from quote-location-findings.md",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_7cf9b34b",
   "title": "Extract workaround, D-ID, structure verdicts from second report",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483458,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defective items in conwrt issue32 runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_596aba53",
   "title": "Verify D-ID set and unnumbered flags against raw runbook",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Run repo-wide grep sweep for wizard-bundle writers and IP/LAN tokens",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Hunt templates, heredocs, and build hooks rendering the LAN-move block",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,

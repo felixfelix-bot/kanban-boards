@@ -2102,7 +2102,7 @@
  {
   "id": "t_418bb756",
   "title": "Capture exact legacy boundary-mode run-log dir basename (read-only recon)",
-  "status": "todo",
+  "status": "done",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789365851,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_448cfe39",
   "title": "Run pytest -q from the pinned cwd in e80-stm32-bench/tools and report verbatim results",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_7d228a58",
   "title": "Audit randomness on the kind-1059 gift-wrap derivation path",
-  "status": "triage",
+  "status": "done",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789397027,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_9c5019f0",
   "title": "Implement GO-mode session_id from ARMED payload",
-  "status": "blocked",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_6e6dafce",
   "title": "Locate recon note and extract verbatim boundary-test invocation",
-  "status": "blocked",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789483587,
