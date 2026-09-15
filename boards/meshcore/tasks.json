@@ -1694,7 +1694,7 @@
  {
   "id": "t_35c19845",
   "title": "Capture -20 C die-temp soak evidence via calshow",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -2257,7 +2257,7 @@
  },
  {
   "id": "t_d3af1dad",
-  "title": "Locate ramp-log candidates (read-only) and emit candidates.json + candidates.md",
+  "title": "Inventory ramp-log candidates repo-wide; write candidates.json + candidates.md",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-data",
@@ -2305,7 +2305,7 @@
  },
  {
   "id": "t_6b680174",
-  "title": "Recon tollgate-rs design-review-notes scope; publish read-only doc manifest",
+  "title": "Recon tollgate-rs design-review-notes scope; return read-only doc manifest",
   "status": "ready",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Read-only gating-term grep sweep: tollgate-rs revs, first half",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -5954,7 +5954,7 @@
  {
   "id": "t_acbc6a9b",
   "title": "Interface inventory and attachment proof",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473450,
@@ -5990,7 +5990,7 @@
  {
   "id": "t_764d141d",
   "title": "Survey and identify all RF feedthroughs on chamber bulkhead",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473463,

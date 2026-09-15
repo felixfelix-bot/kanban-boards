@@ -2581,7 +2581,7 @@
  },
  {
   "id": "t_846739cd",
-  "title": "Read-only inventory of every CONFIG_ENABLE_TOLLGATE occurrence in balloon firmware tree",
+  "title": "Read-only inventory of CONFIG_ENABLE_TOLLGATE in balloon firmware tree",
   "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
@@ -3025,7 +3025,7 @@
  },
  {
   "id": "t_7b1da30d",
-  "title": "Locate P2 recon report in kanban store and write /tmp/p2_result.json",
+  "title": "Locate P2 recon report for t_77f5b39d and write /tmp/p2_result.json",
   "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
@@ -3890,7 +3890,7 @@
  {
   "id": "t_d18ff846",
   "title": "Inventory ~/repos candidates with branch/HEAD/remote table (READ-ONLY)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_fe1a85e9",
   "title": "Sweep non-ESP32 tollgate repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789405090,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_65175c99",
   "title": "Locate include line and inventory all tollgate_proto_encode call sites in app_task.cpp",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_5b4e0e2c",
   "title": "Inventory all tollgate_proto_decode call sites in app_task.cpp",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432614,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_347ac8b1",
   "title": "Audit every TG_MSG_* constant use in app_task.cpp",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789432629,

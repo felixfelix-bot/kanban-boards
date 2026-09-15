@@ -242,7 +242,7 @@
  {
   "id": "t_a9f7d91f",
   "title": "Triage D3-D5: file:line, impact, blocking verdict, minimal fix",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789344248,
@@ -326,7 +326,7 @@
  {
   "id": "t_be4fb255",
   "title": "Adversarially verify defects-d1-d5.md against the Issue-32 runbook",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789355446,
@@ -913,7 +913,7 @@
  },
  {
   "id": "t_c05e8747",
-  "title": "Inspect net4sats LAN-move IP token in wizard-bundle.json",
+  "title": "Locate and classify the net4sats LAN-move IP token in docs/wizard-bundle.json",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -925,7 +925,7 @@
  },
  {
   "id": "t_cb02d695",
-  "title": "Analyze derive_device_secret.py emitted fields and outputs",
+  "title": "Enumerate derive_device_secret.py emitted fields and check IPv4 output",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -937,7 +937,7 @@
  },
  {
   "id": "t_dedc85ff",
-  "title": "Enumerate writers/templates for docs/wizard-bundle.json and classify IP sources",
+  "title": "Enumerate writers of docs/wizard-bundle.json and classify the IP sources feeding the net4sats LAN-move block",
   "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
@@ -1058,7 +1058,7 @@
  {
   "id": "t_3f50216e",
   "title": "Merge audit findings into final report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit LAN-move verdict vs tollgate note",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back verdict vs tollgate note",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
