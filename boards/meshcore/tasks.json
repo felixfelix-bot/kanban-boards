@@ -2162,7 +2162,7 @@
  {
   "id": "t_9977680d",
   "title": "Enumerate sibling worktrees and reachable local note stores (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789360361,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_5296975e",
   "title": "Merge recon tables into one normalised gating report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_d00f4ed5",
   "title": "Scan esp-miner master rev for gate/shadow-card/board-approval hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-master",
   "created_at": 1789388386,
@@ -3938,7 +3938,7 @@
  {
   "id": "t_91454856",
   "title": "Scan esp-miner feature/tollgate-component-integration rev for gate hits",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "esp-miner-feature-tollgate-component-int",
   "created_at": 1789388386,
