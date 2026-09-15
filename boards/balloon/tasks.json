@@ -2330,7 +2330,7 @@
  {
   "id": "t_8e8296e7",
   "title": "Reconcile PAY/ACK candidate reports and issue one spec verdict",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2690,9 +2690,9 @@
  {
   "id": "t_878b6372",
   "title": "Widen and re-verify every 'no matches' symbol with logged read-only searches",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "tollgate-module-basic-go-head",
+  "assignee": "manager",
   "created_at": 1789384434,
   "started_at": null,
   "completed_at": null,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432333,
@@ -4778,9 +4778,9 @@
  {
   "id": "t_db83526f",
   "title": "Analyze assumptions at each category-(a) seq consumer site",
-  "status": "ready",
+  "status": "todo",
   "priority": 1,
-  "assignee": "worker-balloon",
+  "assignee": "manager",
   "created_at": 1789432748,
   "started_at": null,
   "completed_at": null,
@@ -5294,7 +5294,7 @@
  {
   "id": "t_509864e8",
   "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY-ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472812,
@@ -5306,7 +5306,7 @@
  {
   "id": "t_ab710dc5",
   "title": "Run price_sats grep sweeps and record branch",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789477321,
@@ -5329,8 +5329,8 @@
  },
  {
   "id": "t_97238119",
-  "title": "Run msg_type greps and produce hit list",
-  "status": "triage",
+  "title": "Run msg_type greps in balloon firmware and emit consolidated hit list",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5378,7 +5378,7 @@
  {
   "id": "t_895425ee",
   "title": "Extract git log commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5401,8 +5401,8 @@
  },
  {
   "id": "t_a052210f",
-  "title": "Extract merged/other git commands from verdict text",
-  "status": "triage",
+  "title": "Extract all merged/no-merged and other git commands from verdict text",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5426,7 +5426,7 @@
  {
   "id": "t_0e7859c9",
   "title": "Sweep tollgate-module-basic-go HEAD worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789478203,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_26101640",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789478203,
@@ -5450,7 +5450,7 @@
  {
   "id": "t_e0947ab6",
   "title": "Sweep feat/portal-packaging worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-portal-pac",
   "created_at": 1789478203,
@@ -5630,7 +5630,7 @@
  {
   "id": "t_63f4057d",
   "title": "Consolidate bucket C tollgate PAY/ACK sweep findings",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478265,
@@ -5654,7 +5654,7 @@
  {
   "id": "t_4dbeecb5",
   "title": "Identify P1 report child task from children list",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5726,7 +5726,7 @@
  {
   "id": "t_c9a01c12",
   "title": "Extract PAY/ACK spec evidence from docs and examples",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5798,7 +5798,7 @@
  {
   "id": "t_919dbe4e",
   "title": "Verify inventory completeness and accuracy against repo",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481017,
@@ -5834,7 +5834,7 @@
  {
   "id": "t_3f2ce9de",
   "title": "Locate all artifact copies and diff each against canonical",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481071,
@@ -5870,7 +5870,7 @@
  {
   "id": "t_514fc6a8",
   "title": "Sweep shard 0: filename hits + verbatim quotes (repos at positions 0,3,6...)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5882,7 +5882,7 @@
  {
   "id": "t_9506fc65",
   "title": "Sweep shard 1: filename hits + verbatim quotes (repos at positions 1,4,7...)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5894,7 +5894,7 @@
  {
   "id": "t_30da02a6",
   "title": "Sweep shard 2: filename hits + verbatim quotes (repos at positions 2,5,8...)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789481141,
@@ -5954,7 +5954,7 @@
  {
   "id": "t_16baac17",
   "title": "Consolidate docs/definitions inventory and classify authoritative vs stale",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789481178,
@@ -5990,7 +5990,7 @@
  {
   "id": "t_8d36176f",
   "title": "Merge and publish the tollgate_/TG_PROTO_ consumer-site report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481730,
@@ -6014,7 +6014,7 @@
  {
   "id": "t_ae2358b6",
   "title": "Produce ordered PAY/ACK candidate inventory",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481771,
@@ -6470,7 +6470,7 @@
  {
   "id": "t_0ed83101",
   "title": "Inventory all ~/repos/tollgate-module-basic-go* paths and HEAD SHAs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496648,
@@ -6482,7 +6482,7 @@
  {
   "id": "t_69e9906d",
   "title": "Audit HEAD trololgate-module-basic-go worktree for PAY/ACK wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496648,
@@ -6494,7 +6494,7 @@
  {
   "id": "t_29274ae1",
   "title": "Audit remaining tollgate-module-basic-go worktrees/fixtures for PAY/ACK",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496648,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_afd46f54",
   "title": "Consolidate PAY/ACK findings; decide wire-format ownership",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496648,
@@ -6518,7 +6518,7 @@
  {
   "id": "t_c17f0ce9",
   "title": "Pin revision, restate sweep grep, report negative-check output",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6530,7 +6530,7 @@
  {
   "id": "t_b0948fe0",
   "title": "Classify every CONFIG_ENABLE_* hit as GUARD / BUILD / COMMENT / STRING",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789496804,
@@ -6618,6 +6618,138 @@
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496981,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_072b0696",
+  "title": "Re-verify esp32-balloon-integration in-repo PAY/ACK candidate quotes",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789499439,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_60fafc57",
+  "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "awesome-tollgate-main",
+  "created_at": 1789499439,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_aac9edac",
+  "title": "Dedupe candidates, resolve PAY/ACK conflicts, issue single spec verdict",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-heavy",
+  "created_at": 1789499439,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_60394080",
+  "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-tollgate",
+  "created_at": 1789499454,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_65695d2f",
+  "title": "Widened read-only search: TG_MSG_PAY, TG_MSG_ACK",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-tollgate",
+  "created_at": 1789499454,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_87f95bad",
+  "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-tollgate",
+  "created_at": 1789499454,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_07d3ca09",
+  "title": "Consolidate widened-search logs into per-symbol verdicts",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-inspector",
+  "created_at": 1789499454,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_132e6575",
+  "title": "Re-grep category-(a) seq sites and diff vs upstream list",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789499492,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_60b9cbad",
+  "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789499492,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e567f245",
+  "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789499492,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_6e557752",
+  "title": "Assemble and audit final six-dimension seq assumption report",
+  "status": "todo",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789499492,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
