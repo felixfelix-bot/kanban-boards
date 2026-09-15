@@ -2186,7 +2186,7 @@
  {
   "id": "t_0ff4d6ed",
   "title": "Write docs/recon/tollgate_proto_framing_config.md synthesis",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789358951,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789428718,
@@ -4178,7 +4178,7 @@
  {
   "id": "t_8fa90f4e",
   "title": "Enumerate and select 2-3 CONFIG_ENABLE_* precedent candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789428809,

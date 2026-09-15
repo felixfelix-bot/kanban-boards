@@ -1898,7 +1898,7 @@
  {
   "id": "t_36f68231",
   "title": "Extract assertion + host source sites for first half of failures",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host source sites for second half of failures",
-  "status": "blocked",
+  "status": "todo",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
