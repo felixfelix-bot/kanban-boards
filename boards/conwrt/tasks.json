@@ -1442,7 +1442,7 @@
  {
   "id": "t_e664a415",
   "title": "Fetch conwrt PR #55 (ec5c60d9) and emit reviewable artifact snapshot + handoff note",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789483267,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc's credential model against threat model",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789483267,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_39a9c08d",
   "title": "Checkout PR #55 @ ec5c60d9 and export diff artifacts",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497129,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_05eb82ae",
   "title": "Audit PIA OpenVPN credential sources, storage and file permissions",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497145,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_adf07b01",
   "title": "Audit how PIA OpenVPN secrets are passed to the openvpn process",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789497145,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_17f230cc",
   "title": "Audit PIA OpenVPN module logging and error paths for secret leakage",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789497145,
@@ -1982,7 +1982,7 @@
  {
   "id": "t_551a444d",
   "title": "Audit PIA token network transmission and secret lifecycle/cleanup",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497145,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_dd18f4c3",
   "title": "Inventory PR #55 doc changes and scan for literal secrets",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_ce5bf819",
   "title": "Audit doc-prescribed workflows for insecure secret practices",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_26c57ef6",
   "title": "Cross-check documented secret flows against PIA OpenVPN code",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_0df5b54e",
   "title": "Grep conwrt tree at ec5c60d9 for DNS surfaces",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_261436ff",
   "title": "Audit PIA OpenVPN module DNS lifecycle at ec5c60d9",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2210,7 +2210,7 @@
  {
   "id": "t_5f4b5ebe",
   "title": "Extract verbatim DNS/kill-switch claims from PR #55 proposal doc",
-  "status": "blocked",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_9a7b4e9d",
   "title": "Code-check DNS claims (resolver pinning, leak prevention, port-53 block)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_e87493a5",
   "title": "Code-check kill-switch claims (behavior on tunnel drop)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,

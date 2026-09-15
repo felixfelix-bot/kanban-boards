@@ -4334,7 +4334,7 @@
  {
   "id": "t_44dddb8b",
   "title": "Compute gap set and trace transitive sdkconfig.h chains",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432333,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_468339f2",
   "title": "Infer tollgate_proto_decode signature from app_task.cpp call sites",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789432394,
@@ -4382,7 +4382,7 @@
  {
   "id": "t_04c5f044",
   "title": "Inventory tollgate symbols referenced but not defined in app_task.cpp",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789432394,
@@ -5006,7 +5006,7 @@
  {
   "id": "t_2a3627f7",
   "title": "Analyze sweep output and produce PAY/ACK classification report",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470360,
@@ -5090,7 +5090,7 @@
  {
   "id": "t_cacc743c",
   "title": "Detail struct/union/enum layouts",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789470658,
@@ -6206,7 +6206,7 @@
  {
   "id": "t_ce1183c3",
   "title": "Read-only case-insensitive near-miss sweep for tollgate PAY/ACK variants",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789484870,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789485224,
@@ -6254,7 +6254,7 @@
  {
   "id": "t_cfc4f557",
   "title": "Audit esp32-tollgate for normative PAY/ACK protocol spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-tollgate-master",
   "created_at": 1789486556,
@@ -6266,7 +6266,7 @@
  {
   "id": "t_66bd890c",
   "title": "Audit tollgate-module-basic-go for normative PAY/ACK spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789486556,
@@ -6278,7 +6278,7 @@
  {
   "id": "t_a7ebdfc8",
   "title": "Audit awesome-tollgate for normative PAY/ACK spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789486556,
@@ -6290,7 +6290,7 @@
  {
   "id": "t_836254e8",
   "title": "Audit tollgate-rs for normative PAY/ACK spec",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789486556,
@@ -6314,7 +6314,7 @@
  {
   "id": "t_bf3fed20",
   "title": "Infer tollgate_msg_hdr_t struct layout from app_task.cpp usage",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789487004,
@@ -6326,7 +6326,7 @@
  {
   "id": "t_0d1323ad",
   "title": "Infer tollgate_ack_payload_t struct layout from app_task.cpp usage",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789487004,
