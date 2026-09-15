@@ -2486,7 +2486,7 @@
  {
   "id": "t_8aa23d17",
   "title": "Sweep balloon-fresh docs for PAY/ACK protocol spec artifacts (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789366980,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_2c433ef7",
   "title": "Sweep balloon-fresh firmware for PAY/ACK wire-format code (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789366980,
