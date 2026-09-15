@@ -1406,7 +1406,7 @@
  {
   "id": "t_6becdbdf",
   "title": "Capture verbatim serial CLI + firmware build identity for MeshCore fork on SkyMapper Board A",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-mesh",
   "created_at": 1789352877,
@@ -1478,7 +1478,7 @@
  {
   "id": "t_04045747",
   "title": "Produce read-only block_kind inventory and scanner verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789352966,
@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory ramp-log candidates repo-wide; write candidates.json + candidates.md",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_6b680174",
   "title": "Recon tollgate-rs design-review-notes scope; return read-only doc manifest",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789361923,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_5c2c7354",
   "title": "On-bench inventory of frequency-measurement/generation instruments",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,

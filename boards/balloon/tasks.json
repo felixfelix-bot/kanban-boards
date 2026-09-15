@@ -4969,8 +4969,8 @@
  },
  {
   "id": "t_adbdc101",
-  "title": "Extract all staleness/recency claims verbatim from the verdict",
-  "status": "triage",
+  "title": "Transcribe all staleness/recency claims verbatim from the verdict",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,
@@ -4982,7 +4982,7 @@
  {
   "id": "t_6ff4a9f6",
   "title": "Merge command and claim inventories with cross-links and coverage notes",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789467022,

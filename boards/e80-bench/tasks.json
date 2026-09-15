@@ -3254,7 +3254,7 @@
  {
   "id": "t_b6bdd79d",
   "title": "Locate GO-mode session_id sourcing site in e80-stm32-bench",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_314e73d6",
   "title": "Add FAILOVER_RELAYS constant to shared tools module",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789477920,
@@ -3998,7 +3998,7 @@
  {
   "id": "t_a97268f5",
   "title": "Inventory relay-failover tests and locate the fake-double injection point",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478512,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_4a92e94c",
   "title": "Extract production publisher/transport interface contract",
-  "status": "ready",
+  "status": "triage",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789478512,
