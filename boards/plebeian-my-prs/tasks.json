@@ -4514,7 +4514,7 @@
  {
   "id": "t_c3530378",
   "title": "Review PR #1320: fix(wallet): keep the pending-token removal dialog open through the reclaim (#1292 follow-up)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789505055,
