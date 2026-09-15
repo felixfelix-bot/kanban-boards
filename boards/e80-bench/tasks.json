@@ -1898,7 +1898,7 @@
  {
   "id": "t_36f68231",
   "title": "Extract assertion + host source sites for first half of failures",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -1910,7 +1910,7 @@
  {
   "id": "t_f542f631",
   "title": "Extract assertion + host source sites for second half of failures",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789359345,
@@ -2197,8 +2197,8 @@
  },
  {
   "id": "t_a914aae0",
-  "title": "Implement concurrent relay failover publisher with per-relay timeout",
-  "status": "triage",
+  "title": "Add concurrent per-relay-failover relay publisher with timeout + aggregate",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789366081,
@@ -2257,8 +2257,8 @@
  },
  {
   "id": "t_9622baef",
-  "title": "Capture verbatim RED baseline pytest output for relay-failover tests",
-  "status": "triage",
+  "title": "Capture verbatim RED pytest baseline for relay-failover tests",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2269,8 +2269,8 @@
  },
  {
   "id": "t_7c9268b7",
-  "title": "Add FAILOVER_RELAYS constant as single source of truth in e80-stm32-bench/tools",
-  "status": "triage",
+  "title": "Add FAILOVER_RELAYS single-source constant in e80-stm32-bench/tools",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
