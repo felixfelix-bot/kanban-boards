@@ -2642,7 +2642,7 @@
  {
   "id": "t_6d5ff37e",
   "title": "Fetch PR #1271 diff/meta, verify SHA, inventory workflow files",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789351407,
