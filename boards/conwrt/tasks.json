@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,
@@ -650,7 +650,7 @@
  {
   "id": "t_26708a48",
   "title": "Write net4sats-binding.fragment.md verdict with concrete evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
@@ -914,7 +914,7 @@
  {
   "id": "t_c05e8747",
   "title": "Inspect net4sats LAN-move block in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -926,7 +926,7 @@
  {
   "id": "t_cb02d695",
   "title": "Analyze derive_device_secret.py emitted fields and outputs",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,
@@ -938,7 +938,7 @@
  {
   "id": "t_dedc85ff",
   "title": "Enumerate writers/templates that produce docs/wizard-bundle.json",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464918,

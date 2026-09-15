@@ -1262,7 +1262,7 @@
  {
   "id": "t_2ad3a088",
   "title": "Gate5: secret-scan the phase-1 diff, then push the branch",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789333273,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_f3c1c2ee",
   "title": "Add absence test for relay.contextvm.org hostname",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_22a1fa79",
   "title": "Add smoke test exercising fake transport; report all command lines",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_cec3b30d",
   "title": "Transcribe verbatim recon specs (path, run command, fixtures, clock-freeze) from e80-stm32-bench boundary-test note",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_7b98e49c",
   "title": "Read-only audit: confirm --sync=cvm / derive_t0 core is merged, list off-limits paths",
-  "status": "done",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789387160,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_d8cdddb6",
   "title": "Create tools/keymaterial.py env-only key accessor",
-  "status": "done",
+  "status": "todo",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789387619,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_95844f58",
   "title": "Refactor publish-path call sites to use load_keys()",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789387619,
@@ -2498,7 +2498,7 @@
  {
   "id": "t_143add66",
   "title": "Add env-driven unit tests for keymaterial module",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789387619,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_950d3ba1",
   "title": "Grep sweep: raw inventory of randomness call sites in tools tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_d25bac69",
   "title": "Catalog RNG libraries and pinned versions from manifests and lockfiles",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451828,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_48ad93e2",
   "title": "Inventory test entry points and exact test commands for e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_3cf5ff7f",
   "title": "Inventory conftest.py, fixtures, and test helpers under e80-stm32-bench/tools",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_7ff60546",
   "title": "Enumerate test prerequisites: env vars, hardware, network, and skip conditions",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_16f02559",
   "title": "Execute the tools test suite and write GIFTWRAP_AUDIT_TESTS.md",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789451845,
@@ -3194,7 +3194,7 @@
  {
   "id": "t_ca574921",
   "title": "Locate the NIP-59 gift-wrap construction choke-point",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -3206,7 +3206,7 @@
  {
   "id": "t_f1d51c5b",
   "title": "Enumerate every event-construction site in the workspace",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789451902,
@@ -3230,7 +3230,7 @@
  {
   "id": "t_b47da715",
   "title": "Collect verbatim grep evidence of all signing paths in tools tree",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789459644,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_b6bdd79d",
   "title": "Recon: locate GO-mode session_id sourcing site",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1789464929,
@@ -3290,7 +3290,7 @@
  {
   "id": "t_e1f68f8d",
   "title": "Extract test contract and capture RED output",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789464972,

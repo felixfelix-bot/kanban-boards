@@ -3026,7 +3026,7 @@
  {
   "id": "t_2d091a54",
   "title": "Probe boundary and no-fit branches for cal parser",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789370705,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_4b67eb6a",
   "title": "Capture power, cabling, and calibration state per instrument",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371426,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_4d10d307",
   "title": "Physically inspect and transcribe calibration labels on each instrument",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789371446,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_8942f6c1",
   "title": "Hunt calibration paperwork and record exact re-verifiable locations",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789371446,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_f0ed35a0",
   "title": "Map workspace repos, worktrees, and plain dirs (read-only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789388077,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_6a9d342c",
   "title": "Recon: enumerate doc roots, .md files, and ADR/RFC/design-review-notes paths (read-only)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789388077,
@@ -3554,7 +3554,7 @@
  {
   "id": "t_4a323fdc",
   "title": "Produce attributed per-repo doc-surface inventory report (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388077,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_2c7b7d95",
   "title": "Read-only inventory of git worktrees and sibling checkout dirs with reachability table",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_beeccb52",
   "title": "Read-only probe of local note stores and mounts; report inventory table",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388092,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_cf19d907",
   "title": "Measure chamber ramp rate from controller history/ramp log (warming + cooling)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388168,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_ea1fbe36",
   "title": "Read-only gating-term grep sweep: first half of tollgate-rs revs",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388214,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_16c8c61c",
   "title": "Locate official datasheet or manual for identified chamber",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789462909,
@@ -5438,7 +5438,7 @@
  {
   "id": "t_ca8bc457",
   "title": "Probe calshow and define die-temp parser",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463052,
@@ -5474,7 +5474,7 @@
  {
   "id": "t_ad3aee13",
   "title": "Measure and document all chamber penetrations",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463220,
@@ -5486,7 +5486,7 @@
  {
   "id": "t_cad6b6e8",
   "title": "Characterize door gasket geometry and compression",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463220,
@@ -5510,7 +5510,7 @@
  {
   "id": "t_67f6d460",
   "title": "Inventory and raw grep for nutband gate hits",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "nutband-main",
   "created_at": 1789463886,
@@ -5546,7 +5546,7 @@
  {
   "id": "t_8c5a3691",
   "title": "Catch-all workspace sweep and scan leftover roots",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789463995,
@@ -5558,7 +5558,7 @@
  {
   "id": "t_440616c5",
   "title": "Scan physical-router-test-automation for gating mechanisms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "physical-router-test-automation-fix-port",
   "created_at": 1789463995,
@@ -5570,7 +5570,7 @@
  {
   "id": "t_fd62e72e",
   "title": "Scan setup-android-screen-sharing for gating mechanisms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "setup-android-screen-sharing-master",
   "created_at": 1789463995,
@@ -5582,7 +5582,7 @@
  {
   "id": "t_911d341e",
   "title": "Scan vanity-npub-ghdl for gating mechanisms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "vanity-npub-ghdl-master",
   "created_at": 1789463995,
@@ -5594,7 +5594,7 @@
  {
   "id": "t_2fe42abc",
   "title": "Scan backups for gating mechanisms",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "backups",
   "created_at": 1789463995,
@@ -5618,7 +5618,7 @@
  {
   "id": "t_095550f1",
   "title": "Transcribe chamber nameplate and check equipment binder for rate specs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5630,7 +5630,7 @@
  {
   "id": "t_5102db20",
   "title": "Extract ramp rates from vendor datasheet and operator/installation manual",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5642,7 +5642,7 @@
  {
   "id": "t_59e258db",
   "title": "Check commissioning, install, and calibration records for ramp-rate specs",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464405,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_aa491972",
   "title": "Enumerate tollgate-rs rev list excluding design-review-notes",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464734,
@@ -5678,7 +5678,7 @@
  {
   "id": "t_1eaa0b60",
   "title": "Inventory doc surface at tollgate-rs HEAD",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789464734,
@@ -5702,7 +5702,7 @@
  {
   "id": "t_be650efa",
   "title": "Discover repos and worktrees via find",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465036,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_b4ee272e",
   "title": "Enumerate doc roots, .md files, and special doc paths (read-only)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789465073,
