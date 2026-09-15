@@ -6612,22 +6612,6 @@
   "updated": 1789488184.9681962,
   "ts": 1789488184.9681962
  },
- "conwrt:t_9f853058": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789489445.5275025,
-  "ts": 1789489156.1953893,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789489377"
- },
- "conwrt:t_a39d4d6e": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1789489446.9921927,
-  "ts": 1789489157.6280549,
-  "repo": "conwrt",
-  "run_id": "cobrador-1789489378"
- },
  "e80-bench:t_e82ffda3": {
   "node": "dq05",
   "status": "claimed",
