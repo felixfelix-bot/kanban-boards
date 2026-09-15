@@ -1010,7 +1010,7 @@
  {
   "id": "t_6534c835",
   "title": "Write consolidated OpenWrt preflight run log",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789471337,
@@ -1550,7 +1550,7 @@
  {
   "id": "t_cf168f56",
   "title": "Map the `ipv4` token in the net4sats LAN-move recipe in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_d091722c",
   "title": "Inventory derive_device_secret.py emitted fields and rule ipv4 emitter in/out",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483342,
@@ -2042,7 +2042,7 @@
  {
   "id": "t_1e2e7d7d",
   "title": "Compile secret-handling findings list with doc rewrite snippets",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497165,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_3db56dd3",
   "title": "Checkout PR #55 at ec5c60d9 and publish changed-file inventory",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497322,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_d4c6451b",
   "title": "Inventory DNS artifacts in PR #55 diff at ec5c60d9",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789497349,
@@ -2126,7 +2126,7 @@
  {
   "id": "t_0df5b54e",
   "title": "Grep conwrt tree at ec5c60d9 for DNS surfaces",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2138,7 +2138,7 @@
  {
   "id": "t_261436ff",
   "title": "Audit PIA OpenVPN module DNS lifecycle at ec5c60d9",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789497349,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_c0d40c2c",
   "title": "Inventory all wizard-bundle references",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
@@ -2402,7 +2402,7 @@
  {
   "id": "t_897ef95c",
   "title": "Extract verbatim D3 defect definition from evidence file",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2414,7 +2414,7 @@
  {
   "id": "t_5a20067f",
   "title": "Extract verbatim D4 defect definition from evidence file",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_a8f42f8d",
   "title": "Extract verbatim D5 defect definition from evidence file",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
