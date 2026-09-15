@@ -2258,7 +2258,7 @@
  {
   "id": "t_9622baef",
   "title": "Capture verbatim RED pytest baseline for relay-failover tests",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2270,7 +2270,7 @@
  {
   "id": "t_7c9268b7",
   "title": "Add FAILOVER_RELAYS single-source constant in e80-stm32-bench/tools",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2294,7 +2294,7 @@
  {
   "id": "t_69c76243",
   "title": "Add fake relay transport double (ACCEPT/TIMEOUT/HARD_ERROR) for e80-stm32-bench relay tests",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378261,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_412ffb5a",
   "title": "Add hermetic NIP-59 gift-wrap (kind 1059) determinism/idempotence pytest file",
-  "status": "done",
+  "status": "ready",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789378526,
@@ -2390,7 +2390,7 @@
  {
   "id": "t_c830a19e",
   "title": "Verify publish idempotency: same session input yields same event id",
-  "status": "todo",
+  "status": "done",
   "priority": 5,
   "assignee": "manager",
   "created_at": 1789380049,

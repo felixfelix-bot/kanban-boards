@@ -1670,7 +1670,7 @@
  {
   "id": "t_3a34bea7",
   "title": "Capture +25 C die-temp soak evidence via calshow",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_b0a5312a",
   "title": "Capture 0 C die-temp soak evidence (>15 min in 0.5 C band)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_e3bb0dba",
   "title": "Run -40 C die-temp soak and capture calshow evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357029,
