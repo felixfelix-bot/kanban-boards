@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,
@@ -1070,7 +1070,7 @@
  {
   "id": "t_7c40904e",
   "title": "Audit LAN-move verdict vs tollgate note",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1082,7 +1082,7 @@
  {
   "id": "t_fb6e57f0",
   "title": "Audit read-back verdict vs tollgate note",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
@@ -1214,7 +1214,7 @@
  {
   "id": "t_4d9187ea",
   "title": "Extract D-ID set from runbook with inventory cross-check",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789477046,

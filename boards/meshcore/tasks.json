@@ -5954,7 +5954,7 @@
  {
   "id": "t_acbc6a9b",
   "title": "Interface inventory and attachment proof",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473450,
@@ -5990,7 +5990,7 @@
  {
   "id": "t_764d141d",
   "title": "Survey and identify all RF feedthroughs on chamber bulkhead",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789473463,
