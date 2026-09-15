@@ -289,8 +289,8 @@
  },
  {
   "id": "t_7605c05e",
-  "title": "Capture pre-flight snapshots, reboot-surviving baselines and clock evidence",
-  "status": "triage",
+  "title": "Capture pre-flight evidence bundle: uci/mtd/packages, reboot baselines, clock go/no-go",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789348614,
