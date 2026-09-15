@@ -1646,23 +1646,23 @@
  {
   "id": "t_e3d9ac17",
   "title": "Cold-verify PR #1311 draft review comment; emit APPROVED or REJECTED",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335568,
   "started_at": 1789433602,
-  "completed_at": null,
+  "completed_at": 1789435759,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
-  "started_at": null,
+  "started_at": 1789435876,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
