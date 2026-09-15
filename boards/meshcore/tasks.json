@@ -2258,7 +2258,7 @@
  {
   "id": "t_d3af1dad",
   "title": "Inventory candidate ramp log files, read-only, write candidates.json + candidates.md",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
