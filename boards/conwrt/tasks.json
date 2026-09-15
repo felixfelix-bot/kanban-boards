@@ -1094,7 +1094,7 @@
  {
   "id": "t_c5842c60",
   "title": "Merge tollgate audit findings into final report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789473600,
