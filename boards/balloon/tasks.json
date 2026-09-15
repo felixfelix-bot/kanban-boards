@@ -5138,7 +5138,7 @@
  {
   "id": "t_aa243451",
   "title": "Collect git metadata for ADDITIONAL tollgate repos",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5198,7 +5198,7 @@
  {
   "id": "t_db7ba282",
   "title": "Compute guard overlap and write census summary",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -5270,7 +5270,7 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -6638,7 +6638,7 @@
  {
   "id": "t_60fafc57",
   "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789499439,
@@ -6662,7 +6662,7 @@
  {
   "id": "t_60394080",
   "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6674,7 +6674,7 @@
  {
   "id": "t_65695d2f",
   "title": "Widened read-only search: TG_MSG_PAY, TG_MSG_ACK",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6686,7 +6686,7 @@
  {
   "id": "t_87f95bad",
   "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6710,7 +6710,7 @@
  {
   "id": "t_132e6575",
   "title": "Re-grep category-(a) seq sites and diff vs upstream list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6722,7 +6722,7 @@
  {
   "id": "t_60b9cbad",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6734,7 +6734,7 @@
  {
   "id": "t_e567f245",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6806,7 +6806,7 @@
  {
   "id": "t_86fee389",
   "title": "Freeze exact CONFIG_ENABLE_* flag list from parent task output",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499737,
