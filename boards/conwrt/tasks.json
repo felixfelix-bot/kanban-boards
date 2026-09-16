@@ -1490,7 +1490,7 @@
  {
   "id": "t_9bd6fdaa",
   "title": "Review kill-switch / fail-open logic in PR #55 (conwrt)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483283,
@@ -1946,7 +1946,7 @@
  {
   "id": "t_05eb82ae",
   "title": "Audit PIA OpenVPN credential sources, storage and file permissions",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497145,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_adf07b01",
   "title": "Audit how PIA OpenVPN secrets are passed to the openvpn process",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497145,
@@ -1970,7 +1970,7 @@
  {
   "id": "t_17f230cc",
   "title": "Audit PIA OpenVPN module logging and error paths for secret leakage",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497145,
@@ -2006,7 +2006,7 @@
  {
   "id": "t_dd18f4c3",
   "title": "Inventory PR #55 doc changes and scan for literal secrets",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497165,
@@ -3110,7 +3110,7 @@
  {
   "id": "t_471e0423",
   "title": "Export diff artifacts for PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
