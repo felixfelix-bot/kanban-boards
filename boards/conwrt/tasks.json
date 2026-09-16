@@ -2510,7 +2510,7 @@
  {
   "id": "t_8756de6b",
   "title": "Audit PIA OpenVPN credential sources and file lifecycle",
-  "status": "todo",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789499019,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_c5e96377",
   "title": "Audit permissions and ownership of PIA credential artifacts",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2534,7 +2534,7 @@
  {
   "id": "t_487d0a02",
   "title": "Audit PIA credential leakage paths (logs, argv, temp, repo)",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_3f2970b1",
   "title": "Audit keychain/secret-store integration for PIA credentials",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_e1772c70",
   "title": "Locate and quote the ipv4 value in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_dc828f33",
   "title": "Inventory derive_device_secret.py emitted output fields",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2594,7 +2594,7 @@
  {
   "id": "t_81e5db7e",
   "title": "Grep for bundle writers and the ipv4 binding site",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2618,7 +2618,7 @@
  {
   "id": "t_d66ce8af",
   "title": "Fetch PR #55 (head ec5c60d9) and inventory changed files",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499321,

@@ -1334,7 +1334,7 @@
  {
   "id": "t_f623b10c",
   "title": "Add RED tests + fixtures pinning frozen session-dir naming contract in range_check",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789339377,
