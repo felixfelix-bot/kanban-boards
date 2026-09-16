@@ -266,7 +266,7 @@
  {
   "id": "t_b923f5a3",
   "title": "FIX-T8: docs + final data commit",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314147,
@@ -4742,7 +4742,7 @@
  {
   "id": "t_a7576fbd",
   "title": "FIX chain tip: make `make test-host` green (7 RED tests in tools/test_e80_sweep_full.py + stale baud assert)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789564762,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_d89bfd25",
   "title": "FIX-T3.1: patch residual RadioLib syncMatch=0x01 at stageMode TX (LR2021.cpp:936) + regen patch",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789571306,

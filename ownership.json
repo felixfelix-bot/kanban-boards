@@ -7884,6 +7884,24 @@
   "updated": 1789568928.2286713,
   "ts": 1789568928.2286713
  },
+ "e80-bench:t_d89bfd25": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789572395.0803368,
+  "ts": 1789572395.0803368
+ },
+ "e80-bench:t_427b43fd": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789572395.1079574,
+  "ts": 1789572395.1079574
+ },
+ "e80-bench:t_a7576fbd": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789572395.1237047,
+  "ts": 1789572395.1237047
+ },
  "tollgate:t_569854ff": {
   "node": "cobrador",
   "status": "claimed",
