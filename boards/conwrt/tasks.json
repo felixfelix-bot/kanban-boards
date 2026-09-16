@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc credential model against threat model",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_6c6441a6",
   "title": "Inventory firewall rulesets at ec5c60d9 and rule on port-53 WAN egress",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
