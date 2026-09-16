@@ -4754,7 +4754,7 @@
  {
   "id": "t_2de129db",
   "title": "Cold cross-family review: FIX-T4 FIFO hygiene @ 07dbb8d (verdict must land on t_6b21f451)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789566611,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_e42dd452",
   "title": "Operator waiver: e80-bench:t_6b21f451 blocked on ci_evidence + consolidated (deadlock \u2014 card cannot close without decision)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789566648,
@@ -4778,7 +4778,7 @@
  {
   "id": "t_f178b54c",
   "title": "FIX-R1: re-express FIX-T1..T4 chain onto CURRENT main \u2014 ONE consolidated branch + PR",
-  "status": "done",
+  "status": "triage",
   "priority": 60,
   "assignee": "worker-balloon",
   "created_at": 1789567624,
