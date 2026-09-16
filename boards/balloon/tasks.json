@@ -5558,7 +5558,7 @@
  {
   "id": "t_7e763f89",
   "title": "Aggregate bucket-B PAY/ACK wire-format findings",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478239,
@@ -7370,7 +7370,7 @@
  {
   "id": "t_d4218586",
   "title": "Record esp32-mesh metadata and filename sweep",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7382,7 +7382,7 @@
  {
   "id": "t_87f73158",
   "title": "Content-grep esp32-mesh for PAY/ACK wire-format terms",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
