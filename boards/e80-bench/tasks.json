@@ -398,7 +398,7 @@
  {
   "id": "t_8ebe572a",
   "title": "HARM-T8: HW session 2 \u2014 RP2040 pairs @868 + @2440",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316345,

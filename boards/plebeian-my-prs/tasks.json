@@ -4658,7 +4658,7 @@
  {
   "id": "t_e720c97c",
   "title": "Review PR #1332: docs(adr): Wave 1 addendum \u2014 descriptive half (split of #1322; no new decision)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789572421,
@@ -4670,7 +4670,7 @@
  {
   "id": "t_f4a1f540",
   "title": "Review PR #1333: docs(adr): Wave 1 read topology \u2014 PROPOSED, for maintainer discussion [not for merge yet]",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789572421,
