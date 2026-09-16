@@ -4622,7 +4622,7 @@
  {
   "id": "t_b49b3e18",
   "title": "Split github-code-review SKILL.md (104,849 chars, over the 100k write wall) and add the missing pre-publish-preflight pointer",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
@@ -4634,7 +4634,7 @@
  {
   "id": "t_3867afb8",
   "title": "Cold review of kimi's draft for PR #1329 (PlebeianApp/market)",
-  "status": "ready",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789565025,

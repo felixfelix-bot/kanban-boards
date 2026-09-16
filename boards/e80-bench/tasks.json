@@ -218,7 +218,7 @@
  {
   "id": "t_6b21f451",
   "title": "FIX-T4: fw FLRC RX FIFO clear per re-arm",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314145,
@@ -338,7 +338,7 @@
  {
   "id": "t_5dc7f346",
   "title": "HARM-T3: RadioLib fork \u2014 511B FLRC + Match123 patch + submodule fix",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316341,
@@ -362,7 +362,7 @@
  {
   "id": "t_b7c38546",
   "title": "HARM-T5: RP2040 bench console firmware \u2014 v4 raw-SPI layer + 511B",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
@@ -4746,6 +4746,30 @@
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789564762,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2de129db",
+  "title": "Cold cross-family review: FIX-T4 FIFO hygiene @ 07dbb8d (verdict must land on t_6b21f451)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-kimi",
+  "created_at": 1789566611,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e42dd452",
+  "title": "Operator waiver: e80-bench:t_6b21f451 blocked on ci_evidence + consolidated (deadlock \u2014 card cannot close without decision)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789566648,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
