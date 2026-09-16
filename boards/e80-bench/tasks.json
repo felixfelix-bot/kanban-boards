@@ -1442,7 +1442,7 @@
  {
   "id": "t_63dc5024",
   "title": "Name GO-mode log dirs s<session_id>-go<epoch>, keep legacy intact",
-  "status": "triage",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,

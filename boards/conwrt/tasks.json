@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc credential model against threat model",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_5de41923",
   "title": "Parse source report and extract structured findings",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_ff096ec1",
   "title": "Verify draft coverage and extract per-check data",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_727554b8",
   "title": "Extract artifact D-ID set from inventory",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_ac26cd15",
   "title": "Extract runbook D-ID set from raw runbook",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_fce35c42",
   "title": "Extract env vars from design doc sections 1-3",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_43c49c71",
   "title": "Scan design docs for credential examples",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506594,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,

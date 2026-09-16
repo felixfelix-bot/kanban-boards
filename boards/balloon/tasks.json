@@ -1538,7 +1538,7 @@
  {
   "id": "t_fc0187b4",
   "title": "Grep ~/repos for tollgate PAY/ACK symbols and account for every one",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342382,
@@ -1562,7 +1562,7 @@
  {
   "id": "t_4196ae95",
   "title": "Write tollgate PAY/ACK spec findings report (normative vs stub)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bdf2e0b9",
   "title": "Audit reconciliation verdict: cross-check both parent sweep lists against the dedup list",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_69f3c883",
   "title": "Audit tollgate proto call sites in balloon firmware app_task.cpp",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395070,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_03b6c934",
   "title": "Grep wire-format keywords across HEAD and CLI/JSON worktrees",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_a206c90b",
   "title": "Enumerate tollgate_/TG_PROTO_ consumer sites in balloon firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432748,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_de7a3f5d",
   "title": "Capture read-only git baselines for each candidate repo root",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_d33e1501",
   "title": "Map real #if/#ifdef guard sites for CONFIG_ENABLE_* symbols",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_126b0941",
   "title": "Enumerate and count CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440411,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_b587d35d",
   "title": "Classify hits, build per-flag rollup, assemble STEP 4 catalog",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789448085,
@@ -5042,7 +5042,7 @@
  {
   "id": "t_4470c08b",
   "title": "Infer struct definitions implied by app_task.cpp usage, flag UNDETERMINED fields",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789470539,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_7fd467f5",
   "title": "Merge extracted git commands into final COMMANDS section",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789485224,
@@ -6758,7 +6758,7 @@
  {
   "id": "t_e640451e",
   "title": "Enumerate in-scope tollgate-module-basic-go worktrees (path, branch, SHA)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499638,
@@ -6770,7 +6770,7 @@
  {
   "id": "t_1ddb8336",
   "title": "Scan feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499638,

@@ -2738,7 +2738,7 @@
  {
   "id": "t_cef03fd2",
   "title": "Recon esp-miner (master + tollgate feature) for gate/shadow-card hits",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366684,
