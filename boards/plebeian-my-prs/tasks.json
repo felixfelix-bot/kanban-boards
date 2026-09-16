@@ -4686,7 +4686,7 @@
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789579989,
-  "started_at": null,
+  "started_at": 1789586003,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4710,6 +4710,18 @@
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789584758,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_5a974c0a",
+  "title": "Cold cross-family review: PR #1333 draft comment",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789586109,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
