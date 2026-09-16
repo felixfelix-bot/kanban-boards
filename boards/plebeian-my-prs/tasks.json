@@ -4550,7 +4550,7 @@
  {
   "id": "t_2b58993d",
   "title": "Review PR #1323: fix(#1317): review findings 2",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789549661,
@@ -4566,6 +4566,18 @@
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789549668,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7d768012",
+  "title": "Cross-family review: PR #1323 draft review comment",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789551422,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
