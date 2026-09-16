@@ -6854,7 +6854,7 @@
  {
   "id": "t_0c7e76e3",
   "title": "Sweep HEAD ref for PAY/ACK wire-format candidates",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-head",
   "created_at": 1789499875,
@@ -6866,7 +6866,7 @@
  {
   "id": "t_277d1f3b",
   "title": "Sweep feat/cli-json-config-rebased worktree for PAY/ACK wire-format candidates",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499875,
@@ -6890,7 +6890,7 @@
  {
   "id": "t_e7483ea5",
   "title": "Scan verdict text for git command patterns",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499951,
