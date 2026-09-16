@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "ready",
+  "status": "review",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -4598,10 +4598,22 @@
  {
   "id": "t_c01f5871",
   "title": "Review PR #1329: fix(auctions): re-land the #1317 review fixes onto the integration branch",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789557089,
+  "started_at": 1789564455,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_aaf98f07",
+  "title": "Review PR #1331: ci(workflows): run pull_request checks for every PR base, not just main/master",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-kimi",
+  "created_at": 1789564635,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
