@@ -1826,7 +1826,7 @@
  {
   "id": "t_55d4acb7",
   "title": "Document CONFIG_ENABLE_* guard convention + CONFIG_ENABLE_TOLLGATE declaration/consumption in balloon firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -6914,7 +6914,7 @@
  {
   "id": "t_f191919c",
   "title": "Normalize docs/spec sweep findings into verified hits",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6926,7 +6926,7 @@
  {
   "id": "t_f05e1193",
   "title": "Normalize firmware code sweep findings into verified hits",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499995,
@@ -6950,7 +6950,7 @@
  {
   "id": "t_694df0c3",
   "title": "Locate and reconstruct parent A, parent B, and dedup list",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500014,
@@ -6998,7 +6998,7 @@
  {
   "id": "t_68802b59",
   "title": "Collect per-path git log recency evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
