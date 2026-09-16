@@ -4562,7 +4562,7 @@
  {
   "id": "t_48994f9e",
   "title": "Review PR #1324: fix(#1285): review findings 1-3",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789549668,
@@ -4574,11 +4574,23 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
   "started_at": 1789551907,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0a2000c2",
+  "title": "Gate 2.5 cold-review: PR #1324 draft review comment (f7610859)",
+  "status": "ready",
+  "priority": 10,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789552029,
+  "started_at": null,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
