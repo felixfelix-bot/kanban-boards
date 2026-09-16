@@ -1982,7 +1982,7 @@
  {
   "id": "t_cb960649",
   "title": "Trace one TX packet path in bench_main.cpp with file:line cites",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
@@ -2078,7 +2078,7 @@
  {
   "id": "t_0b631b35",
   "title": "Wire CDC-safe resets, one-shot retry, and --[no-]reset flag into p1b_ab_test.py",
-  "status": "ready",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-base",
   "created_at": 1789346532,
