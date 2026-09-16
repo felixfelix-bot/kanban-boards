@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408661,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_0a1b3775",
   "title": "Count CONFIG_ENABLE_* guard forms A-D (read-only census + overlap evidence)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428856,
