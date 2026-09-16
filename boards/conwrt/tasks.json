@@ -1622,7 +1622,7 @@
  {
   "id": "t_3476fcf5",
   "title": "Compose triage-d3-d5.recon.md from repo pins and verbatim D3/D4/D5 quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
