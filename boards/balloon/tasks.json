@@ -1562,7 +1562,7 @@
  {
   "id": "t_4196ae95",
   "title": "Write tollgate PAY/ACK spec findings report (normative vs stub)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789342382,
@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_bdf2e0b9",
   "title": "Audit reconciliation verdict: cross-check both parent sweep lists against the dedup list",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -4526,7 +4526,7 @@
  {
   "id": "t_57bc3589",
   "title": "Docs & definitions sweep: .proto, openapi, yaml, docs/ADR dirs",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_a206c90b",
   "title": "Enumerate tollgate_/TG_PROTO_ consumer sites in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432748,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_de7a3f5d",
   "title": "Capture read-only git baselines for each candidate repo root",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432810,
@@ -4850,7 +4850,7 @@
  {
   "id": "t_d33e1501",
   "title": "Map real #if/#ifdef guard sites for CONFIG_ENABLE_* symbols",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -4874,7 +4874,7 @@
  {
   "id": "t_126b0941",
   "title": "Enumerate and count CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440411,
@@ -6230,7 +6230,7 @@
  {
   "id": "t_3c8e01db",
   "title": "Audit and quote compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789485224,

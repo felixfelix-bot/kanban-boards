@@ -1466,7 +1466,7 @@
  {
   "id": "t_53c2d656",
   "title": "Review proposal doc credential model against threat model",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
