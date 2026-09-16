@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
@@ -9710,7 +9710,7 @@
  {
   "id": "t_51d1d219",
   "title": "PCB-S4 policy: no PCB card completes on a prose 'DRC clean' - require a drc_score row",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789565564,

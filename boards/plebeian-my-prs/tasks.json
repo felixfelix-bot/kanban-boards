@@ -4610,19 +4610,19 @@
  {
   "id": "t_aaf98f07",
   "title": "Review PR #1331: ci(workflows): run pull_request checks for every PR base, not just main/master",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789564635,
   "started_at": 1789566853,
-  "completed_at": null,
+  "completed_at": 1789568657,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_b49b3e18",
   "title": "Split github-code-review SKILL.md (104,849 chars, over the 100k write wall) and add the missing pre-publish-preflight pointer",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
