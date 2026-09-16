@@ -7394,7 +7394,7 @@
  {
   "id": "t_72e3a88b",
   "title": "Inspect esp32-mesh config/docs for protocol hints",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-mesh-feature-redeem-ecash",
   "created_at": 1789500993,
@@ -7418,7 +7418,7 @@
  {
   "id": "t_65127856",
   "title": "Record esp32-balloon-integration git state and branch inventory",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
