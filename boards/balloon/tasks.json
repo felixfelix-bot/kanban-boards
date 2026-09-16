@@ -9658,5 +9658,65 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7c65638f",
+  "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-balloon",
+  "created_at": 1789565561,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a93eab7b",
+  "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-balloon",
+  "created_at": 1789565561,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9a6424cd",
+  "title": "PCB-S2: adjudicate residual DRC + trap suite T1-T8 + PROTOCOL doc (adversarial)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-reviewer-kimi",
+  "created_at": 1789565562,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e3130d08",
+  "title": "PCB-S3 (HUMAN/Felix): verify flight board + sign off before JLCPCB order",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789565563,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_51d1d219",
+  "title": "PCB-S4 policy: no PCB card completes on a prose 'DRC clean' - require a drc_score row",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789565564,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]

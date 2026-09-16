@@ -2654,12 +2654,12 @@
  {
   "id": "t_7b4397f3",
   "title": "Analyze preview-deploy.yml at head SHA for new workflow defects",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
   "started_at": 1789436306,
-  "completed_at": null,
+  "completed_at": 1789565581,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
