@@ -1766,7 +1766,7 @@
  {
   "id": "t_3437ea0c",
   "title": "Classify IP interpolation source for each wizard-bundle writer/renderer",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d1bef0e8",
   "title": "Audit firewall ruleset and tunnel teardown for port-53 escape",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,

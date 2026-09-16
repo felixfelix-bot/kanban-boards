@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402532,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
