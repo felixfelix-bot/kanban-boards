@@ -4738,5 +4738,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_cc459314",
+  "title": "GATE 2.5 cold review (REDO): PR #1335 draft review comment from worker-reviewer-kimi",
+  "status": "ready",
+  "priority": 10,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789587643,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
