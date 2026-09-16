@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1766,7 +1766,7 @@
  {
   "id": "t_3437ea0c",
   "title": "Classify IP interpolation source for each wizard-bundle writer/renderer",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d1bef0e8",
   "title": "Audit firewall ruleset and tunnel teardown for port-53 escape",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,

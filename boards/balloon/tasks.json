@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_719d3370",
   "title": "Screen CONFIG_ENABLE_* inventory and rank 3 precedent candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402532,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_a1d2fecd",
   "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789409039,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -4958,7 +4958,7 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789467022,
