@@ -29,5 +29,6 @@
  "merchant-routing": "https://github.com/felixfelix-bot/merchant-routing.git",
  "llm-routing": "https://github.com/felixfelix-bot/llm-routing.git",
  "router-quality": "https://github.com/felixfelix-bot/router-quality.git",
- "house-keeping": "https://github.com/felixfelix-bot/house-keeping.git"
+ "house-keeping": "https://github.com/felixfelix-bot/house-keeping.git",
+ "nostrhackday": "https://github.com/felixfelix-bot/nostrhackday-site.git"
 }

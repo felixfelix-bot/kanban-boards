@@ -1,0 +1,14 @@
+[
+ {
+  "id": "t_b7808e10",
+  "title": "Implement Nostr signup form with universal PoW",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-base",
+  "created_at": 1789475618,
+  "started_at": 1789476715,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "worktree"
+ }
+]
