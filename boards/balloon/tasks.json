@@ -2642,7 +2642,7 @@
  {
   "id": "t_fca77cff",
   "title": "Extract `## Mock protocol` section verbatim to /tmp with evidence flags",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789379315,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408661,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_158db7db",
   "title": "Classify all PAY-ACK hits and answer whether these paths own a wire format",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432559,
