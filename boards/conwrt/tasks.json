@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defects in conwrt issue32 runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_f977d7e6",
   "title": "Consolidate DNS-leak audit findings into numbered file:line report",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497488,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
