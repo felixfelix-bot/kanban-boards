@@ -2198,7 +2198,7 @@
  {
   "id": "t_0e77b291",
   "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789359172,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
