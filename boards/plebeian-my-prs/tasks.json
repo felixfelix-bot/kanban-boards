@@ -2654,7 +2654,7 @@
  {
   "id": "t_7b4397f3",
   "title": "Analyze preview-deploy.yml at head SHA for new workflow defects",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -4598,7 +4598,7 @@
  {
   "id": "t_c01f5871",
   "title": "Review PR #1329: fix(auctions): re-land the #1317 review fixes onto the integration branch",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789557089,
@@ -4626,6 +4626,18 @@
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3867afb8",
+  "title": "Cold review of kimi's draft for PR #1329 (PlebeianApp/market)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789565025,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
