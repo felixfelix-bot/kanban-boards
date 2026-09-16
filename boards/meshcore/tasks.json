@@ -278,7 +278,7 @@
  {
   "id": "t_f719b612",
   "title": "Verify board/firmware/serial preconditions and record LR2021 module ID",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789333877,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_5296975e",
   "title": "Merge recon tables into one normalised gating report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789388309,

@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_d5a1daec",
   "title": "Inventory tollgate_proto_encode/decode call sites in app_task.cpp",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -6302,7 +6302,7 @@
  {
   "id": "t_77c735a3",
   "title": "Synthesize repo audits into one PAY/ACK upstream-spec report and issue the bottom-line call",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789486556,
@@ -6338,7 +6338,7 @@
  {
   "id": "t_f01441e6",
   "title": "Assemble STEP 3 struct block and merged FIELDS_TO_RESOLVE list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789487004,

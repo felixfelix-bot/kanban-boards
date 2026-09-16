@@ -1622,7 +1622,7 @@
  {
   "id": "t_3476fcf5",
   "title": "Compose triage-d3-d5.recon.md from repo pins and verbatim D3/D4/D5 quotes",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
@@ -2054,7 +2054,7 @@
  {
   "id": "t_3db56dd3",
   "title": "Checkout PR #55 at ec5c60d9 and publish changed-file inventory",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497322,
@@ -2114,7 +2114,7 @@
  {
   "id": "t_d4c6451b",
   "title": "Inventory DNS artifacts in PR #55 diff at ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497349,
@@ -2174,7 +2174,7 @@
  {
   "id": "t_7562efb4",
   "title": "Trace tunnel up/down lifecycle hooks and DNS mutation/revert behavior",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
@@ -2186,7 +2186,7 @@
  {
   "id": "t_b1fed363",
   "title": "Audit IPv6 kill-switch coverage and DoH/DoT port-53 bypass surface",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_d1541ce3",
   "title": "Assemble final credential model review markdown",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501738,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_92d41b9d",
   "title": "Map PIA OpenVPN credential handling in conwrt (PR #55 @ ec5c60d9)",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502152,
@@ -3098,7 +3098,7 @@
  {
   "id": "t_c470885c",
   "title": "Fetch and checkout PR #55 head",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_ee44af1a",
   "title": "Audit hardcoded credentials and committed secret files in PIA OpenVPN module",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_520ed6c5",
   "title": "Audit runtime credential file permissions and creation modes in PIA OpenVPN module",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71d1f914",
   "title": "Audit Docker image layer leakage of PIA OpenVPN secrets",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,
