@@ -1682,7 +1682,7 @@
  {
   "id": "t_ca11448d",
   "title": "Assemble six-symbol tollgate grep accounting report (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789346669,
@@ -5762,7 +5762,7 @@
  {
   "id": "t_273492c7",
   "title": "Grep tollgate-rs repos for PAY/ACK wire-format keywords (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789480740,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_c9c5937e",
   "title": "Consolidate PAY/ACK wire-format evidence report with classifications",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789480740,
@@ -5786,7 +5786,7 @@
  {
   "id": "t_6a9a297f",
   "title": "Produce revision-pinned decode/RX/ack call-site inventory report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481017,
@@ -5822,7 +5822,7 @@
  {
   "id": "t_f50da0a5",
   "title": "Inventory vendored / submodule / fork duplicate location classes",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481071,
@@ -5918,7 +5918,7 @@
  {
   "id": "t_1e9d2974",
   "title": "Sweep tollgate-module-basic-go worktrees for proto/OpenAPI/YAML/docs",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481178,
@@ -5930,7 +5930,7 @@
  {
   "id": "t_761efc3b",
   "title": "Sweep client/sibling tollgate Go+Rust repos for specs and docs",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481178,
@@ -5942,7 +5942,7 @@
  {
   "id": "t_ce738669",
   "title": "Sweep tollgate docs/content repos for ADRs, specs, and YAML",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481178,
@@ -5966,7 +5966,7 @@
  {
   "id": "t_26a521e6",
   "title": "Enumerate tollgate_* consumer sites in balloon firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481730,
@@ -5978,7 +5978,7 @@
  {
   "id": "t_38880b90",
   "title": "Enumerate TG_PROTO_* consumer sites in balloon firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789481730,
@@ -6566,7 +6566,7 @@
  {
   "id": "t_a491e562",
   "title": "Resolve selected CONFIG_ENABLE_* flags and capture repo baseline",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496981,

@@ -2270,7 +2270,7 @@
  {
   "id": "t_5f078c01",
   "title": "Inventory kill-switch mechanisms in PIA OpenVPN at ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_ca868fbf",
   "title": "Trace fail-closed behavior on tunnel drop, auth failure, reconnect",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
@@ -2834,7 +2834,7 @@
  {
   "id": "t_8ff6d202",
   "title": "Enumerate PR #55 doc changes and produce audit scope list",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
@@ -2882,7 +2882,7 @@
  {
   "id": "t_68a426b1",
   "title": "Audit argv secrets in openvpn invocations",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_bf503eb8",
   "title": "Audit env var secrets in openvpn invocations",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_ef7cf473",
   "title": "Audit temp-file and stdin secret handling",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2918,7 +2918,7 @@
  {
   "id": "t_822b5028",
   "title": "Audit shell tracing and log exposure of secrets",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_cac9ac91",
   "title": "Audit PIA OpenVPN module logging for secret leakage",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_6114fc25",
   "title": "Audit OpenVPN verbosity and log file settings",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_d2e0efba",
   "title": "Audit exception and error handlers for secret leakage",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_caa6d7c8",
   "title": "Audit shell and CI tracing for secret leakage",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_f1884b5c",
   "title": "Audit hardcoded secrets and credential file instructions",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_d840f35e",
   "title": "Audit CLI flag and shell profile secret exposure",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_ad641556",
   "title": "Audit secret transmission and image/build arg practices",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
