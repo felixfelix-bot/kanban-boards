@@ -4730,7 +4730,7 @@
  {
   "id": "t_aaef19d4",
   "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
-  "status": "triage",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789563440,
