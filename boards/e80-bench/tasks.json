@@ -386,11 +386,11 @@
  {
   "id": "t_9bcbee14",
   "title": "HARM-T7: HW session 1 \u2014 E80\u2194ESP32 @868, 511B matrix both directions",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316344,
-  "started_at": null,
+  "started_at": 1789575372,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -398,7 +398,7 @@
  {
   "id": "t_8ebe572a",
   "title": "HARM-T8: HW session 2 \u2014 RP2040 pairs @868 + @2440",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316345,
@@ -4742,7 +4742,7 @@
  {
   "id": "t_a7576fbd",
   "title": "FIX chain tip: make `make test-host` green (7 RED tests in tools/test_e80_sweep_full.py + stale baud assert)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789564762,
