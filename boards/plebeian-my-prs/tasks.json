@@ -4682,7 +4682,7 @@
  {
   "id": "t_6faa9757",
   "title": "Review PR #1335: feat(nostr): operator relay set + monotonic version tag for the authority reads (ADR-0002 Wave 1, F5)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789579989,
@@ -4722,7 +4722,7 @@
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789586109,
-  "started_at": null,
+  "started_at": 1789586279,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
