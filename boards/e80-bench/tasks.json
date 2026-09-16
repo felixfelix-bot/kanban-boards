@@ -230,7 +230,7 @@
  {
   "id": "t_4e225809",
   "title": "FIX-T5: build + SWD flash both boards with fixed fw",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314146,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_aaef19d4",
   "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789563440,
