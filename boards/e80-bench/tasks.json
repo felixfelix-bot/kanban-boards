@@ -4738,5 +4738,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a7576fbd",
+  "title": "FIX chain tip: make `make test-host` green (7 RED tests in tools/test_e80_sweep_full.py + stale baud assert)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-balloon",
+  "created_at": 1789564762,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
