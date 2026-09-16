@@ -1310,7 +1310,7 @@
  {
   "id": "t_0566bbad",
   "title": "Audit writers/renderers of docs/wizard-bundle.json for IP interpolation",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -1730,7 +1730,7 @@
  {
   "id": "t_596aba53",
   "title": "Verify D-ID set and unnumbered flags against raw runbook",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789485261,
@@ -2738,7 +2738,7 @@
  {
   "id": "t_fd1733e3",
   "title": "Inventory normative claims: DNS resolution and IPv6 handling",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,

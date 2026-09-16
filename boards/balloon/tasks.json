@@ -1826,7 +1826,7 @@
  {
   "id": "t_55d4acb7",
   "title": "Document CONFIG_ENABLE_* guard convention + CONFIG_ENABLE_TOLLGATE declaration/consumption in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -7010,7 +7010,7 @@
  {
   "id": "t_8d191b45",
   "title": "Collect branch containment and rename-duplicate evidence",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500220,
@@ -7034,7 +7034,7 @@
  {
   "id": "t_3067d9d2",
   "title": "Validate repo branch, commit SHA, and clean tree",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7046,7 +7046,7 @@
  {
   "id": "t_b510637a",
   "title": "Re-extract recorded section and byte-diff against transcript",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
@@ -7058,7 +7058,7 @@
  {
   "id": "t_aa579a5a",
   "title": "Self-verify quotes and re-run transcription sanity checks",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500256,
