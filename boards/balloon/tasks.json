@@ -2642,7 +2642,7 @@
  {
   "id": "t_fca77cff",
   "title": "Extract `## Mock protocol` section verbatim to /tmp with evidence flags",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789379315,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_0aeb620b",
   "title": "Deep-read and classify each balloon PAY/ACK candidate with verbatim evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_158db7db",
   "title": "Classify all PAY-ACK hits and answer whether these paths own a wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432559,
