@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
@@ -5522,7 +5522,7 @@
  {
   "id": "t_ad95e4ed",
   "title": "Sweep tollgate-infrastructure-kit for PAY/ACK wire format",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5534,7 +5534,7 @@
  {
   "id": "t_fa28c68b",
   "title": "Sweep tollgate-community-calls for PAY/ACK wire format",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5546,7 +5546,7 @@
  {
   "id": "t_8b1d723f",
   "title": "Sweep reports/site + unlisted tollgate repos for PAY/ACK format",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -7082,7 +7082,7 @@
  {
   "id": "t_b05b78e9",
   "title": "Deduplicate and validate tollgate-rs path list",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500321,
@@ -7130,7 +7130,7 @@
  {
   "id": "t_167fe068",
   "title": "Resolve tollgate-bash-client repo identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7142,7 +7142,7 @@
  {
   "id": "t_844e7e43",
   "title": "Sweep code/config files for PAY/ACK protocol evidence",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7154,7 +7154,7 @@
  {
   "id": "t_58d8da1a",
   "title": "Inspect docs and schemas for PAY/ACK message exchange",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7166,7 +7166,7 @@
  {
   "id": "t_5ca0b03c",
   "title": "Resolve tollgate-rs repo identity",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7178,7 +7178,7 @@
  {
   "id": "t_e2633097",
   "title": "Sweep tollgate-rs filenames for PAY/ACK candidates",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7190,7 +7190,7 @@
  {
   "id": "t_6a15c2b9",
   "title": "Grep tollgate-rs content for PAY/ACK wire-format terms",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7202,7 +7202,7 @@
  {
   "id": "t_9ad6d7b9",
   "title": "Inspect tollgate-rs Rust structs and design notes for PAY/ACK",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
@@ -7226,7 +7226,7 @@
  {
   "id": "t_c829db53",
   "title": "Resolve tollgate-infrastructure-kit repo path and record identity",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789500856,
@@ -7274,7 +7274,7 @@
  {
   "id": "t_c65d457c",
   "title": "Resolve tollgate-community-calls repo path and record git identity",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-community-calls-master",
   "created_at": 1789500881,
@@ -7322,7 +7322,7 @@
  {
   "id": "t_020f2c8a",
   "title": "Sweep tollgate-quaterly-reports for PAY/ACK format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789500955,
@@ -7334,7 +7334,7 @@
  {
   "id": "t_0f60b8fe",
   "title": "Sweep tollgate-release-explorer-site for PAY/ACK format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-release-explorer-site-main",
   "created_at": 1789500955,
@@ -7346,7 +7346,7 @@
  {
   "id": "t_d8ad0368",
   "title": "Enumerate and sweep remaining tollgate repos for PAY/ACK",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789500955,

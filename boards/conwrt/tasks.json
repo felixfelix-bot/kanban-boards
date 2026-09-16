@@ -2738,7 +2738,7 @@
  {
   "id": "t_fd1733e3",
   "title": "Inventory normative claims: DNS resolution and IPv6 handling",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
