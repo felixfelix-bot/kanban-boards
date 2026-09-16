@@ -1982,7 +1982,7 @@
  {
   "id": "t_cb960649",
   "title": "Trace one TX packet path in bench_main.cpp with file:line cites",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789343333,
