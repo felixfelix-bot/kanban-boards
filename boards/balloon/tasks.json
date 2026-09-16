@@ -3470,7 +3470,7 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -5498,7 +5498,7 @@
  {
   "id": "t_d812abbe",
   "title": "Sweep tollgate-bash-client for PAY/ACK wire format (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5510,7 +5510,7 @@
  {
   "id": "t_cbf48f91",
   "title": "Sweep tollgate-rs for PAY/ACK wire format (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
