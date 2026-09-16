@@ -4658,7 +4658,7 @@
  {
   "id": "t_e720c97c",
   "title": "Review PR #1332: docs(adr): Wave 1 addendum \u2014 descriptive half (split of #1322; no new decision)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789572421,
@@ -4686,6 +4686,18 @@
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789579989,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a0e54f8f",
+  "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789582655,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
