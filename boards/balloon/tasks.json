@@ -7514,7 +7514,7 @@
  {
   "id": "t_a1ebc463",
   "title": "Resolve batch B candidate manifest",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501147,
@@ -7562,7 +7562,7 @@
  {
   "id": "t_791e2085",
   "title": "Locate Mock protocol section and record source metadata",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501289,
@@ -7622,7 +7622,7 @@
  {
   "id": "t_339d6fc2",
   "title": "Reproduce sorted CONFIG_* user file list",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501481,
