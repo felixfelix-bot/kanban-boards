@@ -314,7 +314,7 @@
  {
   "id": "t_10090c13",
   "title": "Integrate all four feature branches into main (multi-language, follow-up-questions, paper-ballots, resident-otp-admission) and pass the gate",
-  "status": "triage",
+  "status": "done",
   "priority": 10,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162150,
@@ -338,7 +338,7 @@
  {
   "id": "t_af37c6c9",
   "title": "P2-T3: E2E smoke test",
-  "status": "triage",
+  "status": "done",
   "priority": 12,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,

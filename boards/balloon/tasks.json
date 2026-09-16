@@ -2114,7 +2114,7 @@
  {
   "id": "t_cef4342d",
   "title": "Sweep balloon-fresh repo read-only for existing PAY/ACK protocol artifacts",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_16ae7427",
   "title": "Map TG_MSG_* constants and tollgate struct field accesses in app_task.cpp",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789407847,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_a303b722",
   "title": "Consolidate inventory + sweeps into one classified report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_a06764cc",
   "title": "Enumerate all price_sats consumers and their type/unit assumptions",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -5294,7 +5294,7 @@
  {
   "id": "t_509864e8",
   "title": "Sweep remaining tollgate-module-basic-go worktrees for PAY-ACK wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789472812,

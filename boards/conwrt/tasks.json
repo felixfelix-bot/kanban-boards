@@ -1634,7 +1634,7 @@
  {
   "id": "t_93353722",
   "title": "Extract quote/location verdicts from quote-location-findings.md into drafts/quote-location-draft.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483444,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_7cf9b34b",
   "title": "Extract workaround, D-ID, structure verdicts from second report",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -1658,7 +1658,7 @@
  {
   "id": "t_fdef6e80",
   "title": "Reconcile audit findings and write verdict-inputs.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -3182,7 +3182,7 @@
  {
   "id": "t_cb75393a",
   "title": "Checkout PR #55 in conwrt and verify pinned commit ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505726,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_06b8290b",
   "title": "Capture PR #55 diff and merge-base stat to /tmp",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505733,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_902dac55",
   "title": "Grep resolver config patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3266,7 +3266,7 @@
  {
   "id": "t_fdaa2cb8",
   "title": "Grep conwrt@ec5c60d9 for DNS/DHCP resolver patterns",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_c9f42ce0",
   "title": "Grep tunnel lifecycle patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_0f0cd0c7",
   "title": "Locate PIA OpenVPN module files",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -3374,7 +3374,7 @@
  {
   "id": "t_d40d74fc",
   "title": "Inventory iptables/nftables rulesets at ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789505791,
@@ -3386,7 +3386,7 @@
  {
   "id": "t_f7e27720",
   "title": "Inventory kill-switch and firewall scripts at ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505791,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_392c264d",
   "title": "Inventory systemd units and configs for firewall at ec5c60d9",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505791,
