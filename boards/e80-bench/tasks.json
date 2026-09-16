@@ -242,7 +242,7 @@
  {
   "id": "t_c5d28b3f",
   "title": "FIX-T6: HW verify FLRC \u2014 BR sweep + LEN boundary bisect",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314146,
@@ -350,7 +350,7 @@
  {
   "id": "t_fbc3d2a1",
   "title": "HARM-T4: ESP32 bench firmware \u2014 console trio + RadioLib glue",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
