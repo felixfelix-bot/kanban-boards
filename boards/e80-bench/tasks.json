@@ -218,7 +218,7 @@
  {
   "id": "t_6b21f451",
   "title": "FIX-T4: fw FLRC RX FIFO clear per re-arm",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314145,
@@ -770,7 +770,7 @@
  {
   "id": "t_72586d0e",
   "title": "E80-CVM-P2: derived-T0 GO mode in e80_bench_ctl",
-  "status": "review",
+  "status": "todo",
   "priority": 6,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1788095816,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_63dc5024",
   "title": "Name GO-mode log dirs s<session_id>-go<epoch>, keep legacy intact",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
@@ -4722,6 +4722,18 @@
   "priority": 5,
   "assignee": "worker-merchant-qa",
   "created_at": 1789483898,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_aaef19d4",
+  "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789563440,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
