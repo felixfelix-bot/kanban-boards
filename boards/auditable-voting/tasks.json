@@ -338,7 +338,7 @@
  {
   "id": "t_af37c6c9",
   "title": "P2-T3: E2E smoke test",
-  "status": "blocked",
+  "status": "ready",
   "priority": 12,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,
