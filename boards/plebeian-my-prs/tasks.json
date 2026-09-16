@@ -4726,5 +4726,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_26642d4a",
+  "title": "GATE 2.5 cold review: PR #1335 draft review comment from worker-reviewer-kimi",
+  "status": "todo",
+  "priority": 10,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789586599,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
