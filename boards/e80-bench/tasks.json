@@ -398,7 +398,7 @@
  {
   "id": "t_8ebe572a",
   "title": "HARM-T8: HW session 2 \u2014 RP2040 pairs @868 + @2440",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316345,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_d89bfd25",
   "title": "FIX-T3.1: patch residual RadioLib syncMatch=0x01 at stageMode TX (LR2021.cpp:936) + regen patch",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789571306,
