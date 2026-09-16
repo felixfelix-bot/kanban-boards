@@ -3110,7 +3110,7 @@
  {
   "id": "t_471e0423",
   "title": "Export diff artifacts for PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,

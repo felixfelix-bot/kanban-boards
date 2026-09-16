@@ -6626,7 +6626,7 @@
  {
   "id": "t_072b0696",
   "title": "Re-verify esp32-balloon-integration in-repo PAY/ACK candidate quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499439,
