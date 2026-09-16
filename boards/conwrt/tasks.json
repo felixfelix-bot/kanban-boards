@@ -2750,7 +2750,7 @@
  {
   "id": "t_1ffd7dfc",
   "title": "Sweep conwrt PR #55 proposal docs for fail-closed and defaults claims",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501874,

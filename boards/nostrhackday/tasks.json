@@ -2,12 +2,12 @@
  {
   "id": "t_b7808e10",
   "title": "Implement Nostr signup form with universal PoW",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789475618,
   "started_at": 1789476715,
-  "completed_at": null,
+  "completed_at": 1789564217,
   "branch_name": "wt/t_b7808e10",
   "workspace_kind": "worktree"
  }
