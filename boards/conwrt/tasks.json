@@ -2834,7 +2834,7 @@
  {
   "id": "t_8ff6d202",
   "title": "Enumerate PR #55 doc changes and produce audit scope list",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
