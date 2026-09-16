@@ -9710,12 +9710,12 @@
  {
   "id": "t_51d1d219",
   "title": "PCB-S4 policy: no PCB card completes on a prose 'DRC clean' - require a drc_score row",
-  "status": "running",
+  "status": "done",
   "priority": 8,
   "assignee": "manager",
   "created_at": 1789565564,
   "started_at": 1789587531,
-  "completed_at": null,
+  "completed_at": 1789588075,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
