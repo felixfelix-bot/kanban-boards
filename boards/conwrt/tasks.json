@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "todo",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1646,7 +1646,7 @@
  {
   "id": "t_7cf9b34b",
   "title": "Extract workaround, D-ID, structure verdicts from second report",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_f977d7e6",
   "title": "Consolidate DNS-leak audit findings into numbered file:line report",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789497488,

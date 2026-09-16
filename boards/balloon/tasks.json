@@ -1442,7 +1442,7 @@
  {
   "id": "t_4886e59b",
   "title": "Search repos and filesystem for existing tollgate PAY/ACK proto spec",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
@@ -3662,7 +3662,7 @@
  {
   "id": "t_0174b04e",
   "title": "Catalog all CONFIG_ENABLE_* usage sites and guard forms in balloon firmware (read-only)",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789403662,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_a1d2fecd",
   "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789409039,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_1292a8c2",
   "title": "Rank 3 precedent candidates and write the REJECTED list",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440391,
@@ -4886,7 +4886,7 @@
  {
   "id": "t_2ff3e994",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in source declaration files",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4898,7 +4898,7 @@
  {
   "id": "t_547f984c",
   "title": "Hunt declarations of each CONFIG_ENABLE_* symbol in generated config files",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789440411,
@@ -4958,7 +4958,7 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "todo",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789467022,
@@ -6242,7 +6242,7 @@
  {
   "id": "t_6965e323",
   "title": "Independently re-verify each quoted guard line byte-for-byte",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789485224,
