@@ -2522,7 +2522,7 @@
  {
   "id": "t_b9fa3bae",
   "title": "Sweep tollgate-rs for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
