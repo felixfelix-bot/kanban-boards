@@ -1598,7 +1598,7 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo on disk and record git root, branch, HEAD SHA",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,

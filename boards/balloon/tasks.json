@@ -7082,7 +7082,7 @@
  {
   "id": "t_b05b78e9",
   "title": "Deduplicate and validate tollgate-rs path list",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500321,
@@ -7130,7 +7130,7 @@
  {
   "id": "t_167fe068",
   "title": "Resolve tollgate-bash-client repo identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7142,7 +7142,7 @@
  {
   "id": "t_844e7e43",
   "title": "Sweep code/config files for PAY/ACK protocol evidence",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7154,7 +7154,7 @@
  {
   "id": "t_58d8da1a",
   "title": "Inspect docs and schemas for PAY/ACK message exchange",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-bash-client-main",
   "created_at": 1789500650,
@@ -7166,7 +7166,7 @@
  {
   "id": "t_5ca0b03c",
   "title": "Resolve tollgate-rs repo identity",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-rs-design-review-notes",
   "created_at": 1789500820,
