@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "blocked",
+  "status": "todo",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
