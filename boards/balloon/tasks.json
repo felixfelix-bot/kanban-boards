@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -5630,7 +5630,7 @@
  {
   "id": "t_63f4057d",
   "title": "Consolidate bucket C tollgate PAY/ACK sweep findings",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478265,
@@ -6362,7 +6362,7 @@
  {
   "id": "t_ad0c7f06",
   "title": "Deep-read balloon PAY/ACK candidates (batch B: indices 1,4,7,...)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496025,
@@ -6398,7 +6398,7 @@
  {
   "id": "t_2fe8c389",
   "title": "Extract ## Mock protocol section verbatim to /tmp/t_290bb39f_section_mock.md",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496309,
@@ -6446,7 +6446,7 @@
  {
   "id": "t_f5c74797",
   "title": "Diff the two file lists to produce the gap set",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496337,
@@ -6494,7 +6494,7 @@
  {
   "id": "t_29274ae1",
   "title": "Audit remaining tollgate-module-basic-go worktrees/fixtures for PAY/ACK",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496648,
