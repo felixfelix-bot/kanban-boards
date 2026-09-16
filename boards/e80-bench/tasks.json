@@ -218,7 +218,7 @@
  {
   "id": "t_6b21f451",
   "title": "FIX-T4: fw FLRC RX FIFO clear per re-arm",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314145,
@@ -338,7 +338,7 @@
  {
   "id": "t_5dc7f346",
   "title": "HARM-T3: RadioLib fork \u2014 511B FLRC + Match123 patch + submodule fix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316341,
@@ -362,7 +362,7 @@
  {
   "id": "t_b7c38546",
   "title": "HARM-T5: RP2040 bench console firmware \u2014 v4 raw-SPI layer + 511B",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_63dc5024",
   "title": "Name GO-mode log dirs s<session_id>-go<epoch>, keep legacy intact",
-  "status": "ready",
+  "status": "scheduled",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,
