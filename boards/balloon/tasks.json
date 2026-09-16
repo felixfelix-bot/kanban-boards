@@ -2654,7 +2654,7 @@
  {
   "id": "t_59aa075e",
   "title": "Independently re-extract and byte-diff the mock-protocol section",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789379315,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_91b37ab4",
   "title": "Reconcile findings, adjudicate conflicts, deliver authoritative-spec verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789400792,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_6b085e89",
   "title": "Deep dive autopay / payment-gate / portal PAY-ACK paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
