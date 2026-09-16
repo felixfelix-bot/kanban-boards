@@ -2738,7 +2738,7 @@
  {
   "id": "t_fd1733e3",
   "title": "Inventory normative claims: DNS resolution and IPv6 handling",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
