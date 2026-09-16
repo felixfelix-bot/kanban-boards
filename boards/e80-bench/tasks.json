@@ -350,11 +350,11 @@
  {
   "id": "t_fbc3d2a1",
   "title": "HARM-T4: ESP32 bench firmware \u2014 console trio + RadioLib glue",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
-  "started_at": null,
+  "started_at": 1789570258,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4766,11 +4766,11 @@
  {
   "id": "t_e42dd452",
   "title": "Operator waiver: e80-bench:t_6b21f451 blocked on ci_evidence + consolidated (deadlock \u2014 card cannot close without decision)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789566648,
-  "started_at": null,
+  "started_at": 1789570259,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
