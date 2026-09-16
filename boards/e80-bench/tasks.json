@@ -230,7 +230,7 @@
  {
   "id": "t_4e225809",
   "title": "FIX-T5: build + SWD flash both boards with fixed fw",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314146,
@@ -422,7 +422,7 @@
  {
   "id": "t_3d1d405c",
   "title": "Cross-family review: FIX-T4 RX/TX FIFO clear per re-arm (8f5f243+3130224)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1787387948,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_aaef19d4",
   "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789563440,
