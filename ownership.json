@@ -7836,6 +7836,18 @@
   "updated": 1789566709.1740391,
   "ts": 1789566709.1740391
  },
+ "e80-bench:t_e42dd452": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789567248.4760733,
+  "ts": 1789567248.4760733
+ },
+ "e80-bench:t_2de129db": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1789567248.5095696,
+  "ts": 1789567248.5095696
+ },
  "tollgate:t_569854ff": {
   "node": "cobrador",
   "status": "claimed",

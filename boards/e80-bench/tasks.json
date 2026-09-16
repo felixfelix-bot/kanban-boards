@@ -242,11 +242,11 @@
  {
   "id": "t_c5d28b3f",
   "title": "FIX-T6: HW verify FLRC \u2014 BR sweep + LEN boundary bisect",
-  "status": "todo",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314146,
-  "started_at": null,
+  "started_at": 1789567406,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -254,7 +254,7 @@
  {
   "id": "t_f04ee0b6",
   "title": "FIX-T7: HW verify LoRa LEN sweep + negative test",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314147,
@@ -350,7 +350,7 @@
  {
   "id": "t_fbc3d2a1",
   "title": "HARM-T4: ESP32 bench firmware \u2014 console trio + RadioLib glue",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
@@ -4730,11 +4730,11 @@
  {
   "id": "t_aaef19d4",
   "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
-  "status": "done",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789563440,
-  "started_at": null,
+  "started_at": 1789567406,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4766,7 +4766,7 @@
  {
   "id": "t_e42dd452",
   "title": "Operator waiver: e80-bench:t_6b21f451 blocked on ci_evidence + consolidated (deadlock \u2014 card cannot close without decision)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789566648,
