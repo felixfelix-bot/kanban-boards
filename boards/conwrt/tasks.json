@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1598,7 +1598,7 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo on disk and record git root, branch, HEAD SHA",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_bf503eb8",
   "title": "Audit env var secrets in openvpn invocations",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_cac9ac91",
   "title": "Audit PIA OpenVPN module logging for secret leakage",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_6114fc25",
   "title": "Audit OpenVPN verbosity and log file settings",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_caa6d7c8",
   "title": "Audit shell and CI tracing for secret leakage",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
@@ -2990,7 +2990,7 @@
  {
   "id": "t_f1884b5c",
   "title": "Audit hardcoded secrets and credential file instructions",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_d840f35e",
   "title": "Audit CLI flag and shell profile secret exposure",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3014,7 +3014,7 @@
  {
   "id": "t_ad641556",
   "title": "Audit secret transmission and image/build arg practices",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_92d41b9d",
   "title": "Map PIA OpenVPN credential handling in conwrt (PR #55 @ ec5c60d9)",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502152,
@@ -3146,7 +3146,7 @@
  {
   "id": "t_520ed6c5",
   "title": "Audit runtime credential file permissions and creation modes in PIA OpenVPN module",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -3158,7 +3158,7 @@
  {
   "id": "t_71d1f914",
   "title": "Audit Docker image layer leakage of PIA OpenVPN secrets",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_c9f42ce0",
   "title": "Grep tunnel lifecycle patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_0f0cd0c7",
   "title": "Locate PIA OpenVPN module files",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
@@ -4310,7 +4310,7 @@
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
@@ -4538,7 +4538,7 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
@@ -4550,7 +4550,7 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,

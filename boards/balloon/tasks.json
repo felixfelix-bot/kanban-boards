@@ -2150,7 +2150,7 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
@@ -2198,7 +2198,7 @@
  {
   "id": "t_0e77b291",
   "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789359172,
@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2522,7 +2522,7 @@
  {
   "id": "t_b9fa3bae",
   "title": "Sweep tollgate-rs for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_69f3c883",
   "title": "Audit tollgate proto call sites in balloon firmware app_task.cpp",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395070,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_5471461e",
   "title": "Deep-dive rank-2 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3614,7 +3614,7 @@
  {
   "id": "t_18f2a926",
   "title": "Deep-dive rank-3 CONFIG_ENABLE_* flag (or next guarded fallback)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
@@ -3686,7 +3686,7 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
@@ -3866,7 +3866,7 @@
  {
   "id": "t_6b085e89",
   "title": "Deep dive autopay / payment-gate / portal PAY-ACK paths",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_fe1a85e9",
   "title": "Sweep non-ESP32 tollgate repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4034,7 +4034,7 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408661,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_a1d2fecd",
   "title": "Extract PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789409039,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
@@ -4202,7 +4202,7 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_a06764cc",
   "title": "Enumerate all price_sats consumers and their type/unit assumptions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -4958,7 +4958,7 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789467022,
@@ -5042,7 +5042,7 @@
  {
   "id": "t_4470c08b",
   "title": "Infer struct definitions implied by app_task.cpp usage, flag UNDETERMINED fields",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789470539,
@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "running",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
