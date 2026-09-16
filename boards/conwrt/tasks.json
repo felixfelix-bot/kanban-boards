@@ -1814,7 +1814,7 @@
  {
   "id": "t_fc56854f",
   "title": "Extract proposal-doc DNS/kill-switch claims vs implemented code",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_9a7b4e9d",
   "title": "Code-check DNS claims (resolver pinning, leak prevention, port-53 block)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497502,
@@ -2234,7 +2234,7 @@
  {
   "id": "t_e87493a5",
   "title": "Code-check kill-switch claims (behavior on tunnel drop)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497502,
@@ -2450,7 +2450,7 @@
  {
   "id": "t_ad028364",
   "title": "Inventory conwrt issue32 preflight evidence tree and flag gaps",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498944,
