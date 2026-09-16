@@ -5558,7 +5558,7 @@
  {
   "id": "t_7e763f89",
   "title": "Aggregate bucket-B PAY/ACK wire-format findings",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789478239,
@@ -7430,7 +7430,7 @@
  {
   "id": "t_32293fb3",
   "title": "Sweep esp32-balloon-integration filenames and content for PAY/ACK terms",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
@@ -7442,7 +7442,7 @@
  {
   "id": "t_6f34bbbe",
   "title": "Inspect ESP32 build config and docs for vendored tollgate protocol hints",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789501039,
