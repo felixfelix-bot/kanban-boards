@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -2654,7 +2654,7 @@
  {
   "id": "t_7b4397f3",
   "title": "Analyze preview-deploy.yml at head SHA for new workflow defects",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -2666,7 +2666,7 @@
  {
   "id": "t_2c6cae1d",
   "title": "Analyze other PR-touched workflow files for new defects",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789351407,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_48994f9e",
   "title": "Review PR #1324: fix(#1285): review findings 1-3",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789549668,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_0a2000c2",
   "title": "Gate 2.5 cold-review: PR #1324 draft review comment (f7610859)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789552029,
