@@ -5498,7 +5498,7 @@
  {
   "id": "t_d812abbe",
   "title": "Sweep tollgate-bash-client for PAY/ACK wire format (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5510,7 +5510,7 @@
  {
   "id": "t_cbf48f91",
   "title": "Sweep tollgate-rs for PAY/ACK wire format (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
