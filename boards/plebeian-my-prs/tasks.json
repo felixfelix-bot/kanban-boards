@@ -4702,5 +4702,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_e82c2169",
+  "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review (re-dispatch)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1789584758,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
