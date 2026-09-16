@@ -2822,7 +2822,7 @@
  {
   "id": "t_b2534cf7",
   "title": "Inventory tollgate-rs repos: paths, branch, HEAD, remotes",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385366,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f2a71963",
   "title": "Assemble final sdkconfig.h evidence report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432333,
@@ -4394,7 +4394,7 @@
  {
   "id": "t_c00ad874",
   "title": "Audit and format the final decode-side report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789432394,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_91b427c5",
   "title": "Produce PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432810,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_a8770ebe",
   "title": "Enumerate deduped CONFIG_ENABLE_* symbols and declaration sites",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_043f73c5",
   "title": "Merge audit reports into final symbol-guard map",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_a2567090",
   "title": "Assemble audit artifact with counts",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,

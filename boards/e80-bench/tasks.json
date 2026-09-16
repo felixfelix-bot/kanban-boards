@@ -1214,7 +1214,7 @@
  {
   "id": "t_1e462ff7",
   "title": "range_check: join sessions on s<sid>-go<epoch> log dirs",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789333099,
