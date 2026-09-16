@@ -4766,7 +4766,7 @@
  {
   "id": "t_e42dd452",
   "title": "Operator waiver: e80-bench:t_6b21f451 blocked on ci_evidence + consolidated (deadlock \u2014 card cannot close without decision)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789566648,

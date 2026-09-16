@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "review",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_b49b3e18",
   "title": "Split github-code-review SKILL.md (104,849 chars, over the 100k write wall) and add the missing pre-publish-preflight pointer",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
@@ -4650,7 +4650,7 @@
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789566990,
-  "started_at": null,
+  "started_at": 1789569025,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
