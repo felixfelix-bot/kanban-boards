@@ -4538,12 +4538,12 @@
  {
   "id": "t_b9d4edb5",
   "title": "DECISION BRIEF: PR #1322 ADR-0002 Wave 1 addendum \u2014 F3 outbox / F5 single-relay ruling (CHANGES_REQUESTED)",
-  "status": "review",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789546656,
   "started_at": 1789546705,
-  "completed_at": 1789551244,
+  "completed_at": 1789553718,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
