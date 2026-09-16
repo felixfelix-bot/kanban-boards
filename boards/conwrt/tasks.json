@@ -2546,7 +2546,7 @@
  {
   "id": "t_3f2970b1",
   "title": "Audit keychain/secret-store integration for PIA credentials",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_e1772c70",
   "title": "Locate and quote the ipv4 value in docs/wizard-bundle.json",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_dc828f33",
   "title": "Inventory derive_device_secret.py emitted output fields",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
