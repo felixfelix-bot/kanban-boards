@@ -5522,7 +5522,7 @@
  {
   "id": "t_ad95e4ed",
   "title": "Sweep tollgate-infrastructure-kit for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5534,7 +5534,7 @@
  {
   "id": "t_fa28c68b",
   "title": "Sweep tollgate-community-calls for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
@@ -5546,7 +5546,7 @@
  {
   "id": "t_8b1d723f",
   "title": "Sweep reports/site + unlisted tollgate repos for PAY/ACK format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789478239,
