@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_fe1a85e9",
   "title": "Sweep non-ESP32 tollgate repos for PAY/ACK wire format",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408661,
@@ -4238,7 +4238,7 @@
  {
   "id": "t_0a1b3775",
   "title": "Count CONFIG_ENABLE_* guard forms A-D (read-only census + overlap evidence)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428856,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_40af10d9",
   "title": "Extract verdict claims and enumerate candidate artifact files",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432422,
@@ -5138,7 +5138,7 @@
  {
   "id": "t_aa243451",
   "title": "Collect git metadata for ADDITIONAL tollgate repos",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789470671,
@@ -5198,7 +5198,7 @@
  {
   "id": "t_db7ba282",
   "title": "Compute guard overlap and write census summary",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789471034,
@@ -7694,7 +7694,7 @@
  {
   "id": "t_1e6247fd",
   "title": "Build consolidated hit table with verbatim quotes and classifications",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789501576,
@@ -7718,7 +7718,7 @@
  {
   "id": "t_de1dc650",
   "title": "Probe versioned docs/spec dirs in HEAD tree",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,
@@ -7730,7 +7730,7 @@
  {
   "id": "t_5e2a608e",
   "title": "Probe release tags for contradictions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789502285,
