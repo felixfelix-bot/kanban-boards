@@ -1214,7 +1214,7 @@
  {
   "id": "t_1e462ff7",
   "title": "range_check: join sessions on s<sid>-go<epoch> log dirs",
-  "status": "triage",
+  "status": "done",
   "priority": 6,
   "assignee": "manager",
   "created_at": 1789333099,
@@ -1442,7 +1442,7 @@
  {
   "id": "t_63dc5024",
   "title": "Name GO-mode log dirs s<session_id>-go<epoch>, keep legacy intact",
-  "status": "todo",
+  "status": "ready",
   "priority": 6,
   "assignee": "worker-heavy",
   "created_at": 1789344272,

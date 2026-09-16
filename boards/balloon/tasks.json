@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2930,7 +2930,7 @@
  {
   "id": "t_76066d43",
   "title": "Read-only PAY/ACK protocol sweep of balloon-fresh tracker firmware",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789386211,
@@ -3170,7 +3170,7 @@
  {
   "id": "t_368665c7",
   "title": "Sweep awesome-tollgate for PAY/ACK wire-format spec (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
@@ -3302,7 +3302,7 @@
  {
   "id": "t_3f80ed7b",
   "title": "Audit parent A/B lists against dedup list and report all discrepancies",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396400,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_aee8b56c",
   "title": "Collect git provenance: recency and branch containment per candidate path",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789400792,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_03b6c934",
   "title": "Grep wire-format keywords across HEAD and CLI/JSON worktrees",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -4514,7 +4514,7 @@
  {
   "id": "t_7a18687c",
   "title": "Filename sweep for proto/payload/wire-format/schema hits",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -4730,7 +4730,7 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_91b427c5",
   "title": "Produce PAY/ACK candidate inventory from parent sweep (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432810,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_a8770ebe",
   "title": "Enumerate deduped CONFIG_ENABLE_* symbols and declaration sites",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789440391,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_b587d35d",
   "title": "Classify hits, build per-flag rollup, assemble STEP 4 catalog",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789448085,
@@ -5414,7 +5414,7 @@
  {
   "id": "t_7fd467f5",
   "title": "Merge extracted git commands into final COMMANDS section",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477699,
@@ -5678,7 +5678,7 @@
  {
   "id": "t_e7bd6eb4",
   "title": "Write /tmp/p1_result.json with retrieval metadata",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -6122,7 +6122,7 @@
  {
   "id": "t_043f73c5",
   "title": "Merge audit reports into final symbol-guard map",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481783,
@@ -6170,7 +6170,7 @@
  {
   "id": "t_a2567090",
   "title": "Assemble audit artifact with counts",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789481820,

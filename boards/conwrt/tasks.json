@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -1814,7 +1814,7 @@
  {
   "id": "t_fc56854f",
   "title": "Extract proposal-doc DNS/kill-switch claims vs implemented code",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,

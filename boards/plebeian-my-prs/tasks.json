@@ -4526,12 +4526,12 @@
  {
   "id": "t_2e2ade80",
   "title": "Review PR #1321: docs(adr) ADR-0011 NUT-12 DLEQ (own PR)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789512625,
   "started_at": 1789521113,
-  "completed_at": null,
+  "completed_at": 1789521500,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
