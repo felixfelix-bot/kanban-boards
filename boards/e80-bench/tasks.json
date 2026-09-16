@@ -266,11 +266,11 @@
  {
   "id": "t_b923f5a3",
   "title": "FIX-T8: docs + final data commit",
-  "status": "todo",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314147,
-  "started_at": null,
+  "started_at": 1789571764,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -374,7 +374,7 @@
  {
   "id": "t_427b43fd",
   "title": "HARM-T6: Cross-family cold review \u2014 spec vs 3 implementations",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1787316343,
@@ -4742,7 +4742,7 @@
  {
   "id": "t_a7576fbd",
   "title": "FIX chain tip: make `make test-host` green (7 RED tests in tools/test_e80_sweep_full.py + stale baud assert)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789564762,
@@ -4790,11 +4790,11 @@
  {
   "id": "t_233a55dc",
   "title": "FIX-R1R: cold cross-family review \u2014 reconciled chain vs main (gates the merge)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 55,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789567637,
-  "started_at": null,
+  "started_at": 1789571763,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4814,7 +4814,7 @@
  {
   "id": "t_d89bfd25",
   "title": "FIX-T3.1: patch residual RadioLib syncMatch=0x01 at stageMode TX (LR2021.cpp:936) + regen patch",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789571306,
