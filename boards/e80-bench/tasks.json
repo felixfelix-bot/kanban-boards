@@ -374,7 +374,7 @@
  {
   "id": "t_427b43fd",
   "title": "HARM-T6: Cross-family cold review \u2014 spec vs 3 implementations",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1787316343,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_d89bfd25",
   "title": "FIX-T3.1: patch residual RadioLib syncMatch=0x01 at stageMode TX (LR2021.cpp:936) + regen patch",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789571306,
