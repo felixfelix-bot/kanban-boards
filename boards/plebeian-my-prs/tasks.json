@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "blocked",
+  "status": "review",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
