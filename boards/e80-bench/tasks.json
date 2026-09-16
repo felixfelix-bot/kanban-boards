@@ -242,7 +242,7 @@
  {
   "id": "t_c5d28b3f",
   "title": "FIX-T6: HW verify FLRC \u2014 BR sweep + LEN boundary bisect",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314146,
@@ -350,7 +350,7 @@
  {
   "id": "t_fbc3d2a1",
   "title": "HARM-T4: ESP32 bench firmware \u2014 console trio + RadioLib glue",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316342,
@@ -4730,12 +4730,12 @@
  {
   "id": "t_aaef19d4",
   "title": "FIX-chain reconciliation vs main: RX-continuous divergence + merge conflicts (decision)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789563440,
   "started_at": 1789567406,
-  "completed_at": null,
+  "completed_at": 1789568203,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4778,7 +4778,7 @@
  {
   "id": "t_f178b54c",
   "title": "FIX-R1: re-express FIX-T1..T4 chain onto CURRENT main \u2014 ONE consolidated branch + PR",
-  "status": "todo",
+  "status": "ready",
   "priority": 60,
   "assignee": "worker-balloon",
   "created_at": 1789567624,

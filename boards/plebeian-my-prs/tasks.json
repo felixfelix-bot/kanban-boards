@@ -4610,7 +4610,7 @@
  {
   "id": "t_aaf98f07",
   "title": "Review PR #1331: ci(workflows): run pull_request checks for every PR base, not just main/master",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789564635,
