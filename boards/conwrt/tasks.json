@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1706,7 +1706,7 @@
  {
   "id": "t_1a242f81",
   "title": "Extract verbatim D-ID set from conwrt issue32 raw runbook",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1718,7 +1718,7 @@
  {
   "id": "t_6ce14000",
   "title": "Flag unnumbered defects in conwrt issue32 runbook",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789485261,
@@ -1742,7 +1742,7 @@
  {
   "id": "t_247a7d37",
   "title": "Read-only grep sweep: wizard-bundle writers and IP/LAN tokens",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
@@ -1754,7 +1754,7 @@
  {
   "id": "t_4ec11d6c",
   "title": "Audit: find all renderers/templates/heredocs/build hooks that emit the net4sats LAN-move block into docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789485424,
