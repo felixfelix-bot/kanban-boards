@@ -4514,23 +4514,23 @@
  {
   "id": "t_c3530378",
   "title": "Review PR #1320: fix(wallet): keep the pending-token removal dialog open through the reclaim (#1292 follow-up)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789505055,
   "started_at": 1789511527,
-  "completed_at": null,
+  "completed_at": 1789521061,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_2e2ade80",
   "title": "Review PR #1321: docs(adr) ADR-0011 NUT-12 DLEQ (own PR)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789512625,
-  "started_at": null,
+  "started_at": 1789521113,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"

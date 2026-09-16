@@ -10117,10 +10117,18 @@
   "ts": 1789518829.636108
  },
  "conwrt:t_4e2d5971": {
-  "node": "dq05",
+  "node": "cobrador",
   "status": "claimed",
-  "updated": 1789520865.4267917,
-  "ts": 1789520865.4267917
+  "updated": 1789521137.1587753,
+  "ts": 1789520865.4267917,
+  "repo": "conwrt"
+ },
+ "auditable-voting:t_538ce1d5": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789521138.7521675,
+  "ts": 1789521138.7521675,
+  "repo": "auditable-voting"
  },
  "tollgate:t_fdd603ef": {
   "node": "dq05",

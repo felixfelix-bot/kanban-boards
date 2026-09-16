@@ -3458,7 +3458,7 @@
  {
   "id": "t_db949567",
   "title": "Independently re-extract and byte-diff the Mock protocol transcription",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401082,
@@ -3746,7 +3746,7 @@
  {
   "id": "t_085a71ee",
   "title": "Probe versioned docs/spec dirs and release tags for contradictions",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_04470a31",
   "title": "Consolidate PAY/ACK wire-format candidates across both refs",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432548,
@@ -5366,7 +5366,7 @@
  {
   "id": "t_36bf9cf2",
   "title": "Consolidate msg_type audit and write final report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789477525,
@@ -5390,7 +5390,7 @@
  {
   "id": "t_9816dd75",
   "title": "Extract contains/show git commands from verdict text",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789477699,
@@ -5666,7 +5666,7 @@
  {
   "id": "t_12dd2916",
   "title": "Verify report artifact metadata",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -5738,7 +5738,7 @@
  {
   "id": "t_d3f966f8",
   "title": "Compile final PAY/ACK spec report for awesome-tollgate",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789479431,
@@ -5906,7 +5906,7 @@
  {
   "id": "t_9667157d",
   "title": "Merge sweep shards, finalize classifications, emit filename-sweep report",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1789481141,
@@ -6506,7 +6506,7 @@
  {
   "id": "t_afd46f54",
   "title": "Consolidate PAY/ACK findings; decide wire-format ownership",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789496648,
@@ -6758,7 +6758,7 @@
  {
   "id": "t_e640451e",
   "title": "Enumerate in-scope tollgate-module-basic-go worktrees (path, branch, SHA)",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499638,
@@ -6770,7 +6770,7 @@
  {
   "id": "t_1ddb8336",
   "title": "Scan feat/cli-json-config-rebased worktree for PAY/ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "tollgate-module-basic-go-feat-cli-json-c",
   "created_at": 1789499638,
