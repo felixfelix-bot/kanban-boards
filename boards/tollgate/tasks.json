@@ -2554,5 +2554,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_64990f11",
+  "title": "OUR PR: prta#126 \u2014 test(browser): captive-portal asset-integrity regression \u2014 upstream, unreviewed",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789577854,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
