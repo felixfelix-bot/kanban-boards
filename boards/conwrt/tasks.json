@@ -1646,7 +1646,7 @@
  {
   "id": "t_7cf9b34b",
   "title": "Extract workaround, D-ID, structure verdicts from second report",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483444,
@@ -1670,7 +1670,7 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "blocked",
+  "status": "todo",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
@@ -2162,7 +2162,7 @@
  {
   "id": "t_6c6441a6",
   "title": "Inventory firewall rulesets at ec5c60d9 and rule on port-53 WAN egress",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497488,
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "blocked",
+  "status": "todo",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
@@ -3974,7 +3974,7 @@
  {
   "id": "t_5de41923",
   "title": "Parse source report and extract structured findings",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506385,
@@ -4010,7 +4010,7 @@
  {
   "id": "t_ff096ec1",
   "title": "Verify draft coverage and extract per-check data",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506393,
@@ -4058,7 +4058,7 @@
  {
   "id": "t_727554b8",
   "title": "Extract artifact D-ID set from inventory",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_ac26cd15",
   "title": "Extract runbook D-ID set from raw runbook",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506398,
@@ -4094,7 +4094,7 @@
  {
   "id": "t_fce35c42",
   "title": "Extract env vars from design doc sections 1-3",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4106,7 +4106,7 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
@@ -4130,7 +4130,7 @@
  {
   "id": "t_43c49c71",
   "title": "Scan design docs for credential examples",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506594,
@@ -4562,7 +4562,7 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
