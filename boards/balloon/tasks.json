@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
@@ -4250,7 +4250,7 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
@@ -4610,7 +4610,7 @@
  {
   "id": "t_ce95c1ed",
   "title": "Sweep all other ~/repos/tollgate-module-basic-go* paths for PAY-ACK wire format",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432559,
@@ -6386,7 +6386,7 @@
  {
   "id": "t_7c153fea",
   "title": "Assemble per-candidate classification table and CONFLICTS section",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-curator",
   "created_at": 1789496025,
@@ -6410,7 +6410,7 @@
  {
   "id": "t_f308d3e6",
   "title": "Independently re-extract and byte-diff the Mock protocol transcript",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789496309,
