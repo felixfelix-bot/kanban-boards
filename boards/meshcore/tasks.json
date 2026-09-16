@@ -2894,7 +2894,7 @@
  {
   "id": "t_fb441024",
   "title": "Recon shard A: awesome-community-networks + contextvm-anker-solix",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366796,
@@ -2906,7 +2906,7 @@
  {
   "id": "t_e5b0a5ed",
   "title": "Recon shard B: gitworkshop, opencode-setup, openrouter-automation",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789366796,

@@ -218,7 +218,7 @@
  {
   "id": "t_6b21f451",
   "title": "FIX-T4: fw FLRC RX FIFO clear per re-arm",
-  "status": "blocked",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787314145,
@@ -338,7 +338,7 @@
  {
   "id": "t_5dc7f346",
   "title": "HARM-T3: RadioLib fork \u2014 511B FLRC + Match123 patch + submodule fix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1787316341,
