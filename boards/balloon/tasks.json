@@ -2822,7 +2822,7 @@
  {
   "id": "t_b2534cf7",
   "title": "Inventory tollgate-rs repos: paths, branch, HEAD, remotes",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385366,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
@@ -3722,7 +3722,7 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
@@ -4442,7 +4442,7 @@
  {
   "id": "t_40af10d9",
   "title": "Extract verdict claims and enumerate candidate artifact files",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432422,

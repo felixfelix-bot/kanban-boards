@@ -1322,7 +1322,7 @@
  {
   "id": "t_45e6e8b8",
   "title": "Write net4sats-generator-provenance.md with one A/B/C verdict",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789478386,
@@ -1454,7 +1454,7 @@
  {
   "id": "t_49c36c91",
   "title": "Audit credential persistence in the PIA OpenVPN module code",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483267,
@@ -2546,7 +2546,7 @@
  {
   "id": "t_3f2970b1",
   "title": "Audit keychain/secret-store integration for PIA credentials",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789499019,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_e1772c70",
   "title": "Locate and quote the ipv4 value in docs/wizard-bundle.json",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2582,7 +2582,7 @@
  {
   "id": "t_dc828f33",
   "title": "Inventory derive_device_secret.py emitted output fields",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789499099,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_d1541ce3",
   "title": "Assemble final credential model review markdown",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501738,
@@ -2750,7 +2750,7 @@
  {
   "id": "t_1ffd7dfc",
   "title": "Sweep conwrt PR #55 proposal docs for fail-closed and defaults claims",
-  "status": "done",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501874,
