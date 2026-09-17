@@ -2198,11 +2198,11 @@
  {
   "id": "t_0e77b291",
   "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789359172,
-  "started_at": null,
+  "started_at": 1789622188,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
