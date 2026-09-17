@@ -230,7 +230,7 @@
  {
   "id": "t_b73a2575",
   "title": "F4-T1: CSV contact list parser",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1787162133,

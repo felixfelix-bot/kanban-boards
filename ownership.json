@@ -2614,10 +2614,11 @@
  },
  "meshcore:t_cef03fd2": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789626136.1919684,
+  "status": "failed",
+  "updated": 1789628078.2558796,
   "ts": 1789374179.1128135,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1789628010"
  },
  "meshcore:t_dc2d1a4c": {
   "node": "dq05",
