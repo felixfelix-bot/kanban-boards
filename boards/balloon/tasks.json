@@ -9770,7 +9770,7 @@
  {
   "id": "t_28eadfa6",
   "title": "ESP32-C3: reconcile config.rs peripheral consts (missing esp32c3 variants are dead code)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653504,
