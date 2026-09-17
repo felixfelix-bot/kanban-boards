@@ -3866,12 +3866,12 @@
  {
   "id": "t_6b085e89",
   "title": "Deep dive autopay / payment-gate / portal PAY-ACK paths",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
   "started_at": 1789680150,
-  "completed_at": null,
+  "completed_at": 1789680587,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
