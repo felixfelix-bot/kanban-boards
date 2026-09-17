@@ -2522,12 +2522,12 @@
  {
   "id": "t_b9fa3bae",
   "title": "Sweep tollgate-rs for authoritative PAY/ACK wire-format spec",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
   "started_at": 1789633485,
-  "completed_at": null,
+  "completed_at": 1789633961,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
