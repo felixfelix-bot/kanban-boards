@@ -2750,11 +2750,11 @@
  {
   "id": "t_51949cc4",
   "title": "Probe for contradicting artifact in plausible missed location",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
-  "started_at": null,
+  "started_at": 1789679208,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
