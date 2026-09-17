@@ -10,5 +10,17 @@
   "completed_at": 1789564217,
   "branch_name": "wt/t_b7808e10",
   "workspace_kind": "worktree"
+ },
+ {
+  "id": "t_7930a533",
+  "title": "Register kind 1337 in the NIP kinds registry (draft first)",
+  "status": "scheduled",
+  "priority": 0,
+  "assignee": "worker-base",
+  "created_at": 1789629710,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
