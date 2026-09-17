@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "running",
+  "status": "triage",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
