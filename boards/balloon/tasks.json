@@ -4034,11 +4034,11 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
-  "started_at": null,
+  "started_at": 1789683251,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
