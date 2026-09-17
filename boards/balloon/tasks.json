@@ -2150,11 +2150,11 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
-  "started_at": null,
+  "started_at": 1789621554,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "blocked",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
