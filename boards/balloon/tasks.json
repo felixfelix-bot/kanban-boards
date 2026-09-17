@@ -1466,7 +1466,7 @@
  {
   "id": "t_a65f6c54",
   "title": "Document test_relay_pipeline.c mock proto and relay_types.h framing",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
@@ -1634,12 +1634,12 @@
  {
   "id": "t_290bb39f",
   "title": "Merge mock and framing docs; pin the implied relay header layout",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342406,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789628933,
+  "completed_at": 1789629089,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
