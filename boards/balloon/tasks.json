@@ -6662,12 +6662,12 @@
  {
   "id": "t_60394080",
   "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
   "started_at": 1789665028,
-  "completed_at": null,
+  "completed_at": 1789666963,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
