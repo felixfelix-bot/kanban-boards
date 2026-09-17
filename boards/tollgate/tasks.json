@@ -2546,7 +2546,7 @@
  {
   "id": "t_b1069b50",
   "title": "OUR PRs: MT6000 DNS/hosts field fix \u2014 tollgate-installer#22 + physical-router-test-automation#118 (upstream, unreviewed)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789529746,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_64990f11",
   "title": "OUR PR: prta#126 \u2014 test(browser): captive-portal asset-integrity regression \u2014 upstream, unreviewed",
-  "status": "triage",
+  "status": "done",
   "priority": 8,
   "assignee": "manager",
   "created_at": 1789577854,
