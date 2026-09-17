@@ -2198,7 +2198,7 @@
  {
   "id": "t_0e77b291",
   "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789359172,
@@ -9674,11 +9674,11 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
-  "started_at": null,
+  "started_at": 1789626184,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
