@@ -2546,12 +2546,12 @@
  {
   "id": "t_b1069b50",
   "title": "OUR PRs: MT6000 DNS/hosts field fix \u2014 tollgate-installer#22 + physical-router-test-automation#118 (upstream, unreviewed)",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789529746,
   "started_at": null,
-  "completed_at": null,
+  "completed_at": 1789628455,
   "branch_name": null,
   "workspace_kind": "scratch"
  },

@@ -9686,12 +9686,12 @@
  {
   "id": "t_9a6424cd",
   "title": "PCB-S2: adjudicate residual DRC + trap suite T1-T8 + PROTOCOL doc (adversarial)",
-  "status": "running",
+  "status": "done",
   "priority": 8,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789565562,
   "started_at": 1789627605,
-  "completed_at": null,
+  "completed_at": 1789628234,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
