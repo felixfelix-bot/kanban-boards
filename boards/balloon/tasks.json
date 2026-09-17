@@ -2702,11 +2702,11 @@
  {
   "id": "t_1d90863e",
   "title": "Assemble and deliver the final six-symbol tollgate grep accounting report",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789384434,
-  "started_at": null,
+  "started_at": 1789634044,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "running",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
