@@ -2318,12 +2318,12 @@
  {
   "id": "t_3e85646d",
   "title": "Classify all PAY/ACK candidates from sibling-tollgate sweep (read-only)",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
   "started_at": 1789687042,
-  "completed_at": null,
+  "completed_at": 1789687468,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
