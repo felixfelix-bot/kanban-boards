@@ -2558,7 +2558,7 @@
  {
   "id": "t_f238b099",
   "title": "Sweep tollgate clients, infra and docs for PAY/ACK wire format",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
@@ -3182,12 +3182,12 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789685665,
+  "completed_at": 1789685872,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9770,11 +9770,11 @@
  {
   "id": "t_28eadfa6",
   "title": "ESP32-C3: reconcile config.rs peripheral consts (missing esp32c3 variants are dead code)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653504,
-  "started_at": null,
+  "started_at": 1789685666,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
