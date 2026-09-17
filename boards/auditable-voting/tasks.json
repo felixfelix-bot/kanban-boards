@@ -338,7 +338,7 @@
  {
   "id": "t_af37c6c9",
   "title": "P2-T3: E2E smoke test",
-  "status": "blocked",
+  "status": "ready",
   "priority": 12,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,
@@ -350,7 +350,7 @@
  {
   "id": "t_538ce1d5",
   "title": "P3-T1: Documentation update",
-  "status": "blocked",
+  "status": "todo",
   "priority": 13,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162153,
@@ -362,7 +362,7 @@
  {
   "id": "t_baf62c02",
   "title": "P3-T2: Release preparation (no tag - Felix tags)",
-  "status": "blocked",
+  "status": "todo",
   "priority": 14,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162154,
