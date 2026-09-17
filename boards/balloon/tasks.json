@@ -3914,23 +3914,23 @@
  {
   "id": "t_fe1a85e9",
   "title": "Sweep non-ESP32 tollgate repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789681338,
+  "completed_at": 1789681541,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
-  "started_at": null,
+  "started_at": 1789681562,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -6806,12 +6806,12 @@
  {
   "id": "t_86fee389",
   "title": "Freeze exact CONFIG_ENABLE_* flag list from parent task output",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499737,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789681338,
+  "completed_at": 1789681465,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9722,11 +9722,11 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
-  "started_at": null,
+  "started_at": 1789681465,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
