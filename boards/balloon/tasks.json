@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -3482,7 +3482,7 @@
  {
   "id": "t_c3acbf3f",
   "title": "Re-verify CONFIG_ENABLE_* guard-style census with commands and quoted examples",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -4250,12 +4250,12 @@
  {
   "id": "t_0b6c3f08",
   "title": "Quote 2+ verbatim examples per non-zero guard form after re-reading",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789428856,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789656513,
+  "completed_at": 1789656665,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
