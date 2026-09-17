@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a974c0a",
   "title": "Cold cross-family review: PR #1333 draft comment",
-  "status": "running",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789586109,
