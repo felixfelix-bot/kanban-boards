@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -1370,12 +1370,12 @@
  {
   "id": "t_5a2e928c",
   "title": "Verify C3+S3 builds, cold-review diff, update plan, push",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
   "started_at": 1789652115,
-  "completed_at": null,
+  "completed_at": 1789654101,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9734,7 +9734,7 @@
  {
   "id": "t_6543830b",
   "title": "PCB-S5a (PLAN): ADR-028 proper schematic for the flight board \u2014 plan + v0 schematic that loads; AWAIT operator approval before full build",
-  "status": "running",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-pcb",
   "created_at": 1789625470,
@@ -9770,7 +9770,7 @@
  {
   "id": "t_28eadfa6",
   "title": "ESP32-C3: reconcile config.rs peripheral consts (missing esp32c3 variants are dead code)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653504,
@@ -9782,7 +9782,7 @@
  {
   "id": "t_fc9c3365",
   "title": "ESP32-C3: install a real log backend on riscv32imc (logger::init is a no-op)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
