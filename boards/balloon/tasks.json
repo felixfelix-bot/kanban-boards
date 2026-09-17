@@ -2546,12 +2546,12 @@
  {
   "id": "t_766aa3db",
   "title": "Sweep ESP32 tollgate firmware for PAY/ACK wire-format evidence",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
   "started_at": 1789682109,
-  "completed_at": null,
+  "completed_at": 1789682414,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
