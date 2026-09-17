@@ -4010,11 +4010,11 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
-  "started_at": null,
+  "started_at": 1789682700,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9722,7 +9722,7 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "done",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
@@ -9758,12 +9758,12 @@
  {
   "id": "t_0d60f462",
   "title": "PCB-S0c: land the S0 placement work on main (rebase onto moved main, PR, verify gate, merge) + ngit status",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789625601,
   "started_at": 1789682238,
-  "completed_at": null,
+  "completed_at": 1789682675,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
