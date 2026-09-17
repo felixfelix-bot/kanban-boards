@@ -1466,12 +1466,12 @@
  {
   "id": "t_a65f6c54",
   "title": "Document test_relay_pipeline.c mock proto and relay_types.h framing",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
   "started_at": 1789630466,
-  "completed_at": null,
+  "completed_at": 1789631548,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2042,7 +2042,7 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
