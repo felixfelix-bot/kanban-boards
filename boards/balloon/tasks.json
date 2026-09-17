@@ -2150,12 +2150,12 @@
  {
   "id": "t_a574c284",
   "title": "Write PAY/ACK recon artifact to docs/recon/raw_doc_scan.md",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
   "started_at": 1789621554,
-  "completed_at": null,
+  "completed_at": 1789621982,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2702,7 +2702,7 @@
  {
   "id": "t_1d90863e",
   "title": "Assemble and deliver the final six-symbol tollgate grep accounting report",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789384434,
@@ -3758,7 +3758,7 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
@@ -5270,7 +5270,7 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
@@ -5678,7 +5678,7 @@
  {
   "id": "t_e7bd6eb4",
   "title": "Write /tmp/p1_result.json with retrieval metadata",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
@@ -6638,7 +6638,7 @@
  {
   "id": "t_60fafc57",
   "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789499439,
@@ -6662,7 +6662,7 @@
  {
   "id": "t_60394080",
   "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6674,7 +6674,7 @@
  {
   "id": "t_65695d2f",
   "title": "Widened read-only search: TG_MSG_PAY, TG_MSG_ACK",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6686,7 +6686,7 @@
  {
   "id": "t_87f95bad",
   "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
@@ -6710,7 +6710,7 @@
  {
   "id": "t_132e6575",
   "title": "Re-grep category-(a) seq sites and diff vs upstream list",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6722,7 +6722,7 @@
  {
   "id": "t_60b9cbad",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6734,7 +6734,7 @@
  {
   "id": "t_e567f245",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
@@ -6806,7 +6806,7 @@
  {
   "id": "t_86fee389",
   "title": "Freeze exact CONFIG_ENABLE_* flag list from parent task output",
-  "status": "triage",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789499737,
@@ -9662,7 +9662,7 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "triage",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
