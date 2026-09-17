@@ -4762,5 +4762,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_78fa7b4b",
+  "title": "Fix PR #1280: feat(auctions): bid-time collateral verification via NUT-12 DLEQ (ADR-0011) (CHANGES_REQUESTED)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-plebeian",
+  "created_at": 1789648505,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
