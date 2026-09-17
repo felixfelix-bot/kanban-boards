@@ -2310,7 +2310,7 @@
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
-  "started_at": null,
+  "started_at": 1789632207,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
