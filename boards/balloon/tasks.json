@@ -2306,7 +2306,7 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
