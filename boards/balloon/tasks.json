@@ -2042,11 +2042,11 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
-  "started_at": null,
+  "started_at": 1789627605,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9686,11 +9686,11 @@
  {
   "id": "t_9a6424cd",
   "title": "PCB-S2: adjudicate residual DRC + trap suite T1-T8 + PROTOCOL doc (adversarial)",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789565562,
-  "started_at": null,
+  "started_at": 1789627605,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
