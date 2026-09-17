@@ -3014,12 +3014,12 @@
  {
   "id": "t_4ef6b3c4",
   "title": "Locate P1 recon report for t_77f5b39d and write /tmp/p1_result.json",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395423,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789661405,
+  "completed_at": 1789661488,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3050,7 +3050,7 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -6638,11 +6638,11 @@
  {
   "id": "t_60fafc57",
   "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789499439,
-  "started_at": null,
+  "started_at": 1789661405,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
