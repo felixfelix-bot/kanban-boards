@@ -7,5 +7,6 @@
  "default_workdir": null,
  "created_at": 1783177309,
  "archived": false,
- "repo": "balloon-fresh"
+ "repo": "balloon-fresh",
+ "no_llm_dispatch": true
 }
