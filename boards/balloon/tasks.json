@@ -9662,19 +9662,19 @@
  {
   "id": "t_7c65638f",
   "title": "PCB-S0: flight-board placement to zero pad overlap (KRT place_optimize + netlist audit)",
-  "status": "running",
+  "status": "done",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
   "started_at": 1789587531,
-  "completed_at": null,
+  "completed_at": 1789624521,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "todo",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
