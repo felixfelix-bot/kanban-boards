@@ -3722,12 +3722,12 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
   "started_at": 1789672114,
-  "completed_at": null,
+  "completed_at": 1789672368,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
