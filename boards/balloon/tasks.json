@@ -1682,7 +1682,7 @@
  {
   "id": "t_ca11448d",
   "title": "Assemble six-symbol tollgate grep accounting report (read-only)",
-  "status": "running",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789346669,
