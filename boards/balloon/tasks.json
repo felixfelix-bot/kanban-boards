@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -5678,11 +5678,11 @@
  {
   "id": "t_e7bd6eb4",
   "title": "Write /tmp/p1_result.json with retrieval metadata",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789479424,
-  "started_at": null,
+  "started_at": 1789660775,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
