@@ -14,7 +14,7 @@
  {
   "id": "t_7930a533",
   "title": "Register kind 1337 in the NIP kinds registry (draft first)",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789629710,
