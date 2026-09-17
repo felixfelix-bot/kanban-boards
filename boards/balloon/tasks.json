@@ -4010,12 +4010,12 @@
  {
   "id": "t_1f64cc5d",
   "title": "Inventory tollgate_/TG_MSG_/TG_PROTO_ definitions in firmware tree",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
   "started_at": 1789682700,
-  "completed_at": null,
+  "completed_at": 1789682880,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
