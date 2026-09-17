@@ -2558,12 +2558,12 @@
  {
   "id": "t_f238b099",
   "title": "Sweep tollgate clients, infra and docs for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789686539,
+  "completed_at": 1789686748,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
