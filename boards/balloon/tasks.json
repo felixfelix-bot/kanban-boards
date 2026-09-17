@@ -3866,11 +3866,11 @@
  {
   "id": "t_6b085e89",
   "title": "Deep dive autopay / payment-gate / portal PAY-ACK paths",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
-  "started_at": null,
+  "started_at": 1789680150,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -6722,12 +6722,12 @@
  {
   "id": "t_60b9cbad",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 1 (first half)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789680150,
+  "completed_at": 1789680365,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
