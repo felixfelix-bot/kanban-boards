@@ -1466,7 +1466,7 @@
  {
   "id": "t_a65f6c54",
   "title": "Document test_relay_pipeline.c mock proto and relay_types.h framing",
-  "status": "running",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
