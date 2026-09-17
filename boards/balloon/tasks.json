@@ -6638,12 +6638,12 @@
  {
   "id": "t_60fafc57",
   "title": "Re-verify sibling awesome-tollgate / tollgate-* PAY/ACK candidate quotes",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "awesome-tollgate-main",
   "created_at": 1789499439,
   "started_at": 1789661405,
-  "completed_at": null,
+  "completed_at": 1789662188,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
