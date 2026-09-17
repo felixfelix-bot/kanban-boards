@@ -2306,12 +2306,12 @@
  {
   "id": "t_8d3e9a88",
   "title": "Deep-read and classify balloon in-repo PAY/ACK candidates",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
   "started_at": 1789632207,
-  "completed_at": null,
+  "completed_at": 1789632922,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2366,11 +2366,11 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
-  "started_at": null,
+  "started_at": 1789632950,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "running",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
