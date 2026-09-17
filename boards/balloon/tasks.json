@@ -1502,7 +1502,7 @@
  {
   "id": "t_23867add",
   "title": "Verify esp-common atomics fix builds for riscv32imc host",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789339218,
@@ -2366,12 +2366,12 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
   "started_at": 1789632950,
-  "completed_at": null,
+  "completed_at": 1789649304,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
