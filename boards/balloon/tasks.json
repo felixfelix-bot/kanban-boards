@@ -9722,7 +9722,7 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
@@ -9758,7 +9758,7 @@
  {
   "id": "t_0d60f462",
   "title": "PCB-S0c: land the S0 placement work on main (rebase onto moved main, PR, verify gate, merge) + ngit status",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789625601,
