@@ -2750,12 +2750,12 @@
  {
   "id": "t_51949cc4",
   "title": "Probe for contradicting artifact in plausible missed location",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
   "started_at": 1789679208,
-  "completed_at": null,
+  "completed_at": 1789680009,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -6710,7 +6710,7 @@
  {
   "id": "t_132e6575",
   "title": "Re-grep category-(a) seq sites and diff vs upstream list",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
