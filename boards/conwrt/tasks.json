@@ -2894,7 +2894,7 @@
  {
   "id": "t_bf503eb8",
   "title": "Audit env var secrets in openvpn invocations",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
@@ -2942,7 +2942,7 @@
  {
   "id": "t_6114fc25",
   "title": "Audit OpenVPN verbosity and log file settings",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
