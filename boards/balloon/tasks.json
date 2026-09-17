@@ -2018,11 +2018,11 @@
  {
   "id": "t_3b3bac1b",
   "title": "Extract mock protocol doc section verbatim (read-only)",
-  "status": "blocked",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789354162,
-  "started_at": null,
+  "started_at": 1789626619,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2198,12 +2198,12 @@
  {
   "id": "t_0e77b291",
   "title": "Extract `## Mock protocol in test_relay_pipeline.c` section verbatim to /tmp with evidence-backed flags",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789359172,
   "started_at": 1789622188,
-  "completed_at": null,
+  "completed_at": 1789626577,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
