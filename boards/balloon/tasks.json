@@ -3902,12 +3902,12 @@
  {
   "id": "t_b6bce596",
   "title": "Sweep tollgate-module-basic-go repos for PAY/ACK wire format",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789681084,
+  "completed_at": 1789681298,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -6734,12 +6734,12 @@
  {
   "id": "t_e567f245",
   "title": "Analyze 6-dim seq assumptions \u2014 sites batch 2 (second half)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789499492,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789681084,
+  "completed_at": 1789681248,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
