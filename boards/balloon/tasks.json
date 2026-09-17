@@ -6674,12 +6674,12 @@
  {
   "id": "t_65695d2f",
   "title": "Widened read-only search: TG_MSG_PAY, TG_MSG_ACK",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
   "started_at": 1789667828,
-  "completed_at": null,
+  "completed_at": 1789671712,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
