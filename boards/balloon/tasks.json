@@ -2750,7 +2750,7 @@
  {
   "id": "t_51949cc4",
   "title": "Probe for contradicting artifact in plausible missed location",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
@@ -3758,12 +3758,12 @@
  {
   "id": "t_7db2b376",
   "title": "Probe schema, proto, and migration files for contradicting definitions",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404772,
   "started_at": 1789678277,
-  "completed_at": null,
+  "completed_at": 1789678658,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
