@@ -4634,7 +4634,7 @@
  {
   "id": "t_3867afb8",
   "title": "Cold review of kimi's draft for PR #1329 (PlebeianApp/market)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789565025,
@@ -4646,7 +4646,7 @@
  {
   "id": "t_ef38b6b3",
   "title": "Gate 2.5 cold cross-family review of draft for PR #1331 (PlebeianApp/market)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789566990,
@@ -4682,7 +4682,7 @@
  {
   "id": "t_6faa9757",
   "title": "Review PR #1335: feat(nostr): operator relay set + monotonic version tag for the authority reads (ADR-0002 Wave 1, F5)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789579989,
@@ -4694,7 +4694,7 @@
  {
   "id": "t_a0e54f8f",
   "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789582655,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_e82c2169",
   "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review (re-dispatch)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789584758,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a974c0a",
   "title": "Cold cross-family review: PR #1333 draft comment",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789586109,
@@ -4742,7 +4742,7 @@
  {
   "id": "t_cc459314",
   "title": "GATE 2.5 cold review (REDO): PR #1335 draft review comment from worker-reviewer-kimi",
-  "status": "blocked",
+  "status": "ready",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789587643,
