@@ -8006,11 +8006,19 @@
  },
  "conwrt:t_cac9ac91": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1789626123.7671018,
+  "status": "done",
+  "updated": 1789626815.3505464,
   "ts": 1789626123.7671018,
   "repo": "conwrt",
   "run_id": "cobrador-1789626123"
+ },
+ "conwrt:t_6114fc25": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1789626989.469732,
+  "ts": 1789626989.469732,
+  "repo": "conwrt",
+  "run_id": "cobrador-1789626989"
  },
  "tollgate:t_569854ff": {
   "node": "cobrador",

@@ -2018,12 +2018,12 @@
  {
   "id": "t_3b3bac1b",
   "title": "Extract mock protocol doc section verbatim (read-only)",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789354162,
   "started_at": 1789626619,
-  "completed_at": null,
+  "completed_at": 1789626822,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2042,7 +2042,7 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
