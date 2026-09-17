@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -6662,11 +6662,11 @@
  {
   "id": "t_60394080",
   "title": "Widened read-only search: tollgate_msg_hdr_t, tollgate_ack_payload_t",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
-  "started_at": null,
+  "started_at": 1789665028,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
