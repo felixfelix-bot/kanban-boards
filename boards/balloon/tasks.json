@@ -3050,11 +3050,11 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
-  "started_at": null,
+  "started_at": 1789662321,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3482,12 +3482,12 @@
  {
   "id": "t_c3acbf3f",
   "title": "Re-verify CONFIG_ENABLE_* guard-style census with commands and quoted examples",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789662321,
+  "completed_at": 1789662479,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
