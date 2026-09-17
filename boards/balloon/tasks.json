@@ -2546,11 +2546,11 @@
  {
   "id": "t_766aa3db",
   "title": "Sweep ESP32 tollgate firmware for PAY/ACK wire-format evidence",
-  "status": "todo",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
-  "started_at": null,
+  "started_at": 1789682109,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3086,12 +3086,12 @@
  {
   "id": "t_864d9cb6",
   "title": "Sweep other ESP32 repos for tollgate PAY/ACK wire-format",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395956,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789681949,
+  "completed_at": 1789682103,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3926,12 +3926,12 @@
  {
   "id": "t_efb97363",
   "title": "Sweep remaining ESP32/embedded repos for tollgate PAY/ACK format",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789405090,
   "started_at": 1789681562,
-  "completed_at": null,
+  "completed_at": 1789681942,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9722,12 +9722,12 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
   "started_at": 1789681465,
-  "completed_at": null,
+  "completed_at": 1789682207,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9758,11 +9758,11 @@
  {
   "id": "t_0d60f462",
   "title": "PCB-S0c: land the S0 placement work on main (rebase onto moved main, PR, verify gate, merge) + ngit status",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789625601,
-  "started_at": null,
+  "started_at": 1789682238,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9786,6 +9786,18 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_21ab3b23",
+  "title": "PCB-S1b: re-route from the S0b netlist of record (U4.3 EN tie added) and re-gate \u2014 pre-S0b routed boards are dead on arrival",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-pcb",
+  "created_at": 1789682183,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
