@@ -2894,7 +2894,7 @@
  {
   "id": "t_bf503eb8",
   "title": "Audit env var secrets in openvpn invocations",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502022,
