@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -2894,7 +2894,7 @@
  {
   "id": "t_50b1fea0",
   "title": "Determine empirically how CONFIG_ENABLE_* becomes visible to sources",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
@@ -3530,12 +3530,12 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
   "started_at": 1789662610,
-  "completed_at": null,
+  "completed_at": 1789662937,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
