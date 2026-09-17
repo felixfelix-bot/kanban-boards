@@ -1502,11 +1502,11 @@
  {
   "id": "t_23867add",
   "title": "Verify esp-common atomics fix builds for riscv32imc host",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789339218,
-  "started_at": null,
+  "started_at": 1789649887,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
