@@ -4694,7 +4694,7 @@
  {
   "id": "t_a0e54f8f",
   "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789582655,
@@ -4706,7 +4706,7 @@
  {
   "id": "t_e82c2169",
   "title": "Gate 2.5 cold cross-family review: kimi draft of PR #1332 ADR addendum review (re-dispatch)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789584758,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a974c0a",
   "title": "Cold cross-family review: PR #1333 draft comment",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789586109,

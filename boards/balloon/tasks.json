@@ -1634,7 +1634,7 @@
  {
   "id": "t_290bb39f",
   "title": "Merge mock and framing docs; pin the implied relay header layout",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789342406,
@@ -2042,12 +2042,12 @@
  {
   "id": "t_0d820e84",
   "title": "Author merged mock+framing doc with implied header layout",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789354162,
   "started_at": 1789627605,
-  "completed_at": null,
+  "completed_at": 1789628762,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "done",
+  "status": "ready",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
@@ -9686,7 +9686,7 @@
  {
   "id": "t_9a6424cd",
   "title": "PCB-S2: adjudicate residual DRC + trap suite T1-T8 + PROTOCOL doc (adversarial)",
-  "status": "done",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789565562,
