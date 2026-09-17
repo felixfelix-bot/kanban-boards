@@ -3182,7 +3182,7 @@
  {
   "id": "t_22607cb9",
   "title": "Enumerate ~/repos/*tollgate* and read-only sweep the uncovered repos",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396021,
@@ -4034,12 +4034,12 @@
  {
   "id": "t_d7f958f8",
   "title": "Enumerate seq and remaining tollgate_/TG_PROTO_ consumer sites",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
   "started_at": 1789683251,
-  "completed_at": null,
+  "completed_at": 1789683472,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4058,12 +4058,12 @@
  {
   "id": "t_38a71328",
   "title": "Enumerate/partition ~/repos/*tollgate* and dump git metadata (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408661,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789683667,
+  "completed_at": 1789683720,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9798,6 +9798,18 @@
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789682183,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3a5cfe25",
+  "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "esp32-balloon-integration-master",
+  "created_at": 1789683463,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
