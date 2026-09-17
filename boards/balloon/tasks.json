@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -3590,11 +3590,11 @@
  {
   "id": "t_daa2e0c8",
   "title": "Deep-dive rank-1 CONFIG_ENABLE_* flag: declaration + guard quotes",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789402532,
-  "started_at": null,
+  "started_at": 1789654433,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
