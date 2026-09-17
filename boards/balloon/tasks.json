@@ -2894,12 +2894,12 @@
  {
   "id": "t_50b1fea0",
   "title": "Determine empirically how CONFIG_ENABLE_* becomes visible to sources",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789671969,
+  "completed_at": 1789672097,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3722,11 +3722,11 @@
  {
   "id": "t_5dad1c52",
   "title": "Infer tollgate_proto_decode signature and list undefined tollgate symbols",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404037,
-  "started_at": null,
+  "started_at": 1789672114,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -6686,11 +6686,11 @@
  {
   "id": "t_87f95bad",
   "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
-  "started_at": null,
+  "started_at": 1789671969,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
