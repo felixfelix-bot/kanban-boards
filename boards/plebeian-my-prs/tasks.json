@@ -1658,7 +1658,7 @@
  {
   "id": "t_6f207379",
   "title": "Publish approved review comment on PR #1311, set status=review",
-  "status": "review",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789335568,
@@ -4718,7 +4718,7 @@
  {
   "id": "t_5a974c0a",
   "title": "Cold cross-family review: PR #1333 draft comment",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789586109,
@@ -4742,7 +4742,7 @@
  {
   "id": "t_cc459314",
   "title": "GATE 2.5 cold review (REDO): PR #1335 draft review comment from worker-reviewer-kimi",
-  "status": "ready",
+  "status": "todo",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789587643,
