@@ -530,7 +530,7 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_8991e7a0",
   "title": "Aggregate recon report coordinates into lookup manifest",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789395423,
@@ -3530,11 +3530,11 @@
  {
   "id": "t_e4b1bda0",
   "title": "Trace direct and transitive sdkconfig.h includes for CONFIG_* usage in tracker firmware",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789402314,
-  "started_at": null,
+  "started_at": 1789662610,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
