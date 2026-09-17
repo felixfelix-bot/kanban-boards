@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -9734,11 +9734,11 @@
  {
   "id": "t_6543830b",
   "title": "PCB-S5a (PLAN): ADR-028 proper schematic for the flight board \u2014 plan + v0 schematic that loads; AWAIT operator approval before full build",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-pcb",
   "created_at": 1789625470,
-  "started_at": null,
+  "started_at": 1789649073,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
