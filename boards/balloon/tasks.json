@@ -4538,7 +4538,7 @@
  {
   "id": "t_a303b722",
   "title": "Consolidate inventory + sweeps into one classified report",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
@@ -5270,12 +5270,12 @@
  {
   "id": "t_937733f0",
   "title": "Consolidate classified report from all sweeps",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-base",
   "created_at": 1789472304,
   "started_at": 1789658414,
-  "completed_at": null,
+  "completed_at": 1789659291,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
