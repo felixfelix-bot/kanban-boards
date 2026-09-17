@@ -9674,7 +9674,7 @@
  {
   "id": "t_a93eab7b",
   "title": "PCB-S1: route flight board under ONE JLCPCB rule set at $0 (KRT A* + Freerouting, refill zones, scored)",
-  "status": "ready",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-balloon",
   "created_at": 1789565561,
