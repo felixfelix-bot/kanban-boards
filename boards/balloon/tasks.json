@@ -1370,11 +1370,11 @@
  {
   "id": "t_5a2e928c",
   "title": "Verify C3+S3 builds, cold-review diff, update plan, push",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-heavy",
   "created_at": 1789332901,
-  "started_at": null,
+  "started_at": 1789652115,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2966,12 +2966,12 @@
  {
   "id": "t_69f3c883",
   "title": "Audit tollgate proto call sites in balloon firmware app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395070,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789652115,
+  "completed_at": 1789652277,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
