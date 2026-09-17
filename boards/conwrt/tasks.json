@@ -2930,7 +2930,7 @@
  {
   "id": "t_cac9ac91",
   "title": "Audit PIA OpenVPN module logging for secret leakage",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
