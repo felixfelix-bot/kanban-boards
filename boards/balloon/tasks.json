@@ -530,12 +530,12 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
   "started_at": 1785914745,
-  "completed_at": null,
+  "completed_at": 1789655386,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2906,12 +2906,12 @@
  {
   "id": "t_646214a6",
   "title": "Deep-dive 2-3 precedent CONFIG_ENABLE_* flags: declaration + guard",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789655415,
+  "completed_at": 1789655549,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3686,12 +3686,12 @@
  {
   "id": "t_fd03c582",
   "title": "Write TOLLGATE declaration/consumption verdict and guard-idiom report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-balloon",
   "created_at": 1789403662,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789655383,
+  "completed_at": 1789655534,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
