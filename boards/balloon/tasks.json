@@ -2366,7 +2366,7 @@
  {
   "id": "t_8c548d96",
   "title": "Independently verify microfips-esp-common builds for riscv32imc-unknown-none-elf and host",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363358,
@@ -2526,7 +2526,7 @@
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
-  "started_at": null,
+  "started_at": 1789633485,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
