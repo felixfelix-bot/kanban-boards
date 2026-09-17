@@ -530,12 +530,12 @@
  {
   "id": "t_c59a478e",
   "title": "P3: Fix FIPS ESP32-C3 Rust build \u2014 3 code bugs",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914728,
   "started_at": 1785914745,
-  "completed_at": 1789661207,
+  "completed_at": 1789669324,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
