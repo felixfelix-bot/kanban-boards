@@ -1682,7 +1682,7 @@
  {
   "id": "t_ca11448d",
   "title": "Assemble six-symbol tollgate grep accounting report (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789346669,
@@ -2702,12 +2702,12 @@
  {
   "id": "t_1d90863e",
   "title": "Assemble and deliver the final six-symbol tollgate grep accounting report",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "tollgate-quaterly-reports-master",
   "created_at": 1789384434,
   "started_at": 1789634044,
-  "completed_at": null,
+  "completed_at": 1789636835,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
