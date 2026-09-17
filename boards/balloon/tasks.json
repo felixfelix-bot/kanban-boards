@@ -6686,12 +6686,12 @@
  {
   "id": "t_87f95bad",
   "title": "Widened read-only search: tollgate_proto_encode, tollgate_proto_decode",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1789499454,
   "started_at": 1789671969,
-  "completed_at": null,
+  "completed_at": 1789677485,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
