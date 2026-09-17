@@ -1322,11 +1322,11 @@
  {
   "id": "t_a0449076",
   "title": "Fix atomics: use portable-atomic in microfips-esp-common",
-  "status": "todo",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789332901,
-  "started_at": null,
+  "started_at": 1789650727,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -1502,12 +1502,12 @@
  {
   "id": "t_23867add",
   "title": "Verify esp-common atomics fix builds for riscv32imc host",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789339218,
   "started_at": 1789649887,
-  "completed_at": null,
+  "completed_at": 1789650630,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9734,7 +9734,7 @@
  {
   "id": "t_6543830b",
   "title": "PCB-S5a (PLAN): ADR-028 proper schematic for the flight board \u2014 plan + v0 schematic that loads; AWAIT operator approval before full build",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-pcb",
   "created_at": 1789625470,
