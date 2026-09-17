@@ -6,5 +6,6 @@
  "color": "",
  "default_workdir": null,
  "created_at": 1784208171,
- "archived": false
+ "archived": false,
+ "repo": "tollgate-rs"
 }

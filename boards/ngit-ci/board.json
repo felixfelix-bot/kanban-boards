@@ -7,5 +7,6 @@
  "default_workdir": null,
  "project_id": null,
  "created_at": 1788956498,
- "archived": false
+ "archived": false,
+ "repo": "ngit-ci"
 }

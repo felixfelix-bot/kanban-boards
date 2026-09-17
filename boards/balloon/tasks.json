@@ -9718,5 +9718,29 @@
   "completed_at": 1789588075,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_a1f8e389",
+  "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-pcb",
+  "created_at": 1789625453,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_6543830b",
+  "title": "PCB-S5a (PLAN): ADR-028 proper schematic for the flight board \u2014 plan + v0 schematic that loads; AWAIT operator approval before full build",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-pcb",
+  "created_at": 1789625470,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]

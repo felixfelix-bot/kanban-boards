@@ -6,5 +6,6 @@
  "color": "",
  "default_workdir": null,
  "created_at": 1782251311,
- "archived": false
+ "archived": false,
+ "repo": "nostr-vpn"
 }

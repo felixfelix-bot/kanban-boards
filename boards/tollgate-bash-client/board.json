@@ -6,5 +6,6 @@
  "color": "",
  "default_workdir": null,
  "created_at": 1782251397,
- "archived": false
+ "archived": false,
+ "repo": "tollgate-bash-client"
 }
