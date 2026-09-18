@@ -9842,7 +9842,7 @@
  {
   "id": "t_3c124b76",
   "title": "Fix gate_engine tag extraction so quoted source code cannot mistier a card as code-tier",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789695300,
@@ -9890,7 +9890,7 @@
  {
   "id": "t_e2c1efcc",
   "title": "microfips: fold the t_ceae8045 cold-review wording nits (measured row, l32r clause, usb comment, Cargo.toml)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789703127,
