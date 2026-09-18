@@ -9914,12 +9914,12 @@
  {
   "id": "t_ace17e75",
   "title": "microfips: mark the elided instructions in the RACY_INSTALL_WITNESS excerpt (t_957e523c review nit 1)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789704477,
   "started_at": 1789710327,
-  "completed_at": null,
+  "completed_at": 1789712054,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9950,10 +9950,22 @@
  {
   "id": "t_efcb1377",
   "title": "microfips: label the cold-path span in the RACY_INSTALL_WITNESS excerpt (t_ace17e75 review nit)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789711194,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_388122d0",
+  "title": "PAY/ACK harness session/expires extraction has no matching producer: `session=%u` vs `session_id`, and no `expires` printer (review finding 1 on t_2a65361e)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1789711966,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
