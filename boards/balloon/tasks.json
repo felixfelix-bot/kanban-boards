@@ -9938,10 +9938,22 @@
  {
   "id": "t_2a65361e",
   "title": "Sibling narrowing in the PAY/ACK harness: session_id / price / expires lost their whitespace-only forms in D6 (follow-up to t_24d9e30c)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789707744,
+  "started_at": 1789711247,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_efcb1377",
+  "title": "microfips: label the cold-path span in the RACY_INSTALL_WITNESS excerpt (t_ace17e75 review nit)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-heavy",
+  "created_at": 1789711194,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
