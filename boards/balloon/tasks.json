@@ -9962,7 +9962,7 @@
  {
   "id": "t_388122d0",
   "title": "PAY/ACK harness session/expires extraction has no matching producer: `session=%u` vs `session_id`, and no `expires` printer (review finding 1 on t_2a65361e)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789711966,
