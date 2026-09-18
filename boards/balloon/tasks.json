@@ -2534,11 +2534,11 @@
  {
   "id": "t_1359baab",
   "title": "Sweep tollgate-module-basic-go for PAY/ACK wire-format spec",
-  "status": "todo",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789367012,
-  "started_at": null,
+  "started_at": 1789694762,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3842,12 +3842,12 @@
  {
   "id": "t_9451989d",
   "title": "Build tollgate Go repo inventory + filename/proto/schema sweep",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
   "started_at": 1789694410,
-  "completed_at": null,
+  "completed_at": 1789694749,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
