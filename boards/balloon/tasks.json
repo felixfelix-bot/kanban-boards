@@ -9758,7 +9758,7 @@
  {
   "id": "t_0d60f462",
   "title": "PCB-S0c: land the S0 placement work on main (rebase onto moved main, PR, verify gate, merge) + ngit status",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789625601,
