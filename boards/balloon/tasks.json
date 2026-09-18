@@ -9890,11 +9890,11 @@
  {
   "id": "t_e2c1efcc",
   "title": "microfips: fold the t_ceae8045 cold-review wording nits (measured row, l32r clause, usb comment, Cargo.toml)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789703127,
-  "started_at": null,
+  "started_at": 1789707869,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9926,11 +9926,11 @@
  {
   "id": "t_072c41ba",
   "title": "Deploy the merged D-137 tag-extraction fix to the live canonical gate engine (reconcile with pr/gate-pr-branch-indent-lead)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789706906,
-  "started_at": null,
+  "started_at": 1789707869,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
