@@ -9938,12 +9938,12 @@
  {
   "id": "t_2a65361e",
   "title": "Sibling narrowing in the PAY/ACK harness: session_id / price / expires lost their whitespace-only forms in D6 (follow-up to t_24d9e30c)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789707744,
   "started_at": 1789711247,
-  "completed_at": null,
+  "completed_at": 1789712476,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9962,7 +9962,7 @@
  {
   "id": "t_388122d0",
   "title": "PAY/ACK harness session/expires extraction has no matching producer: `session=%u` vs `session_id`, and no `expires` printer (review finding 1 on t_2a65361e)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789711966,
