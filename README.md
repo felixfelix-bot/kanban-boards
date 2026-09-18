@@ -3,7 +3,7 @@
 Fleet-coordination view for **public** kanban boards only (D-126).
 Private/operational boards are never exported here.
 
-- `boards/<slug>/` — board metadata + coordination tasks (26 boards, 3097 tasks)
+- `boards/<slug>/` — board metadata + coordination tasks (26 boards, 3098 tasks)
 - `repos.json` — board → public project repo
 - `ownership.json` — `task_id → {node, ts, status, repo, branch, run_id}`
 

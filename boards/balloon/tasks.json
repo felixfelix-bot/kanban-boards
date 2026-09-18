@@ -2918,12 +2918,12 @@
  {
   "id": "t_3b85be21",
   "title": "Synthesize precedent-backed CONFIG_ENABLE_* survey report",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
   "started_at": 1789692593,
-  "completed_at": 1789693157,
+  "completed_at": 1789694269,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9822,6 +9822,18 @@
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789689553,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2ac11284",
+  "title": "microfips log backend: apply the four cross-family review comment findings from t_fc9c3365",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "worker-heavy",
+  "created_at": 1789694194,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
