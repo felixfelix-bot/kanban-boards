@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
@@ -9830,11 +9830,11 @@
  {
   "id": "t_2ac11284",
   "title": "microfips log backend: apply the four cross-family review comment findings from t_fc9c3365",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789694194,
-  "started_at": null,
+  "started_at": 1789699180,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
