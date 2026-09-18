@@ -2918,11 +2918,11 @@
  {
   "id": "t_3b85be21",
   "title": "Synthesize precedent-backed CONFIG_ENABLE_* survey report",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
-  "started_at": null,
+  "started_at": 1789692593,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9782,7 +9782,7 @@
  {
   "id": "t_fc9c3365",
   "title": "ESP32-C3: install a real log backend on riscv32imc (logger::init is a no-op)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
