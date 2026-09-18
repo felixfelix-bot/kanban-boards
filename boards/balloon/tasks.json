@@ -9782,7 +9782,7 @@
  {
   "id": "t_fc9c3365",
   "title": "ESP32-C3: install a real log backend on riscv32imc (logger::init is a no-op)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
