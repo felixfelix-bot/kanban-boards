@@ -3470,11 +3470,11 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "todo",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
-  "started_at": null,
+  "started_at": 1789691472,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4154,12 +4154,12 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
   "started_at": 1789690488,
-  "completed_at": null,
+  "completed_at": 1789691454,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9770,7 +9770,7 @@
  {
   "id": "t_28eadfa6",
   "title": "ESP32-C3: reconcile config.rs peripheral consts (missing esp32c3 variants are dead code)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653504,
