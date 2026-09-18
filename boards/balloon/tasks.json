@@ -4958,7 +4958,7 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789467022,
@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
