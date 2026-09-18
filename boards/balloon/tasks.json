@@ -2990,12 +2990,12 @@
  {
   "id": "t_6ed74644",
   "title": "Grep firmware tree for tollgate symbols and produce symbol table",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395070,
   "started_at": 1789695788,
-  "completed_at": null,
+  "completed_at": 1789695972,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
