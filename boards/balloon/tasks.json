@@ -9806,12 +9806,12 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
   "started_at": 1789694410,
-  "completed_at": 1789695246,
+  "completed_at": 1789701134,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9870,6 +9870,18 @@
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789700237,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_24d9e30c",
+  "title": "Decide the PAY/ACK harness `seq 9` whitespace form: re-accept or document the narrowing (review t_3a5cfe25 finding 1)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1789701074,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
