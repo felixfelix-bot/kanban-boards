@@ -1814,7 +1814,7 @@
  {
   "id": "t_c07dd247",
   "title": "Inventory every tollgate symbol usage in main/app_task.cpp (read-only)",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
@@ -2402,12 +2402,12 @@
  {
   "id": "t_6d751797",
   "title": "Inventory decode/RX/ack tollgate call sites and structs in app_task.cpp",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789365354,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789698565,
+  "completed_at": 1789698726,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
