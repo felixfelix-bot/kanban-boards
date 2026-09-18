@@ -9830,23 +9830,23 @@
  {
   "id": "t_2ac11284",
   "title": "microfips log backend: apply the four cross-family review comment findings from t_fc9c3365",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789694194,
   "started_at": 1789699180,
-  "completed_at": null,
+  "completed_at": 1789700342,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_3c124b76",
   "title": "Fix gate_engine tag extraction so quoted source code cannot mistier a card as code-tier",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789695300,
-  "started_at": null,
+  "started_at": 1789700386,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9866,7 +9866,7 @@
  {
   "id": "t_957e523c",
   "title": "microfips: fold the t_2ac11284 cold-review comment nits (witness provenance, panic clause)",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789700237,
