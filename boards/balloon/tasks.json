@@ -9842,12 +9842,12 @@
  {
   "id": "t_3c124b76",
   "title": "Fix gate_engine tag extraction so quoted source code cannot mistier a card as code-tier",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789695300,
   "started_at": 1789700386,
-  "completed_at": null,
+  "completed_at": 1789707792,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9878,12 +9878,12 @@
  {
   "id": "t_24d9e30c",
   "title": "Decide the PAY/ACK harness `seq 9` whitespace form: re-accept or document the narrowing (review t_3a5cfe25 finding 1)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1789701074,
   "started_at": 1789706453,
-  "completed_at": null,
+  "completed_at": 1789707799,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9930,6 +9930,18 @@
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789706906,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2a65361e",
+  "title": "Sibling narrowing in the PAY/ACK harness: session_id / price / expires lost their whitespace-only forms in D6 (follow-up to t_24d9e30c)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-tollgate",
+  "created_at": 1789707744,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
