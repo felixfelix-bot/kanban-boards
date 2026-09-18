@@ -9974,7 +9974,7 @@
  {
   "id": "t_03c26dbb",
   "title": "Operator decision: balloon:t_0d60f462 \u2014 only 2 gates left, both environment-blocked (no funded cross-family lane + fleet-wide live drift)",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789773559,
