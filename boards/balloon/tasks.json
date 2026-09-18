@@ -3506,7 +3506,7 @@
  {
   "id": "t_c91379fa",
   "title": "Verify 2-3 precedent CONFIG_ENABLE_* flags' declaration + guard quotes",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
@@ -4202,12 +4202,12 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
   "started_at": 1789691847,
-  "completed_at": null,
+  "completed_at": 1789692033,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
