@@ -9950,12 +9950,12 @@
  {
   "id": "t_efcb1377",
   "title": "microfips: label the cold-path span in the RACY_INSTALL_WITNESS excerpt (t_ace17e75 review nit)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789711194,
   "started_at": 1789713049,
-  "completed_at": null,
+  "completed_at": 1789714171,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
