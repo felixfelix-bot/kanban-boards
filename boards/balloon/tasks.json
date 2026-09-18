@@ -4154,11 +4154,11 @@
  {
   "id": "t_af81a31d",
   "title": "Inventory and cite every CONFIG_ENABLE_* symbol in balloon firmware",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428718,
-  "started_at": null,
+  "started_at": 1789690488,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9722,7 +9722,7 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
@@ -9782,7 +9782,7 @@
  {
   "id": "t_fc9c3365",
   "title": "ESP32-C3: install a real log backend on riscv32imc (logger::init is a no-op)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
