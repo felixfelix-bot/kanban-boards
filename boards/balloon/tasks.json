@@ -2918,7 +2918,7 @@
  {
   "id": "t_3b85be21",
   "title": "Synthesize precedent-backed CONFIG_ENABLE_* survey report",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_9451989d",
   "title": "Build tollgate Go repo inventory + filename/proto/schema sweep",
-  "status": "todo",
+  "status": "ready",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
@@ -4538,12 +4538,12 @@
  {
   "id": "t_a303b722",
   "title": "Consolidate inventory + sweeps into one classified report",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432533,
   "started_at": 1789693159,
-  "completed_at": null,
+  "completed_at": 1789693817,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
