@@ -3470,12 +3470,12 @@
  {
   "id": "t_214d7278",
   "title": "Inventory and verify CONFIG_ENABLE_* symbols in balloon firmware",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789401374,
   "started_at": 1789691472,
-  "completed_at": null,
+  "completed_at": 1789691845,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4202,11 +4202,11 @@
  {
   "id": "t_5498b04d",
   "title": "Verify compile-time guard sites for selected CONFIG_ENABLE_* flags",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789428809,
-  "started_at": null,
+  "started_at": 1789691847,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
