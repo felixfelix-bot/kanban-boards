@@ -2990,11 +2990,11 @@
  {
   "id": "t_6ed74644",
   "title": "Grep firmware tree for tollgate symbols and produce symbol table",
-  "status": "todo",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789395070,
-  "started_at": null,
+  "started_at": 1789695788,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4022,12 +4022,12 @@
  {
   "id": "t_7c39ab21",
   "title": "Enumerate price_sats and msg_type consumers with type assumptions",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789408198,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789695538,
+  "completed_at": 1789695760,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4730,12 +4730,12 @@
  {
   "id": "t_26a1fe03",
   "title": "Enumerate all msg_type consumers, literal sets, and fallthrough branches",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
   "started_at": 1789695344,
-  "completed_at": null,
+  "completed_at": 1789695505,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
