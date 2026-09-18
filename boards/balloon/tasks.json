@@ -1814,12 +1814,12 @@
  {
   "id": "t_c07dd247",
   "title": "Inventory every tollgate symbol usage in main/app_task.cpp (read-only)",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789698871,
+  "completed_at": 1789699070,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
