@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
