@@ -4742,7 +4742,7 @@
  {
   "id": "t_cc459314",
   "title": "GATE 2.5 cold review (REDO): PR #1335 draft review comment from worker-reviewer-kimi",
-  "status": "ready",
+  "status": "running",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789587643,
@@ -4754,11 +4754,11 @@
  {
   "id": "t_dc2eff89",
   "title": "Review PR #1337: chore(deps): move coco to current package names (@cashu/coco-core / @cashu/coco-indexeddb; ^1.0.1, 2.0.0 blocked by cashu-ts 5 peer)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789633180,
-  "started_at": null,
+  "started_at": 1789765865,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
