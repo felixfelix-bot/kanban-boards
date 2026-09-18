@@ -3842,11 +3842,11 @@
  {
   "id": "t_9451989d",
   "title": "Build tollgate Go repo inventory + filename/proto/schema sweep",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789404862,
-  "started_at": null,
+  "started_at": 1789694410,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9782,19 +9782,19 @@
  {
   "id": "t_fc9c3365",
   "title": "ESP32-C3: install a real log backend on riscv32imc (logger::init is a no-op)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789653514,
   "started_at": 1789687077,
-  "completed_at": 1789689569,
+  "completed_at": 1789694290,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_21ab3b23",
   "title": "PCB-S1b: re-route from the S0b netlist of record (U4.3 EN tie added) and re-gate \u2014 pre-S0b routed boards are dead on arrival",
-  "status": "ready",
+  "status": "todo",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789682183,
@@ -9806,11 +9806,11 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
-  "started_at": null,
+  "started_at": 1789694410,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9830,7 +9830,7 @@
  {
   "id": "t_2ac11284",
   "title": "microfips log backend: apply the four cross-family review comment findings from t_fc9c3365",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789694194,
