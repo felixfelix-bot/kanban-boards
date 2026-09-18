@@ -2126,12 +2126,12 @@
  {
   "id": "t_a4d8b924",
   "title": "Sweep sibling tollgate repos for authoritative PAY/ACK wire-format spec",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789694922,
+  "completed_at": 1789694999,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2539,7 +2539,7 @@
   "assignee": "manager",
   "created_at": 1789367012,
   "started_at": 1789694762,
-  "completed_at": null,
+  "completed_at": 1789694905,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4718,12 +4718,12 @@
  {
   "id": "t_a06764cc",
   "title": "Enumerate all price_sats consumers and their type/unit assumptions",
-  "status": "ready",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789432733,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789695017,
+  "completed_at": 1789695147,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
