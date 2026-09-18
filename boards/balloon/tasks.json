@@ -9854,11 +9854,11 @@
  {
   "id": "t_ceae8045",
   "title": "microfips console doc: close the five residual glm-5.3 findings from t_fb69067d",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789697944,
-  "started_at": null,
+  "started_at": 1789701285,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
