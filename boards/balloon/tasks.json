@@ -9854,12 +9854,12 @@
  {
   "id": "t_ceae8045",
   "title": "microfips console doc: close the five residual glm-5.3 findings from t_fb69067d",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789697944,
   "started_at": 1789701285,
-  "completed_at": null,
+  "completed_at": 1789703504,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9894,6 +9894,18 @@
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789703127,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_04bf85c9",
+  "title": "HUMAN TAP: apply the verified AGENTS.md Console-rule hunk (t_ceae8045 finding 3)",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789703490,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
