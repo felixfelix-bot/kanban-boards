@@ -9758,7 +9758,7 @@
  {
   "id": "t_0d60f462",
   "title": "PCB-S0c: land the S0 placement work on main (rebase onto moved main, PR, verify gate, merge) + ngit status",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1789625601,
@@ -9968,6 +9968,18 @@
   "created_at": 1789711966,
   "started_at": 1789713049,
   "completed_at": 1789716801,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_03c26dbb",
+  "title": "Operator decision: balloon:t_0d60f462 \u2014 only 2 gates left, both environment-blocked (no funded cross-family lane + fleet-wide live drift)",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "manager",
+  "created_at": 1789773559,
+  "started_at": 1789773589,
+  "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
