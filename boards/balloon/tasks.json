@@ -9890,12 +9890,12 @@
  {
   "id": "t_e2c1efcc",
   "title": "microfips: fold the t_ceae8045 cold-review wording nits (measured row, l32r clause, usb comment, Cargo.toml)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789703127,
   "started_at": 1789707869,
-  "completed_at": null,
+  "completed_at": 1789709232,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
