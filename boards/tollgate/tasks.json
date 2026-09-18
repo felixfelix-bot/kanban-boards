@@ -2558,7 +2558,7 @@
  {
   "id": "t_64990f11",
   "title": "OUR PR: prta#126 \u2014 test(browser): captive-portal asset-integrity regression \u2014 upstream, unreviewed",
-  "status": "running",
+  "status": "ready",
   "priority": 8,
   "assignee": "manager",
   "created_at": 1789577854,
