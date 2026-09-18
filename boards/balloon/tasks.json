@@ -9926,7 +9926,7 @@
  {
   "id": "t_072c41ba",
   "title": "Deploy the merged D-137 tag-extraction fix to the live canonical gate engine (reconcile with pr/gate-pr-branch-indent-lead)",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789706906,
