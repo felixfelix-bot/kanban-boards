@@ -4958,11 +4958,11 @@
  {
   "id": "t_88171069",
   "title": "Extract all git commands verbatim from the reconciliation verdict",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789467022,
-  "started_at": null,
+  "started_at": 1789696816,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -9806,7 +9806,7 @@
  {
   "id": "t_3a5cfe25",
   "title": "Fix tollgate PAY/ACK harness regex false-negative + seq contract (from t_d7f958f8 inventory)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789683463,
