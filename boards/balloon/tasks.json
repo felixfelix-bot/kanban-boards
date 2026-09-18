@@ -9914,11 +9914,11 @@
  {
   "id": "t_ace17e75",
   "title": "microfips: mark the elided instructions in the RACY_INSTALL_WITNESS excerpt (t_957e523c review nit 1)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789704477,
-  "started_at": null,
+  "started_at": 1789710327,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
