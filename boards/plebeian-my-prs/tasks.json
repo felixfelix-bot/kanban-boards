@@ -4958,7 +4958,7 @@
  {
   "id": "t_288bf3a1",
   "title": "Review PR #1363: fix: per-PR preview deployment (PR #1271)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789855689,
