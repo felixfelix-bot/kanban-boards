@@ -4946,11 +4946,11 @@
  {
   "id": "t_81cb7a13",
   "title": "fleet_scheduler offload-hold applied to an IN-FLIGHT worker dead-ends the run (complete/block/review all refused; current_run_id NULLed)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789851758,
-  "started_at": null,
+  "started_at": 1789851913,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
