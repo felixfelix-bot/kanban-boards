@@ -3002,23 +3002,23 @@
  {
   "id": "t_d840f35e",
   "title": "Audit CLI flag and shell profile secret exposure",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
   "started_at": 1789794349,
-  "completed_at": null,
+  "completed_at": 1789794964,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_ad641556",
   "title": "Audit secret transmission and image/build arg practices",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
-  "started_at": null,
+  "started_at": 1789794978,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3494,11 +3494,11 @@
  {
   "id": "t_f27adf7f",
   "title": "Audit DoH/DoT and port-53 bypass surface in PR #55 (read-only)",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789505987,
-  "started_at": null,
+  "started_at": 1789794978,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
