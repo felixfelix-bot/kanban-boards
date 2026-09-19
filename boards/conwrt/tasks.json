@@ -2966,12 +2966,12 @@
  {
   "id": "t_caa6d7c8",
   "title": "Audit shell and CI tracing for secret leakage",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
   "started_at": 1789793030,
-  "completed_at": null,
+  "completed_at": 1789793354,
   "branch_name": null,
   "workspace_kind": "scratch"
  },

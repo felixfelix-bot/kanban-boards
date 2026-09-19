@@ -9842,7 +9842,7 @@
  {
   "id": "t_3c124b76",
   "title": "Fix gate_engine tag extraction so quoted source code cannot mistier a card as code-tier",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789695300,
