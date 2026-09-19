@@ -1850,11 +1850,11 @@
  {
   "id": "t_69851911",
   "title": "Trace kill-switch, fail-closed, and enable/disable defaults in PIA OpenVPN module",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
-  "started_at": null,
+  "started_at": 1789800957,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2294,12 +2294,12 @@
  {
   "id": "t_e9ec98c6",
   "title": "Inventory kill-switch and VPN-on-boot enable/disable defaults",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
   "started_at": 1789800534,
-  "completed_at": null,
+  "completed_at": 1789800935,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3794,23 +3794,23 @@
  {
   "id": "t_50259413",
   "title": "Trace non-tunnel egress paths in PIA OpenVPN module",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
   "started_at": 1789800887,
-  "completed_at": null,
+  "completed_at": 1789801064,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_c4c4bbd0",
   "title": "Trace firewall default policies and interface zones for WAN",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
-  "started_at": null,
+  "started_at": 1789801096,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
