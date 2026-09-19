@@ -3890,11 +3890,11 @@
  {
   "id": "t_abb266f9",
   "title": "Audit PIA token revocation and overwrite on exit",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
-  "started_at": null,
+  "started_at": 1789803948,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4310,12 +4310,12 @@
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
   "started_at": 1789803582,
-  "completed_at": null,
+  "completed_at": 1789804071,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4574,11 +4574,11 @@
  {
   "id": "t_160279b6",
   "title": "Fix recon-tier misclassification: tags in run summary are invisible to gate_engine.board_tags()",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789803901,
-  "started_at": null,
+  "started_at": 1789804087,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
