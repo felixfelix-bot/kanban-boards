@@ -1982,11 +1982,11 @@
  {
   "id": "t_551a444d",
   "title": "Audit PIA token network transmission and secret lifecycle/cleanup",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497145,
-  "started_at": null,
+  "started_at": 1789808644,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2402,7 +2402,7 @@
  {
   "id": "t_897ef95c",
   "title": "Extract verbatim D3 defect definition from evidence file",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2822,12 +2822,12 @@
  {
   "id": "t_c662e2b6",
   "title": "Audit PIA interface and permission issues",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
   "started_at": 1789807813,
-  "completed_at": null,
+  "completed_at": 1789808487,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4382,7 +4382,7 @@
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "done",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
