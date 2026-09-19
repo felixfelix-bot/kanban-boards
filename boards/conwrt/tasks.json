@@ -506,23 +506,23 @@
  {
   "id": "t_f2e5e4ed",
   "title": "Re-derive recipe key path and derived-ipv4 binding from wizard-bundle.json",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789361675,
   "started_at": 1789814476,
-  "completed_at": null,
+  "completed_at": 1789814630,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_a8fc813c",
   "title": "Compose state/conwrt-issue32-evidence/drafts/net4sats-subsection.md",
-  "status": "todo",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
-  "started_at": null,
+  "started_at": 1789814643,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
