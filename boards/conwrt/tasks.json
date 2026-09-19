@@ -1250,7 +1250,7 @@
  {
   "id": "t_6cb85413",
   "title": "Extract six verdicts and corrected quotes from audit findings",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477825,
@@ -2318,12 +2318,12 @@
  {
   "id": "t_38b46e0d",
   "title": "Trace DNS resolution and DNS-leak guards in PIA OpenVPN module (ec5c60d9)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497672,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789801562,
+  "completed_at": 1789801645,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3782,12 +3782,12 @@
  {
   "id": "t_4da10958",
   "title": "Identify undocumented IPv6 protections in code",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
   "started_at": 1789800712,
-  "completed_at": 1789800865,
+  "completed_at": 1789801715,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3818,11 +3818,11 @@
  {
   "id": "t_8ec1edf1",
   "title": "Identify undocumented leak protection in PIA OpenVPN module",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
-  "started_at": null,
+  "started_at": 1789801737,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
