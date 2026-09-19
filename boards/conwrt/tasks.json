@@ -638,23 +638,23 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789813919,
+  "completed_at": 1789814040,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_26708a48",
   "title": "Write net4sats-binding.fragment.md verdict with concrete evidence",
-  "status": "todo",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
-  "started_at": null,
+  "started_at": 1789814070,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
