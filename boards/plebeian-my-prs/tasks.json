@@ -4814,12 +4814,12 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
   "started_at": 1789829801,
-  "completed_at": null,
+  "completed_at": 1789832693,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4843,6 +4843,18 @@
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
   "started_at": 1789831488,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_9cfaa948",
+  "title": "Fleet skills repo tip carries 9 pre-existing retired literals \u2014 every hermes-manager-skills push needs --no-verify (decide: per-id x path exempt / scrub / document)",
+  "status": "running",
+  "priority": 3,
+  "assignee": "worker-inspector",
+  "created_at": 1789832678,
+  "started_at": 1789832719,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
