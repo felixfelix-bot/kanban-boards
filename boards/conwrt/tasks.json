@@ -2294,7 +2294,7 @@
  {
   "id": "t_e9ec98c6",
   "title": "Inventory kill-switch and VPN-on-boot enable/disable defaults",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
@@ -3698,23 +3698,23 @@
  {
   "id": "t_d37345a8",
   "title": "Merge audits into final defaults table and flag mismatches",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506075,
   "started_at": 1789800017,
-  "completed_at": null,
+  "completed_at": 1789800260,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_2d3176b7",
   "title": "Set up scratch clone and inventory PIA/OpenVPN module at ec5c60d9",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
-  "started_at": null,
+  "started_at": 1789800293,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
