@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -2942,12 +2942,12 @@
  {
   "id": "t_6114fc25",
   "title": "Audit OpenVPN verbosity and log file settings",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
   "started_at": 1789792140,
-  "completed_at": null,
+  "completed_at": 1789793020,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2966,11 +2966,11 @@
  {
   "id": "t_caa6d7c8",
   "title": "Audit shell and CI tracing for secret leakage",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
-  "started_at": null,
+  "started_at": 1789793030,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3042,7 +3042,7 @@
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
-  "started_at": null,
+  "started_at": 1789793030,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
