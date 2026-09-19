@@ -2786,11 +2786,11 @@
  {
   "id": "t_aba88b86",
   "title": "Audit PIA token caching and persistence",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
-  "started_at": null,
+  "started_at": 1789804561,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3062,7 +3062,7 @@
  {
   "id": "t_200f1d44",
   "title": "Extract credential contracts from design doc",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502152,
@@ -3914,12 +3914,12 @@
  {
   "id": "t_6336eacd",
   "title": "Locate design doc and identify credential sections",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
   "started_at": 1789804393,
-  "completed_at": null,
+  "completed_at": 1789804616,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4106,11 +4106,11 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
-  "started_at": null,
+  "started_at": 1789804757,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4574,7 +4574,7 @@
  {
   "id": "t_160279b6",
   "title": "Fix recon-tier misclassification: tags in run summary are invisible to gate_engine.board_tags()",
-  "status": "running",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789803901,
