@@ -3074,12 +3074,12 @@
  {
   "id": "t_92d41b9d",
   "title": "Map PIA OpenVPN credential handling in conwrt (PR #55 @ ec5c60d9)",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502152,
   "started_at": 1789795447,
-  "completed_at": null,
+  "completed_at": 1789795693,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3110,11 +3110,11 @@
  {
   "id": "t_471e0423",
   "title": "Export diff artifacts for PR #55",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
-  "started_at": null,
+  "started_at": 1789795719,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4346,12 +4346,12 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
   "started_at": 1789795377,
-  "completed_at": null,
+  "completed_at": 1789795560,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4538,11 +4538,11 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
-  "started_at": null,
+  "started_at": 1789795581,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
