@@ -1898,7 +1898,7 @@
  {
   "id": "t_39a9c08d",
   "title": "Checkout PR #55 @ ec5c60d9 and export diff artifacts",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497129,
@@ -3146,23 +3146,23 @@
  {
   "id": "t_520ed6c5",
   "title": "Audit runtime credential file permissions and creation modes in PIA OpenVPN module",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789796110,
+  "completed_at": 1789796292,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_71d1f914",
   "title": "Audit Docker image layer leakage of PIA OpenVPN secrets",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
-  "started_at": null,
+  "started_at": 1789796308,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
