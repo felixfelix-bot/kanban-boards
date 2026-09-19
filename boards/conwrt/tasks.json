@@ -1406,11 +1406,11 @@
  {
   "id": "t_9cea8c1c",
   "title": "Audit PIA OpenVPN module secret handling in PR #55",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
-  "started_at": null,
+  "started_at": 1789809876,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -1982,12 +1982,12 @@
  {
   "id": "t_551a444d",
   "title": "Audit PIA token network transmission and secret lifecycle/cleanup",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497145,
   "started_at": 1789808644,
-  "completed_at": null,
+  "completed_at": 1789809840,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2414,7 +2414,7 @@
  {
   "id": "t_5a20067f",
   "title": "Extract verbatim D4 defect definition from evidence file",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
@@ -2426,11 +2426,11 @@
  {
   "id": "t_a8f42f8d",
   "title": "Extract verbatim D5 defect definition from evidence file",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
-  "started_at": null,
+  "started_at": 1789809876,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
