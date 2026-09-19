@@ -1406,12 +1406,12 @@
  {
   "id": "t_9cea8c1c",
   "title": "Audit PIA OpenVPN module secret handling in PR #55",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
   "started_at": 1789809876,
-  "completed_at": null,
+  "completed_at": 1789810504,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
