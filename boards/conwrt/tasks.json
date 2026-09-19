@@ -3026,7 +3026,7 @@
  {
   "id": "t_ed174e20",
   "title": "Inventory env vars and rotation guidance",
-  "status": "running",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
