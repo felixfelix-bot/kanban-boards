@@ -3218,7 +3218,7 @@
  {
   "id": "t_f31d86c0",
   "title": "Review PR #1306: pinned-OpenSSH grep test + preview-deploy docs",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3534,7 +3534,7 @@
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364770,
-  "started_at": null,
+  "started_at": 1789833591,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4838,7 +4838,7 @@
  {
   "id": "t_b946e675",
   "title": "Build plebeian-review-enqueue cron: COMMENT-aware reviewer->fix-card loop + guard path fix",
-  "status": "blocked",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "running",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
