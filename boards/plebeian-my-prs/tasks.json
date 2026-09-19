@@ -4934,7 +4934,7 @@
  {
   "id": "t_56e6e852",
   "title": "PR #1363 Required 5: src/index.tsx NIP-46 fallback (#1373)",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789850082,
