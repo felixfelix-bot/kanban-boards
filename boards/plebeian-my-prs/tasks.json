@@ -4814,7 +4814,7 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "blocked",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
