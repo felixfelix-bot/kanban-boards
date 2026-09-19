@@ -2126,11 +2126,11 @@
  {
   "id": "t_0df5b54e",
   "title": "Grep conwrt tree at ec5c60d9 for DNS surfaces",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497349,
-  "started_at": null,
+  "started_at": 1789797004,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3278,12 +3278,12 @@
  {
   "id": "t_c9f42ce0",
   "title": "Grep tunnel lifecycle patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
   "started_at": 1789796506,
-  "completed_at": null,
+  "completed_at": 1789796983,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3302,11 +3302,11 @@
  {
   "id": "t_0f0cd0c7",
   "title": "Locate PIA OpenVPN module files",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
-  "started_at": null,
+  "started_at": 1789797004,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4346,12 +4346,12 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
   "started_at": 1789795377,
-  "completed_at": 1789795560,
+  "completed_at": 1789796969,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4538,12 +4538,12 @@
  {
   "id": "t_eefc86fe",
   "title": "Inventory all PIA OpenVPN credential sources and consumption sites",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789510713,
   "started_at": 1789795581,
-  "completed_at": null,
+  "completed_at": 1789796778,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
