@@ -9722,7 +9722,7 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
@@ -9986,7 +9986,7 @@
  {
   "id": "t_aff951fc",
   "title": "CRED residual + live-engine drift: ONE consolidated PR making hermes-orchestration master's tip tree literal-free and landing 0bb4703b (lifts the fleet push freeze)",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-admin",
   "created_at": 1789775662,
