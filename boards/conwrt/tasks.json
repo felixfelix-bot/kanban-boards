@@ -506,11 +506,11 @@
  {
   "id": "t_f2e5e4ed",
   "title": "Re-derive recipe key path and derived-ipv4 binding from wizard-bundle.json",
-  "status": "todo",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789361675,
-  "started_at": null,
+  "started_at": 1789814476,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -602,12 +602,12 @@
  {
   "id": "t_1ede9d45",
   "title": "Trace how ipv4 binds into the net4sats LAN-move recipe",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789365999,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789814406,
+  "completed_at": 1789814456,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -650,12 +650,12 @@
  {
   "id": "t_26708a48",
   "title": "Write net4sats-binding.fragment.md verdict with concrete evidence",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789373947,
   "started_at": 1789814070,
-  "completed_at": null,
+  "completed_at": 1789814371,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
