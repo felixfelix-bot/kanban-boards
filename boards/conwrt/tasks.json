@@ -2990,23 +2990,23 @@
  {
   "id": "t_f1884b5c",
   "title": "Audit hardcoded secrets and credential file instructions",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
   "started_at": 1789794044,
-  "completed_at": null,
+  "completed_at": 1789794309,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_d840f35e",
   "title": "Audit CLI flag and shell profile secret exposure",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
-  "started_at": null,
+  "started_at": 1789794349,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3038,12 +3038,12 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
   "started_at": 1789793030,
-  "completed_at": null,
+  "completed_at": 1789794325,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3486,7 +3486,7 @@
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
-  "started_at": null,
+  "started_at": 1789794349,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
