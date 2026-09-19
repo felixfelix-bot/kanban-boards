@@ -1250,7 +1250,7 @@
  {
   "id": "t_6cb85413",
   "title": "Extract six verdicts and corrected quotes from audit findings",
-  "status": "done",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477825,
@@ -1850,12 +1850,12 @@
  {
   "id": "t_69851911",
   "title": "Trace kill-switch, fail-closed, and enable/disable defaults in PIA OpenVPN module",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
   "started_at": 1789800957,
-  "completed_at": null,
+  "completed_at": 1789801429,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3782,7 +3782,7 @@
  {
   "id": "t_4da10958",
   "title": "Identify undocumented IPv6 protections in code",
-  "status": "done",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
@@ -3806,12 +3806,12 @@
  {
   "id": "t_c4c4bbd0",
   "title": "Trace firewall default policies and interface zones for WAN",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
   "started_at": 1789801096,
-  "completed_at": null,
+  "completed_at": 1789801293,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
