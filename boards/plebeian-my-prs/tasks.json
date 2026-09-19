@@ -4934,12 +4934,12 @@
  {
   "id": "t_56e6e852",
   "title": "PR #1363 Required 5: src/index.tsx NIP-46 fallback (#1373)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789850082,
   "started_at": 1789853269,
-  "completed_at": null,
+  "completed_at": 1789853741,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
