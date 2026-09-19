@@ -4166,12 +4166,12 @@
  {
   "id": "t_3dfe8a2d",
   "title": "Extract questionable rows from workaround-did findings",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
   "started_at": 1789813071,
-  "completed_at": null,
+  "completed_at": 1789813510,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
