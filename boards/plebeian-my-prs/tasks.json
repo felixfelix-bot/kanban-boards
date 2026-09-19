@@ -4898,7 +4898,7 @@
  {
   "id": "t_7266e2ce",
   "title": "Waiver/exemption request \u2014 plebeian-my-prs t_7d0b976f (PR #1280 rebase): 4 structurally-red gates + GATE 1b rewrite path",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789841457,
