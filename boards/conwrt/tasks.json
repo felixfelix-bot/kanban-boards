@@ -3590,12 +3590,12 @@
  {
   "id": "t_aa2a61cc",
   "title": "Inventory lifecycle, namespaces and teardown for kill-switch at ec5c60d9",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
   "started_at": 1789798677,
-  "completed_at": null,
+  "completed_at": 1789798902,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3614,23 +3614,23 @@
  {
   "id": "t_350f20bc",
   "title": "Trace fail-closed behavior on tunnel drop at conwrt ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789798917,
+  "completed_at": 1789799071,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_7fe47de9",
   "title": "Trace auth-failure path and kill-switch state at initial connect",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
-  "started_at": null,
+  "started_at": 1789799104,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
