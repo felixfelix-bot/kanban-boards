@@ -1790,7 +1790,7 @@
  {
   "id": "t_dd545800",
   "title": "Inventory DNS artifacts in PR #55 diff and PIA OpenVPN module",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,
@@ -2126,24 +2126,24 @@
  {
   "id": "t_0df5b54e",
   "title": "Grep conwrt tree at ec5c60d9 for DNS surfaces",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497349,
   "started_at": 1789797004,
-  "completed_at": null,
+  "completed_at": 1789797113,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_261436ff",
   "title": "Audit PIA OpenVPN module DNS lifecycle at ec5c60d9",
-  "status": "todo",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497349,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789797146,
+  "completed_at": 1789797301,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3302,12 +3302,12 @@
  {
   "id": "t_0f0cd0c7",
   "title": "Locate PIA OpenVPN module files",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505784,
   "started_at": 1789797004,
-  "completed_at": null,
+  "completed_at": 1789797144,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3422,11 +3422,11 @@
  {
   "id": "t_0e9f37b1",
   "title": "Enumerate all tunnel lifecycle hooks in PR #55",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
-  "started_at": null,
+  "started_at": 1789797147,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
