@@ -518,23 +518,23 @@
  {
   "id": "t_a8fc813c",
   "title": "Compose state/conwrt-issue32-evidence/drafts/net4sats-subsection.md",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789361675,
   "started_at": 1789814643,
-  "completed_at": null,
+  "completed_at": 1789814851,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_bbd9df94",
   "title": "Verify net4sats-subsection.md against source md and wizard-bundle.json",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789361675,
-  "started_at": null,
+  "started_at": 1789814872,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
