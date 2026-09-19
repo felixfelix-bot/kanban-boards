@@ -4934,7 +4934,7 @@
  {
   "id": "t_56e6e852",
   "title": "PR #1363 Required 5: src/index.tsx NIP-46 fallback (#1373)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789850082,
@@ -4958,11 +4958,11 @@
  {
   "id": "t_288bf3a1",
   "title": "Review PR #1363: fix: per-PR preview deployment (PR #1271)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789855689,
-  "started_at": null,
+  "started_at": 1789855940,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
