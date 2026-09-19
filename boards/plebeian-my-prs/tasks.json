@@ -4790,7 +4790,7 @@
  {
   "id": "t_cc58c77e",
   "title": "Fix PR #1363: Required 1+2 (patches/ packaging + workflow guard) + 3 nits -> contribution PR",
-  "status": "done",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1789828657,
@@ -4838,12 +4838,12 @@
  {
   "id": "t_b946e675",
   "title": "Build plebeian-review-enqueue cron: COMMENT-aware reviewer->fix-card loop + guard path fix",
-  "status": "running",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
   "started_at": 1789831488,
-  "completed_at": null,
+  "completed_at": 1789835464,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4862,11 +4862,23 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "ready",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
   "started_at": 1789833147,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_31505d85",
+  "title": "SELFTEST plebeian-review-enqueue plumbing (ignore, archived immediately)",
+  "status": "archived",
+  "priority": 1,
+  "assignee": "selftest-nodispatch",
+  "created_at": 1789835326,
+  "started_at": null,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
