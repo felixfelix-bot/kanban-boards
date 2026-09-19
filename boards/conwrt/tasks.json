@@ -2810,11 +2810,11 @@
  {
   "id": "t_4a1d89d3",
   "title": "Audit PIA CI artifacts for secret leakage",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
-  "started_at": null,
+  "started_at": 1789807071,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4382,12 +4382,12 @@
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
   "started_at": 1789806439,
-  "completed_at": null,
+  "completed_at": 1789807057,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4406,11 +4406,11 @@
  {
   "id": "t_89cc0a2f",
   "title": "Inventory PIA secret-reading interfaces at ec5c60d9",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508602,
-  "started_at": null,
+  "started_at": 1789807071,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
