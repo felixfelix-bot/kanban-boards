@@ -1674,7 +1674,7 @@
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
-  "started_at": null,
+  "started_at": 1789802534,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2342,23 +2342,23 @@
  {
   "id": "t_b7390d10",
   "title": "Inventory non-DNS egress leak vectors in PIA OpenVPN module (ec5c60d9)",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497672,
   "started_at": 1789802301,
-  "completed_at": null,
+  "completed_at": 1789802516,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "blocked",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
-  "started_at": null,
+  "started_at": 1789802636,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2774,11 +2774,11 @@
  {
   "id": "t_0a983be4",
   "title": "Audit PIA network transport for plaintext and TLS issues",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
-  "started_at": null,
+  "started_at": 1789802636,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3854,12 +3854,12 @@
  {
   "id": "t_1adbf000",
   "title": "Audit PR #55 diff for plaintext and TLS issues",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506278,
   "started_at": 1789802196,
-  "completed_at": null,
+  "completed_at": 1789802625,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
