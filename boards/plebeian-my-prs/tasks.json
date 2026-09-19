@@ -3530,7 +3530,7 @@
  {
   "id": "t_48777221",
   "title": "Audit signer-fed pool/relay wiring and sign-failure error propagation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364770,
@@ -3542,11 +3542,11 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
-  "started_at": null,
+  "started_at": 1789834050,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4790,12 +4790,12 @@
  {
   "id": "t_cc58c77e",
   "title": "Fix PR #1363: Required 1+2 (patches/ packaging + workflow guard) + 3 nits -> contribution PR",
-  "status": "triage",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1789828657,
   "started_at": 1789833016,
-  "completed_at": null,
+  "completed_at": 1789834049.4079297,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4814,7 +4814,7 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
