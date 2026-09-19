@@ -3026,7 +3026,7 @@
  {
   "id": "t_ed174e20",
   "title": "Inventory env vars and rotation guidance",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
@@ -4106,12 +4106,12 @@
  {
   "id": "t_4942a6b9",
   "title": "Extract env vars from design doc sections 4-6",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506585,
   "started_at": 1789804757,
-  "completed_at": null,
+  "completed_at": 1789804942,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4202,23 +4202,23 @@
  {
   "id": "t_c59cef33",
   "title": "Sweep kill-switch normative claims in PR #55 docs",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789804965,
+  "completed_at": 1789805121,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_44f483ba",
   "title": "Sweep leak-prevention normative claims in PR #55 docs",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
-  "started_at": null,
+  "started_at": 1789805129,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4574,7 +4574,7 @@
  {
   "id": "t_160279b6",
   "title": "Fix recon-tier misclassification: tags in run summary are invisible to gate_engine.board_tags()",
-  "status": "ready",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789803901,
