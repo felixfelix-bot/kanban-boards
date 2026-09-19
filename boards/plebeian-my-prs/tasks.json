@@ -4778,7 +4778,7 @@
  {
   "id": "t_3b8bde7d",
   "title": "Fix PR #1343: close maxime-tt's final 2 items (ADR single-emphasis notes + verification counts)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789828656,
