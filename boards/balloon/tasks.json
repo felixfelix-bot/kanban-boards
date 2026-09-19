@@ -9994,5 +9994,17 @@
   "completed_at": 1789776853,
   "branch_name": null,
   "workspace_kind": "dir"
+ },
+ {
+  "id": "t_40f3c614",
+  "title": "Operator waiver: balloon:t_3c124b76 \u2014 fix merged+live-deployed; blocked on ci_evidence (private repo) + review_benchmark_floor (no floored lane) + no_live_drift (fleet drift, PR #127)",
+  "status": "blocked",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789793865,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
