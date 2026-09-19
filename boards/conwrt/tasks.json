@@ -530,7 +530,7 @@
  {
   "id": "t_bbd9df94",
   "title": "Verify net4sats-subsection.md against source md and wizard-bundle.json",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789361675,
