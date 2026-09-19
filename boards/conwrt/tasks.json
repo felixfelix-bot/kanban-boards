@@ -3062,7 +3062,7 @@
  {
   "id": "t_200f1d44",
   "title": "Extract credential contracts from design doc",
-  "status": "running",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502152,
