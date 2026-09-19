@@ -2462,23 +2462,23 @@
  {
   "id": "t_8eea4655",
   "title": "Write consolidated OpenWrt preflight run log (run-log.md)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498944,
   "started_at": 1789810207,
-  "completed_at": null,
+  "completed_at": 1789810824,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_01250dd9",
   "title": "Verify preflight run-log against acceptance criteria",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498944,
-  "started_at": null,
+  "started_at": 1789810858,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3026,7 +3026,7 @@
  {
   "id": "t_ed174e20",
   "title": "Inventory env vars and rotation guidance",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
