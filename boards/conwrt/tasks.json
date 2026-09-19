@@ -3650,12 +3650,12 @@
  {
   "id": "t_a9db1d82",
   "title": "Audit kill-switch install/teardown ordering vs tunnel up/down",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506057,
   "started_at": 1789799411,
-  "completed_at": null,
+  "completed_at": 1789799575,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3674,11 +3674,11 @@
  {
   "id": "t_656d868b",
   "title": "Audit kill-switch toggles and their defaults at ec5c60d9",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506075,
-  "started_at": null,
+  "started_at": 1789799576,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4562,7 +4562,7 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "running",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
