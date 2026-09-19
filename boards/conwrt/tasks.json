@@ -3530,23 +3530,23 @@
  {
   "id": "t_6e3bd818",
   "title": "Trace PIA OpenVPN config parsing",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
   "started_at": 1789797574,
-  "completed_at": 1789797751,
+  "completed_at": 1789798017,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_8b13a026",
   "title": "Map PIA OpenVPN connection lifecycle states",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
-  "started_at": null,
+  "started_at": 1789798051,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
