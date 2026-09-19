@@ -2366,7 +2366,7 @@
  {
   "id": "t_c0d40c2c",
   "title": "Inventory all wizard-bundle references",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
