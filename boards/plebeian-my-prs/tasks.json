@@ -3570,7 +3570,7 @@
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
-  "started_at": null,
+  "started_at": 1789837196,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
