@@ -4382,12 +4382,12 @@
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
   "started_at": 1789806439,
-  "completed_at": 1789807057,
+  "completed_at": 1789809259,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
