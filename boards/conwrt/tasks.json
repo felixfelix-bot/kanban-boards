@@ -2786,7 +2786,7 @@
  {
   "id": "t_aba88b86",
   "title": "Audit PIA token caching and persistence",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
@@ -3890,12 +3890,12 @@
  {
   "id": "t_abb266f9",
   "title": "Audit PIA token revocation and overwrite on exit",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
   "started_at": 1789803948,
-  "completed_at": null,
+  "completed_at": 1789804380,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3914,11 +3914,11 @@
  {
   "id": "t_6336eacd",
   "title": "Locate design doc and identify credential sections",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506288,
-  "started_at": null,
+  "started_at": 1789804393,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
