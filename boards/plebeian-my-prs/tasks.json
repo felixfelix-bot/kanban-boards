@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -4838,7 +4838,7 @@
  {
   "id": "t_b946e675",
   "title": "Build plebeian-review-enqueue cron: COMMENT-aware reviewer->fix-card loop + guard path fix",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
