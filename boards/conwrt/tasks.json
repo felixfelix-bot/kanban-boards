@@ -2726,7 +2726,7 @@
  {
   "id": "t_30f5d789",
   "title": "Inventory normative claims: kill-switch and leak prevention",
-  "status": "running",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
