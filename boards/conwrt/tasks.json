@@ -3482,7 +3482,7 @@
  {
   "id": "t_19032745",
   "title": "Audit IPv6 kill-switch coverage in conwrt PR #55 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789505987,
