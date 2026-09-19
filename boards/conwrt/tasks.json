@@ -2414,11 +2414,11 @@
  {
   "id": "t_5a20067f",
   "title": "Extract verbatim D4 defect definition from evidence file",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
-  "started_at": null,
+  "started_at": 1789809543,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
