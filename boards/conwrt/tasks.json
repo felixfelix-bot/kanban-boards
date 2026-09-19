@@ -2726,11 +2726,11 @@
  {
   "id": "t_30f5d789",
   "title": "Inventory normative claims: kill-switch and leak prevention",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
-  "started_at": null,
+  "started_at": 1789805562,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2738,7 +2738,7 @@
  {
   "id": "t_fd1733e3",
   "title": "Inventory normative claims: DNS resolution and IPv6 handling",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
@@ -2786,12 +2786,12 @@
  {
   "id": "t_aba88b86",
   "title": "Audit PIA token caching and persistence",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
   "started_at": 1789804561,
-  "completed_at": null,
+  "completed_at": 1789805527,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4238,12 +4238,12 @@
  {
   "id": "t_f1c1d83b",
   "title": "Clone PR #55 scratch and map changed proposal docs (ec5c60d9)",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789507864,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789805461,
+  "completed_at": 1789805617,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4334,11 +4334,11 @@
  {
   "id": "t_bdf6b513",
   "title": "Audit runtime cleanup of temp credential files in PR #55",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508587,
-  "started_at": null,
+  "started_at": 1789805637,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
