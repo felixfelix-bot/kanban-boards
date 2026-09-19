@@ -1250,12 +1250,12 @@
  {
   "id": "t_6cb85413",
   "title": "Extract six verdicts and corrected quotes from audit findings",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477825,
   "started_at": 1789799979,
-  "completed_at": null,
+  "completed_at": 1789800500,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2294,11 +2294,11 @@
  {
   "id": "t_e9ec98c6",
   "title": "Inventory kill-switch and VPN-on-boot enable/disable defaults",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
-  "started_at": null,
+  "started_at": 1789800534,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2318,7 +2318,7 @@
  {
   "id": "t_38b46e0d",
   "title": "Trace DNS resolution and DNS-leak guards in PIA OpenVPN module (ec5c60d9)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497672,
@@ -3710,12 +3710,12 @@
  {
   "id": "t_2d3176b7",
   "title": "Set up scratch clone and inventory PIA/OpenVPN module at ec5c60d9",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506097,
   "started_at": 1789800293,
-  "completed_at": null,
+  "completed_at": 1789800429,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3758,23 +3758,23 @@
  {
   "id": "t_4d62b081",
   "title": "Trace IPv6 disable/block mechanisms in PIA OpenVPN module",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789800461,
+  "completed_at": 1789800547,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_d19c9104",
   "title": "Trace IPv6 escape paths and kill-switch absence",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506232,
-  "started_at": null,
+  "started_at": 1789800572,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
