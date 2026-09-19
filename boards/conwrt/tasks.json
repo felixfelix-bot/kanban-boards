@@ -1574,11 +1574,11 @@
  {
   "id": "t_b99a7981",
   "title": "Enumerate writers/templates that populate the LAN-move block in docs/wizard-bundle.json",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483342,
-  "started_at": null,
+  "started_at": 1789813071,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3062,7 +3062,7 @@
  {
   "id": "t_200f1d44",
   "title": "Extract credential contracts from design doc",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502152,
@@ -4154,7 +4154,7 @@
  {
   "id": "t_c5fdad8a",
   "title": "Extract questionable rows from quote-location findings",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
@@ -4166,11 +4166,11 @@
  {
   "id": "t_3dfe8a2d",
   "title": "Extract questionable rows from workaround-did findings",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789506602,
-  "started_at": null,
+  "started_at": 1789813071,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
