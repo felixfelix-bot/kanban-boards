@@ -638,7 +638,7 @@
  {
   "id": "t_3f3235be",
   "title": "Trace provenance of ipv4 token in net4sats LAN-move block of docs/wizard-bundle.json",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789373947,
@@ -950,12 +950,12 @@
  {
   "id": "t_d893dcb5",
   "title": "Decide ipv4 provenance verdict and write provenance scratch file",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789464918,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789813726,
+  "completed_at": 1789813895,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1574,12 +1574,12 @@
  {
   "id": "t_b99a7981",
   "title": "Enumerate writers/templates that populate the LAN-move block in docs/wizard-bundle.json",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483342,
   "started_at": 1789813071,
-  "completed_at": null,
+  "completed_at": 1789813707,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
