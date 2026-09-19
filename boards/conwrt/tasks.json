@@ -2486,7 +2486,7 @@
  {
   "id": "t_f34e1ecd",
   "title": "Extract D-IDs from '## Discrepancies' section to /tmp file",
-  "status": "running",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498953,
@@ -3026,7 +3026,7 @@
  {
   "id": "t_ed174e20",
   "title": "Inventory env vars and rotation guidance",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
