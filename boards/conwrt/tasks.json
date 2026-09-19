@@ -2258,12 +2258,12 @@
  {
   "id": "t_5c63bca0",
   "title": "Locate PIA OpenVPN module: entry points, config parsing, lifecycle",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
   "started_at": 1789798312,
-  "completed_at": null,
+  "completed_at": 1789798655,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3578,23 +3578,23 @@
  {
   "id": "t_6965ed5b",
   "title": "Inventory routing/DNS leak-prevention mechanisms at ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789798525,
+  "completed_at": 1789798655,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_aa2a61cc",
   "title": "Inventory lifecycle, namespaces and teardown for kill-switch at ec5c60d9",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
-  "started_at": null,
+  "started_at": 1789798677,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4562,11 +4562,11 @@
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
-  "started_at": null,
+  "started_at": 1789798677,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
