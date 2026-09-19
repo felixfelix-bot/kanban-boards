@@ -3602,12 +3602,12 @@
  {
   "id": "t_90fdb2f8",
   "title": "Audit stale NDK publish call sites in PR #1283",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789364789,
   "started_at": 1789839630,
-  "completed_at": null,
+  "completed_at": 1789840229,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3914,11 +3914,11 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
-  "started_at": null,
+  "started_at": 1789840230,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
