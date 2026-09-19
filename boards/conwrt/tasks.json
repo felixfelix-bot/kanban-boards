@@ -2474,23 +2474,23 @@
  {
   "id": "t_01250dd9",
   "title": "Verify preflight run-log against acceptance criteria",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498944,
   "started_at": 1789810858,
-  "completed_at": null,
+  "completed_at": 1789811096,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_f34e1ecd",
   "title": "Extract D-IDs from '## Discrepancies' section to /tmp file",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498953,
-  "started_at": null,
+  "started_at": 1789811117,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
