@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
