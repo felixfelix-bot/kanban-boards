@@ -1670,12 +1670,12 @@
  {
   "id": "t_6077e22d",
   "title": "Extract and reconcile artifact vs runbook D-ID sets",
-  "status": "ready",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
   "started_at": 1789802534,
-  "completed_at": null,
+  "completed_at": 1789802942,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1862,11 +1862,11 @@
  {
   "id": "t_06cd201f",
   "title": "Trace DNS, IPv6, and leak-prevention paths in PIA OpenVPN module",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
-  "started_at": null,
+  "started_at": 1789802967,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2354,12 +2354,12 @@
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
   "started_at": 1789802636,
-  "completed_at": null,
+  "completed_at": 1789802946,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2774,12 +2774,12 @@
  {
   "id": "t_0a983be4",
   "title": "Audit PIA network transport for plaintext and TLS issues",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
   "started_at": 1789802636,
-  "completed_at": null,
+  "completed_at": 1789802833,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3878,11 +3878,11 @@
  {
   "id": "t_d373baa3",
   "title": "Audit PIA token persistence and file permissions",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
-  "started_at": null,
+  "started_at": 1789802967,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
