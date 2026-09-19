@@ -2354,7 +2354,7 @@
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "blocked",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -3878,12 +3878,12 @@
  {
   "id": "t_d373baa3",
   "title": "Audit PIA token persistence and file permissions",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506282,
   "started_at": 1789802967,
-  "completed_at": null,
+  "completed_at": 1789803458,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4298,23 +4298,23 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
   "started_at": 1789803105,
-  "completed_at": null,
+  "completed_at": 1789803556,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_96a4215e",
   "title": "Verify unnumbered-defect file against raw runbook",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
-  "started_at": null,
+  "started_at": 1789803582,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
