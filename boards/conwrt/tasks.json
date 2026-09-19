@@ -1898,11 +1898,11 @@
  {
   "id": "t_39a9c08d",
   "title": "Checkout PR #55 @ ec5c60d9 and export diff artifacts",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497129,
-  "started_at": null,
+  "started_at": 1789795865,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3110,12 +3110,12 @@
  {
   "id": "t_471e0423",
   "title": "Export diff artifacts for PR #55",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502350,
   "started_at": 1789795719,
-  "completed_at": null,
+  "completed_at": 1789795839,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4346,7 +4346,7 @@
  {
   "id": "t_f6b5ed6a",
   "title": "Audit container image for leftover secret files in layers",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-merchant-deploy",
   "created_at": 1789508587,
