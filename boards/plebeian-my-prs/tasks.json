@@ -4574,7 +4574,7 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_78fa7b4b",
   "title": "Fix PR #1280: feat(auctions): bid-time collateral verification via NUT-12 DLEQ (ADR-0011) (CHANGES_REQUESTED)",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789648505,
@@ -4838,12 +4838,12 @@
  {
   "id": "t_b946e675",
   "title": "Build plebeian-review-enqueue cron: COMMENT-aware reviewer->fix-card loop + guard path fix",
-  "status": "triage",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
   "started_at": 1789831488,
-  "completed_at": 1789835464,
+  "completed_at": 1789841915.4720676,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4862,12 +4862,12 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
   "started_at": 1789833147,
-  "completed_at": 1789839626,
+  "completed_at": 1789842019,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4898,11 +4898,23 @@
  {
   "id": "t_7266e2ce",
   "title": "Waiver/exemption request \u2014 plebeian-my-prs t_7d0b976f (PR #1280 rebase): 4 structurally-red gates + GATE 1b rewrite path",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789841457,
   "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_28253e02",
+  "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
+  "status": "running",
+  "priority": 2,
+  "assignee": "worker-plebeian",
+  "created_at": 1789842021,
+  "started_at": 1789842134,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
