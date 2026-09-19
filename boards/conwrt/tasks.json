@@ -1250,12 +1250,12 @@
  {
   "id": "t_6cb85413",
   "title": "Extract six verdicts and corrected quotes from audit findings",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477825,
   "started_at": 1789799979,
-  "completed_at": 1789800500,
+  "completed_at": 1789801981,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2330,11 +2330,11 @@
  {
   "id": "t_f8524a75",
   "title": "Trace IPv6 handling and v6 leak paths in PIA OpenVPN module (ec5c60d9)",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497672,
-  "started_at": null,
+  "started_at": 1789802012,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2342,7 +2342,7 @@
  {
   "id": "t_b7390d10",
   "title": "Inventory non-DNS egress leak vectors in PIA OpenVPN module (ec5c60d9)",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497672,
@@ -3818,12 +3818,12 @@
  {
   "id": "t_8ec1edf1",
   "title": "Identify undocumented leak protection in PIA OpenVPN module",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506242,
   "started_at": 1789801737,
-  "completed_at": null,
+  "completed_at": 1789801932,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3842,11 +3842,11 @@
  {
   "id": "t_093151ee",
   "title": "Audit PIA module HTTP/HTTPS calls for plaintext and TLS issues",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506278,
-  "started_at": null,
+  "started_at": 1789801944,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
