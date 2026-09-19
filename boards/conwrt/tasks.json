@@ -1862,12 +1862,12 @@
  {
   "id": "t_06cd201f",
   "title": "Trace DNS, IPv6, and leak-prevention paths in PIA OpenVPN module",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
   "started_at": 1789802967,
-  "completed_at": null,
+  "completed_at": 1789803073,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2354,7 +2354,7 @@
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "done",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
@@ -4298,11 +4298,11 @@
  {
   "id": "t_4d821ea4",
   "title": "Verify D-ID set file against raw runbook",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-inspector",
   "created_at": 1789508260,
-  "started_at": null,
+  "started_at": 1789803105,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
