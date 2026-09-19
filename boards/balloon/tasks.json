@@ -9986,12 +9986,12 @@
  {
   "id": "t_aff951fc",
   "title": "CRED residual + live-engine drift: ONE consolidated PR making hermes-orchestration master's tip tree literal-free and landing 0bb4703b (lifts the fleet push freeze)",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-admin",
   "created_at": 1789775662,
   "started_at": 1789775678,
-  "completed_at": null,
+  "completed_at": 1789776853,
   "branch_name": null,
   "workspace_kind": "dir"
  }
