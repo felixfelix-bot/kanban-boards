@@ -4790,11 +4790,11 @@
  {
   "id": "t_cc58c77e",
   "title": "Fix PR #1363: Required 1+2 (patches/ packaging + workflow guard) + 3 nits -> contribution PR",
-  "status": "triage",
-  "priority": 2,
+  "status": "ready",
+  "priority": 1,
   "assignee": "worker-plebeian",
   "created_at": 1789828657,
-  "started_at": null,
+  "started_at": 1789833016,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4850,11 +4850,23 @@
  {
   "id": "t_9cfaa948",
   "title": "Fleet skills repo tip carries 9 pre-existing retired literals \u2014 every hermes-manager-skills push needs --no-verify (decide: per-id x path exempt / scrub / document)",
-  "status": "running",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789832678,
   "started_at": 1789832719,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7d0b976f",
+  "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
+  "status": "running",
+  "priority": 2,
+  "assignee": "worker-plebeian",
+  "created_at": 1789833138,
+  "started_at": 1789833147,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
