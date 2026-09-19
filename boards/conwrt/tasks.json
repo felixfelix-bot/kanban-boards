@@ -2498,11 +2498,11 @@
  {
   "id": "t_c4228a1e",
   "title": "List unnumbered defective items from '## Discrepancies' section",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789498953,
-  "started_at": null,
+  "started_at": 1789811964,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3062,11 +3062,11 @@
  {
   "id": "t_200f1d44",
   "title": "Extract credential contracts from design doc",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502152,
-  "started_at": null,
+  "started_at": 1789811964,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
