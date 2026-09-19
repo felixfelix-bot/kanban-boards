@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
@@ -4910,7 +4910,7 @@
  {
   "id": "t_28253e02",
   "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789842021,
