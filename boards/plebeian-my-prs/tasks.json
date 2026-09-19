@@ -4922,7 +4922,7 @@
  {
   "id": "t_54f0c135",
   "title": "Rebase #1290 (approved, DIRTY) + #1324 (DIRTY) onto current bases",
-  "status": "running",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789848384,
