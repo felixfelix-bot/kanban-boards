@@ -4954,5 +4954,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_288bf3a1",
+  "title": "Review PR #1363: fix: per-PR preview deployment (PR #1271)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-reviewer-kimi",
+  "created_at": 1789855689,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
