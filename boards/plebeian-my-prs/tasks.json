@@ -3590,7 +3590,7 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
@@ -3602,7 +3602,7 @@
  {
   "id": "t_90fdb2f8",
   "title": "Audit stale NDK publish call sites in PR #1283",
-  "status": "done",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789364789,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
