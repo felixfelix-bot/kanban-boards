@@ -1574,7 +1574,7 @@
  {
   "id": "t_b99a7981",
   "title": "Enumerate writers/templates that populate the LAN-move block in docs/wizard-bundle.json",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483342,
@@ -2366,12 +2366,12 @@
  {
   "id": "t_c0d40c2c",
   "title": "Inventory all wizard-bundle references",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
   "started_at": 1789807813,
-  "completed_at": null,
+  "completed_at": 1789808241,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2402,11 +2402,11 @@
  {
   "id": "t_897ef95c",
   "title": "Extract verbatim D3 defect definition from evidence file",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497960,
-  "started_at": null,
+  "started_at": 1789808253,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
