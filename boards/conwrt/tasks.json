@@ -1598,12 +1598,12 @@
  {
   "id": "t_9d3d8342",
   "title": "Locate conwrt repo on disk and record git root, branch, HEAD SHA",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789483359,
   "started_at": 1789807490,
-  "completed_at": null,
+  "completed_at": 1789807690,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2370,7 +2370,7 @@
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789497945,
-  "started_at": null,
+  "started_at": 1789807813,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2810,23 +2810,23 @@
  {
   "id": "t_4a1d89d3",
   "title": "Audit PIA CI artifacts for secret leakage",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
   "started_at": 1789807071,
-  "completed_at": null,
+  "completed_at": 1789807792,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_c662e2b6",
   "title": "Audit PIA interface and permission issues",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
-  "started_at": null,
+  "started_at": 1789807813,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
