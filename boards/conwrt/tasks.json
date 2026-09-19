@@ -2726,7 +2726,7 @@
  {
   "id": "t_30f5d789",
   "title": "Inventory normative claims: kill-switch and leak prevention",
-  "status": "ready",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
@@ -2738,12 +2738,12 @@
  {
   "id": "t_fd1733e3",
   "title": "Inventory normative claims: DNS resolution and IPv6 handling",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789806067,
+  "completed_at": 1789806224,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2798,11 +2798,11 @@
  {
   "id": "t_9db1d60c",
   "title": "Audit PIA secret cleanup and lifecycle",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
-  "started_at": null,
+  "started_at": 1789806240,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4334,12 +4334,12 @@
  {
   "id": "t_bdf6b513",
   "title": "Audit runtime cleanup of temp credential files in PR #55",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508587,
   "started_at": 1789805637,
-  "completed_at": null,
+  "completed_at": 1789806160,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4370,11 +4370,11 @@
  {
   "id": "t_91eaff15",
   "title": "Audit CI workflow files for secret leakage",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
-  "started_at": null,
+  "started_at": 1789806171,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
