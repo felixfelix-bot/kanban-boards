@@ -2354,12 +2354,12 @@
  {
   "id": "t_20d8a512",
   "title": "Consolidate DNS/IPv6/leak inventory into final structured report",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789497672,
   "started_at": 1789802636,
-  "completed_at": 1789802946,
+  "completed_at": 1789803914,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4567,6 +4567,18 @@
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
   "started_at": 1789798677,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_160279b6",
+  "title": "Fix recon-tier misclassification: tags in run summary are invisible to gate_engine.board_tags()",
+  "status": "ready",
+  "priority": 3,
+  "assignee": "manager",
+  "created_at": 1789803901,
+  "started_at": null,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
