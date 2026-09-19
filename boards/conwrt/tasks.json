@@ -1790,12 +1790,12 @@
  {
   "id": "t_dd545800",
   "title": "Inventory DNS artifacts in PR #55 diff and PIA OpenVPN module",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487496,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789797350,
+  "completed_at": 1789797526,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1826,11 +1826,11 @@
  {
   "id": "t_a39d4d6e",
   "title": "Synthesize DNS-leak verdict with file:line evidence and fixes",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
-  "started_at": null,
+  "started_at": 1789797535,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3422,12 +3422,12 @@
  {
   "id": "t_0e9f37b1",
   "title": "Enumerate all tunnel lifecycle hooks in PR #55",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505936,
   "started_at": 1789797147,
-  "completed_at": null,
+  "completed_at": 1789797369,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3518,23 +3518,23 @@
  {
   "id": "t_35d4ea0d",
   "title": "Locate PIA OpenVPN module root and entry points",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789797389,
+  "completed_at": 1789797536,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_6e3bd818",
   "title": "Trace PIA OpenVPN config parsing",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
-  "started_at": null,
+  "started_at": 1789797574,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
