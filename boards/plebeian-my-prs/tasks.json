@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_7d49f213",
   "title": "Reconcile PR #1232 outstanding gates into final report (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232 (reviews + triage)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -2966,7 +2966,7 @@
  {
   "id": "t_44279c11",
   "title": "Trace ogMeta saturation/fallback await path on PR #1232 (read-only, Q3-saturation)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -2978,7 +2978,7 @@
  {
   "id": "t_77865e0f",
   "title": "Trace ogMeta caller reachability (unbounded random IDs) on market PR #1232",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357132,
@@ -3002,7 +3002,7 @@
  {
   "id": "t_84c26e3a",
   "title": "Quote Playwright video/trace/reporter config at market ref 2c8b398",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357346,
@@ -3050,7 +3050,7 @@
  {
   "id": "t_5dbf298f",
   "title": "Verify required-check merge gates on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357390,
@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Extract PR #1232 top-level reviews + verbatim digests (read-only artifact)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Recover design-pass triage artifact for PR #1232; report pushbacks vs tension findings (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232 (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_9a87749e",
   "title": "Enumerate required status checks on PlebeianApp/market (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363786,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_b5457016",
   "title": "Resolve and fetch PR #1232 head ref into artifacts/pr1232/head.json (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_9c4bd99c",
   "title": "Grep PR #1232 head for trusted-origin/503/hostile-Host regression test",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_2ac35bf1",
   "title": "Grep PR #1232 head for ownership + 4 nav scenario tests",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789363946,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_a6af6a12",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363946,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_54b679cf",
   "title": "Enumerate og-meta-tags.spec.ts test titles at PR #1232 headRefOid",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3518,7 +3518,7 @@
  {
   "id": "t_6aba8fac",
   "title": "Audit signer lifecycle and first-publish availability in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789364770,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_23639d98",
   "title": "Fetch and normalize PR #1252 diff at head 4737cfb",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_c83bb9da",
   "title": "Analyze relay union semantics: ordering, dedup keys, empty relays",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789366403,
@@ -3710,7 +3710,7 @@
  {
   "id": "t_b04a11f7",
   "title": "Analyze relay failure propagation and silent drop/double-count",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-heavy",
   "created_at": 1789366403,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_870dd583",
   "title": "Extract Cloudflare provisioning requirements for PR #1271",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3806,7 +3806,7 @@
  {
   "id": "t_43642e30",
   "title": "Fetch PR #1252 diff, pin head SHA, inventory changed files",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3818,7 +3818,7 @@
  {
   "id": "t_93a1b518",
   "title": "Review signer construction and API-semantics changes in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_7a51c964",
   "title": "Review key-material and NIP-04/44 crypto paths in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_5437949e",
   "title": "Review type casts and error propagation in PR #1252",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3854,7 +3854,7 @@
  {
   "id": "t_99a7a93c",
   "title": "Synthesize lens-1 findings for PR #1252 and verify acceptance",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_29f0dac2",
   "title": "Audit wildcard DNS record shape for per-PR preview subdomains",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373532,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_f4103860",
   "title": "Enumerate .github/workflows at 2c8b398 and map PR invocation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3962,7 +3962,7 @@
  {
   "id": "t_70c1c12f",
   "title": "Extract every upload-artifact step at 2c8b398 verbatim",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_6f402f80",
   "title": "Resolve PR #1232 head OID, inventory test surfaces, extract CI commands",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_4bf69e81",
   "title": "Audit secret handling in market PR#4 deploy workflows",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789393662,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_7433d93e",
   "title": "Pin ground truth: PR #1306 diff and head SHA c20765e7",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_018476f0",
   "title": "Build dedup baseline from PR #1306 existing comments",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_1611cd86",
   "title": "Fetch verbatim .github/workflows YAML at ref 2c8b3981",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_c268d7f4",
   "title": "Verify e2e og-meta-tags spec exists at ref 2c8b3981",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789398497,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_0d114af5",
   "title": "Fetch PR #1232 head and confirm commit SHA (read-only)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_463d9bfe",
   "title": "Extract fork/branch/SHA inputs and re-verify SHA against fork remote",
-  "status": "ready",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_0b7fa8c5",
   "title": "Gather verbatim PR 1232 diff hunk and Franchovy comment thread",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_6161a44d",
   "title": "Map e2e.yml line 148 base vs head and trace downstream consumers",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_b49b3e18",
   "title": "Split github-code-review SKILL.md (104,849 chars, over the 100k write wall) and add the missing pre-publish-preflight pointer",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
@@ -4790,7 +4790,7 @@
  {
   "id": "t_cc58c77e",
   "title": "Fix PR #1363: Required 1+2 (patches/ packaging + workflow guard) + 3 nits -> contribution PR",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789828657,
@@ -4826,23 +4826,23 @@
  {
   "id": "t_96e31539",
   "title": "Fix PR #1280: body unit counts wrong (1350/94 files vs CI 1463/99) + 2 nits",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831179,
   "started_at": 1789831190,
-  "completed_at": null,
+  "completed_at": 1789831487,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_b946e675",
   "title": "Build plebeian-review-enqueue cron: COMMENT-aware reviewer->fix-card loop + guard path fix",
-  "status": "ready",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831180,
-  "started_at": null,
+  "started_at": 1789831488,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
