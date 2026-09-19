@@ -1502,12 +1502,12 @@
  {
   "id": "t_280dd175",
   "title": "Analyze DNS-leak exposure in PR #55 kill-switch design",
-  "status": "todo",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483283,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789797778,
+  "completed_at": 1789797847,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1826,12 +1826,12 @@
  {
   "id": "t_a39d4d6e",
   "title": "Synthesize DNS-leak verdict with file:line evidence and fixes",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-heavy",
   "created_at": 1789487496,
   "started_at": 1789797535,
-  "completed_at": null,
+  "completed_at": 1789797740,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3535,7 +3535,7 @@
   "assignee": "worker-base",
   "created_at": 1789505993,
   "started_at": 1789797574,
-  "completed_at": null,
+  "completed_at": 1789797751,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4550,11 +4550,11 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,
-  "started_at": null,
+  "started_at": 1789797878,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
