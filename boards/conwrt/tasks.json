@@ -1346,7 +1346,7 @@
  {
   "id": "t_a1c8c7ee",
   "title": "Review credential persistence in PR #55",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -2834,12 +2834,12 @@
  {
   "id": "t_8ff6d202",
   "title": "Enumerate PR #55 doc changes and produce audit scope list",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789501889,
   "started_at": 1789791604,
-  "completed_at": null,
+  "completed_at": 1789792118,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -2946,7 +2946,7 @@
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502030,
-  "started_at": null,
+  "started_at": 1789792140,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
