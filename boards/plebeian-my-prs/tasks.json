@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "running",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
