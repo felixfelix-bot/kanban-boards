@@ -3542,7 +3542,7 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
@@ -4878,6 +4878,18 @@
   "priority": 1,
   "assignee": "selftest-nodispatch",
   "created_at": 1789835326,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_08661b58",
+  "title": "Narrow the PLAIN pre-commit regex scan to added lines (last remaining --no-verify path for doc commits)",
+  "status": "todo",
+  "priority": 0,
+  "assignee": "manager",
+  "created_at": 1789836361,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
