@@ -2726,7 +2726,7 @@
  {
   "id": "t_30f5d789",
   "title": "Inventory normative claims: kill-switch and leak prevention",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501874,
@@ -4214,12 +4214,12 @@
  {
   "id": "t_44f483ba",
   "title": "Sweep leak-prevention normative claims in PR #55 docs",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506648,
   "started_at": 1789805129,
-  "completed_at": null,
+  "completed_at": 1789805351,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
