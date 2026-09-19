@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -3578,11 +3578,11 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
-  "started_at": null,
+  "started_at": 1789838101,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4862,7 +4862,7 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "ready",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
