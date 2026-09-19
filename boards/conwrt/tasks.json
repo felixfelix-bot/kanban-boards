@@ -2798,12 +2798,12 @@
  {
   "id": "t_9db1d60c",
   "title": "Audit PIA secret cleanup and lifecycle",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789501883,
   "started_at": 1789806240,
-  "completed_at": null,
+  "completed_at": 1789806521,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3030,7 +3030,7 @@
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
-  "started_at": null,
+  "started_at": 1789806541,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4370,23 +4370,23 @@
  {
   "id": "t_91eaff15",
   "title": "Audit CI workflow files for secret leakage",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
   "started_at": 1789806171,
-  "completed_at": null,
+  "completed_at": 1789806425,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_8f2c7c5a",
   "title": "Audit artifact upload steps for sensitive content",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789508591,
-  "started_at": null,
+  "started_at": 1789806439,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
