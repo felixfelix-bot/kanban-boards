@@ -7931,10 +7931,18 @@
   "repo": "market"
  },
  "plebeian-my-prs:t_cc58c77e": {
-  "node": "dq05",
+  "node": "cobrador",
   "status": "claimed",
-  "updated": 1789829349.5552385,
-  "ts": 1789829349.5552385
+  "updated": 1789829925.1656709,
+  "ts": 1789829349.5552385,
+  "repo": "market"
+ },
+ "plebeian-my-prs:t_9388d148": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1789829926.6689205,
+  "ts": 1789829926.6689205,
+  "repo": "market"
  },
  "tollgate:t_569854ff": {
   "node": "cobrador",

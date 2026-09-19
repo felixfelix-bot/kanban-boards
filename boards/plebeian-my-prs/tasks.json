@@ -4778,7 +4778,7 @@
  {
   "id": "t_3b8bde7d",
   "title": "Fix PR #1343: close maxime-tt's final 2 items (ADR single-emphasis notes + verification counts)",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789828656,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "running",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
