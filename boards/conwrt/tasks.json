@@ -2258,11 +2258,11 @@
  {
   "id": "t_5c63bca0",
   "title": "Locate PIA OpenVPN module: entry points, config parsing, lifecycle",
-  "status": "todo",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497658,
-  "started_at": null,
+  "started_at": 1789798312,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3542,12 +3542,12 @@
  {
   "id": "t_8b13a026",
   "title": "Map PIA OpenVPN connection lifecycle states",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505993,
   "started_at": 1789798051,
-  "completed_at": null,
+  "completed_at": 1789798276,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3566,12 +3566,12 @@
  {
   "id": "t_fd595134",
   "title": "Inventory iptables/ip6tables/nftables kill-switch rules at ec5c60d9",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789506006,
-  "started_at": null,
-  "completed_at": null,
+  "started_at": 1789798384,
+  "completed_at": 1789798496,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4550,19 +4550,19 @@
  {
   "id": "t_d2a92d26",
   "title": "Trace PIA OpenVPN credentials file lifecycle and reboot persistence",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-inspector",
   "created_at": 1789510713,
   "started_at": 1789797878,
-  "completed_at": null,
+  "completed_at": 1789798363,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_4e2d5971",
   "title": "Synthesize credential sources and lifecycle audit into final report",
-  "status": "todo",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789510713,
