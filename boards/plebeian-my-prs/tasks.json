@@ -4574,7 +4574,7 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
@@ -4910,12 +4910,12 @@
  {
   "id": "t_28253e02",
   "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789842021,
   "started_at": 1789842134,
-  "completed_at": null,
+  "completed_at": 1789842264,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
