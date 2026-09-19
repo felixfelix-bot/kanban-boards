@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -3218,11 +3218,11 @@
  {
   "id": "t_f31d86c0",
   "title": "Review PR #1306: pinned-OpenSSH grep test + preview-deploy docs",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
-  "started_at": null,
+  "started_at": 1789832166,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4826,12 +4826,12 @@
  {
   "id": "t_96e31539",
   "title": "Fix PR #1280: body unit counts wrong (1350/94 files vs CI 1463/99) + 2 nits",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789831179,
   "started_at": 1789831190,
-  "completed_at": 1789831487,
+  "completed_at": 1789832152,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
