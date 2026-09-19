@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
@@ -3590,11 +3590,11 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
-  "started_at": null,
+  "started_at": 1789839597,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3602,11 +3602,11 @@
  {
   "id": "t_90fdb2f8",
   "title": "Audit stale NDK publish call sites in PR #1283",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-ds",
   "created_at": 1789364789,
-  "started_at": null,
+  "started_at": 1789839630,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4862,12 +4862,12 @@
  {
   "id": "t_7d0b976f",
   "title": "Rebase PR #1280 onto current auctions (now DIRTY/conflicts)",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789833138,
   "started_at": 1789833147,
-  "completed_at": null,
+  "completed_at": 1789839626,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
