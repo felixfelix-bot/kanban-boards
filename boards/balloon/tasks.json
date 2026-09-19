@@ -9974,7 +9974,7 @@
  {
   "id": "t_03c26dbb",
   "title": "Operator decision: balloon:t_0d60f462 \u2014 only 2 gates left, both environment-blocked (no funded cross-family lane + fleet-wide live drift)",
-  "status": "running",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789773559,
@@ -9986,7 +9986,7 @@
  {
   "id": "t_aff951fc",
   "title": "CRED residual + live-engine drift: ONE consolidated PR making hermes-orchestration master's tip tree literal-free and landing 0bb4703b (lifts the fleet push freeze)",
-  "status": "ready",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-admin",
   "created_at": 1789775662,
