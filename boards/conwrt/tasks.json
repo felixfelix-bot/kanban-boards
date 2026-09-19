@@ -3158,12 +3158,12 @@
  {
   "id": "t_71d1f914",
   "title": "Audit Docker image layer leakage of PIA OpenVPN secrets",
-  "status": "running",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502359,
   "started_at": 1789796308,
-  "completed_at": null,
+  "completed_at": 1789796475,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -3278,11 +3278,11 @@
  {
   "id": "t_c9f42ce0",
   "title": "Grep tunnel lifecycle patterns in Amperstrand/conwrt @ ec5c60d9",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789505775,
-  "started_at": null,
+  "started_at": 1789796506,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
