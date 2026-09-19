@@ -2990,11 +2990,11 @@
  {
   "id": "t_f1884b5c",
   "title": "Audit hardcoded secrets and credential file instructions",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-base",
   "created_at": 1789502146,
-  "started_at": null,
+  "started_at": 1789794044,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -3038,7 +3038,7 @@
  {
   "id": "t_6bdbfe1b",
   "title": "Assess placeholder quality for credential examples",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789502146,
