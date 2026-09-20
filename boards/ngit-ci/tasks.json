@@ -190,5 +190,41 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_c940d980",
+  "title": "Plans repo: obtain a live signer for npub12m5exm2 (owner of ~/plans)",
+  "status": "blocked",
+  "priority": 40,
+  "assignee": null,
+  "created_at": 1789914864,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_59382943",
+  "title": "C.2 pre-RC blocker: port verify-publication into the ngit lane",
+  "status": "blocked",
+  "priority": 40,
+  "assignee": null,
+  "created_at": 1789914865,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0e472ff5",
+  "title": "Decide the kind-9840 signing-key home (undecided \u21d2 silent no-publish)",
+  "status": "blocked",
+  "priority": 40,
+  "assignee": null,
+  "created_at": 1789914866,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
