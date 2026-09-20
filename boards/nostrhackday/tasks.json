@@ -14,12 +14,12 @@
  {
   "id": "t_7930a533",
   "title": "Register kind 1337 in the NIP kinds registry (draft first)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789629710,
   "started_at": 1789883672,
-  "completed_at": null,
+  "completed_at": 1789883997,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
