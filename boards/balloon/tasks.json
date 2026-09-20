@@ -9722,12 +9722,12 @@
  {
   "id": "t_a1f8e389",
   "title": "PCB-S0b: close netlist audit \u2014 U4.3 EN pull-up (operator decision) + classify 11 MAX-M10S GPS pads from datasheet",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789625453,
   "started_at": 1789681465,
-  "completed_at": 1789777827,
+  "completed_at": 1789888708,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -9794,7 +9794,7 @@
  {
   "id": "t_21ab3b23",
   "title": "PCB-S1b: re-route from the S0b netlist of record (U4.3 EN tie added) and re-gate \u2014 pre-S0b routed boards are dead on arrival",
-  "status": "todo",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789682183,
