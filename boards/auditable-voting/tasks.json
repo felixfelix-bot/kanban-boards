@@ -790,5 +790,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_7fcf2e08",
+  "title": "AV-TEST-RELIABILITY: make the vitest suite deterministic and bounded so the green gate is meaningful",
+  "status": "blocked",
+  "priority": 2,
+  "assignee": "worker-auditable-voting",
+  "created_at": 1789942639,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
