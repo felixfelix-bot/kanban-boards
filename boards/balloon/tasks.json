@@ -9794,11 +9794,11 @@
  {
   "id": "t_21ab3b23",
   "title": "PCB-S1b: re-route from the S0b netlist of record (U4.3 EN tie added) and re-gate \u2014 pre-S0b routed boards are dead on arrival",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-pcb",
   "created_at": 1789682183,
-  "started_at": null,
+  "started_at": 1789892894,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
