@@ -806,7 +806,7 @@
  {
   "id": "t_ec018445",
   "title": "AV-REVIEW-PR25: cold cross-family review at 7c5490ae (C1/C2/C3/C4)",
-  "status": "blocked",
+  "status": "archived",
   "priority": 8,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789976944,
