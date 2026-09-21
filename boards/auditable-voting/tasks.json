@@ -806,11 +806,11 @@
  {
   "id": "t_ec018445",
   "title": "AV-REVIEW-PR25: cold cross-family review at 7c5490ae (C1/C2/C3/C4)",
-  "status": "scheduled",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789976944,
-  "started_at": null,
+  "started_at": 1789999136,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
