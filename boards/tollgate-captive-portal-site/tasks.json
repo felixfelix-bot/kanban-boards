@@ -74,7 +74,7 @@
  {
   "id": "t_77c85d4c",
   "title": "REGRESSION-A: repair the portal browser lane and pin the purchase path",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 3,
   "assignee": "worker-tollgate",
   "created_at": 1790174332,
