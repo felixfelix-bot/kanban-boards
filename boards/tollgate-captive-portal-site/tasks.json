@@ -38,7 +38,7 @@
  {
   "id": "t_2098c3cc",
   "title": "PORTAL-SUITE-OOM: the portal vitest run OOMs Node on this host",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1790163961,
