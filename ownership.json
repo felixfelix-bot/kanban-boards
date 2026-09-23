@@ -8088,6 +8088,20 @@
   "ts": 1789856030.1672087,
   "repo": "market"
  },
+ "tollgate-captive-portal-site:t_89aa8777": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1790177373.6946163,
+  "ts": 1790177373.6946163,
+  "repo": "tollgate-captive-portal-site"
+ },
+ "tollgate-captive-portal-site:t_77c85d4c": {
+  "node": "cobrador",
+  "status": "claimed",
+  "updated": 1790177375.1196787,
+  "ts": 1790177375.1196787,
+  "repo": "tollgate-captive-portal-site"
+ },
  "tollgate:t_569854ff": {
   "node": "cobrador",
   "status": "claimed",
