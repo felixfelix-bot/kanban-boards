@@ -38,7 +38,7 @@
  {
   "id": "t_2098c3cc",
   "title": "PORTAL-SUITE-OOM: the portal vitest run OOMs Node on this host",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1790163961,
@@ -74,7 +74,7 @@
  {
   "id": "t_77c85d4c",
   "title": "REGRESSION-A: repair the portal browser lane and pin the purchase path",
-  "status": "scheduled",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-tollgate",
   "created_at": 1790174332,
