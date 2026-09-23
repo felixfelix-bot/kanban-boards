@@ -34,5 +34,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_2098c3cc",
+  "title": "PORTAL-SUITE-OOM: the portal vitest run OOMs Node on this host",
+  "status": "scheduled",
+  "priority": 1,
+  "assignee": "worker-tollgate",
+  "created_at": 1790163961,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
