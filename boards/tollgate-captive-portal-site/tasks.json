@@ -62,7 +62,7 @@
  {
   "id": "t_89aa8777",
   "title": "PORTAL-E2E: mock-backend stubs a stale cashu.js export so the whole e2e suite dies at module load",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 2,
   "assignee": "worker-tollgate",
   "created_at": 1790172581,
