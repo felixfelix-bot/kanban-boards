@@ -58,5 +58,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_89aa8777",
+  "title": "PORTAL-E2E: mock-backend stubs a stale cashu.js export so the whole e2e suite dies at module load",
+  "status": "scheduled",
+  "priority": 2,
+  "assignee": "worker-tollgate",
+  "created_at": 1790172581,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
