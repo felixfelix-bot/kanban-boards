@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -4478,11 +4478,11 @@
  {
   "id": "t_6161a44d",
   "title": "Map e2e.yml line 148 base vs head and trace downstream consumers",
-  "status": "triage",
+  "status": "running",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
-  "started_at": null,
+  "started_at": 1790286346,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -4586,7 +4586,7 @@
  {
   "id": "t_0a2000c2",
   "title": "Gate 2.5 cold-review: PR #1324 draft review comment (f7610859)",
-  "status": "running",
+  "status": "triage",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789552029,
