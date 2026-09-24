@@ -4742,7 +4742,7 @@
  {
   "id": "t_cc459314",
   "title": "GATE 2.5 cold review (REDO): PR #1335 draft review comment from worker-reviewer-kimi",
-  "status": "triage",
+  "status": "blocked",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789587643,
