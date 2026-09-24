@@ -3074,7 +3074,7 @@
  {
   "id": "t_5363b348",
   "title": "Extract PR #1232 top-level reviews + verbatim digests (read-only artifact)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789357475,
@@ -3086,7 +3086,7 @@
  {
   "id": "t_a83fa41d",
   "title": "Recover design-pass triage artifact for PR #1232; report pushbacks vs tension findings (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789357475,
@@ -3122,7 +3122,7 @@
  {
   "id": "t_68160ca9",
   "title": "Inventory all inline review comments on PlebeianApp/market PR #1232 (read-only)",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-chore-pr1003-review-plan",
   "created_at": 1789357713,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_f31d86c0",
   "title": "Review PR #1306: pinned-OpenSSH grep test + preview-deploy docs",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3254,7 +3254,7 @@
  {
   "id": "t_9a87749e",
   "title": "Enumerate required status checks on PlebeianApp/market (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363786,
@@ -3338,7 +3338,7 @@
  {
   "id": "t_b5457016",
   "title": "Resolve and fetch PR #1232 head ref into artifacts/pr1232/head.json (read-only)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363891,
@@ -3398,7 +3398,7 @@
  {
   "id": "t_9c4bd99c",
   "title": "Grep PR #1232 head for trusted-origin/503/hostile-Host regression test",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3410,7 +3410,7 @@
  {
   "id": "t_2ac35bf1",
   "title": "Grep PR #1232 head for ownership + 4 nav scenario tests",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-fix-shipping-selectors-cart-redes",
   "created_at": 1789363946,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_a6af6a12",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363946,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_54b679cf",
   "title": "Enumerate og-meta-tags.spec.ts test titles at PR #1232 headRefOid",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
