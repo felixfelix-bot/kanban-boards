@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "running",
+  "status": "archived",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -4478,7 +4478,7 @@
  {
   "id": "t_6161a44d",
   "title": "Map e2e.yml line 148 base vs head and trace downstream consumers",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
@@ -4622,7 +4622,7 @@
  {
   "id": "t_b49b3e18",
   "title": "Split github-code-review SKILL.md (104,849 chars, over the 100k write wall) and add the missing pre-publish-preflight pointer",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789564785,
@@ -4802,7 +4802,7 @@
  {
   "id": "t_7027694a",
   "title": "PR #1363 Required 3: rewrite PR body to inventory the carried fixes",
-  "status": "triage",
+  "status": "done",
   "priority": 3,
   "assignee": "worker-plebeian",
   "created_at": 1789828671,
@@ -4910,7 +4910,7 @@
  {
   "id": "t_28253e02",
   "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
-  "status": "triage",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789842021,
