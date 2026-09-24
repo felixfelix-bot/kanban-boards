@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "triage",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_0a2000c2",
   "title": "Gate 2.5 cold-review: PR #1324 draft review comment (f7610859)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789552029,
