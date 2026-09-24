@@ -4934,7 +4934,7 @@
  {
   "id": "t_56e6e852",
   "title": "PR #1363 Required 5: src/index.tsx NIP-46 fallback (#1373)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789850082,
@@ -4946,7 +4946,7 @@
  {
   "id": "t_81cb7a13",
   "title": "fleet_scheduler offload-hold applied to an IN-FLIGHT worker dead-ends the run (complete/block/review all refused; current_run_id NULLed)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789851758,
