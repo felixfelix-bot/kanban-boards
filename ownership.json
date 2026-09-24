@@ -4920,10 +4920,11 @@
   "ts": 1789473847.988756
  },
  "e80-bench:t_a8295c2a": {
-  "node": "dq05",
+  "node": "cobrador",
   "status": "claimed",
-  "updated": 1789473848.001464,
-  "ts": 1789473848.001464
+  "updated": 1790292939.5597434,
+  "ts": 1789473848.001464,
+  "repo": "balloon-e80bench"
  },
  "e80-bench:t_a147117d": {
   "node": "dq05",
@@ -7601,30 +7602,6 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "plebeian-my-prs:t_56e6e852": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790287033.3646564,
-  "ts": 1789851334.0154712,
-  "repo": "market",
-  "run_id": "cobrador-1790286900"
- },
- "plebeian-my-prs:t_81cb7a13": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790287034.8543322,
-  "ts": 1789852926.2160158,
-  "repo": "market",
-  "run_id": "cobrador-1790286902"
- },
- "plebeian-my-prs:t_288bf3a1": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790287169.9674046,
-  "ts": 1789856030.1672087,
-  "repo": "market",
-  "run_id": "cobrador-1790287042"
  },
  "tollgate-captive-portal-site:t_89aa8777": {
   "node": "cobrador",
