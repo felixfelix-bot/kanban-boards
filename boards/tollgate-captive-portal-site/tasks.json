@@ -26,11 +26,11 @@
  {
   "id": "t_4a9b331c",
   "title": "Review PR #58: fix(portal): keep a space between the \"access purchased\" label and its",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790156815,
-  "started_at": null,
+  "started_at": 1790232488,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -74,11 +74,11 @@
  {
   "id": "t_77c85d4c",
   "title": "REGRESSION-A: repair the portal browser lane and pin the purchase path",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "worker-tollgate",
   "created_at": 1790174332,
-  "started_at": null,
+  "started_at": 1790232488,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
