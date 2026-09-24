@@ -2677,8 +2677,8 @@
  },
  "plebeian-my-prs:t_3bfade23": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790282787.9757712,
+  "status": "failed",
+  "updated": 1790282919.080165,
   "ts": 1789374179.256017,
   "repo": "market",
   "run_id": "cobrador-1790282787"
@@ -3285,17 +3285,19 @@
  },
  "plebeian-my-prs:t_c83bb9da": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789831590.7874832,
+  "status": "running",
+  "updated": 1790283069.156388,
   "ts": 1789396420.0142531,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790283069"
  },
  "plebeian-my-prs:t_b04a11f7": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1789831589.282248,
+  "status": "failed",
+  "updated": 1790283058.2987761,
   "ts": 1789396420.0207865,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790282928"
  },
  "plebeian-my-prs:t_4bf69e81": {
   "node": "cobrador",
