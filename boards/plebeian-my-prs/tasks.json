@@ -3926,7 +3926,7 @@
  {
   "id": "t_48539185",
   "title": "Audit reverse-proxy host matching, dispatch, and edge cases",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789373532,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_f4103860",
   "title": "Enumerate .github/workflows at 2c8b398 and map PR invocation",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
@@ -3986,7 +3986,7 @@
  {
   "id": "t_6f402f80",
   "title": "Resolve PR #1232 head OID, inventory test surfaces, extract CI commands",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_4bf69e81",
   "title": "Audit secret handling in market PR#4 deploy workflows",
-  "status": "blocked",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789393662,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_7433d93e",
   "title": "Pin ground truth: PR #1306 diff and head SHA c20765e7",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4298,7 +4298,7 @@
  {
   "id": "t_018476f0",
   "title": "Build dedup baseline from PR #1306 existing comments",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
@@ -4322,7 +4322,7 @@
  {
   "id": "t_1611cd86",
   "title": "Fetch verbatim .github/workflows YAML at ref 2c8b3981",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398497,
@@ -4334,7 +4334,7 @@
  {
   "id": "t_c268d7f4",
   "title": "Verify e2e og-meta-tags spec exists at ref 2c8b3981",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789398497,
@@ -4370,7 +4370,7 @@
  {
   "id": "t_0d114af5",
   "title": "Fetch PR #1232 head and confirm commit SHA (read-only)",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789398545,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_463d9bfe",
   "title": "Extract fork/branch/SHA inputs and re-verify SHA against fork remote",
-  "status": "blocked",
+  "status": "triage",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_0b7fa8c5",
   "title": "Gather verbatim PR 1232 diff hunk and Franchovy comment thread",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "blocked",
+  "status": "triage",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
