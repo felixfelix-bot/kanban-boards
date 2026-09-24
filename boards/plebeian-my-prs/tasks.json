@@ -3818,7 +3818,7 @@
  {
   "id": "t_93a1b518",
   "title": "Review signer construction and API-semantics changes in PR #1252",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_7a51c964",
   "title": "Review key-material and NIP-04/44 crypto paths in PR #1252",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
