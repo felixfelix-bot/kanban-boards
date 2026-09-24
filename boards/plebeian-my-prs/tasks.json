@@ -3842,7 +3842,7 @@
  {
   "id": "t_5437949e",
   "title": "Review type casts and error propagation in PR #1252",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_29f0dac2",
   "title": "Audit wildcard DNS record shape for per-PR preview subdomains",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373532,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
