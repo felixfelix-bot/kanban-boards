@@ -3854,7 +3854,7 @@
  {
   "id": "t_99a7a93c",
   "title": "Synthesize lens-1 findings for PR #1252 and verify acceptance",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
