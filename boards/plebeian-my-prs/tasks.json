@@ -3542,7 +3542,7 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
