@@ -4430,7 +4430,7 @@
  {
   "id": "t_463d9bfe",
   "title": "Extract fork/branch/SHA inputs and re-verify SHA against fork remote",
-  "status": "triage",
+  "status": "blocked",
   "priority": 8,
   "assignee": "market-master",
   "created_at": 1789400502,
@@ -4466,7 +4466,7 @@
  {
   "id": "t_0b7fa8c5",
   "title": "Gather verbatim PR 1232 diff hunk and Franchovy comment thread",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789400712,
@@ -4766,7 +4766,7 @@
  {
   "id": "t_78fa7b4b",
   "title": "Fix PR #1280: feat(auctions): bid-time collateral verification via NUT-12 DLEQ (ADR-0011) (CHANGES_REQUESTED)",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1789648505,
@@ -4814,7 +4814,7 @@
  {
   "id": "t_9388d148",
   "title": "Fleet cred-gate TREE_SCAN blocks pushes to PlebeianApp/market branches carrying pre-existing retired hexpriv literals (found on PR #1343)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789829528,
