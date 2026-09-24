@@ -50,12 +50,12 @@
  {
   "id": "t_70658414",
   "title": "Review PR #60: fix(portal): renew an expired session in page \u2014 no reload dead end, no",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790171210,
   "started_at": 1790234537,
-  "completed_at": null,
+  "completed_at": 1790237325,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -86,11 +86,11 @@
  {
   "id": "t_5c9e9131",
   "title": "Review PR #62: fix(admin,rpcd,packaging): an empty root password is root administrati",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790231831,
-  "started_at": null,
+  "started_at": 1790237349,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
