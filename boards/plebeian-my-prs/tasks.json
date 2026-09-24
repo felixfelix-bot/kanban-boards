@@ -2534,7 +2534,7 @@
  {
   "id": "t_ffb01215",
   "title": "Assemble PR #1232 reply dossier: Top-level reviews + Triage",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348697,
@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -4574,7 +4574,7 @@
  {
   "id": "t_7d768012",
   "title": "Cross-family review: PR #1323 draft review comment",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789551422,
@@ -4586,7 +4586,7 @@
  {
   "id": "t_0a2000c2",
   "title": "Gate 2.5 cold-review: PR #1324 draft review comment (f7610859)",
-  "status": "blocked",
+  "status": "running",
   "priority": 10,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789552029,
