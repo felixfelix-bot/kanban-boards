@@ -26,23 +26,23 @@
  {
   "id": "t_4a9b331c",
   "title": "Review PR #58: fix(portal): keep a space between the \"access purchased\" label and its",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790156815,
   "started_at": 1790232488,
-  "completed_at": null,
+  "completed_at": 1790234417,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
  {
   "id": "t_2098c3cc",
   "title": "PORTAL-SUITE-OOM: the portal vitest run OOMs Node on this host",
-  "status": "ready",
+  "status": "triage",
   "priority": 1,
   "assignee": "worker-tollgate",
   "created_at": 1790163961,
-  "started_at": null,
+  "started_at": 1790234569,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -50,11 +50,11 @@
  {
   "id": "t_70658414",
   "title": "Review PR #60: fix(portal): renew an expired session in page \u2014 no reload dead end, no",
-  "status": "ready",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790171210,
-  "started_at": null,
+  "started_at": 1790234537,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -62,11 +62,11 @@
  {
   "id": "t_89aa8777",
   "title": "PORTAL-E2E: mock-backend stubs a stale cashu.js export so the whole e2e suite dies at module load",
-  "status": "ready",
+  "status": "triage",
   "priority": 2,
   "assignee": "worker-tollgate",
   "created_at": 1790172581,
-  "started_at": null,
+  "started_at": 1790234537,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
