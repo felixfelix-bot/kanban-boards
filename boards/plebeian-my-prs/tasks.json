@@ -3806,7 +3806,7 @@
  {
   "id": "t_43642e30",
   "title": "Fetch PR #1252 diff, pin head SHA, inventory changed files",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
