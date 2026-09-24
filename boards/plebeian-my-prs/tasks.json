@@ -3986,7 +3986,7 @@
  {
   "id": "t_6f402f80",
   "title": "Resolve PR #1232 head OID, inventory test surfaces, extract CI commands",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789373874,
@@ -4070,7 +4070,7 @@
  {
   "id": "t_4bf69e81",
   "title": "Audit secret handling in market PR#4 deploy workflows",
-  "status": "triage",
+  "status": "blocked",
   "priority": 8,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789393662,
@@ -4286,7 +4286,7 @@
  {
   "id": "t_7433d93e",
   "title": "Pin ground truth: PR #1306 diff and head SHA c20765e7",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789398416,
