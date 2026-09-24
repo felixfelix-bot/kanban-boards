@@ -3626,7 +3626,7 @@
  {
   "id": "t_23639d98",
   "title": "Fetch and normalize PR #1252 diff at head 4737cfb",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_c83bb9da",
   "title": "Analyze relay union semantics: ordering, dedup keys, empty relays",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789366403,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_870dd583",
   "title": "Extract Cloudflare provisioning requirements for PR #1271",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
