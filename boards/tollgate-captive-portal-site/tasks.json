@@ -98,11 +98,11 @@
  {
   "id": "t_4a697bda",
   "title": "PORTAL: make the remaining counter the customer's own verification surface (copy + hint)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-tollgate",
   "created_at": 1790272285,
-  "started_at": null,
+  "started_at": 1790277311,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
