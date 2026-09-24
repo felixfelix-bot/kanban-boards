@@ -5508,10 +5508,11 @@
   "ts": 1789482631.305115
  },
  "e80-bench:t_e7040da8": {
-  "node": "dq05",
+  "node": "cobrador",
   "status": "claimed",
-  "updated": 1789482631.3281755,
-  "ts": 1789482631.3281755
+  "updated": 1790292282.808855,
+  "ts": 1789482631.3281755,
+  "repo": "balloon-e80bench"
  },
  "meshcore:t_d4f21d6a": {
   "node": "dq05",
