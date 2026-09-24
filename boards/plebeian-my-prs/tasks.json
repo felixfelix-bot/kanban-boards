@@ -1850,7 +1850,7 @@
  {
   "id": "t_073cc318",
   "title": "Adjudicate PR #1271 readiness predicate and commit decision note",
-  "status": "todo",
+  "status": "triage",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341394,
@@ -3422,7 +3422,7 @@
  {
   "id": "t_a6af6a12",
   "title": "Grep PR #1232 head for currency-selector-in-matrix test",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789363946,
@@ -3434,7 +3434,7 @@
  {
   "id": "t_54b679cf",
   "title": "Enumerate og-meta-tags.spec.ts test titles at PR #1232 headRefOid",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-ci-e2e-grep-input",
   "created_at": 1789363946,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_48777221",
   "title": "Audit signer-fed pool/relay wiring and sign-failure error propagation",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364770,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
@@ -3626,7 +3626,7 @@
  {
   "id": "t_23639d98",
   "title": "Fetch and normalize PR #1252 diff at head 4737cfb",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-feat-applesauce-wave-a",
   "created_at": 1789366385,
@@ -3698,7 +3698,7 @@
  {
   "id": "t_c83bb9da",
   "title": "Analyze relay union semantics: ordering, dedup keys, empty relays",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789366403,
@@ -3770,7 +3770,7 @@
  {
   "id": "t_3bfade23",
   "title": "Extract PR #1271 readiness predicate evidence (workflow line 126)",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
@@ -3782,7 +3782,7 @@
  {
   "id": "t_870dd583",
   "title": "Extract Cloudflare provisioning requirements for PR #1271",
-  "status": "done",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373189,
