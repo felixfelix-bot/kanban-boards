@@ -3818,7 +3818,7 @@
  {
   "id": "t_93a1b518",
   "title": "Review signer construction and API-semantics changes in PR #1252",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3830,7 +3830,7 @@
  {
   "id": "t_7a51c964",
   "title": "Review key-material and NIP-04/44 crypto paths in PR #1252",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3842,7 +3842,7 @@
  {
   "id": "t_5437949e",
   "title": "Review type casts and error propagation in PR #1252",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789373215,
@@ -3902,7 +3902,7 @@
  {
   "id": "t_29f0dac2",
   "title": "Audit wildcard DNS record shape for per-PR preview subdomains",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789373532,
@@ -3914,7 +3914,7 @@
  {
   "id": "t_23aca82b",
   "title": "Audit TLS/ACME certificate issuance for preview subdomains",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789373532,
@@ -3926,7 +3926,7 @@
  {
   "id": "t_48539185",
   "title": "Audit reverse-proxy host matching, dispatch, and edge cases",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789373532,
@@ -3950,7 +3950,7 @@
  {
   "id": "t_f4103860",
   "title": "Enumerate .github/workflows at 2c8b398 and map PR invocation",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789373708,
