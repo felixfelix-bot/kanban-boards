@@ -2558,7 +2558,7 @@
  {
   "id": "t_7d05200b",
   "title": "Review #1306 guard: comment/multiline token catch + false positives",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789351301,
@@ -2570,7 +2570,7 @@
  {
   "id": "t_2ed2bb22",
   "title": "Review #1306 docs parity: preview-deploy.md vs test claim",
-  "status": "triage",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789351301,
@@ -2762,7 +2762,7 @@
  {
   "id": "t_7d49f213",
   "title": "Reconcile PR #1232 outstanding gates into final report (read-only)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789355618,
@@ -2954,7 +2954,7 @@
  {
   "id": "t_f86b59f1",
   "title": "Emit final read-only dossier for PR #1232 (reviews + triage)",
-  "status": "triage",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789356246,
@@ -3218,7 +3218,7 @@
  {
   "id": "t_f31d86c0",
   "title": "Review PR #1306: pinned-OpenSSH grep test + preview-deploy docs",
-  "status": "running",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789363667,
@@ -3530,7 +3530,7 @@
  {
   "id": "t_48777221",
   "title": "Audit signer-fed pool/relay wiring and sign-failure error propagation",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364770,
@@ -3542,7 +3542,7 @@
  {
   "id": "t_a8ffe2fd",
   "title": "Audit type boundaries and stale NDK imports in PR #1283 signer seam",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364770,
@@ -3566,7 +3566,7 @@
  {
   "id": "t_8f4b9897",
   "title": "Audit publish lane selection + relay-set logic in PR #1283",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789364789,
@@ -3578,7 +3578,7 @@
  {
   "id": "t_424af91e",
   "title": "Audit duplicate-publish paths in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789364789,
@@ -3590,7 +3590,7 @@
  {
   "id": "t_ac51d75b",
   "title": "Audit error/retry handling on publish paths in PR #1283",
-  "status": "ready",
+  "status": "triage",
   "priority": 0,
   "assignee": "worker-reviewer-qwen",
   "created_at": 1789364789,
