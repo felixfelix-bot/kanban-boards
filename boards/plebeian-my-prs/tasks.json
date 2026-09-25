@@ -4982,11 +4982,11 @@
  {
   "id": "t_ed9ef8ec",
   "title": "Post-merge residual (#1280): server validator deriveBidLegAmount still credits cross-bidder prev_bid (client hardened in 2386aed3)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790373967,
-  "started_at": null,
+  "started_at": 1790374218,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
