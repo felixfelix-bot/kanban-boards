@@ -50,7 +50,7 @@
  {
   "id": "t_0cffa049",
   "title": "HW-VERIFY conwrt#32: CF-WR632AX wizard recipes on live hardware (OpenWrt 25.12.4) \u2014 net4sats + tollgate",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789183700,
@@ -1226,7 +1226,7 @@
  {
   "id": "t_0bba6bf4",
   "title": "Extract D-ID set from Discrepancies section of defects-d1-d5.md",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477046,
@@ -1394,7 +1394,7 @@
  {
   "id": "t_14cf06ab",
   "title": "Sweep PR #55 diff for secret patterns and inventory secret touchpoints",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
