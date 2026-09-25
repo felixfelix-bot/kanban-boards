@@ -7417,10 +7417,18 @@
  },
  "e80-bench:t_314e73d6": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790312026.9665549,
+  "status": "failed",
+  "updated": 1790312151.3563795,
   "ts": 1790312026.9665549,
   "repo": "balloon-e80bench",
   "run_id": "cobrador-1790312026"
+ },
+ "e80-bench:t_a97268f5": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1790312283.488629,
+  "ts": 1790312158.9767296,
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790312158"
  }
 }
