@@ -206,7 +206,7 @@
  {
   "id": "t_8f991291",
   "title": "Merge flow notes into checklist.md and verify provenance verdicts",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789343688,
@@ -338,7 +338,7 @@
  {
   "id": "t_bda1cec1",
   "title": "Draft net4sats LAN-move evidence subsection",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789356091,
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9f853058",
   "title": "Reconcile doc claims vs code and produce the gap table",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789487516,

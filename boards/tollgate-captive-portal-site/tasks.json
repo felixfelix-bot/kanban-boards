@@ -110,7 +110,7 @@
  {
   "id": "t_f00e2f33",
   "title": "Review PR #31: feat: TollGate admin SPA \u2014 Login, Dashboard, Settings, Wallet, Wifi, D",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790303625,
