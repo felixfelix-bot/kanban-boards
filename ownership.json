@@ -6456,10 +6456,11 @@
  },
  "meshcore:t_5296975e": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790340400.233411,
+  "status": "running",
+  "updated": 1790341602.9994416,
   "ts": 1789506396.711401,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790341602"
  },
  "balloon:t_1d90863e": {
   "node": "dq05",
