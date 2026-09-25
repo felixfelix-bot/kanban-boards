@@ -4058,14 +4058,6 @@
   "updated": 1789468385.323037,
   "ts": 1789468385.323037
  },
- "meshcore:t_f338fd32": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790347805.5959854,
-  "ts": 1789468385.3309655,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790347135"
- },
  "meshcore:t_080d29d8": {
   "node": "dq05",
   "status": "claimed",
