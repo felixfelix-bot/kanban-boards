@@ -7071,14 +7071,6 @@
   "repo": "meshcore-fork-fix",
   "run_id": "cobrador-1790356020"
  },
- "meshcore:t_70df2401": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790356279.1370256,
-  "ts": 1790356152.8535347,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790356152"
- },
  "meshcore:t_f5f3fe8a": {
   "node": "cobrador",
   "status": "done",
