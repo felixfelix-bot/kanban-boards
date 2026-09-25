@@ -3992,14 +3992,6 @@
   "updated": 1789446504.0951536,
   "ts": 1789446504.0951536
  },
- "e80-bench:t_63dc5024": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790304925.9882061,
-  "ts": 1789446504.1363323,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790304798"
- },
  "balloon:t_3be12518": {
   "node": "dq05",
   "status": "claimed",
@@ -4780,14 +4772,6 @@
   "updated": 1789473847.988756,
   "ts": 1789473847.988756
  },
- "e80-bench:t_a8295c2a": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790305064.8434603,
-  "ts": 1789473848.001464,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790304936"
- },
  "e80-bench:t_a147117d": {
   "node": "dq05",
   "status": "claimed",
@@ -4949,14 +4933,6 @@
   "status": "claimed",
   "updated": 1789477465.1927078,
   "ts": 1789477465.1927078
- },
- "e80-bench:t_314e73d6": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790305066.3525608,
-  "ts": 1789479609.6383748,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790304938"
  },
  "e80-bench:t_a97268f5": {
   "node": "cobrador",
@@ -5379,14 +5355,6 @@
   "status": "claimed",
   "updated": 1789482631.305115,
   "ts": 1789482631.305115
- },
- "e80-bench:t_e7040da8": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790304927.8305333,
-  "ts": 1789482631.3281755,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790304800"
  },
  "meshcore:t_d4f21d6a": {
   "node": "dq05",
