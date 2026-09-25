@@ -7417,16 +7417,16 @@
  },
  "tollgate:t_9f4eaa7a": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790316254.3567007,
+  "status": "failed",
+  "updated": 1790316381.4829674,
   "ts": 1790316254.3567007,
   "repo": "tollgate",
   "run_id": "cobrador-1790316254"
  },
  "tollgate:t_9d30947b": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790316255.7778986,
+  "status": "failed",
+  "updated": 1790316382.965784,
   "ts": 1790316255.7778986,
   "repo": "tollgate",
   "run_id": "cobrador-1790316255"
