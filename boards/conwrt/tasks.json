@@ -1106,7 +1106,7 @@
  {
   "id": "t_fc60d94e",
   "title": "Pin conwrt repo root+branch and extract canonical D3-D5 definitions",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789474730,
@@ -1418,7 +1418,7 @@
  {
   "id": "t_cfdaf6f5",
   "title": "Audit repo-side proposal doc secret handling in PR #55",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
