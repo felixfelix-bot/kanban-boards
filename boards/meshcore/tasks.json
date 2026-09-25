@@ -5222,7 +5222,7 @@
  {
   "id": "t_f5f3fe8a",
   "title": "Capture photos and caliper data for every DUT RF port",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789394399,
@@ -5774,7 +5774,7 @@
  {
   "id": "t_40b31055",
   "title": "Sweep roots and raw shadow-card/gate/board hits on master",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789467216,
