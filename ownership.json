@@ -1106,14 +1106,6 @@
   "updated": 1789355050.2747219,
   "ts": 1789355050.2747219
  },
- "meshcore:t_7c2b677e": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790345878.9967325,
-  "ts": 1789355050.2786982,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790345750"
- },
  "meshcore:t_cf3b6c77": {
   "node": "dq05",
   "status": "claimed",
@@ -1515,14 +1507,6 @@
   "status": "claimed",
   "updated": 1789356772.0230305,
   "ts": 1789356772.0230305
- },
- "meshcore:t_6ece027b": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790346019.3485985,
-  "ts": 1789357409.9823074,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790345890"
  },
  "meshcore:t_e3bb0dba": {
   "node": "dq05",
@@ -3335,14 +3319,6 @@
   "status": "claimed",
   "updated": 1789406542.8660216,
   "ts": 1789406542.8660216
- },
- "meshcore:t_1f938710": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790345877.4440598,
-  "ts": 1789406542.8775353,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790344094"
  },
  "meshcore:t_0db28574": {
   "node": "dq05",
@@ -5691,14 +5667,6 @@
   "status": "claimed",
   "updated": 1789494857.8769534,
   "ts": 1789494857.8769534
- },
- "meshcore:t_7c8cde00": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790346017.6437898,
-  "ts": 1789494857.886348,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790345888"
  },
  "e80-bench:t_bf3e2f32": {
   "node": "dq05",
