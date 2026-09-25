@@ -1850,7 +1850,7 @@
  {
   "id": "t_77f5b39d",
   "title": "Reconcile the three recon reports into an evidence + conflict matrix",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352050,
@@ -2066,7 +2066,7 @@
  {
   "id": "t_7676d001",
   "title": "Locate, verify and index the three parent recon reports (P1/P2/P3)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358768,
