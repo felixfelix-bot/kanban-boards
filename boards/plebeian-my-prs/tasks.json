@@ -1850,7 +1850,7 @@
  {
   "id": "t_073cc318",
   "title": "Adjudicate PR #1271 readiness predicate and commit decision note",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341394,
@@ -4970,7 +4970,7 @@
  {
   "id": "t_ff827cc0",
   "title": "PR #1280 reviewer [RISK]: cross-author prev_bid must not shrink legLockedAmount (5-line fix in computeLegLockedAmounts)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790287155,
