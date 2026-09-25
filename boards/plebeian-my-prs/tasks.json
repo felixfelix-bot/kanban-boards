@@ -4910,12 +4910,12 @@
  {
   "id": "t_28253e02",
   "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
-  "status": "running",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789842021,
   "started_at": 1789842134,
-  "completed_at": 1790287265,
+  "completed_at": 1790374004,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -4974,6 +4974,18 @@
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790287155,
+  "started_at": 1790374017,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_ed9ef8ec",
+  "title": "Post-merge residual (#1280): server validator deriveBidLegAmount still credits cross-bidder prev_bid (client hardened in 2386aed3)",
+  "status": "ready",
+  "priority": 0,
+  "assignee": "worker-plebeian",
+  "created_at": 1790373967,
   "started_at": null,
   "completed_at": null,
   "branch_name": null,
