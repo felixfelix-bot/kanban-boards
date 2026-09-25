@@ -4910,7 +4910,7 @@
  {
   "id": "t_28253e02",
   "title": "Fix PR #1280 round 5: refresh description for cd419cca + R1b + fresh video link",
-  "status": "ready",
+  "status": "running",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1789842021,
