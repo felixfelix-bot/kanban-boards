@@ -4970,12 +4970,12 @@
  {
   "id": "t_ff827cc0",
   "title": "PR #1280 reviewer [RISK]: cross-author prev_bid must not shrink legLockedAmount (5-line fix in computeLegLockedAmounts)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790287155,
   "started_at": 1790374017,
-  "completed_at": null,
+  "completed_at": 1790377128,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
