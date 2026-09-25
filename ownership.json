@@ -7062,5 +7062,19 @@
   "ts": 1790354214.6621463,
   "repo": "meshcore-fork-fix",
   "run_id": "cobrador-1790354214"
+ },
+ "tollgate-captive-portal-site:t_aa7d5828": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1790355891.3343375,
+  "ts": 1790355891.3343375
+ },
+ "meshcore:t_89c25664": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790356020.8486714,
+  "ts": 1790356020.8486714,
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790356020"
  }
 }
