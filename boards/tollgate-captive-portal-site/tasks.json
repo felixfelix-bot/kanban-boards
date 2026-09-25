@@ -50,7 +50,7 @@
  {
   "id": "t_70658414",
   "title": "Review PR #60: fix(portal): renew an expired session in page \u2014 no reload dead end, no",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790171210,
