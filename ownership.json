@@ -7390,21 +7390,5 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "tollgate:t_9f4eaa7a": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790316381.4829674,
-  "ts": 1790316254.3567007,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790316254"
- },
- "tollgate:t_9d30947b": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790316382.965784,
-  "ts": 1790316255.7778986,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790316255"
  }
 }
