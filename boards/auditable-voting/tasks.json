@@ -362,7 +362,7 @@
  {
   "id": "t_baf62c02",
   "title": "P3-T2: Release preparation (no tag - Felix tags)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 14,
   "assignee": "worker-auditable-voting",
   "created_at": 1787162154,
