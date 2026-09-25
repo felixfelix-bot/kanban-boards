@@ -4970,7 +4970,7 @@
  {
   "id": "t_ff827cc0",
   "title": "PR #1280 reviewer [RISK]: cross-author prev_bid must not shrink legLockedAmount (5-line fix in computeLegLockedAmounts)",
-  "status": "ready",
+  "status": "running",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790287155,
@@ -4982,12 +4982,12 @@
  {
   "id": "t_ed9ef8ec",
   "title": "Post-merge residual (#1280): server validator deriveBidLegAmount still credits cross-bidder prev_bid (client hardened in 2386aed3)",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790373967,
   "started_at": 1790374218,
-  "completed_at": null,
+  "completed_at": 1790376527,
   "branch_name": null,
   "workspace_kind": "scratch"
  }
