@@ -1394,11 +1394,11 @@
  {
   "id": "t_14cf06ab",
   "title": "Sweep PR #55 diff for secret patterns and inventory secret touchpoints",
-  "status": "ready",
+  "status": "running",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
-  "started_at": null,
+  "started_at": 1790310811,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
