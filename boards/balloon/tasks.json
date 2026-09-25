@@ -386,7 +386,7 @@
  {
   "id": "t_ccc7cafd",
   "title": "T3: Run TX+RX speed test, report throughput results",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222935,
@@ -2426,7 +2426,7 @@
  {
   "id": "t_c30be532",
   "title": "Locate P1/P2/P3 recon reports in kanban store and record retrieval paths",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789366959,
