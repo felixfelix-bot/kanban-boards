@@ -5138,7 +5138,7 @@
  {
   "id": "t_89c25664",
   "title": "Harvest off-board pointers from anchored-walk row summaries (read-only)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392516,
@@ -5150,7 +5150,7 @@
  {
   "id": "t_70df2401",
   "title": "Harvest off-board pointers from keyword-sweep task summary (read-only)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789392516,
