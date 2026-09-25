@@ -2282,7 +2282,7 @@
  {
   "id": "t_7c8cde00",
   "title": "Classify ramps and write inventory.json + inventory.md",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-data",
   "created_at": 1789361766,
