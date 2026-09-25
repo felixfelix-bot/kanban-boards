@@ -26,7 +26,7 @@
  {
   "id": "t_4a9b331c",
   "title": "Review PR #58: fix(portal): keep a space between the \"access purchased\" label and its",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790156815,
@@ -50,7 +50,7 @@
  {
   "id": "t_70658414",
   "title": "Review PR #60: fix(portal): renew an expired session in page \u2014 no reload dead end, no",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790171210,
