@@ -578,7 +578,7 @@
  {
   "id": "t_999528b6",
   "title": "P6: Create tollgate_payment_proto.h + implement tollgate_send_pay CLI command",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1785914921,
