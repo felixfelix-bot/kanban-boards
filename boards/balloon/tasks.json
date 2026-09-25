@@ -1394,7 +1394,7 @@
  {
   "id": "t_8921818e",
   "title": "Create tollgate_payment_proto.h with TDD encode/decode tests",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789332922,
