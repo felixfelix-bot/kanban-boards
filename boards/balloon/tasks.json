@@ -470,7 +470,7 @@
  {
   "id": "t_62d1d3cf",
   "title": "P1.1: Investigate + implement SetAutoRxTx for FLRC mode",
-  "status": "todo",
+  "status": "blocked",
   "priority": 20,
   "assignee": "worker-balloon",
   "created_at": 1785312208,
@@ -2222,7 +2222,7 @@
  {
   "id": "t_62c396a3",
   "title": "Author TOLLGATE_PROTO_API.md wire-format contract (firmware dir only)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789360704,
