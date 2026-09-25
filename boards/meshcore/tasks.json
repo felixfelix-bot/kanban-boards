@@ -5762,11 +5762,11 @@
  {
   "id": "t_f338fd32",
   "title": "Recon shadow-card/human-gate mentions in tollgate-infrastructure-kit",
-  "status": "blocked",
+  "status": "triage",
   "priority": 0,
   "assignee": "tollgate-infrastructure-kit-main",
   "created_at": 1789467083,
-  "started_at": null,
+  "started_at": 1790349222,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
