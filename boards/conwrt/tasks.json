@@ -1058,7 +1058,7 @@
  {
   "id": "t_3f50216e",
   "title": "Merge audit findings into final report",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789471649,
@@ -1334,7 +1334,7 @@
  {
   "id": "t_2d78fd12",
   "title": "Review secret handling in PR #55",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1358,7 +1358,7 @@
  {
   "id": "t_4149002c",
   "title": "Review kill-switch and leak behavior in PR #55",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789479617,
@@ -1898,7 +1898,7 @@
  {
   "id": "t_39a9c08d",
   "title": "Checkout PR #55 @ ec5c60d9 and export diff artifacts",
-  "status": "triage",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497129,
@@ -2030,7 +2030,7 @@
  {
   "id": "t_26c57ef6",
   "title": "Cross-check documented secret flows against PIA OpenVPN code",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497165,
