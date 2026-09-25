@@ -7103,22 +7103,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "meshcore:t_0839e236": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790346707.5627983,
-  "ts": 1790342175.3939042,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790346580"
- },
- "meshcore:t_dcabf917": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790346709.1421673,
-  "ts": 1790342176.883707,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790346581"
- },
  "meshcore:t_e72081da": {
   "node": "cobrador",
   "status": "failed",
