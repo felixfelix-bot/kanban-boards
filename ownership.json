@@ -7430,5 +7430,21 @@
   "ts": 1790312158.9767296,
   "repo": "balloon-e80bench",
   "run_id": "cobrador-1790312158"
+ },
+ "e80-bench:t_da6a66df": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1790313182.5597627,
+  "ts": 1790313058.0512557,
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790313058"
+ },
+ "e80-bench:t_c2f7257f": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790313316.3037715,
+  "ts": 1790313316.3037715,
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790313316"
  }
 }
