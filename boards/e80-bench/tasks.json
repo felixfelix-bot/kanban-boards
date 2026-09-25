@@ -4154,7 +4154,7 @@
  {
   "id": "t_da6a66df",
   "title": "Sweep source for RNG import paths and API call sites",
-  "status": "triage",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-heavy",
   "created_at": 1789478821,
@@ -4418,7 +4418,7 @@
  {
   "id": "t_690af3b4",
   "title": "Scan CI workflows and config for env var definitions",
-  "status": "triage",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
@@ -4430,7 +4430,7 @@
  {
   "id": "t_c2f7257f",
   "title": "Scan README and docs for env var setup instructions",
-  "status": "triage",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1789479135,
