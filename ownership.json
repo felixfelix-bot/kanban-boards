@@ -7064,10 +7064,11 @@
   "run_id": "cobrador-1790354214"
  },
  "tollgate-captive-portal-site:t_aa7d5828": {
-  "node": "dq05",
+  "node": "cobrador",
   "status": "claimed",
-  "updated": 1790355891.3343375,
-  "ts": 1790355891.3343375
+  "updated": 1790357353.0244079,
+  "ts": 1790355891.3343375,
+  "repo": "tollgate-captive-portal-site"
  },
  "meshcore:t_89c25664": {
   "node": "cobrador",
@@ -7103,8 +7104,8 @@
  },
  "meshcore:t_0417926c": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790357218.2676754,
+  "status": "failed",
+  "updated": 1790357343.87392,
   "ts": 1790357218.2676754,
   "repo": "meshcore-fork-fix",
   "run_id": "cobrador-1790357218"
