@@ -7391,30 +7391,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "e80-bench:t_da6a66df": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790313182.5597627,
-  "ts": 1790313058.0512557,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790313058"
- },
- "e80-bench:t_c2f7257f": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790313440.7565775,
-  "ts": 1790313316.3037715,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790313316"
- },
- "e80-bench:t_690af3b4": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790313573.3077772,
-  "ts": 1790313448.4581318,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790313448"
- },
  "tollgate:t_9f4eaa7a": {
   "node": "cobrador",
   "status": "failed",
