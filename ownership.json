@@ -4992,10 +4992,11 @@
  },
  "e80-bench:t_a97268f5": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790295330.6019857,
+  "status": "failed",
+  "updated": 1790305331.656082,
   "ts": 1789479611.412962,
-  "repo": "balloon-e80bench"
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790305206"
  },
  "e80-bench:t_4a92e94c": {
   "node": "dq05",
@@ -7573,17 +7574,19 @@
  },
  "e80-bench:t_509f6406": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790295332.1149313,
+  "status": "running",
+  "updated": 1790305353.9172127,
   "ts": 1790295332.1149313,
-  "repo": "balloon-e80bench"
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790305353"
  },
  "e80-bench:t_92ed2d7f": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790295333.7753654,
+  "status": "running",
+  "updated": 1790305356.217179,
   "ts": 1790295333.7753654,
-  "repo": "balloon-e80bench"
+  "repo": "balloon-e80bench",
+  "run_id": "cobrador-1790305356"
  },
  "e80-bench:t_a984eb5e": {
   "node": "cobrador",
