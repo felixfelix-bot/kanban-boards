@@ -2594,7 +2594,7 @@
  {
   "id": "t_45fa47cc",
   "title": "Survey CONFIG_ENABLE_* declaration+guard convention with precedents",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789370273,
