@@ -1610,7 +1610,7 @@
  {
   "id": "t_6858f1f8",
   "title": "Extract verbatim D3-D5 definitions and lan_ip/guard context",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483359,
@@ -1682,7 +1682,7 @@
  {
   "id": "t_6fa8de93",
   "title": "Build questionable-row array, resolving report disagreements",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789483458,
