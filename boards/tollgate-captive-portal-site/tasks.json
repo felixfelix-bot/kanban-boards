@@ -122,7 +122,7 @@
  {
   "id": "t_aa7d5828",
   "title": "PORTAL: balance page leaks raw i18n keys, logo192.png 404s, GET /ln-invoice returns 400",
-  "status": "running",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-admin",
   "created_at": 1790351799,
