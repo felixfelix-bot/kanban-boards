@@ -86,7 +86,7 @@
  {
   "id": "t_5c9e9131",
   "title": "Review PR #62: fix(admin,rpcd,packaging): an empty root password is root administrati",
-  "status": "ready",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790231831,
