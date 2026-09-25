@@ -2282,7 +2282,7 @@
  {
   "id": "t_9f4eaa7a",
   "title": "Locate LR2021 command headers and index opcode/enum definitions",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376020,
@@ -2342,7 +2342,7 @@
  {
   "id": "t_9d30947b",
   "title": "Fetch and archive Semtech LR2021 product page (raw HTML)",
-  "status": "triage",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-base",
   "created_at": 1789376195,

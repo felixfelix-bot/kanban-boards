@@ -143,14 +143,6 @@
   "updated": 1789177686.1774468,
   "ts": 1789177686.1774468
  },
- "conwrt:t_0cffa049": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302987.4274244,
-  "ts": 1789183833.7460604,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302859"
- },
  "balloon:t_c59a478e": {
   "node": "dq05",
   "status": "claimed",
@@ -374,14 +366,6 @@
   "status": "claimed",
   "updated": 1789338493.6260135,
   "ts": 1789338493.6260135
- },
- "conwrt:t_ceb48a91": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303399.840686,
-  "ts": 1789339778.4621804,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790303272"
  },
  "balloon:t_e0d36614": {
   "node": "dq05",
@@ -1962,14 +1946,6 @@
   "updated": 1789360887.2294312,
   "ts": 1789360887.2294312
  },
- "balloon:t_62c396a3": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301588.3229954,
-  "ts": 1789361078.0581465,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301459"
- },
  "balloon:t_0d820e84": {
   "node": "dq05",
   "status": "claimed",
@@ -2419,14 +2395,6 @@
   "status": "claimed",
   "updated": 1789374179.1739225,
   "ts": 1789374179.1739225
- },
- "balloon:t_45fa47cc": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301876.630293,
-  "ts": 1789374179.1827292,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301746"
  },
  "balloon:t_846739cd": {
   "node": "dq05",
@@ -6747,14 +6715,6 @@
   "ts": 1789507339.0669556,
   "repo": "conwrt"
  },
- "conwrt:t_c5fdad8a": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303401.5634966,
-  "ts": 1789507340.5225492,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790303273"
- },
  "conwrt:t_fce35c42": {
   "node": "cobrador",
   "status": "claimed",
@@ -7495,14 +7455,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "conwrt:t_0549107f": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303126.056517,
-  "ts": 1790290164.739352,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302997"
- },
  "conwrt:t_9d08b6c0": {
   "node": "cobrador",
   "status": "failed",
@@ -7510,62 +7462,6 @@
   "ts": 1790290299.256041,
   "repo": "conwrt",
   "run_id": "cobrador-1790303826"
- },
- "balloon:t_6543830b": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301586.6708999,
-  "ts": 1790291726.1107054,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301457"
- },
- "balloon:t_62d1d3cf": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301727.0047035,
-  "ts": 1790291729.6558862,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301597"
- },
- "balloon:t_603efd64": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301730.0105698,
-  "ts": 1790291731.442144,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301598"
- },
- "balloon:t_58b8d370": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790301874.6300964,
-  "ts": 1790291733.2398546,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301743"
- },
- "balloon:t_560edf5c": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302015.084689,
-  "ts": 1790291737.053823,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301885"
- },
- "balloon:t_40f3c614": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302016.6593199,
-  "ts": 1790291738.741624,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790301887"
- },
- "conwrt:t_160279b6": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302849.7993474,
-  "ts": 1790291740.3270826,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302720"
  },
  "conwrt:t_67cb8640": {
   "node": "cobrador",
@@ -7639,126 +7535,6 @@
   "repo": "market",
   "run_id": "cobrador-1790306474"
  },
- "conwrt:t_61643b3e": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302152.2826781,
-  "ts": 1790302024.6970437,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302024"
- },
- "conwrt:t_6015d54d": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302153.729093,
-  "ts": 1790302026.1650858,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302026"
- },
- "conwrt:t_5a20067f": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302291.0565195,
-  "ts": 1790302162.5214853,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302162"
- },
- "conwrt:t_4bb18d78": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302292.7086854,
-  "ts": 1790302164.1371942,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302164"
- },
- "conwrt:t_4149002c": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302429.4372473,
-  "ts": 1790302301.145292,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302301"
- },
- "conwrt:t_3f50216e": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302431.1467888,
-  "ts": 1790302302.8789756,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302302"
- },
- "conwrt:t_39a9c08d": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302567.547924,
-  "ts": 1790302439.6056116,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302439"
- },
- "conwrt:t_2d78fd12": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302569.544054,
-  "ts": 1790302441.2103088,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302441"
- },
- "conwrt:t_26c57ef6": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302708.5920944,
-  "ts": 1790302579.8161187,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302579"
- },
- "conwrt:t_1e2e7d7d": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302710.0607371,
-  "ts": 1790302581.6076474,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302581"
- },
- "conwrt:t_14cf06ab": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302851.272554,
-  "ts": 1790302722.584808,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302722"
- },
- "conwrt:t_0bba6bf4": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790302989.0702958,
-  "ts": 1790302861.200021,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302861"
- },
- "conwrt:t_f34e1ecd": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303127.620105,
-  "ts": 1790302999.1244612,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790302999"
- },
- "conwrt:t_fc60d94e": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303263.0662298,
-  "ts": 1790303135.5661786,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790303135"
- },
- "conwrt:t_cfdaf6f5": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790303264.4753375,
-  "ts": 1790303137.0681508,
-  "repo": "conwrt",
-  "run_id": "cobrador-1790303137"
- },
  "conwrt:t_ce5bf819": {
   "node": "cobrador",
   "status": "failed",
@@ -7809,10 +7585,11 @@
  },
  "tollgate-captive-portal-site:t_f00e2f33": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790303693.1017404,
+  "status": "done",
+  "updated": 1790306870.8605416,
   "ts": 1790303693.1017404,
-  "repo": "tollgate-captive-portal-site"
+  "repo": "tollgate-captive-portal-site",
+  "run_id": "cobrador-1790306746"
  },
  "conwrt:t_897ef95c": {
   "node": "cobrador",
@@ -7960,16 +7737,16 @@
  },
  "tollgate:t_9f4eaa7a": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790306609.980365,
+  "status": "failed",
+  "updated": 1790306737.1168041,
   "ts": 1790306609.980365,
   "repo": "tollgate",
   "run_id": "cobrador-1790306609"
  },
  "tollgate:t_9d30947b": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790306611.436207,
+  "status": "failed",
+  "updated": 1790306738.579623,
   "ts": 1790306611.436207,
   "repo": "tollgate",
   "run_id": "cobrador-1790306611"
