@@ -74,7 +74,7 @@
  {
   "id": "t_9d08b6c0",
   "title": "Off-device audit: lan_ip derivation, guard check, defects D1-D5, run checklist",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789332951,
@@ -818,7 +818,7 @@
  {
   "id": "t_7bd17fa3",
   "title": "Assemble the defects-d1-d5-review.md verdict document",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789385589,
@@ -866,7 +866,7 @@
  {
   "id": "t_77f25b09",
   "title": "Review PR #55 (conwrt): VPN setup library proposal + PIA OpenVPN",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789393446,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_76f487d5",
   "title": "Reconcile D-ID sets and build questionable-row table from runbook",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789477825,
@@ -1838,7 +1838,7 @@
  {
   "id": "t_7595eeea",
   "title": "Inventory every normative claim in the conwrt PR #55 proposal doc",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789487516,
