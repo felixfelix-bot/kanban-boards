@@ -1478,7 +1478,7 @@
  {
   "id": "t_83f489ba",
   "title": "Write TOLLGATE_PROTO_CONTRACT.md from the three recon findings",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
