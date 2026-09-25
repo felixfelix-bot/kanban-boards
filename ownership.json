@@ -4606,14 +4606,6 @@
   "updated": 1789477463.5870442,
   "ts": 1789477463.5870442
  },
- "meshcore:t_0417926c": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790347401.6148295,
-  "ts": 1789477463.6143787,
-  "repo": "meshcore-fork-fix",
-  "run_id": "cobrador-1790347274"
- },
  "meshcore:t_a9be015c": {
   "node": "dq05",
   "status": "claimed",
