@@ -134,7 +134,7 @@
  {
   "id": "t_ceb48a91",
   "title": "Extract LAN-move + read-back blocks from wizard-bundle recipes",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789339296,
@@ -2018,7 +2018,7 @@
  {
   "id": "t_ce5bf819",
   "title": "Audit doc-prescribed workflows for insecure secret practices",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497165,
