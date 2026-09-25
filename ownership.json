@@ -1140,10 +1140,11 @@
  },
  "meshcore:t_7c2b677e": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790340472.950628,
+  "status": "failed",
+  "updated": 1790345878.9967325,
   "ts": 1789355050.2786982,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790345750"
  },
  "meshcore:t_cf3b6c77": {
   "node": "dq05",
@@ -1573,10 +1574,11 @@
  },
  "meshcore:t_6ece027b": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790340475.9074295,
+  "status": "running",
+  "updated": 1790345890.7716296,
   "ts": 1789357409.9823074,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790345890"
  },
  "meshcore:t_e3bb0dba": {
   "node": "dq05",
@@ -3052,10 +3054,11 @@
  },
  "meshcore:t_7e363e57": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790340471.4715455,
+  "status": "failed",
+  "updated": 1790345741.0230699,
   "ts": 1789398234.5193706,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790345614"
  },
  "meshcore:t_c5504dfa": {
   "node": "dq05",
@@ -3575,8 +3578,8 @@
  },
  "meshcore:t_1f938710": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790344094.8912253,
+  "status": "done",
+  "updated": 1790345877.4440598,
   "ts": 1789406542.8775353,
   "repo": "meshcore-fork-fix",
   "run_id": "cobrador-1790344094"
@@ -5416,8 +5419,8 @@
  },
  "meshcore:t_7ea22bcf": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790345480.0064683,
+  "status": "failed",
+  "updated": 1790345606.407548,
   "ts": 1789482824.9326732,
   "repo": "meshcore-fork-fix",
   "run_id": "cobrador-1790345480"
@@ -6028,10 +6031,11 @@
  },
  "meshcore:t_7c8cde00": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790340474.4029696,
+  "status": "running",
+  "updated": 1790345888.9789739,
   "ts": 1789494857.886348,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790345888"
  },
  "e80-bench:t_bf3e2f32": {
   "node": "dq05",
