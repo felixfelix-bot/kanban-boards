@@ -1034,7 +1034,7 @@
  {
   "id": "t_6015d54d",
   "title": "Reconcile D-ID set in Discrepancies section",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789471649,
@@ -1166,7 +1166,7 @@
  {
   "id": "t_61643b3e",
   "title": "Cold cross-family review of PR #55 head ec5c60d9",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789476693,
@@ -1526,7 +1526,7 @@
  {
   "id": "t_4bb18d78",
   "title": "Map proposal doc vs PIA OpenVPN module for kill-switch gaps",
-  "status": "todo",
+  "status": "blocked",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483283,
