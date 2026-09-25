@@ -7054,13 +7054,5 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "tollgate-captive-portal-site:t_aa7d5828": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790357995.8380544,
-  "ts": 1790355891.3343375,
-  "repo": "tollgate-captive-portal-site",
-  "run_id": "cobrador-1790357871"
  }
 }
