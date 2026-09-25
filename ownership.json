@@ -4934,14 +4934,6 @@
   "updated": 1789477465.1927078,
   "ts": 1789477465.1927078
  },
- "e80-bench:t_a97268f5": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790305331.656082,
-  "ts": 1789479611.412962,
-  "repo": "balloon-e80bench",
-  "run_id": "cobrador-1790305206"
- },
  "e80-bench:t_4a92e94c": {
   "node": "dq05",
   "status": "claimed",
