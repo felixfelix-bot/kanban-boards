@@ -698,7 +698,7 @@
  {
   "id": "t_41e1887a",
   "title": "AV-W2-PR28-A7a: provisional (6427) ids + NIP-09 deletions on mode switch",
-  "status": "done",
+  "status": "blocked",
   "priority": 2,
   "assignee": "worker-auditable-voting",
   "created_at": 1789941613,

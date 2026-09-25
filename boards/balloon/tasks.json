@@ -2342,7 +2342,7 @@
  {
   "id": "t_9f3eacbf",
   "title": "Adversarially verify cited evidence and the verdict",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789363198,
