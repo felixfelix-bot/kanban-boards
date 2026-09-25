@@ -1838,7 +1838,7 @@
  {
   "id": "t_e8282529",
   "title": "Synthesize tollgate_payment_proto.h API-shape markdown deliverable",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
