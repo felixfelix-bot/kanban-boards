@@ -1454,7 +1454,7 @@
  {
   "id": "t_e417a54d",
   "title": "Enumerate app_task.cpp tollgate symbol call sites and sdkconfig guards",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789337947,
