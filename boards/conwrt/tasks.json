@@ -1394,7 +1394,7 @@
  {
   "id": "t_14cf06ab",
   "title": "Sweep PR #55 diff for secret patterns and inventory secret touchpoints",
-  "status": "blocked",
+  "status": "ready",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789483216,
@@ -1898,12 +1898,12 @@
  {
   "id": "t_39a9c08d",
   "title": "Checkout PR #55 @ ec5c60d9 and export diff artifacts",
-  "status": "ready",
+  "status": "done",
   "priority": 3,
   "assignee": "manager",
   "created_at": 1789497129,
   "started_at": 1789795865,
-  "completed_at": null,
+  "completed_at": 1790310543,
   "branch_name": null,
   "workspace_kind": "scratch"
  },

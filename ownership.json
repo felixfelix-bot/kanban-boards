@@ -7390,29 +7390,5 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "tollgate-captive-portal-site:t_f00e2f33": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790306870.8605416,
-  "ts": 1790303693.1017404,
-  "repo": "tollgate-captive-portal-site",
-  "run_id": "cobrador-1790306746"
- },
- "tollgate:t_9f4eaa7a": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790306737.1168041,
-  "ts": 1790306609.980365,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790306609"
- },
- "tollgate:t_9d30947b": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790306738.579623,
-  "ts": 1790306611.436207,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790306611"
  }
 }
