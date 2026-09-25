@@ -398,7 +398,7 @@
  {
   "id": "t_dbe2cbe0",
   "title": "T4: Git commit all firmware + push to remote",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222944,
@@ -1802,7 +1802,7 @@
  {
   "id": "t_d6c1d43c",
   "title": "Write TOLLGATE_PROTO_CONTRACT.md from recon findings",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "esp32-balloon-integration-master",
   "created_at": 1789348587,
@@ -2870,7 +2870,7 @@
  {
   "id": "t_e13a9e97",
   "title": "Inventory all CONFIG_ENABLE_* symbols and their declaration sites",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789385488,
