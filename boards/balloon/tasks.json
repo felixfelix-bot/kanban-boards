@@ -2774,7 +2774,7 @@
  {
   "id": "t_b977384a",
   "title": "Inventory tollgate proto call sites and consumers (read-only)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384864,
