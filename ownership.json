@@ -7057,8 +7057,8 @@
  },
  "plebeian-my-prs:t_ed9ef8ec": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790396633.0983293,
+  "status": "failed",
+  "updated": 1790396757.509701,
   "ts": 1790377214.2537026,
   "repo": "market",
   "run_id": "cobrador-1790396633"
