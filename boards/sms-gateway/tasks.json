@@ -86,11 +86,11 @@
  {
   "id": "t_3910f6fc",
   "title": "JMP/Cheogram signup over XMPP (no web form exists): capture the bot flow + payment options verbatim",
-  "status": "ready",
+  "status": "running",
   "priority": 8,
   "assignee": "worker-base",
   "created_at": 1790451302,
-  "started_at": null,
+  "started_at": 1790451545,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
