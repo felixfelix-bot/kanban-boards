@@ -1478,7 +1478,7 @@
  {
   "id": "t_13e33dca",
   "title": "Verify and classify PR #1232 CI/E2E findings 4, 5, 7, 9",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789334929,
@@ -1958,7 +1958,7 @@
  {
   "id": "t_1e36fd1a",
   "title": "Verify Finding 4: .github/workflows/e2e.yml:148 'should be reverted'",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341664,

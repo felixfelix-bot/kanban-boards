@@ -455,8 +455,8 @@
  },
  "plebeian-my-prs:t_1e36fd1a": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790465771.0068667,
+  "status": "done",
+  "updated": 1790465902.7007911,
   "ts": 1789342088.2718966,
   "repo": "market",
   "run_id": "cobrador-1790465771"
@@ -491,10 +491,11 @@
  },
  "plebeian-my-prs:t_1c42dfe9": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790464346.6322327,
+  "status": "failed",
+  "updated": 1790465905.3077364,
   "ts": 1789342570.4311523,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790465773"
  },
  "balloon:t_fc0187b4": {
   "node": "dq05",
@@ -933,10 +934,11 @@
  },
  "plebeian-my-prs:t_0d996e80": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790464353.136618,
+  "status": "running",
+  "updated": 1790466054.899724,
   "ts": 1789351132.8012347,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790466054"
  },
  "plebeian-my-prs:t_3dd86d27": {
   "node": "cobrador",
@@ -1221,10 +1223,11 @@
  },
  "plebeian-my-prs:t_16a4561c": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790464348.2873206,
+  "status": "failed",
+  "updated": 1790466043.8654659,
   "ts": 1789355050.3177748,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790465915"
  },
  "balloon:t_55d4acb7": {
   "node": "dq05",
@@ -7176,10 +7179,11 @@
  },
  "plebeian-my-prs:t_13e33dca": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790464349.9701374,
+  "status": "failed",
+  "updated": 1790466045.3116372,
   "ts": 1790461907.814994,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790465917"
  },
  "plebeian-my-prs:t_0d114af5": {
   "node": "cobrador",
@@ -7453,10 +7457,11 @@
  },
  "plebeian-my-prs:t_12ecc88a": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790464351.5697412,
+  "status": "running",
+  "updated": 1790466053.363049,
   "ts": 1790464351.5697412,
-  "repo": "market"
+  "repo": "market",
+  "run_id": "cobrador-1790466053"
  },
  "plebeian-my-prs:t_08661b58": {
   "node": "cobrador",
