@@ -7057,16 +7057,16 @@
  },
  "tollgate-captive-portal-site:t_cb15b7ca": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790453417.3383806,
+  "status": "failed",
+  "updated": 1790453544.4082744,
   "ts": 1790438880.7920723,
   "repo": "tollgate-captive-portal-site",
   "run_id": "cobrador-1790453417"
  },
  "sms-gateway:t_3910f6fc": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790453418.8608956,
+  "status": "failed",
+  "updated": 1790453545.868846,
   "ts": 1790453289.126906,
   "repo": "sms-gateway",
   "run_id": "cobrador-1790453418"
