@@ -7057,9 +7057,10 @@
  },
  "tollgate-captive-portal-site:t_460ae060": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790458167.6516485,
+  "status": "failed",
+  "updated": 1790458421.128176,
   "ts": 1790458167.6516485,
-  "repo": "tollgate-captive-portal-site"
+  "repo": "tollgate-captive-portal-site",
+  "run_id": "cobrador-1790458296"
  }
 }
