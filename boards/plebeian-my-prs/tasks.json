@@ -890,7 +890,7 @@
  {
   "id": "t_12ecc88a",
   "title": "Cold review: PR #1292 draft comment",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789129342,
@@ -4886,7 +4886,7 @@
  {
   "id": "t_08661b58",
   "title": "Narrow the PLAIN pre-commit regex scan to added lines (last remaining --no-verify path for doc commits)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789836361,
