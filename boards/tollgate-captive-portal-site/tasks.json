@@ -130,5 +130,17 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_cb15b7ca",
+  "title": "Review PR #64: fix(packaging): derive the LuCI redirect from a covering certificate,",
+  "status": "scheduled",
+  "priority": 1,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1790426034,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
