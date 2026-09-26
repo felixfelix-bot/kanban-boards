@@ -7056,9 +7056,19 @@
   "repo": "auditable-voting"
  },
  "tollgate-captive-portal-site:t_cb15b7ca": {
-  "node": "dq05",
-  "status": "claimed",
-  "updated": 1790438880.7920723,
-  "ts": 1790438880.7920723
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790453417.3383806,
+  "ts": 1790438880.7920723,
+  "repo": "tollgate-captive-portal-site",
+  "run_id": "cobrador-1790453417"
+ },
+ "sms-gateway:t_3910f6fc": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790453418.8608956,
+  "ts": 1790453289.126906,
+  "repo": "sms-gateway",
+  "run_id": "cobrador-1790453418"
  }
 }
