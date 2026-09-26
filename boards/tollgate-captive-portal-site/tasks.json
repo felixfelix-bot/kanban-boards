@@ -146,7 +146,7 @@
  {
   "id": "t_460ae060",
   "title": "Review PR #64: fix(packaging): derive the LuCI redirect from a covering certificate,",
-  "status": "blocked",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790457426,
