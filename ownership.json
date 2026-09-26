@@ -7054,13 +7054,5 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "plebeian-my-prs:t_ed9ef8ec": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790396757.509701,
-  "ts": 1790377214.2537026,
-  "repo": "market",
-  "run_id": "cobrador-1790396633"
  }
 }
