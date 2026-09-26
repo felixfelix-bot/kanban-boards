@@ -58,5 +58,29 @@
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_cf012de7",
+  "title": "Rail #3: EmailGatewayTransport (carrier email-to-SMS) + provider capability flags + US/CA carrier table",
+  "status": "ready",
+  "priority": 7,
+  "assignee": "worker-base",
+  "created_at": 1790445613,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_1d4689b4",
+  "title": "Machankura/8333.mobi integration: LNURL-pay resolution + sat payment/refund adapter",
+  "status": "ready",
+  "priority": 6,
+  "assignee": "worker-base",
+  "created_at": 1790445613,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
