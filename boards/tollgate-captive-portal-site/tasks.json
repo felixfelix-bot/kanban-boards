@@ -134,7 +134,7 @@
  {
   "id": "t_cb15b7ca",
   "title": "Review PR #64: fix(packaging): derive the LuCI redirect from a covering certificate,",
-  "status": "scheduled",
+  "status": "ready",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790426034,
