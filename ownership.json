@@ -7054,5 +7054,11 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
+ },
+ "tollgate-captive-portal-site:t_cb15b7ca": {
+  "node": "dq05",
+  "status": "claimed",
+  "updated": 1790438880.7920723,
+  "ts": 1790438880.7920723
  }
 }
