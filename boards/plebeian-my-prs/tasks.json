@@ -1466,7 +1466,7 @@
  {
   "id": "t_21ab2862",
   "title": "Verify and classify PR #1232 findings 1-3 (server relay + OG cleanup)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789334929,
