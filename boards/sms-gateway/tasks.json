@@ -10,5 +10,53 @@
   "completed_at": 1787389716,
   "branch_name": null,
   "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_b99158c5",
+  "title": "Telnyx provisioning hardening: whitelisted destinations + order retry + --diagnose capability report",
+  "status": "scheduled",
+  "priority": 6,
+  "assignee": "worker-base",
+  "created_at": 1790419791,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_3ccdef32",
+  "title": "nosms M1a: NIP-98 auth, /api/health, prefix pricing, X-Reason/X-Hint error contract, llms.txt",
+  "status": "scheduled",
+  "priority": 5,
+  "assignee": "worker-base",
+  "created_at": 1790419792,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_561f1e9c",
+  "title": "nosms M1b: /api/send with Cashu escrow (testnut), Telnyx transport adapter, status + auto-refund",
+  "status": "scheduled",
+  "priority": 4,
+  "assignee": "worker-base",
+  "created_at": 1790419792,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_0e685239",
+  "title": "OPERATOR: Telnyx account tier/origin fix + one destination number (numbers API refuses to sell an SMS number)",
+  "status": "blocked",
+  "priority": 2,
+  "assignee": "manager",
+  "created_at": 1790419793,
+  "started_at": null,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
  }
 ]
