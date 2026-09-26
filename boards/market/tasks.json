@@ -1034,7 +1034,7 @@
  {
   "id": "t_c0932130",
   "title": "ADR-0008 C-1: src/AGENTS.md signer-seat clause + docs sync (PR body = manager+operator)",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-plebeian",
   "created_at": 1788612102,
