@@ -1478,11 +1478,11 @@
  {
   "id": "t_13e33dca",
   "title": "Verify and classify PR #1232 CI/E2E findings 4, 5, 7, 9",
-  "status": "blocked",
+  "status": "running",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789334929,
-  "started_at": null,
+  "started_at": 1790469156,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -2342,7 +2342,7 @@
  {
   "id": "t_40e4d624",
   "title": "Audit Playwright video/trace config and upload-artifact steps for success-path evidence",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789346420,
