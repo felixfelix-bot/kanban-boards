@@ -398,7 +398,7 @@
  {
   "id": "t_dbe2cbe0",
   "title": "T4: Git commit all firmware + push to remote",
-  "status": "ready",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222944,
