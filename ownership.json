@@ -6521,30 +6521,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "plebeian-my-prs:t_9c90c12c": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790475514.1276658,
-  "ts": 1790470585.3099487,
-  "repo": "market",
-  "run_id": "cobrador-1790475384"
- },
- "sms-gateway:t_cf012de7": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790475655.9926634,
-  "ts": 1790470586.837851,
-  "repo": "sms-gateway",
-  "run_id": "cobrador-1790475525"
- },
- "sms-gateway:t_1d4689b4": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790475658.2086535,
-  "ts": 1790470588.3438847,
-  "repo": "sms-gateway",
-  "run_id": "cobrador-1790475527"
- },
  "tollgate-captive-portal-site:t_ee74c62d": {
   "node": "cobrador",
   "status": "done",
@@ -6569,14 +6545,6 @@
   "repo": "tollgate-captive-portal-site",
   "run_id": "cobrador-1790475811"
  },
- "plebeian-my-prs:t_b04a11f7": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790475511.8068545,
-  "ts": 1790475382.61174,
-  "repo": "market",
-  "run_id": "cobrador-1790475382"
- },
  "tollgate-captive-portal-site:t_133899aa": {
   "node": "cobrador",
   "status": "failed",
@@ -6595,9 +6563,10 @@
  },
  "tollgate-captive-portal-site:t_84132aa4": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790479075.6295702,
+  "status": "done",
+  "updated": 1790479328.3596654,
   "ts": 1790479075.6295702,
-  "repo": "tollgate-captive-portal-site"
+  "repo": "tollgate-captive-portal-site",
+  "run_id": "cobrador-1790479203"
  }
 }

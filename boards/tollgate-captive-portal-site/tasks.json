@@ -218,7 +218,7 @@
  {
   "id": "t_84132aa4",
   "title": "Review PR #65: fix(packaging): the board's :8443 carries the module's provisioned ide",
-  "status": "running",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790478981,
