@@ -158,11 +158,23 @@
  {
   "id": "t_57468695",
   "title": "Review PR #65: fix(packaging): the board's :8443 carries the module's provisioned ide",
-  "status": "running",
+  "status": "archived",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790474735,
   "started_at": 1790474840,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_133899aa",
+  "title": "Review PR #65: fix(packaging): the board's :8443 carries the module's provisioned ide",
+  "status": "blocked",
+  "priority": 1,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1790475529,
+  "started_at": 1790475688,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
