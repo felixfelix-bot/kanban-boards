@@ -403,14 +403,6 @@
   "updated": 1789340508.0235593,
   "ts": 1789340508.0235593
  },
- "plebeian-my-prs:t_cd2385ac": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790474957.0335937,
-  "ts": 1789342088.2792296,
-  "repo": "market",
-  "run_id": "cobrador-1790474830"
- },
  "balloon:t_fc0187b4": {
   "node": "dq05",
   "status": "claimed",
