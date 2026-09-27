@@ -410,7 +410,7 @@
  {
   "id": "t_f29ece94",
   "title": "HARM-T9: Results package + adoption docs",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-admin",
   "created_at": 1787316346,
