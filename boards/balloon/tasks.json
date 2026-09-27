@@ -338,7 +338,7 @@
  {
   "id": "t_f55c4dd2",
   "title": "ESP32-SPEED-3: Document speed test results + commit + push",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785189514,
@@ -842,7 +842,7 @@
  {
   "id": "t_2b6c9b7b",
   "title": "PCB-V2 Phase 7: SPI timing characterization on S3 board (during JLCPCB wait)",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": "worker-balloon",
   "created_at": 1785923982,
