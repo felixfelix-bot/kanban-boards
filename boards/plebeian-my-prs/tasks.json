@@ -1982,7 +1982,7 @@
  {
   "id": "t_5373c212",
   "title": "Verify Finding 7: PR gate coverage and required video/trace artifacts",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341664,
@@ -2090,7 +2090,7 @@
  {
   "id": "t_4d776983",
   "title": "Assemble the PR #1232 evidence dossier (markdown)",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789341817,
