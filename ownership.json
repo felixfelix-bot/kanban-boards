@@ -7651,8 +7651,8 @@
  },
  "plebeian-my-prs:t_e3d43974": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790475674.3565333,
+  "status": "failed",
+  "updated": 1790475802.399926,
   "ts": 1790470591.6643677,
   "repo": "market",
   "run_id": "cobrador-1790475674"
@@ -7707,10 +7707,11 @@
  },
  "tollgate-captive-portal-site:t_57468695": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790474968.1517088,
+  "status": "failed",
+  "updated": 1790475939.6429636,
   "ts": 1790474968.1517088,
-  "repo": "tollgate-captive-portal-site"
+  "repo": "tollgate-captive-portal-site",
+  "run_id": "cobrador-1790475811"
  },
  "plebeian-my-prs:t_cc459314": {
   "node": "cobrador",
