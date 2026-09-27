@@ -62,7 +62,7 @@
  {
   "id": "t_09240250",
   "title": "Post PR #2739 in MeshCore Discord #general with 2-device test evidence",
-  "status": "blocked",
+  "status": "done",
   "priority": 2,
   "assignee": null,
   "created_at": 1783245024,
@@ -386,7 +386,7 @@
  {
   "id": "t_ccc7cafd",
   "title": "T3: Run TX+RX speed test, report throughput results",
-  "status": "ready",
+  "status": "archived",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222935,
@@ -398,7 +398,7 @@
  {
   "id": "t_dbe2cbe0",
   "title": "T4: Git commit all firmware + push to remote",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222944,
