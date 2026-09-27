@@ -1706,7 +1706,7 @@
  {
   "id": "t_31772cd3",
   "title": "Review PR #1252 diff and draft findings (applesauce-signers)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335892,
@@ -2714,7 +2714,7 @@
  {
   "id": "t_3f91385f",
   "title": "Review lazy-start preview spin-up failure/timeout paths at PR #1271 head (report-only)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351447,
