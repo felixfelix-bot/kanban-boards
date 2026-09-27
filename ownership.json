@@ -6523,18 +6523,34 @@
  },
  "auditable-voting:t_b8412545": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790513880.584263,
+  "status": "done",
+  "updated": 1790514011.1676698,
   "ts": 1790513880.584263,
   "repo": "auditable-voting",
   "run_id": "cobrador-1790513880"
  },
  "auditable-voting:t_5165ec25": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790513882.774601,
+  "status": "failed",
+  "updated": 1790514014.8559349,
   "ts": 1790513882.774601,
   "repo": "auditable-voting",
   "run_id": "cobrador-1790513882"
+ },
+ "auditable-voting:t_41e1887a": {
+  "node": "cobrador",
+  "status": "done",
+  "updated": 1790514175.6746545,
+  "ts": 1790514032.7930725,
+  "repo": "auditable-voting",
+  "run_id": "cobrador-1790514032"
+ },
+ "auditable-voting:t_210d21b6": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1790514178.4588947,
+  "ts": 1790514035.826731,
+  "repo": "auditable-voting",
+  "run_id": "cobrador-1790514035"
  }
 }
