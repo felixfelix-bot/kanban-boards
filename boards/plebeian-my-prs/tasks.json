@@ -1478,12 +1478,12 @@
  {
   "id": "t_13e33dca",
   "title": "Verify and classify PR #1232 CI/E2E findings 4, 5, 7, 9",
-  "status": "running",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789334929,
   "started_at": 1790469156,
-  "completed_at": null,
+  "completed_at": 1790469883,
   "branch_name": null,
   "workspace_kind": "scratch"
  },
@@ -1874,7 +1874,7 @@
  {
   "id": "t_9ded96bd",
   "title": "Review signer seam (ADR-0008) in PR #1283 diff",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341600,
@@ -1934,7 +1934,7 @@
  {
   "id": "t_a13a2bc8",
   "title": "Verify PR #1232 finding 3: ogMeta relay lookup concurrency cap",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341628,
