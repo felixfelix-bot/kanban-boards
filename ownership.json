@@ -652,15 +652,16 @@
  },
  "balloon:t_96ea4fcf": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790526492.4705815,
+  "status": "failed",
+  "updated": 1790527692.5972311,
   "ts": 1789349419.3459089,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790527563"
  },
  "balloon:t_982aa0e1": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790527418.0617104,
+  "status": "failed",
+  "updated": 1790527548.2242627,
   "ts": 1789349419.348542,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790527418"
@@ -916,10 +917,11 @@
  },
  "balloon:t_55d4acb7": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790526494.042636,
+  "status": "running",
+  "updated": 1790527712.3508537,
   "ts": 1789355050.339763,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790527712"
  },
  "balloon:t_c07dd247": {
   "node": "dq05",
