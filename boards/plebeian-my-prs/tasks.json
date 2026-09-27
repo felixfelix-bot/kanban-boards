@@ -962,7 +962,7 @@
  {
   "id": "t_db00493d",
   "title": "Cross-family review of draft comment for PR #1300 (ngit CI)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789140540,
@@ -4658,7 +4658,7 @@
  {
   "id": "t_e720c97c",
   "title": "Review PR #1332: docs(adr): Wave 1 addendum \u2014 descriptive half (split of #1322; no new decision)",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-reviewer-kimi",
   "created_at": 1789572421,
