@@ -6677,8 +6677,8 @@
  },
  "balloon:t_e8282529": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790523822.271738,
+  "status": "done",
+  "updated": 1790523957.3510194,
   "ts": 1790523822.271738,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790523822"
@@ -6690,5 +6690,13 @@
   "ts": 1790523824.584775,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790523824"
+ },
+ "balloon:t_77f5b39d": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790523983.796885,
+  "ts": 1790523983.796885,
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790523983"
  }
 }
