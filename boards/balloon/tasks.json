@@ -1838,7 +1838,7 @@
  {
   "id": "t_e8282529",
   "title": "Synthesize tollgate_payment_proto.h API-shape markdown deliverable",
-  "status": "blocked",
+  "status": "triage",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789352009,
@@ -2282,7 +2282,7 @@
  {
   "id": "t_fc39c9bb",
   "title": "Re-verify Report B CONFIG_ENABLE_TOLLGATE sdkconfig claims against live tree",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789360966,
