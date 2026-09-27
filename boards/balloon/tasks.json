@@ -2282,7 +2282,7 @@
  {
   "id": "t_fc39c9bb",
   "title": "Re-verify Report B CONFIG_ENABLE_TOLLGATE sdkconfig claims against live tree",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789360966,
