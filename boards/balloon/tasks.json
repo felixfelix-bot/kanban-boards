@@ -3230,7 +3230,7 @@
  {
   "id": "t_38258f50",
   "title": "Extract verbatim git commands and staleness claims from reconciliation verdict",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789396379,
