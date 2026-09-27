@@ -1142,7 +1142,7 @@
  {
   "id": "t_a9d42685",
   "title": "Review PR #1306: fix(preview): a run-body comment must not spell a workflow expression",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789177548,
@@ -1310,7 +1310,7 @@
  {
   "id": "t_b101bd85",
   "title": "Review PR #1252: Signer migration to applesauce-signers (ADR-0002 amendment, Waves A3/A3b)",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789315158,
