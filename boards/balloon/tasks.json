@@ -1922,7 +1922,7 @@
  {
   "id": "t_0c4ab650",
   "title": "Scan balloon-fresh and tollgate repos for existing PAY/ACK protocol docs",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789353577,
