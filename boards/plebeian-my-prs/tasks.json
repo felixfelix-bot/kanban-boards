@@ -2126,7 +2126,7 @@
  {
   "id": "t_a72ce5c3",
   "title": "Audit diff for ADR-0002 migration gaps and parity drift",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789343033,
