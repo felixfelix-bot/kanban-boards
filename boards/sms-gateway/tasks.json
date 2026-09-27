@@ -62,7 +62,7 @@
  {
   "id": "t_cf012de7",
   "title": "Rail #3: EmailGatewayTransport (carrier email-to-SMS) + provider capability flags + US/CA carrier table",
-  "status": "running",
+  "status": "blocked",
   "priority": 8,
   "assignee": "worker-base",
   "created_at": 1790445613,
