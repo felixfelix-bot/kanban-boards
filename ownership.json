@@ -6693,8 +6693,8 @@
  },
  "balloon:t_77f5b39d": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790523983.796885,
+  "status": "done",
+  "updated": 1790525859.8837397,
   "ts": 1790523983.796885,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790523983"
@@ -6706,5 +6706,13 @@
   "ts": 1790524846.3002124,
   "repo": "market",
   "run_id": "cobrador-1790524846"
+ },
+ "plebeian-my-prs:t_6aba8fac": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790525891.2129698,
+  "ts": 1790525891.2129698,
+  "repo": "market",
+  "run_id": "cobrador-1790525891"
  }
 }
