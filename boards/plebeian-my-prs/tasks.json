@@ -3206,7 +3206,7 @@
  {
   "id": "t_666dccb5",
   "title": "Verify PR #1306 draft findings against code at head SHA",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789363667,
