@@ -6521,14 +6521,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "tollgate-captive-portal-site:t_ee74c62d": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790477133.3845568,
-  "ts": 1790470590.024712,
-  "repo": "tollgate-captive-portal-site",
-  "run_id": "cobrador-1790475671"
- },
  "tollgate-captive-portal-site:t_ec30bc33": {
   "node": "cobrador",
   "status": "done",
