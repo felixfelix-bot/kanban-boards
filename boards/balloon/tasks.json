@@ -806,7 +806,7 @@
  {
   "id": "t_04b2ba3a",
   "title": "PCB-V2 Phase 4B: Independent DRC verification \u2014 both boards",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-inspector",
   "created_at": 1785923968,
