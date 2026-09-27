@@ -350,7 +350,7 @@
  {
   "id": "t_72e8edec",
   "title": "ESP32-SPEED-4: Iterate if ESP32 throughput below RP2040 baseline (conditional)",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785189530,
