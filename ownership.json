@@ -6521,22 +6521,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "auditable-voting:t_b8412545": {
-  "node": "cobrador",
-  "status": "done",
-  "updated": 1790514011.1676698,
-  "ts": 1790513880.584263,
-  "repo": "auditable-voting",
-  "run_id": "cobrador-1790513880"
- },
- "auditable-voting:t_5165ec25": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790514014.8559349,
-  "ts": 1790513882.774601,
-  "repo": "auditable-voting",
-  "run_id": "cobrador-1790513882"
- },
  "auditable-voting:t_41e1887a": {
   "node": "cobrador",
   "status": "done",
