@@ -86,7 +86,7 @@
  {
   "id": "t_5c9e9131",
   "title": "Review PR #62: fix(admin,rpcd,packaging): an empty root password is root administrati",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790231831,
@@ -194,11 +194,23 @@
  {
   "id": "t_ec30bc33",
   "title": "Review PR #66: feat(admin): the private network's credentials and the administration",
-  "status": "done",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790476412,
   "started_at": 1790477569,
+  "completed_at": null,
+  "branch_name": null,
+  "workspace_kind": "scratch"
+ },
+ {
+  "id": "t_8a75f8a2",
+  "title": "Review PR #65: fix(packaging): the board's :8443 carries the module's provisioned ide",
+  "status": "ready",
+  "priority": 1,
+  "assignee": "worker-reviewer-glm",
+  "created_at": 1790478180,
+  "started_at": null,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
