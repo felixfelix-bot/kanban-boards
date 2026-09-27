@@ -1082,7 +1082,7 @@
  {
   "id": "t_fadb5457",
   "title": "C3-P5: DRC clean \u2014 0 violations 0 unconnected",
-  "status": "blocked",
+  "status": "done",
   "priority": 1,
   "assignee": "worker-layout",
   "created_at": 1785944165,

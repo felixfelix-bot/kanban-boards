@@ -6620,18 +6620,19 @@
  },
  "balloon:t_fadb5457": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790521141.1529148,
+  "status": "done",
+  "updated": 1790521279.8790317,
   "ts": 1790519108.0760784,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790521141"
  },
  "balloon:t_e862c509": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790519110.0043337,
+  "status": "running",
+  "updated": 1790521475.1586068,
   "ts": 1790519110.0043337,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790521475"
  },
  "balloon:t_2c32bf1e": {
   "node": "cobrador",
