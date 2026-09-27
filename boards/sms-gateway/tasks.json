@@ -14,7 +14,7 @@
  {
   "id": "t_b99158c5",
   "title": "Telnyx provisioning hardening: whitelisted destinations + order retry + --diagnose capability report",
-  "status": "ready",
+  "status": "blocked",
   "priority": 6,
   "assignee": "worker-base",
   "created_at": 1790419791,
@@ -26,7 +26,7 @@
  {
   "id": "t_3ccdef32",
   "title": "nosms M1a: NIP-98 auth, /api/health, prefix pricing, X-Reason/X-Hint error contract, llms.txt",
-  "status": "ready",
+  "status": "blocked",
   "priority": 5,
   "assignee": "worker-base",
   "created_at": 1790419792,
