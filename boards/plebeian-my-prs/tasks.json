@@ -2702,7 +2702,7 @@
  {
   "id": "t_f9ab1afc",
   "title": "Audit PR #1271 subdomain DNS/TLS/proxy dispatch for new defects",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789351447,
