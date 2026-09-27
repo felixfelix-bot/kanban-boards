@@ -2726,7 +2726,7 @@
  {
   "id": "t_0e70f526",
   "title": "Re-run the git commands the verdict relies on",
-  "status": "todo",
+  "status": "done",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789384505,
