@@ -2318,7 +2318,7 @@
  {
   "id": "t_b7393733",
   "title": "Render Finding 4 verdict for e2e.yml:148 and draft rebuttal comment body",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789346174,
@@ -2438,7 +2438,7 @@
  {
   "id": "t_fc7f7463",
   "title": "Diff PR #1232 body against reality and draft corrected wording",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-pr-reviewer",
   "created_at": 1789348503,
@@ -2474,7 +2474,7 @@
  {
   "id": "t_fe35286d",
   "title": "Resolve PR #1232 head and record fixing-commit SHAs for 5 target paths",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348528,
