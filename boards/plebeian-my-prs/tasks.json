@@ -1574,7 +1574,7 @@
  {
   "id": "t_71f487f7",
   "title": "Cross-family cold review of the PR #1306 draft comment",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335202,
@@ -2486,7 +2486,7 @@
  {
   "id": "t_716b96ab",
   "title": "Grep PR #1232 head tree for proving test names per target",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789348528,
