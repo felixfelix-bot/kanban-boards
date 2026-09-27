@@ -1718,7 +1718,7 @@
  {
   "id": "t_8ae236ad",
   "title": "Gate 2.5: cross-family cold review of PR #1252 draft",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-reviewer-glm",
   "created_at": 1789335892,
@@ -3242,7 +3242,7 @@
  {
   "id": "t_875109a6",
   "title": "Inventory .github/workflows at pinned market ref 2c8b3981",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789363786,
