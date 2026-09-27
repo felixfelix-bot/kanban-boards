@@ -1286,7 +1286,7 @@
  {
   "id": "t_2a457c51",
   "title": "Bench validation: freezer ramp RX decode test (E80 TX vs cold mapper)",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1788528861,
