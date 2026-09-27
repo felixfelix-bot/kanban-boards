@@ -3456,8 +3456,8 @@
  },
  "balloon:t_e04c5f76": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790552369.6845381,
+  "status": "failed",
+  "updated": 1790552499.8608303,
   "ts": 1789468388.4752452,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790552369"
@@ -3478,10 +3478,11 @@
  },
  "balloon:t_7a18687c": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790544646.0085702,
+  "status": "failed",
+  "updated": 1790552645.5849438,
   "ts": 1789468388.5102239,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790552513"
  },
  "balloon:t_66606072": {
   "node": "cobrador",
@@ -3500,22 +3501,24 @@
  },
  "balloon:t_1325d61b": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790544650.7044213,
+  "status": "running",
+  "updated": 1790552671.1432729,
   "ts": 1789468709.960279,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790552671"
  },
  "balloon:t_fd17bd1c": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790544649.1382318,
+  "status": "running",
+  "updated": 1790552668.3285358,
   "ts": 1789468709.9751303,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790552668"
  },
  "balloon:t_7cc3931a": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790552371.6435494,
+  "status": "failed",
+  "updated": 1790552501.9039686,
   "ts": 1789468709.990235,
   "repo": "balloon-fresh",
   "run_id": "cobrador-1790552371"
@@ -5351,10 +5354,11 @@
  },
  "balloon:t_158db7db": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790544647.578812,
+  "status": "failed",
+  "updated": 1790552648.75855,
   "ts": 1789504679.0693376,
-  "repo": "balloon-fresh"
+  "repo": "balloon-fresh",
+  "run_id": "cobrador-1790552515"
  },
  "balloon:t_9667157d": {
   "node": "dq05",
