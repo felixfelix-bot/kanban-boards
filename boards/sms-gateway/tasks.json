@@ -75,7 +75,7 @@
   "id": "t_1d4689b4",
   "title": "Machankura/8333.mobi integration: LNURL-pay resolution + sat payment/refund adapter",
   "status": "scheduled",
-  "priority": 6,
+  "priority": 8,
   "assignee": "worker-base",
   "created_at": 1790445613,
   "started_at": null,
