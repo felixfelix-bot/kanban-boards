@@ -386,7 +386,7 @@
  {
   "id": "t_ccc7cafd",
   "title": "T3: Run TX+RX speed test, report throughput results",
-  "status": "blocked",
+  "status": "ready",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222935,
@@ -1262,7 +1262,7 @@
  {
   "id": "t_15f333c7",
   "title": "Freezer tempco calibration: 4x LR2021 modules vs E80 TCXO reference",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1788519709,
