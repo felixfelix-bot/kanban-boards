@@ -1490,7 +1490,7 @@
  {
   "id": "t_9737ef5b",
   "title": "Verify PR #1232 findings 6 and 8 (nostr boundary gate, PR description)",
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789334929,
@@ -1514,7 +1514,7 @@
  {
   "id": "t_99000fdc",
   "title": "Collect PR #1232 reply evidence: comment IDs, SHAs, test names",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789335146,
@@ -3134,7 +3134,7 @@
  {
   "id": "t_9677a57e",
   "title": "Extract proving test names from PR #1232 head tree",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789357713,
