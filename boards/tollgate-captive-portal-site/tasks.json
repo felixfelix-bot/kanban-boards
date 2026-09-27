@@ -182,11 +182,11 @@
  {
   "id": "t_ed6c44e9",
   "title": "Review PR #65: fix(packaging): the board's :8443 carries the module's provisioned ide",
-  "status": "scheduled",
+  "status": "blocked",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790476411,
-  "started_at": null,
+  "started_at": 1790477310,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
@@ -194,11 +194,11 @@
  {
   "id": "t_ec30bc33",
   "title": "Review PR #66: feat(admin): the private network's credentials and the administration",
-  "status": "scheduled",
+  "status": "running",
   "priority": 1,
   "assignee": "worker-reviewer-glm",
   "created_at": 1790476412,
-  "started_at": null,
+  "started_at": 1790477569,
   "completed_at": null,
   "branch_name": null,
   "workspace_kind": "scratch"
