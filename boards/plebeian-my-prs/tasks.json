@@ -4226,7 +4226,7 @@
  {
   "id": "t_ad308dc4",
   "title": "Verify PR #1232 head SHA and capture snapshot",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
