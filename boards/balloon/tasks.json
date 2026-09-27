@@ -374,7 +374,7 @@
  {
   "id": "t_2700e49c",
   "title": "T2: Build+flash RX firmware, verify console output on ttyACM1",
-  "status": "blocked",
+  "status": "done",
   "priority": 0,
   "assignee": "worker-balloon",
   "created_at": 1785222926,
