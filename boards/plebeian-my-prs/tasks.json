@@ -2126,7 +2126,7 @@
  {
   "id": "t_a72ce5c3",
   "title": "Audit diff for ADR-0002 migration gaps and parity drift",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789343033,
@@ -4226,7 +4226,7 @@
  {
   "id": "t_ad308dc4",
   "title": "Verify PR #1232 head SHA and capture snapshot",
-  "status": "done",
+  "status": "blocked",
   "priority": 0,
   "assignee": "market-master",
   "created_at": 1789397996,
