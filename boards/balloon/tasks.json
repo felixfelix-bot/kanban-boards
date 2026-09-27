@@ -2138,7 +2138,7 @@
  {
   "id": "t_f63a77fa",
   "title": "Deep-read and classify surfaced PAY/ACK candidates",
-  "status": "todo",
+  "status": "blocked",
   "priority": 1,
   "assignee": "manager",
   "created_at": 1789358797,
