@@ -1886,7 +1886,7 @@
  {
   "id": "t_b2a13038",
   "title": "Review publish lanes + retry/dup paths (ADR-0002) in PR #1283",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789341600,
