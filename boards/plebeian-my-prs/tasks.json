@@ -2270,7 +2270,7 @@
  {
   "id": "t_bb0db053",
   "title": "Trace ogMeta cache keys/TTL and saturation fallback behavior",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789346152,
@@ -3278,7 +3278,7 @@
  {
   "id": "t_ba830e4a",
   "title": "Fetch PR #1232 head and map the market test infrastructure",
-  "status": "todo",
+  "status": "blocked",
   "priority": 0,
   "assignee": "manager",
   "created_at": 1789363857,
