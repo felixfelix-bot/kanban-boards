@@ -5885,22 +5885,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "plebeian-my-prs:t_8cdacba8": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790573869.3855543,
-  "ts": 1790568978.5110028,
-  "repo": "market",
-  "run_id": "cobrador-1790573741"
- },
- "plebeian-my-prs:t_169aee82": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790573870.8180754,
-  "ts": 1790568980.4085388,
-  "repo": "market",
-  "run_id": "cobrador-1790573743"
- },
  "plebeian-my-prs:t_310d5e38": {
   "node": "cobrador",
   "status": "failed",
