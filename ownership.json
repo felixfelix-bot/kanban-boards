@@ -7327,8 +7327,8 @@
  },
  "tollgate-captive-portal-site:t_8cd64023": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790576642.1765106,
+  "status": "failed",
+  "updated": 1790576769.811295,
   "ts": 1790571928.6869183,
   "repo": "tollgate-captive-portal-site",
   "run_id": "cobrador-1790576642"
@@ -7343,39 +7343,43 @@
  },
  "tollgate:t_27885038": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790576643.6717381,
+  "status": "failed",
+  "updated": 1790576771.206497,
   "ts": 1790572906.9126494,
   "repo": "tollgate",
   "run_id": "cobrador-1790576643"
  },
  "tollgate:t_c4cda3bd": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790572908.3643909,
+  "status": "failed",
+  "updated": 1790576906.4687457,
   "ts": 1790572908.3643909,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1790576779"
  },
  "tollgate:t_1309fd38": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790572909.8457203,
+  "status": "failed",
+  "updated": 1790576908.4114714,
   "ts": 1790572909.8457203,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1790576780"
  },
  "tollgate:t_46ffbbd8": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790572911.2654843,
+  "status": "failed",
+  "updated": 1790577048.7750957,
   "ts": 1790572911.2654843,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1790576918"
  },
  "tollgate:t_eb50ab25": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790572912.752982,
+  "status": "failed",
+  "updated": 1790577050.3016183,
   "ts": 1790572912.752982,
-  "repo": "tollgate"
+  "repo": "tollgate",
+  "run_id": "cobrador-1790576920"
  },
  "tollgate:t_01a4b64d": {
   "node": "cobrador",
