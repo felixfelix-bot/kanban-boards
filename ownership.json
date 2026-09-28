@@ -6141,8 +6141,8 @@
  },
  "plebeian-my-prs:t_9cfaa948": {
   "node": "cobrador",
-  "status": "running",
-  "updated": 1790558609.3438303,
+  "status": "done",
+  "updated": 1790558743.526702,
   "ts": 1790558609.3438303,
   "repo": "market",
   "run_id": "cobrador-1790558609"
@@ -6154,5 +6154,13 @@
   "ts": 1790558611.8702507,
   "repo": "market",
   "run_id": "cobrador-1790558611"
+ },
+ "plebeian-my-prs:t_9c4bd99c": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790558757.589328,
+  "ts": 1790558757.589328,
+  "repo": "market",
+  "run_id": "cobrador-1790558757"
  }
 }
