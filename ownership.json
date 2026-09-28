@@ -5885,38 +5885,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "tollgate:t_46ffbbd8": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577048.7750957,
-  "ts": 1790572911.2654843,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790576918"
- },
- "tollgate:t_eb50ab25": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577050.3016183,
-  "ts": 1790572912.752982,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790576920"
- },
- "tollgate:t_01a4b64d": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577188.752252,
-  "ts": 1790572914.1996737,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790577060"
- },
- "tollgate:t_f17a4c86": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577190.141619,
-  "ts": 1790572915.6081645,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790577062"
- },
  "tollgate:t_6cc9752f": {
   "node": "cobrador",
   "status": "failed",
