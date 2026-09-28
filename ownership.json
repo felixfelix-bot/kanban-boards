@@ -4110,14 +4110,6 @@
   "updated": 1789488184.899798,
   "ts": 1789488184.899798
  },
- "balloon:t_de7a3f5d": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790554228.5866067,
-  "ts": 1789488184.913037,
-  "repo": "balloon-fresh",
-  "run_id": "cobrador-1790554094"
- },
  "balloon:t_2ff3e994": {
   "node": "cobrador",
   "status": "done",
