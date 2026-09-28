@@ -6655,10 +6655,11 @@
  },
  "meshcore:t_d66b575b": {
   "node": "cobrador",
-  "status": "claimed",
-  "updated": 1790562123.4049802,
+  "status": "failed",
+  "updated": 1790569384.2913303,
   "ts": 1790562123.4049802,
-  "repo": "meshcore-fork-fix"
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790569255"
  },
  "meshcore:t_f88396e2": {
   "node": "cobrador",
@@ -7124,5 +7125,21 @@
   "updated": 1790568980.4085388,
   "ts": 1790568980.4085388,
   "repo": "market"
+ },
+ "meshcore:t_dcabf917": {
+  "node": "cobrador",
+  "status": "failed",
+  "updated": 1790569521.802778,
+  "ts": 1790569394.3405442,
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790569394"
+ },
+ "meshcore:t_e72081da": {
+  "node": "cobrador",
+  "status": "running",
+  "updated": 1790569532.9273176,
+  "ts": 1790569532.9273176,
+  "repo": "meshcore-fork-fix",
+  "run_id": "cobrador-1790569532"
  }
 }
