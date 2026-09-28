@@ -5885,22 +5885,6 @@
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
  },
- "plebeian-my-prs:t_84050f47": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790575394.4521804,
-  "ts": 1790570515.9729307,
-  "repo": "market",
-  "run_id": "cobrador-1790575266"
- },
- "plebeian-my-prs:t_a348f4c1": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790575395.8702645,
-  "ts": 1790570517.393967,
-  "repo": "market",
-  "run_id": "cobrador-1790575267"
- },
  "plebeian-my-prs:t_0cf3bc2b": {
   "node": "cobrador",
   "status": "failed",
@@ -6044,22 +6028,6 @@
   "ts": 1790572918.6434264,
   "repo": "tollgate",
   "run_id": "cobrador-1790577199"
- },
- "auditable-voting:t_7f9d190c": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790575254.843956,
-  "ts": 1790575127.5015416,
-  "repo": "auditable-voting",
-  "run_id": "cobrador-1790575127"
- },
- "auditable-voting:t_269ee865": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790575256.5977151,
-  "ts": 1790575128.9516675,
-  "repo": "auditable-voting",
-  "run_id": "cobrador-1790575128"
  },
  "plebeian-my-prs:t_44279c11": {
   "node": "cobrador",
