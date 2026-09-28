@@ -5884,21 +5884,5 @@
   "updated": 1789626137.765585,
   "ts": 1789625894.006198,
   "repo": "auditable-voting"
- },
- "tollgate:t_6cc9752f": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577325.8212545,
-  "ts": 1790572917.0727732,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790577197"
- },
- "tollgate:t_ee5b7b14": {
-  "node": "cobrador",
-  "status": "failed",
-  "updated": 1790577327.516091,
-  "ts": 1790572918.6434264,
-  "repo": "tollgate",
-  "run_id": "cobrador-1790577199"
  }
 }
