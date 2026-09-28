@@ -4994,7 +4994,7 @@
  {
   "id": "t_9a72daaa",
   "title": "PR-sweep follow-ups: finish #1337 (coco ops migration + e2e), #1380 body rows + optional refactor, verify #1331 body",
-  "status": "ready",
+  "status": "blocked",
   "priority": 0,
   "assignee": "worker-plebeian",
   "created_at": 1790546577,
